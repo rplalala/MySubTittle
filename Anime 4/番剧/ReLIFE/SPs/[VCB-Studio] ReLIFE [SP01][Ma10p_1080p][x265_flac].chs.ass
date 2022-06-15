@@ -1,0 +1,63 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0000,0000,0000,,本字幕手抄自橙白字幕组，请勿用于商业用途
+Dialogue: 0,0:00:09.75,0:00:13.85,Default,,0000,0000,0000,,我们现在开始研究 观察被观察者的新方法
+Dialogue: 0,0:00:14.15,0:00:16.05,Default,,0000,0000,0000,,让我们来偷窥一下禁忌的单身男子的日常生活吧
+Dialogue: 0,0:00:16.45,0:00:19.15,Default,,0000,0000,0000,,偷窥一下男高中生的日常(*^▽^*)
+Dialogue: 0,0:00:19.45,0:00:21.25,Default,,0000,0000,0000,,你还真打算干呀…
+Dialogue: 0,0:00:21.25,0:00:25.95,Default,,0000,0000,0000,,我虽然没有说明 但是合同上有写得清清楚楚啊～
+Dialogue: 0,0:00:26.58,0:00:29.32,Default,,0000,0000,0000,,海崎没仔细看合同啊…
+Dialogue: 0,0:00:29.62,0:00:32.42,Default,,0000,0000,0000,,这次使用的观察器材是隐形录像机
+Dialogue: 0,0:00:32.62,0:00:36.25,Default,,0000,0000,0000,,看看实际效果 如果不行再说不行的话啦
+Dialogue: 0,0:00:36.58,0:00:38.01,Default,,0000,0000,0000,,我要开始了～
+Dialogue: 0,0:00:44.93,0:00:45.85,Default,,0000,0000,0000,,画面是静止的？
+Dialogue: 0,0:00:46.38,0:00:48.94,Default,,0000,0000,0000,,哎？ 没有声音？
+Dialogue: 0,0:00:49.28,0:00:50.58,Default,,0000,0000,0000,,但应该是视频啊？
+Dialogue: 0,0:00:51.40,0:00:52.45,Default,,0000,0000,0000,,啊 看这边！
+Dialogue: 0,0:00:53.08,0:00:54.08,Default,,0000,0000,0000,,真的是视频
+Dialogue: 0,0:00:54.81,0:00:59.21,Default,,0000,0000,0000,,但是没有人在家 不就说明海崎擅自出门了嘛！
+Dialogue: 0,0:01:06.45,0:01:08.02,Default,,0000,0000,0000,,哎？ 夜明？
+Dialogue: 0,0:01:08.56,0:01:09.42,Default,,0000,0000,0000,,星期天找我有什么事情吗？
+Dialogue: 0,0:01:09.96,0:01:12.66,Default,,0000,0000,0000,,啊 原来是准备吃饭了啊
+Dialogue: 0,0:01:12.86,0:01:14.56,Default,,0000,0000,0000,,哎？ 什么？
+Dialogue: 0,0:01:15.01,0:01:16.12,Default,,0000,0000,0000,,我现在稍微有点…
+Dialogue: 0,0:01:16.26,0:01:17.96,Default,,0000,0000,0000,,你在家的话就没事了
+Dialogue: 0,0:01:18.17,0:01:19.16,Default,,0000,0000,0000,,欸 等…
+Dialogue: 0,0:01:19.42,0:01:21.62,Default,,0000,0000,0000,,海崎 辛苦你啦～
+Dialogue: 0,0:01:21.96,0:01:24.36,Default,,0000,0000,0000,,什么啊 两个人一起啊？
+Dialogue: 0,0:01:24.66,0:01:29.86,Default,,0000,0000,0000,,其实前几天去海崎家做客的时候好像把耳环丢你家来了
+Dialogue: 0,0:01:30.06,0:01:31.26,Default,,0000,0000,0000,,耳环！！
+Dialogue: 0,0:01:31.66,0:01:34.76,Default,,0000,0000,0000,,我去 能不能注意点啊 在男生房间里发生这种事…
+Dialogue: 0,0:01:36.86,0:01:41.96,Default,,0000,0000,0000,,海崎 竟然比起面要泡胀更重要的是先找起了耳环=.=！
+Dialogue: 0,0:01:42.36,0:01:46.06,Default,,0000,0000,0000,,是不是有什么女生忘了东西的糟糕回忆啊…
+Dialogue: 0,0:01:47.56,0:01:52.06,Default,,0000,0000,0000,,海崎 不好意思 耳环好像在这里
+Dialogue: 0,0:01:52.66,0:01:55.06,Default,,0000,0000,0000,,然后…已经没什么事了
+Dialogue: 0,0:01:55.16,0:01:57.76,Default,,0000,0000,0000,,所以不要在意我们了好好地吃杯面吧！
+Dialogue: 0,0:01:57.86,0:01:59.92,Default,,0000,0000,0000,,什么杯… 祝你有个愉快的假期～
+Dialogue: 0,0:02:10.06,0:02:12.30,Default,,0000,0000,0000,,真是的 到底发生了什么
+Dialogue: 0,0:02:13.16,0:02:16.06,Default,,0000,0000,0000,,话说他怎么知道我在吃杯面？！
+

@@ -1,0 +1,579 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Mushishi Zoku Shou II - 10
+Original Script: 诸神字幕组
+Original Translation: 诸神字幕组
+Original Timing: 电池雪糕
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,1
+Style: OP EN Footlight MT Light,Footlight MT Light,44,&H1EFFFFFE,&H1EFFFFFF,&H00000000,&H14050404,0,0,0,0,100,100,0,0,1,0,2,2,10,10,13,1
+Style: OP CN 楷体,KaiTi,40,&H14FFFFFE,&H14FFFFFE,&H00000000,&H14050404,0,0,0,0,98,100,1,0,1,0,1,8,10,10,13,1
+Style: STAFF 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00FFFFFF,&H00000000,&H00000000,&H9647454A,-1,0,0,0,100,100,1,0,1,1,2,8,10,10,5,1
+Style: TXT JP G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,36,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,2,0,2,10,10,13,128
+Style: TXT JP (UP) G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,32,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,1,0,8,10,10,44,128
+Style: TXT CN 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,2,0,2,10,10,44,1
+Style: TXT CN (UP) 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,36,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,1,0,8,10,10,13,1
+Style: NOTES 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,32,&H0AFFFFFF,&H00FFFFFF,&H000D170C,&H500D170C,-1,0,0,0,100,100,0,0,1,0,1,7,15,15,10,1
+Style: TITLE @宋体,@RS_Song,60,&H00FFFEF7,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+Style: TITLE @方正行楷_GBK,@FZXingKai-S04,62,&H000F1315,&H00FFFFFF,&H009FB5AE,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:00:25.50,0:00:31.50,TITLE @宋体,,0,0,0,,{\fad(2000,0)\alpha90\bord0\alpha00\shad0\blur1\frz0\frz0\p1\pos(220,230)\c&H263FE8&}m 0 0 l 0 0 l 100 0 l 100 550 l 0 550 l 0 0
+Dialogue: 1,0:00:25.50,0:00:31.50,TITLE @宋体,,0,0,0,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,450)}树
+Dialogue: 1,0:00:25.50,0:00:31.50,TITLE @宋体,,0,0,0,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,385)}之
+Dialogue: 1,0:00:25.50,0:00:31.50,TITLE @宋体,,0,0,0,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,320)}恒
+Dialogue: 1,0:00:25.50,0:00:31.50,TITLE @宋体,,0,0,0,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,255)}永
+Dialogue: 0,0:00:43.41,0:00:45.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ありがてぇ　スモモか
+Dialogue: 0,0:00:52.93,0:00:53.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お父ちゃん
+Dialogue: 0,0:00:55.01,0:00:56.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おう　ふたば
+Dialogue: 0,0:01:00.60,0:01:02.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,大きくなったな
+Dialogue: 0,0:01:02.94,0:01:04.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お帰り　幹太
+Dialogue: 0,0:01:10.03,0:01:12.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,今度はどんな所行ってたの
+Dialogue: 0,0:01:12.89,0:01:14.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,東のでっかい町でな
+Dialogue: 0,0:01:15.50,0:01:18.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ズラリと立派な屋敷の並ぶところだ
+Dialogue: 0,0:01:18.68,0:01:20.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そこで一番の屋敷を建ててきた
+Dialogue: 0,0:01:21.46,0:01:23.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,まるで竜宮城みたいでな
+Dialogue: 0,0:01:28.35,0:01:30.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの子　寂しがってたわよ
+Dialogue: 0,0:01:33.18,0:01:35.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もう少し　近くで仕事したら？
+Dialogue: 0,0:01:36.53,0:01:39.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんたの腕なら　どこでだって…
+Dialogue: 0,0:01:40.90,0:01:44.49,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,俺は知らない土地を　腕一本で渡ってくのが面白い
+Dialogue: 0,0:01:45.23,0:01:48.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,世の中にゃ　本当にいろんなところがあるもんだ
+Dialogue: 0,0:01:51.17,0:01:55.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もう少し　年を喰ったら落ち着くからさ
+Dialogue: 1,0:00:43.41,0:00:45.35,TXT CN 方正北魏楷书_GBK,,0,0,0,,真难得 是李子呢
+Dialogue: 1,0:00:52.93,0:00:53.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,爸爸
+Dialogue: 1,0:00:55.01,0:00:56.50,TXT CN 方正北魏楷书_GBK,,0,0,0,,噢 双叶
+Dialogue: 1,0:01:00.60,0:01:02.30,TXT CN 方正北魏楷书_GBK,,0,0,0,,你长大了呢
+Dialogue: 1,0:01:02.94,0:01:04.59,TXT CN 方正北魏楷书_GBK,,0,0,0,,欢迎回来 干太
+Dialogue: 1,0:01:10.03,0:01:12.43,TXT CN 方正北魏楷书_GBK,,0,0,0,,这次去了什么样的地方啊
+Dialogue: 1,0:01:12.89,0:01:14.96,TXT CN 方正北魏楷书_GBK,,0,0,0,,去了东边的大城市
+Dialogue: 1,0:01:15.50,0:01:18.11,TXT CN 方正北魏楷书_GBK,,0,0,0,,那个地方高堂广厦鳞次栉比
+Dialogue: 1,0:01:18.68,0:01:20.84,TXT CN 方正北魏楷书_GBK,,0,0,0,,我在那里建造了最气派的府邸
+Dialogue: 1,0:01:21.46,0:01:23.73,TXT CN 方正北魏楷书_GBK,,0,0,0,,就好像龙宫一样哦
+Dialogue: 1,0:01:28.35,0:01:30.68,TXT CN 方正北魏楷书_GBK,,0,0,0,,那孩子其实很寂寞
+Dialogue: 1,0:01:33.18,0:01:35.80,TXT CN 方正北魏楷书_GBK,,0,0,0,,你能在近一点的地方工作吗
+Dialogue: 1,0:01:36.53,0:01:39.30,TXT CN 方正北魏楷书_GBK,,0,0,0,,凭你的手艺到哪儿都没问题呀
+Dialogue: 1,0:01:40.90,0:01:44.49,TXT CN 方正北魏楷书_GBK,,0,0,0,,对我来说 凭一技之长走遍异国他乡更有趣
+Dialogue: 1,0:01:45.23,0:01:48.67,TXT CN 方正北魏楷书_GBK,,0,0,0,,这个世界实在是太多姿多彩了
+Dialogue: 1,0:01:51.17,0:01:55.13,TXT CN 方正北魏楷书_GBK,,0,0,0,,等我年纪再大些 就会安定下来
+Dialogue: 1,0:03:23.21,0:03:25.67,TXT CN 方正北魏楷书_GBK,,0,0,0,,{\frz12.298\bord0\fn方正行楷_GBK\fs50\b1\pos(360,269)\c&HCDD0CE&}丸子
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs50\fsp0.5\blur1\pos(674,288)\frz299.586\c&H4F6069&}觉{\c&H61747A&}木
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs36\fsp0.5\blur1\c&H869FA8&\pos(885,383)\frz300.132}闻有寄生之事
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs32\fsp0.5\blur1\c&H869FA8&\an1\frz299.628\pos(685,403)}寄生树上，如宿主陷于危难\N则开红花，并结实如李
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs36\fsp0.5\blur1\c&H69797F&\frz291.302\pos(458,465)}寄生树内{\c&H95A5AB&}以汲取养分
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs36\fsp0.5\blur1\c&H69797F&\frz291.302\pos(396,529)}如被鸟兽{\c&H95A5AB&}吞食，则盘踞其内
+Dialogue: 1,0:10:34.43,0:10:43.94,TITLE @方正行楷_GBK,,0,0,0,,{\bord0\fs36\fsp0.5\blur1\c&H69797F&\frz291.302\pos(299,505)}静待接{\c&H95A5AB&}近树木之机
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:02:14.07,0:02:15.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,夢か
+Dialogue: 0,0:02:16.18,0:02:18.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,偉くはっきりとした夢だったな
+Dialogue: 0,0:02:41.04,0:02:42.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,まただ
+Dialogue: 0,0:02:43.08,0:02:45.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,また　あの木の夢
+Dialogue: 0,0:02:49.92,0:02:52.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一体　何なんだ
+Dialogue: 0,0:03:01.81,0:03:05.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,でもあの木　なんだか見覚えがあるな
+Dialogue: 0,0:03:08.55,0:03:10.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,杉の巨木？
+Dialogue: 0,0:03:10.54,0:03:15.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ああ　幹周りが大人の男で五六人分ありそうな…
+Dialogue: 0,0:03:15.51,0:03:18.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,さあ　そんなのここらじゃ聞かねぇな
+Dialogue: 0,0:03:28.22,0:03:29.14,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,邪魔するよ
+Dialogue: 0,0:03:32.68,0:03:35.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんた　どっかで会ったことがあるな
+Dialogue: 0,0:03:35.70,0:03:38.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そうかい　こっちには覚えはねぇが
+Dialogue: 0,0:03:39.51,0:03:41.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　間違いねぇ
+Dialogue: 0,0:03:41.80,0:03:44.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんたは山の中を五六人と連れ立って歩いてきた
+Dialogue: 0,0:03:46.76,0:03:48.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それからまた山ん中を歩いてった
+Dialogue: 0,0:03:49.67,0:03:51.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんたは十ほどの子供だったな
+Dialogue: 0,0:03:53.40,0:03:55.45,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一行にゃもう一人子供がいたな
+Dialogue: 0,0:03:56.04,0:03:57.51,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それから長老の爺さん
+Dialogue: 0,0:03:58.58,0:04:01.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの爺さんは子供のころからよく見た顔だ
+Dialogue: 0,0:04:02.07,0:04:05.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい待て　何で爺さんの子供のころなんて知ってる
+Dialogue: 0,0:04:05.99,0:04:07.38,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お前　年いくつだよ
+Dialogue: 0,0:04:10.00,0:04:11.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そういやそうだな
+Dialogue: 0,0:04:12.28,0:04:13.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何で俺こんなこと
+Dialogue: 0,0:04:14.59,0:04:15.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,誰かに聞いたかな
+Dialogue: 0,0:04:16.70,0:04:18.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　出鱈目言ってんじゃねぇよ
+Dialogue: 0,0:04:21.62,0:04:24.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何か急に思い出したというか
+Dialogue: 0,0:04:29.15,0:04:32.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,新手のペテンなら　もう少しうまくやれよ
+Dialogue: 0,0:04:32.21,0:04:34.71,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　違うんだよ　おい
+Dialogue: 0,0:04:52.51,0:04:53.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,人だ
+Dialogue: 0,0:04:56.37,0:04:57.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,里ができてゆく
+Dialogue: 0,0:05:01.30,0:05:06.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この里　どこかで見た
+Dialogue: 0,0:05:16.70,0:05:18.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,見覚えがあるわけだ
+Dialogue: 0,0:05:20.85,0:05:23.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あれは　この山から見た俺の里だ
+Dialogue: 0,0:05:26.51,0:05:28.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木は　この辺りのはず
+Dialogue: 0,0:05:30.17,0:05:32.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これでようやく謎が解ける
+Dialogue: 0,0:05:51.73,0:05:53.71,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これ…か
+Dialogue: 0,0:05:59.23,0:06:00.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そんな…
+Dialogue: 0,0:06:09.20,0:06:11.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,さて　帰るか
+Dialogue: 0,0:06:16.33,0:06:18.04,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何だ　こりゃ
+Dialogue: 0,0:06:18.90,0:06:20.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,抜けねぇ
+Dialogue: 0,0:06:23.36,0:06:26.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい　誰かいないか
+Dialogue: 0,0:06:27.54,0:06:28.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい
+Dialogue: 0,0:06:33.06,0:06:34.10,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんたは…
+Dialogue: 0,0:06:35.14,0:06:37.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,た　助けてくれ　足が…
+Dialogue: 0,0:06:40.57,0:06:41.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,遅かったか
+Dialogue: 0,0:06:53.97,0:06:55.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お前さんに会った後
+Dialogue: 0,0:06:55.57,0:06:57.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ふと思い当たることがあってな
+Dialogue: 0,0:06:59.22,0:07:01.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一人の人が知りえるはずもない
+Dialogue: 0,0:07:01.78,0:07:04.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ある一定の場所の　遥か昔の出来事を
+Dialogue: 0,0:07:05.45,0:07:08.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,まるで　その目で見てきたかのように
+Dialogue: 0,0:07:08.39,0:07:10.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,つぶさに語る者がいる…と
+Dialogue: 0,0:07:11.86,0:07:14.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,な　何でこんなことになった
+Dialogue: 0,0:07:14.91,0:07:16.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,まるで足が木になっちまったみたいだ
+Dialogue: 0,0:07:17.46,0:07:18.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ぴくりともしねぇ
+Dialogue: 0,0:07:21.12,0:07:24.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,スモモに似た赤い実を先頃食ったはずだ
+Dialogue: 0,0:07:25.78,0:07:26.79,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ああ
+Dialogue: 0,0:07:26.93,0:07:29.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そいつは　「覚木」という蟲でした
+Dialogue: 0,0:07:31.42,0:07:34.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木の内部に宿り　養分を得るものだが
+Dialogue: 0,0:07:35.64,0:07:39.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木の本体が危機に陥ると　赤い花のようなものをつけ
+Dialogue: 0,0:07:40.41,0:07:43.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,やがてひとつの実に姿を変えて　木から離れる
+Dialogue: 0,0:07:45.32,0:07:48.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,その実には　木の記憶が封じ込められている
+Dialogue: 0,0:07:50.61,0:07:53.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そして　獣や鳥に食われると
+Dialogue: 0,0:07:53.78,0:07:57.62,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,その体内に巣食い　宿主が木に近づくのを待つ
+Dialogue: 0,0:07:59.44,0:08:01.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,宿主が木に長い間触れていると
+Dialogue: 0,0:08:02.47,0:08:04.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木と融合し動けなくさせ
+Dialogue: 0,0:08:05.24,0:08:07.62,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,やがて完全に木と同化させてしまう
+Dialogue: 0,0:08:10.23,0:08:13.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それで　どうすればこの足は治るんだ
+Dialogue: 0,0:08:15.41,0:08:17.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,治す術は見つかっていない
+Dialogue: 0,0:08:18.92,0:08:21.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,宿主が危険に曝されれば出ていくんだろう
+Dialogue: 0,0:08:21.76,0:08:23.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なら　死ぬふりをしたらどうだ
+Dialogue: 0,0:08:25.35,0:08:29.65,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,花をつけることはあっても　実をつけて抜けることはないという
+Dialogue: 0,0:08:31.20,0:08:36.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,覚木には　本当の危機とそれ以外とを見極める能力があるらしい
+Dialogue: 0,0:08:38.03,0:08:40.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,恐らく　それを見極めるために
+Dialogue: 0,0:08:40.93,0:08:43.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木の膨大な記憶を利用するのだろう
+Dialogue: 0,0:08:46.10,0:08:49.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,じゃ　何か手はないのか
+Dialogue: 0,0:08:49.97,0:08:52.89,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,こんな　こんな足じゃ俺はどうやって…
+Dialogue: 0,0:08:54.35,0:08:55.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,幹太
+Dialogue: 0,0:08:56.70,0:08:59.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,私はあんたの命が奪われずに済んで
+Dialogue: 0,0:08:59.56,0:09:01.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それだけでありがたいよ
+Dialogue: 0,0:09:04.17,0:09:06.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,家族みんなで助けるから
+Dialogue: 0,0:09:06.16,0:09:07.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,冗談じゃねぇ
+Dialogue: 0,0:09:08.29,0:09:10.62,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,みんなの世話になって生きてくなんでまっぴらだ
+Dialogue: 0,0:09:10.85,0:09:12.79,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なぁ　頼むよ
+Dialogue: 0,0:09:12.90,0:09:14.04,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,治してくれよ
+Dialogue: 0,0:09:22.71,0:09:24.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,僅かな手がかりでもあればいいが
+Dialogue: 0,0:09:31.27,0:09:32.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの時のあの木
+Dialogue: 0,0:09:35.25,0:09:36.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,切られちまったんだな
+Dialogue: 0,0:09:57.72,0:10:02.64,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この木は千年もここに立ち続けているという
+Dialogue: 0,0:10:03.76,0:10:07.01,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,イサザ　ちゃんと聞かんか
+Dialogue: 0,0:10:07.16,0:10:10.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,だって俺　この話何度も聞いたよ
+Dialogue: 0,0:10:11.04,0:10:14.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何度でも聞け　忘れんように
+Dialogue: 0,0:10:15.71,0:10:20.75,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お前もいずれ　若い渡りに言い伝えられるようにな
+Dialogue: 0,0:10:22.75,0:10:27.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この木にはもう長いこと　覚木が住んどる
+Dialogue: 0,0:10:27.96,0:10:34.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そいつは今までに　二度ほど　赤い花をつけたことがあるという
+Dialogue: 0,0:10:35.57,0:10:37.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これがその花だ
+Dialogue: 0,0:10:38.65,0:10:43.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一度目に咲いたのは　五百五十年ほど昔
+Dialogue: 0,0:10:44.64,0:10:47.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この地に大地震のあったとき
+Dialogue: 0,0:10:48.57,0:10:52.62,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,地が割れ　根から倒れそうになったが
+Dialogue: 0,0:10:52.75,0:10:55.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何とか生き延びたという
+Dialogue: 0,0:10:56.43,0:10:59.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,二度目は　百七十年ほど前
+Dialogue: 0,0:11:01.08,0:11:04.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この木に雷が落ちり　傷を負った
+Dialogue: 0,0:11:05.53,0:11:11.89,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,しかし　近くの里の者たちが懸命にその傷を治し
+Dialogue: 0,0:11:12.02,0:11:14.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,再びこの木は生き長らえた
+Dialogue: 0,0:11:16.35,0:11:19.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ほら　あそこに見える里だ
+Dialogue: 0,0:11:20.55,0:11:25.45,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの里の者らがここへ来たのは三百年ほど前
+Dialogue: 0,0:11:25.70,0:11:31.89,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,山を開くのにこの木を切ろうとしたが　どうやっても切れなかった
+Dialogue: 0,0:11:32.61,0:11:35.49,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それで人々はこの木を恐れ
+Dialogue: 0,0:11:35.92,0:11:41.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,やがて神木と祭り　大事にしたのだという
+Dialogue: 0,0:11:42.23,0:11:45.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ここは光脈筋だ
+Dialogue: 0,0:11:45.53,0:11:50.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,長くそこに生きた木は時に特殊な力を持つ
+Dialogue: 0,0:11:50.67,0:11:53.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,人の力が及ばんこともある
+Dialogue: 0,0:11:54.93,0:11:59.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,わしも子供の頃からいろんな巨木を見てきたが
+Dialogue: 0,0:11:59.60,0:12:03.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これほど大きく見える木はそうはない
+Dialogue: 0,0:12:03.87,0:12:10.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,だが　この頃はこの木を訪れる里の者の姿は減った
+Dialogue: 0,0:12:12.27,0:12:15.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そいつが少々気にかかる
+Dialogue: 1,0:02:14.07,0:02:15.22,TXT CN 方正北魏楷书_GBK,,0,0,0,,是梦吗
+Dialogue: 1,0:02:16.18,0:02:18.21,TXT CN 方正北魏楷书_GBK,,0,0,0,,异常鲜明的梦呢
+Dialogue: 1,0:02:41.04,0:02:42.09,TXT CN 方正北魏楷书_GBK,,0,0,0,,又来了
+Dialogue: 1,0:02:43.08,0:02:45.41,TXT CN 方正北魏楷书_GBK,,0,0,0,,又是那棵树的梦
+Dialogue: 1,0:02:49.92,0:02:52.29,TXT CN 方正北魏楷书_GBK,,0,0,0,,到底是怎么回事
+Dialogue: 1,0:03:01.81,0:03:05.60,TXT CN 方正北魏楷书_GBK,,0,0,0,,不过 我好像见过那棵树
+Dialogue: 1,0:03:08.55,0:03:10.06,TXT CN 方正北魏楷书_GBK,,0,0,0,,巨大的杉树？
+Dialogue: 1,0:03:10.54,0:03:15.11,TXT CN 方正北魏楷书_GBK,,0,0,0,,是 主干有五六个成年男人合抱那么粗的
+Dialogue: 1,0:03:15.51,0:03:18.72,TXT CN 方正北魏楷书_GBK,,0,0,0,,不知道 没听说过我们这里有那么粗的
+Dialogue: 1,0:03:28.22,0:03:29.14,TXT CN 方正北魏楷书_GBK,,0,0,0,,打扰了
+Dialogue: 1,0:03:32.68,0:03:35.24,TXT CN 方正北魏楷书_GBK,,0,0,0,,我好像在哪见过你
+Dialogue: 1,0:03:35.70,0:03:38.32,TXT CN 方正北魏楷书_GBK,,0,0,0,,是吗 我对你没印象
+Dialogue: 1,0:03:39.51,0:03:41.18,TXT CN 方正北魏楷书_GBK,,0,0,0,,不 绝对没记错
+Dialogue: 1,0:03:41.80,0:03:44.41,TXT CN 方正北魏楷书_GBK,,0,0,0,,你和五六个人结伴从山里走过来
+Dialogue: 1,0:03:46.76,0:03:48.94,TXT CN 方正北魏楷书_GBK,,0,0,0,,然后又走向了山里
+Dialogue: 1,0:03:49.67,0:03:51.95,TXT CN 方正北魏楷书_GBK,,0,0,0,,那时你只是个十岁左右的孩子
+Dialogue: 1,0:03:53.40,0:03:55.45,TXT CN 方正北魏楷书_GBK,,0,0,0,,你们一行还有个孩子对吧
+Dialogue: 1,0:03:56.04,0:03:57.51,TXT CN 方正北魏楷书_GBK,,0,0,0,,还有个年纪很大的老爷子
+Dialogue: 1,0:03:58.58,0:04:01.66,TXT CN 方正北魏楷书_GBK,,0,0,0,,从他小时候开始 我就常常看见他
+Dialogue: 1,0:04:02.07,0:04:05.27,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂 等等 你为什么知道老爷子小时候的事
+Dialogue: 1,0:04:05.99,0:04:07.38,TXT CN 方正北魏楷书_GBK,,0,0,0,,你才多大啊
+Dialogue: 1,0:04:10.00,0:04:11.46,TXT CN 方正北魏楷书_GBK,,0,0,0,,说起来也是
+Dialogue: 1,0:04:12.28,0:04:13.63,TXT CN 方正北魏楷书_GBK,,0,0,0,,为什么我知道这种事啊
+Dialogue: 1,0:04:14.59,0:04:15.85,TXT CN 方正北魏楷书_GBK,,0,0,0,,从谁那里听来的吗
+Dialogue: 1,0:04:16.70,0:04:18.39,TXT CN 方正北魏楷书_GBK,,0,0,0,,不对 我不是胡说八道
+Dialogue: 1,0:04:21.62,0:04:24.36,TXT CN 方正北魏楷书_GBK,,0,0,0,,但就是突然想起来了…
+Dialogue: 1,0:04:29.15,0:04:32.00,TXT CN 方正北魏楷书_GBK,,0,0,0,,你是新出道的骗子吧 再编顺溜点吧
+Dialogue: 1,0:04:32.21,0:04:34.71,TXT CN 方正北魏楷书_GBK,,0,0,0,,不 我没骗你 喂
+Dialogue: 1,0:04:52.51,0:04:53.66,TXT CN 方正北魏楷书_GBK,,0,0,0,,是人
+Dialogue: 1,0:04:56.37,0:04:57.87,TXT CN 方正北魏楷书_GBK,,0,0,0,,渐渐有了村庄
+Dialogue: 1,0:05:01.30,0:05:06.83,TXT CN 方正北魏楷书_GBK,,0,0,0,,这个村庄 在哪里见到过
+Dialogue: 1,0:05:16.70,0:05:18.52,TXT CN 方正北魏楷书_GBK,,0,0,0,,怪不得有印象
+Dialogue: 1,0:05:20.85,0:05:23.91,TXT CN 方正北魏楷书_GBK,,0,0,0,,那是从这座山上看到的我住的村庄
+Dialogue: 1,0:05:26.51,0:05:28.58,TXT CN 方正北魏楷书_GBK,,0,0,0,,树应该就在这附近
+Dialogue: 1,0:05:30.17,0:05:32.22,TXT CN 方正北魏楷书_GBK,,0,0,0,,这下终于能解开谜团了
+Dialogue: 1,0:05:51.73,0:05:53.71,TXT CN 方正北魏楷书_GBK,,0,0,0,,是这棵吗
+Dialogue: 1,0:05:59.23,0:06:00.55,TXT CN 方正北魏楷书_GBK,,0,0,0,,怎么会这样
+Dialogue: 1,0:06:09.20,0:06:11.09,TXT CN 方正北魏楷书_GBK,,0,0,0,,算了 回家吧
+Dialogue: 1,0:06:16.33,0:06:18.04,TXT CN 方正北魏楷书_GBK,,0,0,0,,这 搞什么鬼
+Dialogue: 1,0:06:18.90,0:06:20.05,TXT CN 方正北魏楷书_GBK,,0,0,0,,脚提不起来
+Dialogue: 1,0:06:23.36,0:06:26.22,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂 有人在吗
+Dialogue: 1,0:06:27.54,0:06:28.84,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂
+Dialogue: 1,0:06:33.06,0:06:34.10,TXT CN 方正北魏楷书_GBK,,0,0,0,,你是…
+Dialogue: 1,0:06:35.14,0:06:37.68,TXT CN 方正北魏楷书_GBK,,0,0,0,,救…救救我 我的脚…
+Dialogue: 1,0:06:40.57,0:06:41.57,TXT CN 方正北魏楷书_GBK,,0,0,0,,来晚了吗
+Dialogue: 1,0:06:53.97,0:06:55.43,TXT CN 方正北魏楷书_GBK,,0,0,0,,见到你之后
+Dialogue: 1,0:06:55.57,0:06:57.46,TXT CN 方正北魏楷书_GBK,,0,0,0,,我突然想起了一件事
+Dialogue: 1,0:06:59.22,0:07:01.27,TXT CN 方正北魏楷书_GBK,,0,0,0,,明明是单凭个人无从得知的
+Dialogue: 1,0:07:01.78,0:07:04.52,TXT CN 方正北魏楷书_GBK,,0,0,0,,很久以前发生在某个固定地方的事情
+Dialogue: 1,0:07:05.45,0:07:08.12,TXT CN 方正北魏楷书_GBK,,0,0,0,,却有人宛如自己亲眼所见般
+Dialogue: 1,0:07:08.39,0:07:10.81,TXT CN 方正北魏楷书_GBK,,0,0,0,,巨细无遗地讲述出来
+Dialogue: 1,0:07:11.86,0:07:14.47,TXT CN 方正北魏楷书_GBK,,0,0,0,,我说 为什么会变成这样子
+Dialogue: 1,0:07:14.91,0:07:16.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,腿简直变成了木头一样
+Dialogue: 1,0:07:17.46,0:07:18.83,TXT CN 方正北魏楷书_GBK,,0,0,0,,一点都动不了了
+Dialogue: 1,0:07:21.12,0:07:24.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,你先前应该吃过一个像李子的红色果实吧
+Dialogue: 1,0:07:25.78,0:07:26.79,TXT CN 方正北魏楷书_GBK,,0,0,0,,是
+Dialogue: 1,0:07:26.93,0:07:29.72,TXT CN 方正北魏楷书_GBK,,0,0,0,,那是种叫做「觉木」的虫
+Dialogue: 1,0:07:31.42,0:07:34.41,TXT CN 方正北魏楷书_GBK,,0,0,0,,原本是寄生在树中汲取养分的生物
+Dialogue: 1,0:07:35.64,0:07:39.80,TXT CN 方正北魏楷书_GBK,,0,0,0,,然而当树的本体陷入危险之际 就会形成像红色花朵一样的东西
+Dialogue: 1,0:07:40.41,0:07:43.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,之后外观变成一颗果实 离开树木
+Dialogue: 1,0:07:45.32,0:07:48.70,TXT CN 方正北魏楷书_GBK,,0,0,0,,那颗果实里封存着树木的记忆
+Dialogue: 1,0:07:50.61,0:07:53.53,TXT CN 方正北魏楷书_GBK,,0,0,0,,之后 若是被鸟兽吞掉
+Dialogue: 1,0:07:53.78,0:07:57.62,TXT CN 方正北魏楷书_GBK,,0,0,0,,便盘踞在其体内 等待接近树木的机会
+Dialogue: 1,0:07:59.44,0:08:01.90,TXT CN 方正北魏楷书_GBK,,0,0,0,,一旦宿主长时间接触树木
+Dialogue: 1,0:08:02.47,0:08:04.47,TXT CN 方正北魏楷书_GBK,,0,0,0,,就会使其和树木融合无法动弹
+Dialogue: 1,0:08:05.24,0:08:07.62,TXT CN 方正北魏楷书_GBK,,0,0,0,,最终和树木完全同化
+Dialogue: 1,0:08:10.23,0:08:13.20,TXT CN 方正北魏楷书_GBK,,0,0,0,,那么 怎么才能治好我的腿
+Dialogue: 1,0:08:15.41,0:08:17.22,TXT CN 方正北魏楷书_GBK,,0,0,0,,还没找到治好的方法
+Dialogue: 1,0:08:18.92,0:08:21.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,宿主陷入危险的话就会跑出来不是吗
+Dialogue: 1,0:08:21.76,0:08:23.58,TXT CN 方正北魏楷书_GBK,,0,0,0,,那么 装成要死的样子如何
+Dialogue: 1,0:08:25.35,0:08:29.65,TXT CN 方正北魏楷书_GBK,,0,0,0,,据说 即便会开出花 也不曾变成脱离宿主的果实
+Dialogue: 1,0:08:31.20,0:08:36.50,TXT CN 方正北魏楷书_GBK,,0,0,0,,觉木似乎有着鉴别真正的危机和其他情况的能力
+Dialogue: 1,0:08:38.03,0:08:40.72,TXT CN 方正北魏楷书_GBK,,0,0,0,,应该是利用了树木浩瀚的记忆
+Dialogue: 1,0:08:40.93,0:08:43.13,TXT CN 方正北魏楷书_GBK,,0,0,0,,来鉴别危机吧
+Dialogue: 1,0:08:46.10,0:08:49.69,TXT CN 方正北魏楷书_GBK,,0,0,0,,那 就没什么办法吗
+Dialogue: 1,0:08:49.97,0:08:52.89,TXT CN 方正北魏楷书_GBK,,0,0,0,,靠这样子的腿我怎么…
+Dialogue: 1,0:08:54.35,0:08:55.66,TXT CN 方正北魏楷书_GBK,,0,0,0,,干太
+Dialogue: 1,0:08:56.70,0:08:59.42,TXT CN 方正北魏楷书_GBK,,0,0,0,,对我来说你的性命没被夺走
+Dialogue: 1,0:08:59.56,0:09:01.66,TXT CN 方正北魏楷书_GBK,,0,0,0,,就很值得庆幸了
+Dialogue: 1,0:09:04.17,0:09:06.05,TXT CN 方正北魏楷书_GBK,,0,0,0,,家里的每一个人都会帮你的
+Dialogue: 1,0:09:06.16,0:09:07.27,TXT CN 方正北魏楷书_GBK,,0,0,0,,开什么玩笑
+Dialogue: 1,0:09:08.29,0:09:10.62,TXT CN 方正北魏楷书_GBK,,0,0,0,,我才不要靠大家的伺候活着
+Dialogue: 1,0:09:10.85,0:09:12.79,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂 求你了
+Dialogue: 1,0:09:12.90,0:09:14.04,TXT CN 方正北魏楷书_GBK,,0,0,0,,治好我吧
+Dialogue: 1,0:09:22.71,0:09:24.58,TXT CN 方正北魏楷书_GBK,,0,0,0,,就算有一丝丝线索也好
+Dialogue: 1,0:09:31.27,0:09:32.81,TXT CN 方正北魏楷书_GBK,,0,0,0,,可是那颗树在那时
+Dialogue: 1,0:09:35.25,0:09:36.76,TXT CN 方正北魏楷书_GBK,,0,0,0,,被砍掉了啊
+Dialogue: 1,0:09:57.72,0:10:02.64,TXT CN 方正北魏楷书_GBK,,0,0,0,,据说 这棵树已经屹立此地上千年了
+Dialogue: 1,0:10:03.76,0:10:07.01,TXT CN 方正北魏楷书_GBK,,0,0,0,,阿鱊 你能不能认真听啊
+Dialogue: 1,0:10:07.16,0:10:10.30,TXT CN 方正北魏楷书_GBK,,0,0,0,,但这个故事我已经听了好几遍啦
+Dialogue: 1,0:10:11.04,0:10:14.56,TXT CN 方正北魏楷书_GBK,,0,0,0,,不管多少遍都要听 省得忘了
+Dialogue: 1,0:10:15.71,0:10:20.75,TXT CN 方正北魏楷书_GBK,,0,0,0,,这是为了将来你能讲给后辈听
+Dialogue: 1,0:10:22.75,0:10:27.33,TXT CN 方正北魏楷书_GBK,,0,0,0,,觉木已经在这棵树上寄居很长时间了
+Dialogue: 1,0:10:27.96,0:10:34.18,TXT CN 方正北魏楷书_GBK,,0,0,0,,听说至今为止 它们大约有两次开出了红色花朵
+Dialogue: 1,0:10:35.57,0:10:37.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,这就是那种花
+Dialogue: 1,0:10:38.65,0:10:43.47,TXT CN 方正北魏楷书_GBK,,0,0,0,,第一次开花大约是在五百五十年前
+Dialogue: 1,0:10:44.64,0:10:47.94,TXT CN 方正北魏楷书_GBK,,0,0,0,,此地发生大地震的时候
+Dialogue: 1,0:10:48.57,0:10:52.62,TXT CN 方正北魏楷书_GBK,,0,0,0,,听说因为地面裂开几乎被连根拔起
+Dialogue: 1,0:10:52.75,0:10:55.24,TXT CN 方正北魏楷书_GBK,,0,0,0,,好不容易才活了下来
+Dialogue: 1,0:10:56.43,0:10:59.98,TXT CN 方正北魏楷书_GBK,,0,0,0,,第二次大约是在一百七十年前
+Dialogue: 1,0:11:01.08,0:11:04.98,TXT CN 方正北魏楷书_GBK,,0,0,0,,这棵树遭遇雷击因而负伤
+Dialogue: 1,0:11:05.53,0:11:11.89,TXT CN 方正北魏楷书_GBK,,0,0,0,,可是 附近村子里的人们努力治好了雷劈出的伤
+Dialogue: 1,0:11:12.02,0:11:14.98,TXT CN 方正北魏楷书_GBK,,0,0,0,,这棵树再次得以延续生机
+Dialogue: 1,0:11:16.35,0:11:19.72,TXT CN 方正北魏楷书_GBK,,0,0,0,,看 就是从那里看得到的村庄
+Dialogue: 1,0:11:20.55,0:11:25.45,TXT CN 方正北魏楷书_GBK,,0,0,0,,那个村子里的人们大约是三百年前来到这里的
+Dialogue: 1,0:11:25.70,0:11:31.89,TXT CN 方正北魏楷书_GBK,,0,0,0,,开山的时候想砍掉这棵树 但无论如何都砍不掉
+Dialogue: 1,0:11:32.61,0:11:35.49,TXT CN 方正北魏楷书_GBK,,0,0,0,,听说正因如此 人们很敬畏这棵树
+Dialogue: 1,0:11:35.92,0:11:41.20,TXT CN 方正北魏楷书_GBK,,0,0,0,,于是后来便把这棵树当神树祭祀 小心保护
+Dialogue: 1,0:11:42.23,0:11:45.03,TXT CN 方正北魏楷书_GBK,,0,0,0,,这里是光脉所经之处
+Dialogue: 1,0:11:45.53,0:11:50.13,TXT CN 方正北魏楷书_GBK,,0,0,0,,长时间生长于此地的树 偶尔能拥有特殊的力量
+Dialogue: 1,0:11:50.67,0:11:53.88,TXT CN 方正北魏楷书_GBK,,0,0,0,,得以免遭人祸
+Dialogue: 1,0:11:54.93,0:11:59.56,TXT CN 方正北魏楷书_GBK,,0,0,0,,我自小也见过不少大树
+Dialogue: 1,0:11:59.60,0:12:03.06,TXT CN 方正北魏楷书_GBK,,0,0,0,,却从未见过像它这么巨大的
+Dialogue: 1,0:12:03.87,0:12:10.33,TXT CN 方正北魏楷书_GBK,,0,0,0,,然而 最近过来祭拜这棵树的人越来越少了
+Dialogue: 1,0:12:12.27,0:12:15.42,TXT CN 方正北魏楷书_GBK,,0,0,0,,这多少让我有些在意
+Dialogue: 0,0:12:29.93,0:12:32.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,かつてはご神木だったそうですね
+Dialogue: 0,0:12:34.17,0:12:38.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ええ　それは立派な木でしたから
+Dialogue: 0,0:12:39.69,0:12:42.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それがなぜこんなことに
+Dialogue: 0,0:12:44.21,0:12:47.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,皆　怯えていたんです
+Dialogue: 0,0:12:48.93,0:12:52.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,このままではきっと里は終わりだと
+Dialogue: 0,0:12:54.93,0:12:57.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あれは今から15年ほど前
+Dialogue: 0,0:12:58.43,0:13:03.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,当時　里の大半の者が杣人として木を育て
+Dialogue: 0,0:13:03.83,0:13:06.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,売ることを生業としていました
+Dialogue: 0,0:13:07.61,0:13:10.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,皆起きろ　大変じゃ
+Dialogue: 0,0:13:10.37,0:13:11.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,山が…
+Dialogue: 0,0:13:20.69,0:13:23.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一体　どうすりゃいい
+Dialogue: 0,0:13:24.27,0:13:27.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もう頼る当てもねぇ
+Dialogue: 0,0:13:28.43,0:13:30.82,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,里を下りて物乞いをやるしか…
+Dialogue: 0,0:13:32.51,0:13:38.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,な　あの大杉　町の材木商が大金で買いたいと言ってたろう
+Dialogue: 0,0:13:38.97,0:13:41.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そうか　あの木は無事だったな
+Dialogue: 0,0:13:42.09,0:13:44.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,でも　あの木は…なぁ
+Dialogue: 0,0:13:44.93,0:13:47.45,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それに絶対切れないって話だろう
+Dialogue: 0,0:13:47.61,0:13:50.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そんなもの　やってみなけりゃ分からない
+Dialogue: 0,0:13:50.43,0:13:52.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おう　やろう
+Dialogue: 0,0:13:52.26,0:13:55.10,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい　待たんか　お前たち
+Dialogue: 0,0:13:55.34,0:13:58.75,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これ以上待てねぇ　うちの子はこのままじゃ死んじまう
+Dialogue: 0,0:13:59.07,0:14:00.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,うちもだ
+Dialogue: 0,0:14:00.55,0:14:04.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの木は先祖は代々大事にしてきたご神木だぞ
+Dialogue: 0,0:14:05.07,0:14:07.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,本当に切れなきゃ諦めるさ
+Dialogue: 0,0:14:09.04,0:14:09.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい
+Dialogue: 0,0:14:11.17,0:14:13.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何だ　あの花は
+Dialogue: 0,0:14:15.22,0:14:17.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なんだか恐ろしいよ
+Dialogue: 0,0:14:19.48,0:14:22.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木が怒っているんだよ
+Dialogue: 0,0:14:24.59,0:14:27.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何を言っている　どこに花なんか
+Dialogue: 0,0:14:28.41,0:14:29.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いい加減なことを
+Dialogue: 0,0:14:29.52,0:14:30.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい　止せ
+Dialogue: 0,0:14:33.07,0:14:34.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,切れるぞ
+Dialogue: 0,0:14:34.45,0:14:36.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何だ　切れないなんて迷信だ
+Dialogue: 0,0:14:37.17,0:14:38.01,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,やるぞ
+Dialogue: 0,0:15:11.33,0:15:13.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何だ　この水
+Dialogue: 0,0:15:17.33,0:15:19.26,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,どんどん広がっていく
+Dialogue: 0,0:15:23.52,0:15:28.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,その木は里全体がしばし暮らせる程の額で売れました
+Dialogue: 0,0:15:30.06,0:15:35.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そして　焼けた山も不思議な速さで蘇っていきました
+Dialogue: 0,0:15:38.05,0:15:41.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,当時　幼かった幹太が無事に育ったのも
+Dialogue: 0,0:15:42.45,0:15:44.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この木のおかげなんです
+Dialogue: 0,0:15:45.93,0:15:48.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ああしなければ　今の里はなかったでしょう
+Dialogue: 0,0:15:50.33,0:15:55.82,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,でも　あの時やはりこの木は怒っていたのでしょうね
+Dialogue: 0,0:15:57.05,0:16:00.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これは報いなんでしょうか
+Dialogue: 0,0:16:02.25,0:16:03.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,草木は怒ったりしませんよ
+Dialogue: 0,0:16:05.03,0:16:09.44,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,でも　何も感じないわけでも　何もしないわけでもない
+Dialogue: 0,0:16:11.63,0:16:14.74,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ある種の木は害虫が大量に湧くと
+Dialogue: 0,0:16:14.97,0:16:17.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,その葉から毒を出して自分の身を守る
+Dialogue: 0,0:16:19.11,0:16:21.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,草木は自ら動けない
+Dialogue: 0,0:16:21.29,0:16:24.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,だがその分　周囲の変化を敏感に感じ取り
+Dialogue: 0,0:16:25.32,0:16:28.49,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,時にそれに応じて自らを変える術を持つ
+Dialogue: 0,0:16:30.04,0:16:33.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この木には人の斧を寄せ付けないほどの力があった
+Dialogue: 0,0:16:35.33,0:16:37.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それがなぜその時は切れたのか
+Dialogue: 0,0:16:39.69,0:16:41.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それはこの木が自ら
+Dialogue: 0,0:16:41.93,0:16:44.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,その身を切られるよう変化させたせいなのかもしれない
+Dialogue: 0,0:16:46.95,0:16:48.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,傷ついた山全体のために
+Dialogue: 0,0:16:51.07,0:16:52.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,木がそんなことを…？
+Dialogue: 0,0:16:53.69,0:16:54.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,さてね
+Dialogue: 0,0:16:58.39,0:17:00.54,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もしそうだとしたら
+Dialogue: 0,0:17:03.71,0:17:09.02,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,私達は本当に大事なものを失くしてしまったんだわ
+Dialogue: 0,0:17:13.89,0:17:15.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これを飲んでくれ
+Dialogue: 0,0:17:15.57,0:17:17.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それで足が治るのか
+Dialogue: 0,0:17:17.99,0:17:20.89,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　蟲の成長を抑えるだけだ
+Dialogue: 0,0:17:22.00,0:17:25.02,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,足の治療法は知人にいろいろ文を出してみたが
+Dialogue: 0,0:17:25.61,0:17:27.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,良い返事のものはなかった
+Dialogue: 0,0:17:30.29,0:17:32.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,これからも調査を続けてみる
+Dialogue: 0,0:17:33.39,0:17:35.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,別の蟲師に当ってくる
+Dialogue: 0,0:17:35.71,0:17:37.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何かあったら　ここに文をくれ
+Dialogue: 0,0:17:42.81,0:17:44.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ああ
+Dialogue: 0,0:17:55.69,0:17:57.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お父ちゃん
+Dialogue: 0,0:17:59.11,0:18:00.75,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ねぇ　お外行こう
+Dialogue: 0,0:18:01.87,0:18:05.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,すまんな　父ちゃんはもう前のようには…
+Dialogue: 0,0:18:05.43,0:18:07.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,じゃあ　お話して
+Dialogue: 0,0:18:09.01,0:18:12.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もう　してやれる話もないんだ
+Dialogue: 0,0:18:17.85,0:18:21.65,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの木のせいでなぜ俺がこんな目に…
+Dialogue: 0,0:18:24.07,0:18:25.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,とうに切られた木のくせに
+Dialogue: 0,0:18:27.50,0:18:30.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なぜいつまでも俺の中に居座り続ける
+Dialogue: 0,0:18:47.56,0:18:49.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,赤い…花
+Dialogue: 0,0:18:52.27,0:18:54.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,お前さん　体の具合はどうだ
+Dialogue: 0,0:18:55.49,0:18:56.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　別に
+Dialogue: 0,0:18:57.79,0:19:00.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なら　何か起こる前兆だ
+Dialogue: 0,0:19:02.63,0:19:05.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あんたの身に危険の及ぶ何か
+Dialogue: 0,0:19:19.60,0:19:23.23,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何だろう　この気配
+Dialogue: 0,0:19:25.01,0:19:27.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,草木が騒いでいる
+Dialogue: 0,0:19:30.39,0:19:32.23,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この気配は知っている
+Dialogue: 0,0:19:33.97,0:19:38.17,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,遥か　遥か昔に一度
+Dialogue: 0,0:19:41.37,0:19:42.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,思い出せ
+Dialogue: 0,0:19:44.01,0:19:45.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,思い出せ
+Dialogue: 0,0:19:49.08,0:19:52.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの時　何が起こったか
+Dialogue: 0,0:19:56.27,0:19:57.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,え　何だって？
+Dialogue: 0,0:19:58.27,0:20:00.25,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,今すぐ全員集まれとよ
+Dialogue: 0,0:20:00.85,0:20:02.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,何なんだ　一体
+Dialogue: 0,0:20:02.69,0:20:04.79,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,とにかく急げって　幹太が
+Dialogue: 0,0:20:07.55,0:20:08.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ここらでいいか
+Dialogue: 0,0:20:09.49,0:20:12.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,いや　ここらは危ない　まだ先だ
+Dialogue: 0,0:20:13.95,0:20:15.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,急がねぇと
+Dialogue: 0,0:20:16.34,0:20:17.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,もうじきだ
+Dialogue: 0,0:20:52.56,0:20:54.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,よう　調子はどうだ
+Dialogue: 0,0:20:54.85,0:20:56.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,見ての通りだよ
+Dialogue: 0,0:20:57.20,0:21:00.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,しかし　この中にいたらと思うとな
+Dialogue: 0,0:21:01.03,0:21:01.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ああ
+Dialogue: 0,0:21:02.79,0:21:05.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,幹太の奴　何で分かったんだろうな
+Dialogue: 0,0:21:05.62,0:21:06.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それがよ
+Dialogue: 0,0:21:06.77,0:21:11.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この間15年前に切ったあの大杉に取り憑かれただろう
+Dialogue: 0,0:21:11.83,0:21:15.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それ以来偉い昔のことまで知ってるんだと？
+Dialogue: 0,0:21:15.61,0:21:19.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,それがわしのひい爺さんの話と同じでな
+Dialogue: 0,0:21:20.77,0:21:26.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,わしらはまたあの大杉に助けられたのかもしれんな
+Dialogue: 0,0:21:28.35,0:21:31.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,すまないな　自分の家も大変だろうに
+Dialogue: 0,0:21:32.49,0:21:36.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,気にするな　命の恩人なんだからよ
+Dialogue: 0,0:21:36.30,0:21:37.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,そうそう
+Dialogue: 0,0:21:38.05,0:21:41.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,あの大杉を切ってしまったことは今でも
+Dialogue: 0,0:21:41.06,0:21:43.77,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,皆古傷のように残ってんだ
+Dialogue: 0,0:21:44.85,0:21:47.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,受けた恩も　もう返せない
+Dialogue: 0,0:21:47.80,0:21:50.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,だから　お前に返させてくれ
+Dialogue: 0,0:21:51.53,0:21:54.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,困ったことがあったら　里の皆で助ける
+Dialogue: 0,0:21:56.47,0:21:59.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,またあの木が教えてくれることがあったら
+Dialogue: 0,0:21:59.29,0:22:01.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,わしらにも教えてくれ
+Dialogue: 0,0:22:07.07,0:22:13.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,気の遠くなるような長い長い時間
+Dialogue: 0,0:22:16.73,0:22:21.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この地には一本の木が立っていた
+Dialogue: 0,0:22:24.63,0:22:29.74,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,深く深く根を下ろし
+Dialogue: 0,0:22:33.59,0:22:39.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,高く広く枝を張り
+Dialogue: 0,0:22:42.49,0:22:48.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,この地に生まれては消える者達の移ろいを
+Dialogue: 0,0:22:52.75,0:22:58.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,変わらず　静かに　見下ろしていた
+Dialogue: 0,0:23:07.76,0:23:09.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,おい　ふたば
+Dialogue: 0,0:23:09.63,0:23:11.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,なーに
+Dialogue: 0,0:23:11.27,0:23:12.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,こっちにおいで
+Dialogue: 0,0:23:13.94,0:23:16.65,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,一本の木の話をしようか
+Dialogue: 0,0:23:18.51,0:23:24.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,ずっとずっとこの山に立っていた大きな木の
+Dialogue: 0,0:23:25.27,0:23:28.93,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,話しても話しても終わらない話だ
+Dialogue: 0,0:00:01.10,0:00:01.10,Default,,0,0,0,,
+Dialogue: 1,0:12:29.93,0:12:32.90,TXT CN 方正北魏楷书_GBK,,0,0,0,,以前 这好像是棵神树啊
+Dialogue: 1,0:12:34.17,0:12:38.16,TXT CN 方正北魏楷书_GBK,,0,0,0,,嗯 因为它十分了不起呢
+Dialogue: 1,0:12:39.69,0:12:42.33,TXT CN 方正北魏楷书_GBK,,0,0,0,,那它为什么 会变成现在这个样子
+Dialogue: 1,0:12:44.21,0:12:47.00,TXT CN 方正北魏楷书_GBK,,0,0,0,,因为 大家都很畏惧它
+Dialogue: 1,0:12:48.93,0:12:52.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,他们担心再这样下去 村子就完了
+Dialogue: 1,0:12:54.93,0:12:57.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,那大概是在15年前
+Dialogue: 1,0:12:58.43,0:13:03.67,TXT CN 方正北魏楷书_GBK,,0,0,0,,当时 大部分的村民都是樵夫
+Dialogue: 1,0:13:03.83,0:13:06.34,TXT CN 方正北魏楷书_GBK,,0,0,0,,都以种树卖树为生
+Dialogue: 1,0:13:07.61,0:13:10.08,TXT CN 方正北魏楷书_GBK,,0,0,0,,大家 快起来 出大事了
+Dialogue: 1,0:13:10.37,0:13:11.56,TXT CN 方正北魏楷书_GBK,,0,0,0,,山上…
+Dialogue: 1,0:13:20.69,0:13:23.32,TXT CN 方正北魏楷书_GBK,,0,0,0,,接下来 我们到底该怎么办
+Dialogue: 1,0:13:24.27,0:13:27.12,TXT CN 方正北魏楷书_GBK,,0,0,0,,已经走投无路了
+Dialogue: 1,0:13:28.43,0:13:30.82,TXT CN 方正北魏楷书_GBK,,0,0,0,,只能下山讨饭去了…
+Dialogue: 1,0:13:32.51,0:13:38.58,TXT CN 方正北魏楷书_GBK,,0,0,0,,我说 城里的木材商说过愿意出高价买下那棵巨杉吧
+Dialogue: 1,0:13:38.97,0:13:41.60,TXT CN 方正北魏楷书_GBK,,0,0,0,,是吗 没烧到那棵树啊
+Dialogue: 1,0:13:42.09,0:13:44.63,TXT CN 方正北魏楷书_GBK,,0,0,0,,但是 那棵树可是…
+Dialogue: 1,0:13:44.93,0:13:47.45,TXT CN 方正北魏楷书_GBK,,0,0,0,,而且 不是说怎么都没法砍吗
+Dialogue: 1,0:13:47.61,0:13:50.29,TXT CN 方正北魏楷书_GBK,,0,0,0,,不试试又怎么知道
+Dialogue: 1,0:13:50.43,0:13:52.22,TXT CN 方正北魏楷书_GBK,,0,0,0,,试一试吧
+Dialogue: 1,0:13:52.26,0:13:55.10,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂 你们几个 等等
+Dialogue: 1,0:13:55.34,0:13:58.75,TXT CN 方正北魏楷书_GBK,,0,0,0,,不能再等了 不然家里的孩子就快死了
+Dialogue: 1,0:13:59.07,0:14:00.13,TXT CN 方正北魏楷书_GBK,,0,0,0,,我家也是
+Dialogue: 1,0:14:00.55,0:14:04.87,TXT CN 方正北魏楷书_GBK,,0,0,0,,那棵树可是我们祖先代代敬重的神树啊
+Dialogue: 1,0:14:05.07,0:14:07.16,TXT CN 方正北魏楷书_GBK,,0,0,0,,要真的砍不了 我们也就死心了
+Dialogue: 1,0:14:09.04,0:14:09.97,TXT CN 方正北魏楷书_GBK,,0,0,0,,你们看
+Dialogue: 1,0:14:11.17,0:14:13.27,TXT CN 方正北魏楷书_GBK,,0,0,0,,那些花是怎么回事
+Dialogue: 1,0:14:15.22,0:14:17.73,TXT CN 方正北魏楷书_GBK,,0,0,0,,总觉得 好可怕啊
+Dialogue: 1,0:14:19.48,0:14:22.61,TXT CN 方正北魏楷书_GBK,,0,0,0,,神树在发怒
+Dialogue: 1,0:14:24.59,0:14:27.55,TXT CN 方正北魏楷书_GBK,,0,0,0,,你们说什么傻话 哪里有花啊
+Dialogue: 1,0:14:28.41,0:14:29.50,TXT CN 方正北魏楷书_GBK,,0,0,0,,别胡说八道了
+Dialogue: 1,0:14:29.52,0:14:30.59,TXT CN 方正北魏楷书_GBK,,0,0,0,,住手
+Dialogue: 1,0:14:33.07,0:14:34.16,TXT CN 方正北魏楷书_GBK,,0,0,0,,砍进去了
+Dialogue: 1,0:14:34.45,0:14:36.88,TXT CN 方正北魏楷书_GBK,,0,0,0,,什么砍不了呀 看来只是大家的迷信啊
+Dialogue: 1,0:14:37.17,0:14:38.01,TXT CN 方正北魏楷书_GBK,,0,0,0,,动手吧
+Dialogue: 1,0:15:11.33,0:15:13.57,TXT CN 方正北魏楷书_GBK,,0,0,0,,这些水 是怎么回事
+Dialogue: 1,0:15:17.33,0:15:19.26,TXT CN 方正北魏楷书_GBK,,0,0,0,,逐渐向四周漫去
+Dialogue: 1,0:15:23.52,0:15:28.55,TXT CN 方正北魏楷书_GBK,,0,0,0,,那棵树卖了个好价钱 足以令全村人暂时生活无忧
+Dialogue: 1,0:15:30.06,0:15:35.11,TXT CN 方正北魏楷书_GBK,,0,0,0,,而且被烧过的山林也以不可思议的速度恢复生长
+Dialogue: 1,0:15:38.05,0:15:41.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,当时 我之所以能把年幼的干太养大
+Dialogue: 1,0:15:42.45,0:15:44.29,TXT CN 方正北魏楷书_GBK,,0,0,0,,也是托了这棵树的福
+Dialogue: 1,0:15:45.93,0:15:48.92,TXT CN 方正北魏楷书_GBK,,0,0,0,,如果那时候不那么做 村子早就没了吧
+Dialogue: 1,0:15:50.33,0:15:55.82,TXT CN 方正北魏楷书_GBK,,0,0,0,,可是 这棵树当时肯定是生气了吧
+Dialogue: 1,0:15:57.05,0:16:00.92,TXT CN 方正北魏楷书_GBK,,0,0,0,,这 都是报应吧
+Dialogue: 1,0:16:02.25,0:16:03.95,TXT CN 方正北魏楷书_GBK,,0,0,0,,草木是不会生气的
+Dialogue: 1,0:16:05.03,0:16:09.44,TXT CN 方正北魏楷书_GBK,,0,0,0,,不过 它们也不是全无感觉 坐以待毙的
+Dialogue: 1,0:16:11.63,0:16:14.74,TXT CN 方正北魏楷书_GBK,,0,0,0,,有一种树 当树上的害虫大量繁殖时
+Dialogue: 1,0:16:14.97,0:16:17.56,TXT CN 方正北魏楷书_GBK,,0,0,0,,它就会从树叶中分泌出毒素驱走害虫 保护自身
+Dialogue: 1,0:16:19.11,0:16:21.06,TXT CN 方正北魏楷书_GBK,,0,0,0,,草木无法自己行动
+Dialogue: 1,0:16:21.29,0:16:24.96,TXT CN 方正北魏楷书_GBK,,0,0,0,,然而 正因为如此 它才对周围的变化极为敏感
+Dialogue: 1,0:16:25.32,0:16:28.49,TXT CN 方正北魏楷书_GBK,,0,0,0,,偶尔还会改变自身来应付这些变化
+Dialogue: 1,0:16:30.04,0:16:33.98,TXT CN 方正北魏楷书_GBK,,0,0,0,,这棵树曾拥有抵挡人类利斧的力量
+Dialogue: 1,0:16:35.33,0:16:37.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,而为什么 当时你们能够砍掉它呢
+Dialogue: 1,0:16:39.69,0:16:41.76,TXT CN 方正北魏楷书_GBK,,0,0,0,,那或许是因为这棵树自身做出了改变
+Dialogue: 1,0:16:41.93,0:16:44.84,TXT CN 方正北魏楷书_GBK,,0,0,0,,以便你们能够砍掉它
+Dialogue: 1,0:16:46.95,0:16:48.90,TXT CN 方正北魏楷书_GBK,,0,0,0,,这是为了整座遭受毁灭的大山
+Dialogue: 1,0:16:51.07,0:16:52.92,TXT CN 方正北魏楷书_GBK,,0,0,0,,树还能做这种事吗
+Dialogue: 1,0:16:53.69,0:16:54.69,TXT CN 方正北魏楷书_GBK,,0,0,0,,谁知道呢
+Dialogue: 1,0:16:58.39,0:17:00.54,TXT CN 方正北魏楷书_GBK,,0,0,0,,如果真像你说的那样
+Dialogue: 1,0:17:03.71,0:17:09.02,TXT CN 方正北魏楷书_GBK,,0,0,0,,那我们就真的失去了非常宝贵的东西啊
+Dialogue: 1,0:17:13.89,0:17:15.09,TXT CN 方正北魏楷书_GBK,,0,0,0,,服下这个吧
+Dialogue: 1,0:17:15.57,0:17:17.28,TXT CN 方正北魏楷书_GBK,,0,0,0,,这样我的脚就能治好了吗
+Dialogue: 1,0:17:17.99,0:17:20.89,TXT CN 方正北魏楷书_GBK,,0,0,0,,不 只能抑制虫的生长而已
+Dialogue: 1,0:17:22.00,0:17:25.02,TXT CN 方正北魏楷书_GBK,,0,0,0,,关于如何治疗你的脚 我写信问了不少朋友
+Dialogue: 1,0:17:25.61,0:17:27.34,TXT CN 方正北魏楷书_GBK,,0,0,0,,但却没收到什么好消息
+Dialogue: 1,0:17:30.29,0:17:32.09,TXT CN 方正北魏楷书_GBK,,0,0,0,,今后我会向其他虫师打听
+Dialogue: 1,0:17:33.39,0:17:35.06,TXT CN 方正北魏楷书_GBK,,0,0,0,,继续进行调查
+Dialogue: 1,0:17:35.71,0:17:37.84,TXT CN 方正北魏楷书_GBK,,0,0,0,,要是找到了办法 我会写信告诉你的
+Dialogue: 1,0:17:42.81,0:17:44.12,TXT CN 方正北魏楷书_GBK,,0,0,0,,好吧
+Dialogue: 1,0:17:55.69,0:17:57.20,TXT CN 方正北魏楷书_GBK,,0,0,0,,爸爸
+Dialogue: 1,0:17:59.11,0:18:00.75,TXT CN 方正北魏楷书_GBK,,0,0,0,,我们去外面玩吧
+Dialogue: 1,0:18:01.87,0:18:05.18,TXT CN 方正北魏楷书_GBK,,0,0,0,,对不起 爸爸再也不能像以前那样…
+Dialogue: 1,0:18:05.43,0:18:07.00,TXT CN 方正北魏楷书_GBK,,0,0,0,,那你给我讲故事吧
+Dialogue: 1,0:18:09.01,0:18:12.06,TXT CN 方正北魏楷书_GBK,,0,0,0,,我没什么故事可以讲给你听了
+Dialogue: 1,0:18:17.85,0:18:21.65,TXT CN 方正北魏楷书_GBK,,0,0,0,,都怪那棵树 我才会变成这样
+Dialogue: 1,0:18:24.07,0:18:25.91,TXT CN 方正北魏楷书_GBK,,0,0,0,,明明早就被砍掉了
+Dialogue: 1,0:18:27.50,0:18:30.39,TXT CN 方正北魏楷书_GBK,,0,0,0,,为什么还要一直占用我的身体
+Dialogue: 1,0:18:47.56,0:18:49.87,TXT CN 方正北魏楷书_GBK,,0,0,0,,红色的…花
+Dialogue: 1,0:18:52.27,0:18:54.85,TXT CN 方正北魏楷书_GBK,,0,0,0,,你感觉怎么样
+Dialogue: 1,0:18:55.49,0:18:56.85,TXT CN 方正北魏楷书_GBK,,0,0,0,,不 没有不舒服
+Dialogue: 1,0:18:57.79,0:19:00.60,TXT CN 方正北魏楷书_GBK,,0,0,0,,这应该是不祥之事的征兆
+Dialogue: 1,0:19:02.63,0:19:05.81,TXT CN 方正北魏楷书_GBK,,0,0,0,,你可能会遇到危险
+Dialogue: 1,0:19:19.60,0:19:23.23,TXT CN 方正北魏楷书_GBK,,0,0,0,,这股气息 是什么
+Dialogue: 1,0:19:25.01,0:19:27.46,TXT CN 方正北魏楷书_GBK,,0,0,0,,草木在骚动
+Dialogue: 1,0:19:30.39,0:19:32.23,TXT CN 方正北魏楷书_GBK,,0,0,0,,我了解这股气息
+Dialogue: 1,0:19:33.97,0:19:38.17,TXT CN 方正北魏楷书_GBK,,0,0,0,,很久 很久以前 我曾经感受过一次…
+Dialogue: 1,0:19:41.37,0:19:42.60,TXT CN 方正北魏楷书_GBK,,0,0,0,,想起来
+Dialogue: 1,0:19:44.01,0:19:45.18,TXT CN 方正北魏楷书_GBK,,0,0,0,,快想起来
+Dialogue: 1,0:19:49.08,0:19:52.27,TXT CN 方正北魏楷书_GBK,,0,0,0,,那时候到底发生了什么
+Dialogue: 1,0:19:56.27,0:19:57.99,TXT CN 方正北魏楷书_GBK,,0,0,0,,你说什么
+Dialogue: 1,0:19:58.27,0:20:00.25,TXT CN 方正北魏楷书_GBK,,0,0,0,,说是要立刻全体集合
+Dialogue: 1,0:20:00.85,0:20:02.55,TXT CN 方正北魏楷书_GBK,,0,0,0,,到底是怎么回事啊
+Dialogue: 1,0:20:02.69,0:20:04.79,TXT CN 方正北魏楷书_GBK,,0,0,0,,总之干太让我们快点去
+Dialogue: 1,0:20:07.55,0:20:08.69,TXT CN 方正北魏楷书_GBK,,0,0,0,,这里行吗
+Dialogue: 1,0:20:09.49,0:20:12.13,TXT CN 方正北魏楷书_GBK,,0,0,0,,不行 这附近很危险 再往前走些
+Dialogue: 1,0:20:13.95,0:20:15.30,TXT CN 方正北魏楷书_GBK,,0,0,0,,得抓紧时间
+Dialogue: 1,0:20:16.34,0:20:17.36,TXT CN 方正北魏楷书_GBK,,0,0,0,,马上就要来了
+Dialogue: 1,0:20:52.56,0:20:54.29,TXT CN 方正北魏楷书_GBK,,0,0,0,,哟 进展得怎么样
+Dialogue: 1,0:20:54.85,0:20:56.80,TXT CN 方正北魏楷书_GBK,,0,0,0,,你不都看到了嘛
+Dialogue: 1,0:20:57.20,0:21:00.68,TXT CN 方正北魏楷书_GBK,,0,0,0,,真不敢想象 要是当时呆在里面的话…
+Dialogue: 1,0:21:01.03,0:21:01.94,TXT CN 方正北魏楷书_GBK,,0,0,0,,嗯
+Dialogue: 1,0:21:02.79,0:21:05.20,TXT CN 方正北魏楷书_GBK,,0,0,0,,干太那家伙为什么会知道呢
+Dialogue: 1,0:21:05.62,0:21:06.66,TXT CN 方正北魏楷书_GBK,,0,0,0,,听说啊
+Dialogue: 1,0:21:06.77,0:21:11.12,TXT CN 方正北魏楷书_GBK,,0,0,0,,前阵子他被15年前砍掉的巨杉附身了
+Dialogue: 1,0:21:11.83,0:21:15.36,TXT CN 方正北魏楷书_GBK,,0,0,0,,似乎自那以后 他连很久以前发生过的事都知道
+Dialogue: 1,0:21:15.61,0:21:19.43,TXT CN 方正北魏楷书_GBK,,0,0,0,,还跟我曾爷爷说的一模一样啊
+Dialogue: 1,0:21:20.77,0:21:26.03,TXT CN 方正北魏楷书_GBK,,0,0,0,,我们说不定又被那棵巨杉救了一命啊
+Dialogue: 1,0:21:28.35,0:21:31.92,TXT CN 方正北魏楷书_GBK,,0,0,0,,对不起啊 明明你们自己家都还没修好
+Dialogue: 1,0:21:32.49,0:21:36.08,TXT CN 方正北魏楷书_GBK,,0,0,0,,别在意 你可是我们的救命恩人啊
+Dialogue: 1,0:21:36.30,0:21:37.34,TXT CN 方正北魏楷书_GBK,,0,0,0,,没错没错
+Dialogue: 1,0:21:38.05,0:21:41.00,TXT CN 方正北魏楷书_GBK,,0,0,0,,砍掉那棵巨杉的事 如今都还像旧伤疤一样
+Dialogue: 1,0:21:41.06,0:21:43.77,TXT CN 方正北魏楷书_GBK,,0,0,0,,留在大家的心口
+Dialogue: 1,0:21:44.85,0:21:47.16,TXT CN 方正北魏楷书_GBK,,0,0,0,,过去受到的恩情是无法偿还了
+Dialogue: 1,0:21:47.80,0:21:50.24,TXT CN 方正北魏楷书_GBK,,0,0,0,,所以就让我们偿还到你身上吧
+Dialogue: 1,0:21:51.53,0:21:54.76,TXT CN 方正北魏楷书_GBK,,0,0,0,,要是有什么困难 村里人都会来帮你的
+Dialogue: 1,0:21:56.47,0:21:59.15,TXT CN 方正北魏楷书_GBK,,0,0,0,,如果那棵树又告诉你些什么
+Dialogue: 1,0:21:59.29,0:22:01.00,TXT CN 方正北魏楷书_GBK,,0,0,0,,你就跟我们说吧
+Dialogue: 1,0:22:07.07,0:22:13.05,TXT CN 方正北魏楷书_GBK,,0,0,0,,曾有一段足以令人遗忘的 恒久的 恒久的时间
+Dialogue: 1,0:22:16.73,0:22:21.47,TXT CN 方正北魏楷书_GBK,,0,0,0,,这片土地上 耸立着一棵大树
+Dialogue: 1,0:22:24.63,0:22:29.74,TXT CN 方正北魏楷书_GBK,,0,0,0,,树根深植于地底
+Dialogue: 1,0:22:33.59,0:22:39.47,TXT CN 方正北魏楷书_GBK,,0,0,0,,枝叶向高远之处伸展
+Dialogue: 1,0:22:42.49,0:22:48.18,TXT CN 方正北魏楷书_GBK,,0,0,0,,它一直静静地俯视着
+Dialogue: 1,0:22:52.75,0:22:58.76,TXT CN 方正北魏楷书_GBK,,0,0,0,,这片土地上一代又一代的生息
+Dialogue: 1,0:23:07.76,0:23:09.11,TXT CN 方正北魏楷书_GBK,,0,0,0,,喂 双叶
+Dialogue: 1,0:23:09.63,0:23:11.12,TXT CN 方正北魏楷书_GBK,,0,0,0,,什么事
+Dialogue: 1,0:23:11.27,0:23:12.39,TXT CN 方正北魏楷书_GBK,,0,0,0,,过来
+Dialogue: 1,0:23:13.94,0:23:16.65,TXT CN 方正北魏楷书_GBK,,0,0,0,,我来给你讲一棵树的故事
+Dialogue: 1,0:23:18.51,0:23:24.76,TXT CN 方正北魏楷书_GBK,,0,0,0,,这是一个关于很久很久以前就耸立在这座山的大树的故事
+Dialogue: 1,0:23:25.27,0:23:28.93,TXT CN 方正北魏楷书_GBK,,0,0,0,,不论说多久都说不完
+
+
+Dialogue: 1,0:23:37.64,0:23:39.43,TXT CN 方正北魏楷书_GBK,,0,0,0,,铃之滴
+Dialogue: 0,0:23:37.64,0:23:39.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0,0,0,,鈴のしずく
+
+Dialogue: 1,0:23:36.21,0:23:37.75,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(0,1500)\blur0.5\c&H01061A&\frz278.833\pos(680,413)}常之{\c&H000125&}树
+Dialogue: 1,0:23:37.02,0:23:41.72,TITLE @方正行楷_GBK,,0000,0000,0000,,{\alpha10\fad(1500,0)\blur0.5\frz280.157\pos(680,413)\c&H0D0001&}铃之{\c&H0E0006&}滴
+
+

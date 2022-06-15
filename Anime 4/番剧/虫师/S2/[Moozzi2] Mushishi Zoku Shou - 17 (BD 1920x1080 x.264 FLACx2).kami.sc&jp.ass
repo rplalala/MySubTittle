@@ -1,0 +1,498 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Mushishi Zoku Shou II - 07
+Original Script: 诸神字幕组
+Original Translation: 诸神字幕组
+Original Timing: 电池雪糕
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,1
+Style: OP EN Footlight MT Light,Footlight MT Light,44,&H1EFFFFFE,&H1EFFFFFF,&H00000000,&H14050404,0,0,0,0,100,100,0,0,1,0,2,2,10,10,13,1
+Style: OP CN 楷体,KaiTi,40,&H14FFFFFE,&H14FFFFFE,&H00000000,&H14050404,0,0,0,0,98,100,1,0,1,0,1,8,10,10,13,1
+Style: STAFF 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00FFFFFF,&H00000000,&H00000000,&H9647454A,-1,0,0,0,100,100,1,0,1,1,2,8,10,10,5,1
+Style: TXT JP G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,36,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,2,0,2,10,10,13,128
+Style: TXT JP (UP) G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,32,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,1,0,8,10,10,44,128
+Style: TXT CN 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,2,0,2,10,10,44,1
+Style: TXT CN (UP) 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,36,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,1,0,8,10,10,13,1
+Style: NOTES 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,32,&H0AFFFFFF,&H00FFFFFF,&H000D170C,&H500D170C,-1,0,0,0,100,100,0,0,1,0,1,7,15,15,10,1
+Style: TITLE @宋体,@RS_Song,60,&H00FFFEF7,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+Style: TITLE @方正行楷_GBK,@FZXingKai-S04,62,&H000F1315,&H00FFFFFF,&H009FB5AE,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:42.06,0:00:45.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,うまいこと泳ぐな
+Dialogue: 1,0:00:42.06,0:00:45.35,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,咦 游得真好呀
+Dialogue: 0,0:00:55.86,0:01:01.79,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\bord0\shad0\blur1.2\frz0\p1\pos(1040,190)\c&H65B1B5&}m 0 0 l 0 0 l 100 0 l 100 500 l 0 500 l 0 0
+Dialogue: 1,0:00:55.86,0:01:01.79,TITLE @宋体,,0000,0000,0000,,{\fad(2400,0)\blur1.5\pos(1040,242)\c&HF1FCFD&}碧
+Dialogue: 1,0:00:55.86,0:01:01.79,TITLE @宋体,,0000,0000,0000,,{\fad(2400,0)\blur1.5\pos(1042,312)\c&HF1FCFD&}水
+Dialogue: 0,0:01:10.50,0:01:11.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,さてと
+Dialogue: 0,0:01:26.77,0:01:27.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お　悪いな
+Dialogue: 0,0:01:29.01,0:01:29.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,煙たかったか
+Dialogue: 0,0:01:34.55,0:01:37.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やけに冷たいな　水に入ってたにしろ
+Dialogue: 0,0:01:40.30,0:01:41.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:01:46.36,0:01:48.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太 どうしたの
+Dialogue: 0,0:01:50.26,0:01:52.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの　一体何が…
+Dialogue: 0,0:01:53.09,0:01:54.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いや　申し訳ない
+Dialogue: 0,0:01:55.29,0:01:56.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,タバコの煙吸っちまったみたいで
+Dialogue: 0,0:01:59.83,0:02:00.61,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,母ちゃん
+Dialogue: 0,0:02:05.92,0:02:07.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,今日もたくさん取れたわね
+Dialogue: 0,0:02:09.98,0:02:11.82,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,さあ　もう帰るわよ
+Dialogue: 0,0:02:14.69,0:02:15.26,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの
+Dialogue: 0,0:02:16.17,0:02:16.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何か
+Dialogue: 0,0:02:17.91,0:02:20.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,その子　泳ぎは達者だが
+Dialogue: 0,0:02:20.91,0:02:22.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,走るのは少々不得手では
+Dialogue: 0,0:02:25.14,0:02:26.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だったら何なの
+Dialogue: 0,0:02:28.48,0:02:31.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,異様に　喉の渇きを訴えたりは？
+Dialogue: 0,0:02:36.24,0:02:39.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何が 言いたいんですか
+Dialogue: 1,0:01:10.50,0:01:11.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,该出发了
+Dialogue: 1,0:01:26.77,0:01:27.73,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,噢 不好意思
+Dialogue: 1,0:01:29.01,0:01:29.81,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,熏着了吗
+Dialogue: 1,0:01:34.55,0:01:37.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,异常地冰凉呢 即使是泡过水也不该…
+Dialogue: 1,0:01:40.30,0:01:41.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:01:46.36,0:01:48.35,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太 你怎么了
+Dialogue: 1,0:01:50.26,0:01:52.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,请问 到底发生了什么…
+Dialogue: 1,0:01:53.09,0:01:54.34,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那个 真抱歉
+Dialogue: 1,0:01:55.29,0:01:56.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,似乎是吸进了烟气
+Dialogue: 1,0:01:59.83,0:02:00.61,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈
+Dialogue: 1,0:02:05.92,0:02:07.87,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,今天也捕到了很多呢
+Dialogue: 1,0:02:09.98,0:02:11.82,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,好了 该回去啦
+Dialogue: 1,0:02:14.69,0:02:15.26,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,请留步
+Dialogue: 1,0:02:16.17,0:02:16.76,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,有什么事吗
+Dialogue: 1,0:02:17.91,0:02:20.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这个孩子是不是很擅长游泳
+Dialogue: 1,0:02:20.91,0:02:22.59,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但跑起来不太稳？
+Dialogue: 1,0:02:25.14,0:02:26.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那又怎样
+Dialogue: 1,0:02:28.48,0:02:31.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是不是会过分抱怨喉咙干渴
+Dialogue: 1,0:02:36.24,0:02:39.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你究竟 想说什么
+Dialogue: 0,0:02:46.89,0:02:50.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,幾つか　われわれ蟲師の記録と符合する点がありましてね
+Dialogue: 0,0:02:52.93,0:02:55.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,低い体温　言葉の遅れ
+Dialogue: 0,0:02:57.71,0:03:00.10,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,稀に　水掻きのあるものも
+Dialogue: 0,0:03:02.76,0:03:04.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それがなんだってんです？
+Dialogue: 0,0:03:05.48,0:03:06.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,妙な言いがかりは…
+Dialogue: 0,0:03:06.60,0:03:07.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それらの原因が蟲なら
+Dialogue: 0,0:03:08.58,0:03:10.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,影響を薄める薬があります
+Dialogue: 0,0:03:11.95,0:03:14.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やはり　他の子と様子が違うのは
+Dialogue: 0,0:03:16.16,0:03:17.82,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いろいろと不安なんじゃないですか
+Dialogue: 0,0:03:30.48,0:03:31.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,水を掻いてんのか
+Dialogue: 0,0:03:33.75,0:03:35.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,夢の中でも泳いでんのかね
+Dialogue: 0,0:03:59.65,0:04:02.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの子の中には　雨蠱という蟲がいます
+Dialogue: 0,0:04:05.72,0:04:09.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,個体としては　肉眼では捉えられないほど小さなもの
+Dialogue: 0,0:04:13.03,0:04:15.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それが雨に紛れ川へ流れ込むと
+Dialogue: 0,0:04:17.75,0:04:20.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,群れて碧い巨大魚のような姿で川を下り
+Dialogue: 0,0:04:23.48,0:04:24.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やがて海に出て　子を成す
+Dialogue: 0,0:04:28.20,0:04:29.86,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それがまた水蒸気に紛れ
+Dialogue: 0,0:04:30.64,0:04:32.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,雨となり　山河に降り注ぐ
+Dialogue: 0,0:04:36.16,0:04:37.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうして生きているものに過ぎないが
+Dialogue: 0,0:04:40.52,0:04:44.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川を下るときに　群れの一部が淵などに取り残されると
+Dialogue: 0,0:04:46.06,0:04:50.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,魚に食われないように 山椒魚などの体内に寄生する
+Dialogue: 0,0:04:52.74,0:04:54.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,が　ごく稀に
+Dialogue: 0,0:04:55.39,0:04:58.10,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,溺れて仮死状態となった人に寄生することもある
+Dialogue: 0,0:05:01.41,0:05:03.01,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうなると　蘇生はするが
+Dialogue: 0,0:05:03.82,0:05:07.49,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,息子さんのような影響が残り　完全に抜くことはできない
+Dialogue: 0,0:05:11.53,0:05:14.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,大水が起こると　濁流に乗じて海へ出ようと
+Dialogue: 0,0:05:15.29,0:05:16.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,自ら抜け出ることもあるが
+Dialogue: 0,0:05:17.69,0:05:19.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いつ起こるとも分からない
+Dialogue: 0,0:05:22.32,0:05:25.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,まずは暫く　この薬で様子を見てください
+Dialogue: 0,0:06:06.18,0:06:06.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:06:14.98,0:06:15.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:06:18.89,0:06:20.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,夜は来ちゃだめだって言ってるでしょ
+Dialogue: 0,0:06:22.50,0:06:25.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,また　水の夢を見たのね
+Dialogue: 0,0:06:51.19,0:06:51.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,母ちゃん
+Dialogue: 0,0:06:54.67,0:06:56.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,すごいの取れたわね
+Dialogue: 0,0:07:03.86,0:07:04.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ほら
+Dialogue: 0,0:07:10.54,0:07:11.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何だよ
+Dialogue: 0,0:07:11.70,0:07:12.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,入れてやんねぇぞ
+Dialogue: 0,0:07:13.83,0:07:17.25,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あいつ　体が魚みてぇに冷てぇんだってさ
+Dialogue: 0,0:07:17.71,0:07:18.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,人の子じゃねぇんだ
+Dialogue: 0,0:07:19.43,0:07:20.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,気味悪い
+Dialogue: 0,0:07:27.52,0:07:28.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何だよ
+Dialogue: 0,0:07:30.45,0:07:31.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,うわ　でっけぇ
+Dialogue: 0,0:07:33.86,0:07:35.64,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,向こう　たくさんいる
+Dialogue: 0,0:07:37.95,0:07:39.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,一緒遊ぼう
+Dialogue: 0,0:07:43.92,0:07:44.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そっち
+Dialogue: 0,0:07:47.20,0:07:48.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,下手くそ
+Dialogue: 0,0:07:50.14,0:07:53.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あれ　お前　そんな体冷たくねぇな
+Dialogue: 0,0:07:55.31,0:07:56.04,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,本当だ
+Dialogue: 0,0:07:56.82,0:07:58.38,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,誰が冷てぇとか言ったんだ
+Dialogue: 0,0:07:58.98,0:07:59.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,さあ
+Dialogue: 0,0:08:05.29,0:08:06.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ね　母ちゃん
+Dialogue: 0,0:08:07.25,0:08:08.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何
+Dialogue: 0,0:08:08.69,0:08:10.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川はどこから来る？
+Dialogue: 0,0:08:11.29,0:08:13.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,山奥の谷から流れてくるのよ
+Dialogue: 0,0:08:15.36,0:08:17.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,谷の水　どこから来る？
+Dialogue: 0,0:08:17.97,0:08:20.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,空の雲から降ってくるのよ
+Dialogue: 0,0:08:21.15,0:08:23.17,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあ　空の雲は？
+Dialogue: 0,0:08:23.57,0:08:27.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,えっと　あっそう　海から生まれるのよ
+Dialogue: 0,0:08:29.31,0:08:30.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,海？
+Dialogue: 0,0:08:30.99,0:08:33.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,この川が行き着くところよ
+Dialogue: 0,0:08:33.98,0:08:35.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,たくさん水があるところ
+Dialogue: 0,0:08:37.14,0:08:39.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,たくさん？どれぐらい
+Dialogue: 0,0:08:41.32,0:08:43.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,母さんもまだ見たことないけど
+Dialogue: 0,0:08:44.42,0:08:46.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,見渡す限り水なんだって
+Dialogue: 0,0:08:47.54,0:08:48.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,へえ
+Dialogue: 0,0:08:49.74,0:08:54.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあ　海も川も雨も雲も全部一緒？
+Dialogue: 0,0:08:55.66,0:08:59.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうよ　形は違うけど　みんな同じなの
+Dialogue: 0,0:09:02.18,0:09:03.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうか
+Dialogue: 0,0:09:09.41,0:09:10.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたの
+Dialogue: 0,0:09:14.38,0:09:15.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何でもないわよ
+Dialogue: 0,0:09:28.70,0:09:30.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,元気そうだな
+Dialogue: 1,0:02:46.89,0:02:50.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这症状 有几点和我们虫师的记录一致
+Dialogue: 1,0:02:52.93,0:02:55.57,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,体温偏低 言语迟钝
+Dialogue: 1,0:02:57.71,0:03:00.10,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,极少数人甚至长有蹼
+Dialogue: 1,0:03:02.76,0:03:04.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那又怎么样
+Dialogue: 1,0:03:05.48,0:03:06.55,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这种莫名其妙的找茬…
+Dialogue: 1,0:03:06.60,0:03:07.97,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如果这是虫造成的
+Dialogue: 1,0:03:08.58,0:03:10.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,有种药能够减轻这些症状
+Dialogue: 1,0:03:11.95,0:03:14.92,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,他状况和别的孩子不一样
+Dialogue: 1,0:03:16.16,0:03:17.82,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,想必令你感到很不安吧
+Dialogue: 1,0:03:30.48,0:03:31.85,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,在划水吗
+Dialogue: 1,0:03:33.75,0:03:35.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,连在梦里也游泳吗
+Dialogue: 1,0:03:59.65,0:04:02.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那个孩子身体里有种叫雨蛊的虫
+Dialogue: 1,0:04:05.72,0:04:09.52,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,雨蛊个体极小 肉眼几不可见
+Dialogue: 1,0:04:13.03,0:04:15.34,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,它们混入雨水汇进溪河
+Dialogue: 1,0:04:17.75,0:04:20.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,成群结队 形成巨大的碧鱼状 顺流而下
+Dialogue: 1,0:04:23.48,0:04:24.99,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,最终进入大海 进行繁殖
+Dialogue: 1,0:04:28.20,0:04:29.86,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,接着后代又夹杂在水蒸气里
+Dialogue: 1,0:04:30.64,0:04:32.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,化作雨水 降落于山河
+Dialogue: 1,0:04:36.16,0:04:37.98,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,他们仅仅是这样活着的一种生物而已
+Dialogue: 1,0:04:40.52,0:04:44.32,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但若在顺流而下之际 群队的一部分停留在深水处
+Dialogue: 1,0:04:46.06,0:04:50.06,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,就会寄生在山椒鱼等体内 以免被鱼吃掉
+Dialogue: 1,0:04:52.74,0:04:54.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是也有极少数
+Dialogue: 1,0:04:55.39,0:04:58.10,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,寄生在因溺水而陷入假死状态的人体内的例子
+Dialogue: 1,0:05:01.41,0:05:03.01,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如此一来 尽管能够苏醒
+Dialogue: 1,0:05:03.82,0:05:07.49,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但会像令郎一样 留下无法完全拔除的后遗症
+Dialogue: 1,0:05:11.53,0:05:14.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,虽然发洪水时 为了乘浊流发向大海
+Dialogue: 1,0:05:15.29,0:05:16.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,雨蛊也会自动出来
+Dialogue: 1,0:05:17.69,0:05:19.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不过不知道什么时候才会发生
+Dialogue: 1,0:05:22.32,0:05:25.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,暂且让他喝下这个药 静观其变吧
+Dialogue: 1,0:06:06.18,0:06:06.94,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:06:14.98,0:06:15.72,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:06:18.89,0:06:20.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我不是说过晚上不能来吗
+Dialogue: 1,0:06:22.50,0:06:25.58,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,又梦见了水是吧
+Dialogue: 1,0:06:51.19,0:06:51.97,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈
+Dialogue: 1,0:06:54.67,0:06:56.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,哇 抓到了条大的呢
+Dialogue: 1,0:07:03.86,0:07:04.60,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看招
+Dialogue: 1,0:07:10.54,0:07:11.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看什么
+Dialogue: 1,0:07:11.70,0:07:12.90,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我们不会和你玩的
+Dialogue: 1,0:07:13.83,0:07:17.25,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,听说那家伙身体像鱼一样冰
+Dialogue: 1,0:07:17.71,0:07:18.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,根本不是人
+Dialogue: 1,0:07:19.43,0:07:20.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,真恶心
+Dialogue: 1,0:07:27.52,0:07:28.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么啊
+Dialogue: 1,0:07:30.45,0:07:31.90,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,哇 好大
+Dialogue: 1,0:07:33.86,0:07:35.64,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那边 有好多
+Dialogue: 1,0:07:37.95,0:07:39.05,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,一起玩吧
+Dialogue: 1,0:07:43.92,0:07:44.42,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那边
+Dialogue: 1,0:07:47.20,0:07:48.29,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你好逊哦
+Dialogue: 1,0:07:50.14,0:07:53.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,咦 你的身体不是那么冰啊
+Dialogue: 1,0:07:55.31,0:07:56.04,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,真的诶
+Dialogue: 1,0:07:56.82,0:07:58.38,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是谁说冰来着
+Dialogue: 1,0:07:58.98,0:07:59.52,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,鬼知道
+Dialogue: 1,0:08:05.29,0:08:06.42,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我说 妈妈
+Dialogue: 1,0:08:07.25,0:08:08.06,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么事
+Dialogue: 1,0:08:08.69,0:08:10.42,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,河从哪里过来的
+Dialogue: 1,0:08:11.29,0:08:13.84,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是从深山的峡谷里流出来的哦
+Dialogue: 1,0:08:15.36,0:08:17.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,峡谷里的水从哪里来的
+Dialogue: 1,0:08:17.97,0:08:20.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是从天上的云朵落下来的
+Dialogue: 1,0:08:21.15,0:08:23.17,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那 天上的云朵呢
+Dialogue: 1,0:08:23.57,0:08:27.83,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这个 啊 对了 是从大海里升起来的
+Dialogue: 1,0:08:29.31,0:08:30.03,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,大海？
+Dialogue: 1,0:08:30.99,0:08:33.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,就是这条河最终抵达的地方
+Dialogue: 1,0:08:33.98,0:08:35.98,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那里汇聚着很多水
+Dialogue: 1,0:08:37.14,0:08:39.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,好多？那是多少
+Dialogue: 1,0:08:41.32,0:08:43.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这个嘛 虽然妈妈也没见过
+Dialogue: 1,0:08:44.42,0:08:46.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,听说啊 一眼望去全是水
+Dialogue: 1,0:08:47.54,0:08:48.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是吗
+Dialogue: 1,0:08:49.74,0:08:54.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那 大海 河川 雨水 云朵都是同一样东西吗
+Dialogue: 1,0:08:55.66,0:08:59.94,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是啊 即便形态不同 但它们都是一样的
+Dialogue: 1,0:09:02.18,0:09:03.16,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这样啊
+Dialogue: 1,0:09:09.41,0:09:10.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你怎么了
+Dialogue: 1,0:09:14.38,0:09:15.52,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没事
+Dialogue: 1,0:09:28.70,0:09:30.59,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,呦 你看起来很精神嘛
+Dialogue: 0,0:09:31.63,0:09:33.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あ　煙のおじさん
+Dialogue: 0,0:09:34.43,0:09:35.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おじさん…
+Dialogue: 0,0:09:36.53,0:09:38.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう　煙はいやじゃねぇのか
+Dialogue: 0,0:09:39.17,0:09:40.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,うん　そんなに
+Dialogue: 0,0:09:49.14,0:09:50.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,薬が効いたみたいだな
+Dialogue: 0,0:09:51.38,0:09:52.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,はい
+Dialogue: 0,0:09:53.14,0:09:55.14,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,体温もずいぶん上がりましたし
+Dialogue: 0,0:09:56.15,0:09:59.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,以前は日に一升も水を欲しがりましたが
+Dialogue: 0,0:09:59.48,0:10:01.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,今は七合ほどに減ってきてます
+Dialogue: 0,0:10:02.79,0:10:03.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そりゃよかった
+Dialogue: 0,0:10:04.57,0:10:05.93,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ありがとうございます
+Dialogue: 0,0:10:06.92,0:10:09.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの薬　またいただけますか
+Dialogue: 0,0:10:11.37,0:10:14.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,言っておくが　恐らくこれ以上の効果は望めない
+Dialogue: 0,0:10:16.34,0:10:18.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,蟲が抜けたわけではないのでね
+Dialogue: 0,0:10:20.40,0:10:23.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,本来　人に寄生するものではないから
+Dialogue: 0,0:10:23.67,0:10:25.44,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,人とはそう深く結びつかないが
+Dialogue: 0,0:10:26.64,0:10:29.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,山椒魚などは　寄生されて数年たつと
+Dialogue: 0,0:10:29.93,0:10:31.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,同化して水に消えてしまう
+Dialogue: 0,0:10:33.86,0:10:36.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そういう　厄介なものなんだ
+Dialogue: 0,0:10:37.73,0:10:38.48,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そう
+Dialogue: 0,0:10:39.96,0:10:41.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でもあの子は大丈夫なんでしょ
+Dialogue: 0,0:10:43.04,0:10:47.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,恐らく　薬で影響を抑えながら現状を保てるはずだ
+Dialogue: 0,0:10:49.11,0:10:52.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それでよければ　また頃合を見て薬を持ってくる
+Dialogue: 0,0:10:53.84,0:10:55.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ま　薬代は安くしとくよ
+Dialogue: 0,0:10:59.10,0:11:02.01,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうね　それで充分
+Dialogue: 0,0:11:05.54,0:11:06.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おじさん
+Dialogue: 0,0:11:06.36,0:11:07.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おじさんじゃねぇ
+Dialogue: 0,0:11:08.79,0:11:10.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,次　いつ来る？
+Dialogue: 0,0:11:11.32,0:11:13.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,んん　秋口だ
+Dialogue: 0,0:11:15.52,0:11:17.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあな　もう溺れんなよ
+Dialogue: 0,0:11:18.59,0:11:20.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おれ　溺れたことないよ
+Dialogue: 0,0:11:21.77,0:11:23.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,嘘付け　忘れてんだよ
+Dialogue: 0,0:11:24.67,0:11:26.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おい　涌太
+Dialogue: 0,0:11:29.02,0:11:30.10,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあ　またね
+Dialogue: 0,0:11:52.50,0:11:53.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:11:54.24,0:11:55.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,中へ入ってなさい
+Dialogue: 0,0:12:12.36,0:12:13.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたの
+Dialogue: 0,0:12:14.62,0:12:17.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,喉が乾いたの　川は駄目よ
+Dialogue: 0,0:12:18.93,0:12:19.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,行かなきゃ
+Dialogue: 0,0:12:21.62,0:12:24.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何言って　待ちなさい
+Dialogue: 0,0:12:26.33,0:12:27.27,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:12:37.79,0:12:39.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太　どこ
+Dialogue: 0,0:12:42.86,0:12:43.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ギンコさん
+Dialogue: 0,0:12:44.58,0:12:46.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ここらが長雨だと聞いてな
+Dialogue: 0,0:12:48.03,0:12:49.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,このままだと　鉄砲水が来る
+Dialogue: 0,0:12:51.77,0:12:55.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,危険も伴うが　上手くいきゃ雨蠱を抜けるかもしれん
+Dialogue: 0,0:12:57.28,0:12:58.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やるなら手を貸す
+Dialogue: 0,0:13:06.60,0:13:08.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ごめんね　我慢してね
+Dialogue: 0,0:13:10.33,0:13:12.92,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でも　こうすればあんたも
+Dialogue: 0,0:13:13.60,0:13:15.71,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,きっと他の子たちと同じになれる
+Dialogue: 0,0:13:17.56,0:13:20.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,村の皆に認めてもらえる子に
+Dialogue: 0,0:13:37.20,0:13:39.14,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じっとして　危ないわ
+Dialogue: 0,0:13:41.01,0:13:42.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,行かなきゃ
+Dialogue: 0,0:13:44.32,0:13:46.29,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう行かなきゃ
+Dialogue: 0,0:13:47.30,0:13:48.75,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何言ってるの
+Dialogue: 0,0:13:49.48,0:13:50.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,止めなさい
+Dialogue: 0,0:13:52.43,0:13:56.04,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,絶対に　絶対にどこへもやらないから
+Dialogue: 0,0:15:10.90,0:15:14.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太　起きて　朝よ
+Dialogue: 0,0:15:20.58,0:15:22.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太　返事して
+Dialogue: 0,0:15:25.88,0:15:26.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,母ちゃん
+Dialogue: 0,0:15:28.50,0:15:29.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,良かった
+Dialogue: 0,0:15:31.73,0:15:33.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,母ちゃん　どうしたの
+Dialogue: 0,0:15:36.49,0:15:40.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,雨怖かったね　もう怖くないよ
+Dialogue: 0,0:15:43.10,0:15:45.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ええ　そうね
+Dialogue: 0,0:15:47.97,0:15:49.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,雨蠱は抜けた…のか
+Dialogue: 0,0:15:53.30,0:15:56.38,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ねえ　母ちゃん　喉乾いた
+Dialogue: 0,0:15:58.12,0:15:58.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そう
+Dialogue: 0,0:16:00.38,0:16:02.89,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川の水は泥が混ざっちゃったから
+Dialogue: 0,0:16:03.47,0:16:05.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,山のほうの井戸まで行こうか
+Dialogue: 0,0:16:16.14,0:16:20.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,未だ喉の渇きを訴える 抜き切っていないのか
+Dialogue: 0,0:16:28.51,0:16:29.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたんです
+Dialogue: 0,0:16:30.35,0:16:32.71,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おかしい　体がひどく熱い
+Dialogue: 0,0:16:34.29,0:16:35.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,とにかく水を
+Dialogue: 0,0:16:37.59,0:16:38.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:16:49.90,0:16:50.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太
+Dialogue: 0,0:17:04.76,0:17:05.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌…
+Dialogue: 0,0:17:09.08,0:17:09.77,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どこ
+Dialogue: 0,0:17:11.28,0:17:12.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どこへ消えたの
+Dialogue: 0,0:17:16.86,0:17:17.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どこなの
+Dialogue: 0,0:17:27.18,0:17:28.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ねえ　母ちゃん
+Dialogue: 0,0:17:29.52,0:17:31.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川　どこから来る？
+Dialogue: 0,0:17:34.46,0:17:37.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,山の奥の谷から流れて来るのよ
+Dialogue: 0,0:17:39.31,0:17:41.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,谷の水　どこから来る？
+Dialogue: 0,0:17:42.98,0:17:45.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,空の雲から降ってくるのよ
+Dialogue: 0,0:17:47.75,0:17:49.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあ　空の雲は？
+Dialogue: 0,0:17:51.42,0:17:52.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,海から生まれるのよ
+Dialogue: 0,0:17:54.64,0:17:55.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,海？
+Dialogue: 0,0:17:56.47,0:18:01.16,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,この川の行き着く所よ　たくさん水のある所
+Dialogue: 0,0:18:09.57,0:18:11.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうして　あの子は
+Dialogue: 0,0:18:18.78,0:18:21.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの子は　自分は溺れたことはないと言っていた
+Dialogue: 0,0:18:25.89,0:18:26.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川で溺れたのは
+Dialogue: 0,0:18:28.56,0:18:29.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あんたか
+Dialogue: 0,0:18:34.47,0:18:35.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,はい
+Dialogue: 0,0:18:40.00,0:18:44.48,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あれは　あの子の生まれる十月ほど前のことです
+Dialogue: 0,0:18:47.25,0:18:49.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,なんだか今日は流れが速いな
+Dialogue: 0,0:18:50.18,0:18:52.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,山で雨が降ったのかしら
+Dialogue: 0,0:19:01.13,0:19:03.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,気が付くと　私は岸にいました
+Dialogue: 0,0:19:05.48,0:19:06.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,けれど　夫は
+Dialogue: 0,0:19:08.34,0:19:10.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,深みの底で見つかりました
+Dialogue: 0,0:19:12.69,0:19:17.25,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,その後　私は夫の子を身ごもっていることに気づきました
+Dialogue: 0,0:19:21.02,0:19:25.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,腹の中で無事でいてくれたことに 心底感謝しました
+Dialogue: 0,0:19:28.28,0:19:30.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう一息だよ　頑張って
+Dialogue: 0,0:19:31.66,0:19:32.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そう
+Dialogue: 0,0:19:38.26,0:19:41.04,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,タキさん　気の毒だけど
+Dialogue: 0,0:19:47.18,0:19:49.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,冷たい赤児でした
+Dialogue: 0,0:19:51.99,0:19:52.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,けれど
+Dialogue: 0,0:19:57.38,0:19:59.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,その子は確かに生きていました
+Dialogue: 0,0:20:02.09,0:20:04.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,皆　恐ろしいと言ったけれど
+Dialogue: 0,0:20:05.63,0:20:07.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私は嬉しかった
+Dialogue: 0,0:20:09.72,0:20:13.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,普通でないなりに　これまで生きてくれてたんです
+Dialogue: 0,0:20:16.87,0:20:19.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうして　今になって…
+Dialogue: 0,0:20:23.27,0:20:26.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,胎児は腹の中で水に浸されていて
+Dialogue: 0,0:20:27.56,0:20:31.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,人よりも蛙や山椒魚　水の生き物に近いという
+Dialogue: 0,0:20:34.20,0:20:37.38,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの子はその段階で雨蠱に寄生された
+Dialogue: 0,0:20:39.50,0:20:42.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そして　そのまま体内で成長していくうちに
+Dialogue: 0,0:20:44.64,0:20:47.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,分類できないほど深く深く一体化してしまった
+Dialogue: 0,0:20:50.37,0:20:54.22,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私が　私がそんなものに憑かれたせいで
+Dialogue: 0,0:20:57.77,0:20:59.48,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの子が腹の中で無事だったのは
+Dialogue: 0,0:21:00.37,0:21:03.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,まず　あんたが雨蠱に寄生されて蘇生したからだ
+Dialogue: 0,0:21:06.36,0:21:09.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でなけりゃ　二人とも生きてはいなかったろう
+Dialogue: 0,0:21:12.21,0:21:13.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あいつは生きた
+Dialogue: 0,0:21:16.65,0:21:17.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,確かにここに
+Dialogue: 0,0:21:19.80,0:21:20.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,生きていた
+Dialogue: 0,0:21:24.45,0:21:30.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃあ　海も川も雨も雲も　全部一緒？
+Dialogue: 0,0:21:33.33,0:21:38.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうよ　形は違っても　皆同じなの
+Dialogue: 0,0:21:44.79,0:21:48.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,涌太　あんた今どこにいる
+Dialogue: 0,0:21:52.34,0:21:57.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,川かしら　海かしら　雨かしら
+Dialogue: 0,0:22:02.96,0:22:03.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたの
+Dialogue: 0,0:22:06.45,0:22:07.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう怖くないよ
+Dialogue: 0,0:22:22.16,0:22:27.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうだね　あんたはどこにでもいるんだものね
+Dialogue: 0,0:00:01.00,0:00:01.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,
+Dialogue: 1,0:09:31.63,0:09:33.60,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,啊 吸烟的大叔
+Dialogue: 1,0:09:34.43,0:09:35.27,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,大叔？
+Dialogue: 1,0:09:36.53,0:09:38.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你已经不讨厌烟了吗
+Dialogue: 1,0:09:39.17,0:09:40.84,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,嗯 不那么讨厌了
+Dialogue: 1,0:09:49.14,0:09:50.41,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看来药起效果了
+Dialogue: 1,0:09:51.38,0:09:52.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是啊
+Dialogue: 1,0:09:53.14,0:09:55.14,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不仅体温升高了很多
+Dialogue: 1,0:09:56.15,0:09:59.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,以前每天1升水都嫌不够
+Dialogue: 1,0:09:59.48,0:10:01.58,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,现在减到了7合左右
+Dialogue: 1,0:10:02.79,0:10:03.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那就好
+Dialogue: 1,0:10:04.57,0:10:05.93,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,真的太谢谢你了
+Dialogue: 1,0:10:06.92,0:10:09.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那个药 能再给我一些吗
+Dialogue: 1,0:10:11.37,0:10:14.76,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我事先声明 靠药恐怕无法达到比现在更好的效果
+Dialogue: 1,0:10:16.34,0:10:18.20,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,毕竟虫没被完全祛除
+Dialogue: 1,0:10:20.40,0:10:23.09,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,虽然雨蛊原本就不是寄生在人体内的东西
+Dialogue: 1,0:10:23.67,0:10:25.44,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,所以和人的结合并不深切
+Dialogue: 1,0:10:26.64,0:10:29.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,要是山椒鱼之类的 被寄生数年后
+Dialogue: 1,0:10:29.93,0:10:31.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,就与之同化消失在水里了
+Dialogue: 1,0:10:33.86,0:10:36.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,雨蛊就是这么棘手的东西
+Dialogue: 1,0:10:37.73,0:10:38.48,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是吗
+Dialogue: 1,0:10:39.96,0:10:41.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是那孩子的话没问题的吧
+Dialogue: 1,0:10:43.04,0:10:47.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,应该能靠药抑制虫的影响从而保持现状
+Dialogue: 1,0:10:49.11,0:10:52.21,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如果你能接受这样子的话 我会看着时候送药过来
+Dialogue: 1,0:10:53.84,0:10:55.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,当然 药钱给你算便宜些
+Dialogue: 1,0:10:59.10,0:11:02.01,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,也是 这样已经很好了
+Dialogue: 1,0:11:05.54,0:11:06.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,大叔
+Dialogue: 1,0:11:06.36,0:11:07.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我不是大叔
+Dialogue: 1,0:11:08.79,0:11:10.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你下次什么时候来
+Dialogue: 1,0:11:11.32,0:11:13.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这个嘛 初秋吧
+Dialogue: 1,0:11:15.52,0:11:17.43,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,再见 别再溺水了哦
+Dialogue: 1,0:11:18.59,0:11:20.92,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我没有溺过水啊
+Dialogue: 1,0:11:21.77,0:11:23.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,说谎 是你忘了吧
+Dialogue: 1,0:11:24.67,0:11:26.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,喂 涌太
+Dialogue: 1,0:11:29.02,0:11:30.10,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那下次见
+Dialogue: 1,0:11:52.50,0:11:53.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:11:54.24,0:11:55.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,进去吧
+Dialogue: 1,0:12:12.36,0:12:13.03,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,怎么了
+Dialogue: 1,0:12:14.62,0:12:17.21,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,口渴了吗 不可以去河边
+Dialogue: 1,0:12:18.93,0:12:19.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我必须去
+Dialogue: 1,0:12:21.62,0:12:24.13,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你在说什… 等等
+Dialogue: 1,0:12:26.33,0:12:27.27,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:12:37.79,0:12:39.33,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太 你在哪儿
+Dialogue: 1,0:12:42.86,0:12:43.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,银古先生
+Dialogue: 1,0:12:44.58,0:12:46.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我听说这一带连日下雨
+Dialogue: 1,0:12:48.03,0:12:49.69,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,再这样下去 会引发山洪
+Dialogue: 1,0:12:51.77,0:12:55.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,尽管有些风险 但顺利的话 就能祛除雨蛊
+Dialogue: 1,0:12:57.28,0:12:58.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你愿意的话 我会帮你
+Dialogue: 1,0:13:06.60,0:13:08.85,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,对不起 忍耐一下吧
+Dialogue: 1,0:13:10.33,0:13:12.92,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是 这样的话
+Dialogue: 1,0:13:13.60,0:13:15.71,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你就一定能变得和其他孩子一样了
+Dialogue: 1,0:13:17.56,0:13:20.63,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,村里的人 也都会认同你
+Dialogue: 1,0:13:37.20,0:13:39.14,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,乖乖待着 很危险
+Dialogue: 1,0:13:41.01,0:13:42.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我必须去
+Dialogue: 1,0:13:44.32,0:13:46.29,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我该走了
+Dialogue: 1,0:13:47.30,0:13:48.75,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,别说傻话了
+Dialogue: 1,0:13:49.48,0:13:50.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,快停下
+Dialogue: 1,0:13:52.43,0:13:56.04,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我绝对 绝对不会让你走的
+Dialogue: 1,0:15:10.90,0:15:14.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太 醒醒 已经白天了
+Dialogue: 1,0:15:20.58,0:15:22.85,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太 回答我
+Dialogue: 1,0:15:25.88,0:15:26.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈
+Dialogue: 1,0:15:28.50,0:15:29.58,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,太好了
+Dialogue: 1,0:15:31.73,0:15:33.97,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈 你怎么了
+Dialogue: 1,0:15:36.49,0:15:40.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,下雨很可怕吧 但你已经不用怕了
+Dialogue: 1,0:15:43.10,0:15:45.09,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,嗯 是啊
+Dialogue: 1,0:15:47.97,0:15:49.90,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,雨蛊 已经被祛除了吗
+Dialogue: 1,0:15:53.30,0:15:56.38,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈 我口渴了
+Dialogue: 1,0:15:58.12,0:15:58.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是吗
+Dialogue: 1,0:16:00.38,0:16:02.89,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,河水里混杂着泥土
+Dialogue: 1,0:16:03.47,0:16:05.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我们去喝山上的井水吧
+Dialogue: 1,0:16:16.14,0:16:20.69,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,到现在还说口渴 雨蛊没能完全祛除吗
+Dialogue: 1,0:16:28.51,0:16:29.30,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,怎么了
+Dialogue: 1,0:16:30.35,0:16:32.71,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,很奇怪 他的身体很烫
+Dialogue: 1,0:16:34.29,0:16:35.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,总之先给他喝些水
+Dialogue: 1,0:16:37.59,0:16:38.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:16:49.90,0:16:50.63,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太
+Dialogue: 1,0:17:04.76,0:17:05.56,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌…
+Dialogue: 1,0:17:09.08,0:17:09.77,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,哪里
+Dialogue: 1,0:17:11.28,0:17:12.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,他消失到哪里去了
+Dialogue: 1,0:17:16.86,0:17:17.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,到底是哪里
+Dialogue: 1,0:17:27.18,0:17:28.33,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,妈妈
+Dialogue: 1,0:17:29.52,0:17:31.60,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,河水是从哪儿来的
+Dialogue: 1,0:17:34.46,0:17:37.21,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是从大山深处的山谷里流过来的
+Dialogue: 1,0:17:39.31,0:17:41.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,山谷里的水是从哪儿来的
+Dialogue: 1,0:17:42.98,0:17:45.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是从天上的云朵落下来的
+Dialogue: 1,0:17:47.75,0:17:49.84,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那 天上的云朵呢
+Dialogue: 1,0:17:51.42,0:17:52.85,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是从大海里升起来的
+Dialogue: 1,0:17:54.64,0:17:55.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,大海？
+Dialogue: 1,0:17:56.47,0:18:01.16,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,就是这条河最终抵达的地方 那里汇聚着很多水
+Dialogue: 1,0:18:09.57,0:18:11.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,为什么 我的孩子会…
+Dialogue: 1,0:18:18.78,0:18:21.84,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那孩子说自己并没有溺过水
+Dialogue: 1,0:18:25.89,0:18:26.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,在那条河里溺过水的
+Dialogue: 1,0:18:28.56,0:18:29.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是你吧
+Dialogue: 1,0:18:34.47,0:18:35.05,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是的
+Dialogue: 1,0:18:40.00,0:18:44.48,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那是在 我刚怀上这孩子的时候
+Dialogue: 1,0:18:47.25,0:18:49.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,总觉得今天的水流很快啊
+Dialogue: 1,0:18:50.18,0:18:52.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是不是山上下雨了啊
+Dialogue: 1,0:19:01.13,0:19:03.73,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我醒来的时候 发现自己倒在了岸边
+Dialogue: 1,0:19:05.48,0:19:06.52,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,而我丈夫
+Dialogue: 1,0:19:08.34,0:19:10.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,却被发现沉到了河底
+Dialogue: 1,0:19:12.69,0:19:17.25,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,在那之后 我发现自己怀了丈夫的骨肉
+Dialogue: 1,0:19:21.02,0:19:25.41,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我衷心地感谢 这孩子能够在我的体内平安无事
+Dialogue: 1,0:19:28.28,0:19:30.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,还差一点 使劲
+Dialogue: 1,0:19:31.66,0:19:32.30,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没错
+Dialogue: 1,0:19:38.26,0:19:41.04,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,阿泷 很遗憾…
+Dialogue: 1,0:19:47.18,0:19:49.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那是个 浑身冰冷的婴儿
+Dialogue: 1,0:19:51.99,0:19:52.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是
+Dialogue: 1,0:19:57.38,0:19:59.57,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那孩子确实是活着的
+Dialogue: 1,0:20:02.09,0:20:04.58,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,虽然 大家都觉得很可怕
+Dialogue: 1,0:20:05.63,0:20:07.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但我却很开心
+Dialogue: 1,0:20:09.72,0:20:13.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,尽管异于常人 但他顽强地活到了现在
+Dialogue: 1,0:20:16.87,0:20:19.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,为什么 事到如今却…
+Dialogue: 1,0:20:23.27,0:20:26.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,胎儿浸在胎内的羊水中
+Dialogue: 1,0:20:27.56,0:20:31.56,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,比起人 更接近于青蛙 山椒鱼等水生动物
+Dialogue: 1,0:20:34.20,0:20:37.38,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那孩子 就是在那时候就被雨蛊寄生在体内
+Dialogue: 1,0:20:39.50,0:20:42.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,然后 渐渐地在胎内成长的过程中
+Dialogue: 1,0:20:44.64,0:20:47.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,他和雨蛊融合到了密不可分的地步
+Dialogue: 1,0:20:50.37,0:20:54.22,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,都怪我 都怪我被那种东西寄生了
+Dialogue: 1,0:20:57.77,0:20:59.48,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那孩子之所以能够在你体内平安无事
+Dialogue: 1,0:21:00.37,0:21:03.63,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,首先 是因为你被雨蛊寄生 苏醒过来了
+Dialogue: 1,0:21:06.36,0:21:09.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不然 你们俩都会死吧
+Dialogue: 1,0:21:12.21,0:21:13.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那孩子活过
+Dialogue: 1,0:21:16.65,0:21:17.96,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,确确实实地
+Dialogue: 1,0:21:19.80,0:21:20.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,在这里活过
+Dialogue: 1,0:21:24.45,0:21:30.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那 大海 河川 雨水 云朵都是同一样东西吗
+Dialogue: 1,0:21:33.33,0:21:38.60,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是啊 即便形态不同 但它们都是一样的
+Dialogue: 1,0:21:44.79,0:21:48.33,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,涌太 你现在在哪儿呢
+Dialogue: 1,0:21:52.34,0:21:57.30,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,在河水里吗 抑或是大海 还是雨水中呢
+Dialogue: 1,0:22:02.96,0:22:03.83,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,怎么了
+Dialogue: 1,0:22:06.45,0:22:07.83,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但你已经不用怕了
+Dialogue: 1,0:22:22.16,0:22:27.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是啊 因为你无处不在啊
+Dialogue: 0,0:00:01.00,0:00:01.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:09:59.48,0:10:01.58,NOTES 方正北魏楷书_GBK,,0000,0000,0000,,注：「合」是日本度量衡制尺贯法中的体积单位\N1升的十分之一
+Dialogue: 0,0:00:01.00,0:00:01.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:01.00,0:00:01.00,TITLE @方正行楷_GBK,,0000,0000,0000,,
+Dialogue: 1,0:23:36.21,0:23:37.75,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(0,1500)\blur0.5\c&H01061A&\frz278.833\pos(680,413)}碧{\c&H000125&}水
+Dialogue: 1,0:23:36.22,0:23:42.02,TITLE @方正行楷_GBK,,0000,0000,0000,,{\alpha10\fad(1500,0)\blur0.5\frz280.157\pos(680,413)\c&H0D0001&}雷之{\c&H0E0006&}袖
+Dialogue: 0,0:00:01.00,0:00:01.00,Default,,0000,0000,0000,,
+
+Dialogue: 1,0:23:37.43,0:23:39.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,雷之袖
+Dialogue: 0,0:23:37.43,0:23:39.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,雷の袖
+
+

@@ -1,0 +1,427 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Hayate
+Original Script: 华盟字幕社
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 704
+PlayResY: 396
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zhengwen,方正准圆_GBK,26,&H00FFFFFF,&H004080FF,&H00FF1C00,&HFFFCAE3A,0,0,0,0,100,100,0,0,0,2,1,2,30,30,8,1
+Style: zhushi,方正准圆_GBK,18,&H00FFFFFF,&H004080FF,&H00FF1C00,&HFFFCAE3A,0,0,0,0,100,100,0,0,0,2,1,8,15,15,8,1
+Style: jinggao,方正准圆_GBK,17,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,8,15,15,5,1
+Style: opzw,微软雅黑,28,&H00FF0000,&H00FFFFFF,&H10EEEEEE,&H30000000,-1,0,0,0,100,100,5,0,1,2,0,2,15,15,2,1
+Style: edzw,微软雅黑,28,&H00900DFF,&H00FFFFFF,&H10EEEEEE,&H30000000,-1,0,0,0,100,100,5,0,1,2,0,2,15,15,2,1
+Style: title,方正大标宋_GBK,27,&H00FF0000,&H00FFFFFF,&H22EEEEEE,&H30000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,75,1
+Style: neta,方正准圆_GBK,18,&H00FFFFFF,&H004080FF,&H00FF1C00,&HFFFCAE3A,0,0,0,0,100,100,0,0,0,2,1,8,15,15,8,1
+Style: opj,DFHSMincho-W9,22,&H00FF0000,&H00FFFFFF,&H22EEEEEE,&H30000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,30,1
+Style: edj,DFHSMincho-W9,22,&H00900DFF,&H00FFFFFF,&H22EEEEEE,&H30000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:35.86,0:01:41.81,opzw,NTP,0,0,0,,托付给大地的我们的旅程
+Dialogue: 0,0:01:42.43,0:01:48.67,opzw,NTP,0,0,0,,宛如呼啸而过的旋风
+Dialogue: 0,0:01:49.13,0:01:52.18,opzw,NTP,0,0,0,,向命运低头
+Dialogue: 0,0:01:52.18,0:01:56.59,opzw,NTP,0,0,0,,蜷缩在角落真是无趣
+Dialogue: 0,0:01:56.59,0:02:00.86,opzw,NTP,0,0,0,,逊到极点！
+Dialogue: 0,0:02:01.43,0:02:04.43,opzw,NTP,0,0,0,,弄巧成拙
+Dialogue: 0,0:02:04.95,0:02:10.32,opzw,NTP,0,0,0,,后悔也一定是作茧自缚
+Dialogue: 0,0:02:10.32,0:02:13.29,opzw,NTP,0,0,0,,绝对、有志者事竟成！
+Dialogue: 0,0:02:13.44,0:02:19.85,opzw,NTP,0,0,0,,为大浪吞没
+Dialogue: 0,0:02:20.18,0:02:26.33,opzw,NTP,0,0,0,,不如随波逐流
+Dialogue: 0,0:02:26.69,0:02:29.40,opzw,NTP,0,0,0,,产生于误会的梦想
+Dialogue: 0,0:02:29.55,0:02:32.62,opzw,NTP,0,0,0,,落空的期待
+Dialogue: 0,0:02:32.62,0:02:38.39,opzw,NTP,0,0,0,,只要坚信  终有一天能够得到！
+Dialogue: 0,0:02:39.13,0:02:45.29,opzw,NTP,0,0,0,,跨出这一步出发吧
+Dialogue: 0,0:02:45.55,0:02:52.24,opzw,NTP,0,0,0,,{\fad(0,1500)}宛如自由飞舞的旋风
+Dialogue: 0,0:21:50.47,0:21:55.37,edzw,NTP,0,0,0,,被风吹拂着　乘风飘扬的心之风帆
+Dialogue: 0,0:21:55.47,0:22:00.01,edzw,NTP,0,0,0,,心情忐忑不安　然后 lose my way
+Dialogue: 0,0:22:00.27,0:22:03.15,edzw,NTP,0,0,0,,你一直陪伴着我就好了
+Dialogue: 0,0:22:03.28,0:22:07.62,edzw,NTP,0,0,0,,这样也不错　so I go together
+Dialogue: 0,0:22:08.75,0:22:11.02,edzw,NTP,0,0,0,,不用什么天气预报
+Dialogue: 0,0:22:11.22,0:22:13.58,edzw,NTP,0,0,0,,完全由心情来决定
+Dialogue: 0,0:22:13.78,0:22:16.21,edzw,NTP,0,0,0,,什么都不用担心
+Dialogue: 0,0:22:16.44,0:22:18.98,edzw,NTP,0,0,0,,交给我吧！ 自由自在
+Dialogue: 0,0:22:19.21,0:22:21.29,edzw,NTP,0,0,0,,把鞋子抛上去
+Dialogue: 0,0:22:21.49,0:22:23.96,edzw,NTP,0,0,0,,‘put a wish’ 绝对会放晴 ！
+Dialogue: 0,0:22:24.20,0:22:26.64,edzw,NTP,0,0,0,,但是结果却是…　I'm looking at nothing...
+Dialogue: 0,0:22:26.70,0:22:29.31,edzw,NTP,0,0,0,,再让我重新抛一次！
+Dialogue: 0,0:22:29.31,0:22:33.47,edzw,NTP,0,0,0,,偶尔试一次赌注吧
+Dialogue: 0,0:22:33.83,0:22:37.17,edzw,NTP,0,0,0,,想拜托给你试试
+Dialogue: 0,0:22:39.07,0:22:41.80,edzw,NTP,0,0,0,,追赶着飒爽　to fly
+Dialogue: 0,0:22:42.25,0:22:44.51,edzw,NTP,0,0,0,,能见到万里晴空　the sky
+Dialogue: 0,0:22:44.71,0:22:46.48,edzw,NTP,0,0,0,,一直相信你的
+Dialogue: 0,0:22:47.15,0:22:49.29,edzw,NTP,0,0,0,,然后 make my way
+Dialogue: 0,0:22:49.48,0:22:52.19,edzw,NTP,0,0,0,,突然间伸出的你的手
+Dialogue: 0,0:22:52.49,0:22:57.01,edzw,NTP,0,0,0,,会变成无敌的存在　so I go together
+Dialogue: 0,0:22:58.76,0:23:05.06,edzw,NTP,0,0,0,,{\fad(0,1800)}星空无比美丽　明天一定也会是晴天吧
+Dialogue: 0,0:00:04.02,0:00:08.26,zhushi,NTP,0,0,0,,{\fad(500,500)}（该电影名称是《the Wakka》）
+Dialogue: 0,0:00:30.37,0:00:32.49,zhengwen,NTP,0,0,0,,大小姐  这是什么
+Dialogue: 0,0:00:32.95,0:00:34.44,zhengwen,NTP,0,0,0,,应该说这个是前卫还是…
+Dialogue: 0,0:00:35.20,0:00:39.13,zhengwen,NTP,0,0,0,,问亘租录像的时候感觉很有趣  就顺便拿回来了
+Dialogue: 0,0:00:39.52,0:00:42.97,zhengwen,NTP,0,0,0,,说什么一周里面不让两人以上看的话就会死的
+Dialogue: 0,0:00:43.95,0:00:46.75,zhengwen,NTP,0,0,0,,那是以前那轮回录像的诅咒吗
+Dialogue: 0,0:00:50.02,0:00:52.65,zhengwen,NTP,0,0,0,,那么非科学的事情是不可能发生的吧
+Dialogue: 0,0:00:53.12,0:00:56.34,zhengwen,NTP,0,0,0,,小飒  也有像小孩子的地方啊
+Dialogue: 0,0:00:56.95,0:00:58.84,zhengwen,NTP,0,0,0,,是吗  说的也是
+Dialogue: 0,0:00:59.80,0:01:03.94,zhengwen,NTP,0,0,0,,先说明一下  说起轮回录像就是以前那个「午夜」…
+Dialogue: 0,0:01:04.08,0:01:06.01,zhengwen,NTP,0,0,0,,不要  不要  别说下去了
+Dialogue: 0,0:01:06.88,0:01:09.49,zhengwen,NTP,0,0,0,,管家乃侍奉之人
+Dialogue: 0,0:01:10.11,0:01:12.57,zhengwen,NTP,0,0,0,,管家乃照料之人
+Dialogue: 0,0:01:13.34,0:01:18.54,zhengwen,NTP,0,0,0,,管家乃打理主人诸般事宜的正式守护者
+Dialogue: 0,0:01:20.10,0:01:20.81,zhengwen,NTP,0,0,0,,没错
+Dialogue: 0,0:01:21.15,0:01:25.05,zhengwen,NTP,0,0,0,,这是少年为了某位少女而拼上性命全力战斗的
+Dialogue: 0,0:01:25.40,0:01:28.51,zhengwen,NTP,0,0,0,,超级管家战斗物语
+Dialogue: 0,0:01:29.01,0:01:32.35,zhengwen,NTP,0,0,0,,就算再怎么说是盂兰盆节的惯例恐怖电影  也太可怕了吧
+Dialogue: 0,0:01:32.46,0:01:35.54,zhengwen,NTP,0,0,0,,反正是盂兰盆节  谁都不会看  后面就全部分开拍好了
+Dialogue: 0,0:03:05.45,0:03:08.96,title,NTP,0,0,0,,{\fad(600,0)\fsp0\fscx95}沙希小姐的琐事(全国版)2007
+Dialogue: 0,0:03:11.32,0:03:13.74,zhengwen,NTP,0,0,0,,真是的  小凪那家伙  又拖欠不还
+Dialogue: 0,0:03:14.00,0:03:17.52,zhengwen,NTP,0,0,0,,确实押井守的作品只看一遍是看不懂的
+Dialogue: 0,0:03:19.96,0:03:22.72,zhengwen,NTP,0,0,0,,诶  之前的那个轮回录像没有了
+Dialogue: 0,0:03:22.85,0:03:25.94,zhushi,NTP,0,0,0,,（夏天恐怖展）
+Dialogue: 0,0:03:23.23,0:03:25.89,zhengwen,NTP,0,0,0,,还有人会借那没有品味的录像啊
+Dialogue: 0,0:03:27.69,0:03:30.54,zhengwen,NTP,0,0,0,,沙希  小凪那家伙又拖欠不还了
+Dialogue: 0,0:03:30.79,0:03:32.73,zhengwen,NTP,0,0,0,,打个电话催她吧
+Dialogue: 0,0:03:37.57,0:03:39.08,zhengwen,NTP,0,0,0,,怎么了  那家伙
+Dialogue: 0,0:03:43.51,0:03:45.33,zhengwen,NTP,0,0,0,,从那之后已经过了一周了
+Dialogue: 0,0:03:45.78,0:03:47.14,zhengwen,NTP,0,0,0,,什么都没有发生呢
+Dialogue: 0,0:03:48.39,0:03:53.01,zhengwen,NTP,0,0,0,,所以都说了  这世上不可能存在幽灵的
+Dialogue: 0,0:03:54.30,0:03:55.21,zhengwen,NTP,0,0,0,,说的也是
+Dialogue: 0,0:03:56.11,0:03:57.55,zhengwen,NTP,0,0,0,,真不愧是玛莉亚小姐
+Dialogue: 0,0:03:57.96,0:04:01.36,zhengwen,NTP,0,0,0,,非常成熟  一定没有什么不擅长的吧
+Dialogue: 0,0:04:02.03,0:04:02.84,zhengwen,NTP,0,0,0,,说起来
+Dialogue: 0,0:04:03.09,0:04:06.26,zhengwen,NTP,0,0,0,,西瓜送到了  要尝尝吗
+Dialogue: 0,0:04:06.73,0:04:09.22,zhengwen,NTP,0,0,0,,诶  那让大小姐也尝尝吧
+Dialogue: 0,0:04:09.46,0:04:13.73,zhengwen,NTP,0,0,0,,那个…其实刚才也给小凪拿过去了
+Dialogue: 0,0:04:16.98,0:04:17.93,zhengwen,NTP,0,0,0,,这样下去不行
+Dialogue: 0,0:04:18.30,0:04:21.02,zhengwen,NTP,0,0,0,,就没有使人感到冲击的名字吗
+Dialogue: 0,0:04:21.46,0:04:24.04,zhengwen,NTP,0,0,0,,要融入恐怖要素  开创新的线路
+Dialogue: 0,0:04:26.11,0:04:26.91,zhengwen,NTP,0,0,0,,是吗
+Dialogue: 0,0:04:27.27,0:04:28.64,zhengwen,NTP,0,0,0,,大小姐一旦开始画漫画
+Dialogue: 0,0:04:28.88,0:04:30.01,zhengwen,NTP,0,0,0,,就太沉迷了
+Dialogue: 0,0:04:30.70,0:04:33.46,zhengwen,NTP,0,0,0,,也是那孩子的优点
+Dialogue: 0,0:04:33.87,0:04:34.78,zhengwen,NTP,0,0,0,,也给我一个
+Dialogue: 0,0:04:35.89,0:04:36.46,zhengwen,NTP,0,0,0,,亘少爷
+Dialogue: 0,0:04:36.69,0:04:37.51,zhengwen,NTP,0,0,0,,怎么了
+Dialogue: 0,0:04:38.33,0:04:39.34,zhengwen,NTP,0,0,0,,是那个什么啦
+Dialogue: 0,0:04:39.72,0:04:43.17,zhengwen,NTP,0,0,0,,小凪那笨蛋又拖欠不还了  稍微来催一下
+Dialogue: 0,0:04:43.54,0:04:45.94,zhengwen,NTP,0,0,0,,啊  那奇怪的录像带是什么
+Dialogue: 0,0:04:46.26,0:04:48.69,zhengwen,NTP,0,0,0,,什么啊  还以为为什么不在店里
+Dialogue: 0,0:04:48.84,0:04:50.76,zhengwen,NTP,0,0,0,,原来是小凪那家伙擅自拿走了吗
+Dialogue: 0,0:04:51.29,0:04:55.04,zhengwen,NTP,0,0,0,,在本店电影大热时所做的换汤不换药的冒牌货而已
+Dialogue: 0,0:04:55.64,0:04:57.47,zhengwen,NTP,0,0,0,,那种不符合实际的录像
+Dialogue: 0,0:04:57.72,0:04:59.38,zhengwen,NTP,0,0,0,,居然还有人要看
+Dialogue: 0,0:04:59.80,0:05:02.55,zhengwen,NTP,0,0,0,,要是贞子会出来那也还好
+Dialogue: 0,0:05:02.94,0:05:05.06,zhengwen,NTP,0,0,0,,看了那录像之后出现的是…
+Dialogue: 0,0:05:05.64,0:05:06.90,zhengwen,NTP,0,0,0,,记得是这个样子的
+Dialogue: 0,0:05:08.91,0:05:11.97,zhengwen,NTP,0,0,0,,确实出现这个让人很不舒服
+Dialogue: 0,0:05:12.34,0:05:13.26,zhengwen,NTP,0,0,0,,是吧  玛莉亚小姐
+Dialogue: 0,0:05:15.45,0:05:17.13,zhengwen,NTP,0,0,0,,诶  怎么了
+Dialogue: 0,0:05:24.61,0:05:29.25,zhengwen,NTP,0,0,0,,沙希的样子很奇怪  好像在担心什么
+Dialogue: 0,0:05:29.58,0:05:30.84,zhengwen,NTP,0,0,0,,也不和我来商量
+Dialogue: 0,0:05:31.40,0:05:33.81,zhengwen,NTP,0,0,0,,真是的  因为自己快20岁了
+Dialogue: 0,0:05:34.07,0:05:36.63,zhengwen,NTP,0,0,0,,就认为13岁的我太不可靠了吗
+Dialogue: 0,0:05:38.05,0:05:41.08,zhengwen,NTP,0,0,0,,沙希小姐这样看来的话  明年就要过成人仪式了吧
+Dialogue: 0,0:05:42.13,0:05:43.13,zhengwen,NTP,0,0,0,,成人式？
+Dialogue: 0,0:05:45.27,0:05:48.23,zhengwen,NTP,0,0,0,,诶  沙希  到六月你就20岁了啊
+Dialogue: 0,0:05:48.68,0:05:49.19,zhengwen,NTP,0,0,0,,是的
+Dialogue: 0,0:05:49.57,0:05:51.49,zhengwen,NTP,0,0,0,,作为纪念  给你什么礼物吧
+Dialogue: 0,0:05:51.78,0:05:52.39,zhengwen,NTP,0,0,0,,想要什么
+Dialogue: 0,0:05:52.93,0:05:54.84,zhengwen,NTP,0,0,0,,有那份心意就足够了
+Dialogue: 0,0:05:55.17,0:05:57.22,zhengwen,NTP,0,0,0,,平时你也一直都穿女仆装呢
+Dialogue: 0,0:05:57.65,0:06:00.23,zhengwen,NTP,0,0,0,,好  决定了  买件振袖给你吧
+Dialogue: 0,0:05:57.65,0:06:00.23,zhushi,NTP,0,0,0,,（振袖：未成年的少女穿着的和服，因为袖子很长故名长袖和服）
+Dialogue: 0,0:06:00.47,0:06:02.22,zhengwen,NTP,0,0,0,,真…真的吗  少主
+Dialogue: 0,0:06:02.56,0:06:05.28,zhengwen,NTP,0,0,0,,到20岁了  在成人式的时候需要吧
+Dialogue: 0,0:06:07.81,0:06:10.32,zhengwen,NTP,0,0,0,,怎么了  不要吗
+Dialogue: 0,0:06:11.31,0:06:15.48,zhengwen,NTP,0,0,0,,没  那么我就抱着不大的希望期待着吧
+Dialogue: 0,0:06:15.79,0:06:16.29,zhengwen,NTP,0,0,0,,少主
+Dialogue: 0,0:06:18.58,0:06:22.84,zhengwen,NTP,0,0,0,,难道是因为我忘了在她生日时送她成人式的振袖当礼物了
+Dialogue: 0,0:06:23.06,0:06:23.96,zhengwen,NTP,0,0,0,,因此而失落了？
+Dialogue: 0,0:06:24.74,0:06:27.85,zhengwen,NTP,0,0,0,,喂  生日和成人式之类很重要吗
+Dialogue: 0,0:06:28.19,0:06:30.15,zhengwen,NTP,0,0,0,,那个不是很重要吗
+Dialogue: 0,0:06:30.63,0:06:33.69,zhengwen,NTP,0,0,0,,顺便问一下  玛莉亚小姐的成人式是怎么样的？
+Dialogue: 0,0:06:34.21,0:06:34.81,zhengwen,NTP,0,0,0,,啊？
+Dialogue: 0,0:06:36.96,0:06:37.94,zhengwen,NTP,0,0,0,,对…对了
+Dialogue: 0,0:06:38.26,0:06:39.95,zhengwen,NTP,0,0,0,,玛莉亚小姐还只有17岁
+Dialogue: 0,0:06:40.14,0:06:41.46,zhengwen,NTP,0,0,0,,成人式还没…
+Dialogue: 0,0:06:41.77,0:06:45.31,zhengwen,NTP,0,0,0,,是啊  我可是正处在朝气蓬勃的17岁哦
+Dialogue: 0,0:06:45.70,0:06:51.54,zhengwen,NTP,0,0,0,,可是小飒为什么觉得我已经经历过成人式了
+Dialogue: 0,0:06:52.07,0:06:55.44,zhengwen,NTP,0,0,0,,玛…玛莉亚小姐  刚才开始就很奇怪
+Dialogue: 0,0:06:55.76,0:06:58.08,zhengwen,NTP,0,0,0,,没…没什么奇怪的
+Dialogue: 0,0:06:59.87,0:07:01.80,zhengwen,NTP,0,0,0,,想起有点事情…
+Dialogue: 0,0:07:02.61,0:07:05.72,zhengwen,NTP,0,0,0,,真是的  玛莉亚小姐怎么了
+Dialogue: 0,0:07:07.19,0:07:08.28,zhengwen,NTP,0,0,0,,成人式吗
+Dialogue: 0,0:07:08.64,0:07:10.56,zhengwen,NTP,0,0,0,,总之  直接问一下沙希吧
+Dialogue: 0,0:07:17.46,0:07:18.74,zhengwen,NTP,0,0,0,,呐  沙希
+Dialogue: 0,0:07:19.67,0:07:24.74,zhengwen,NTP,0,0,0,,沙希是因为我忘记了生日礼物而在叹气吗
+Dialogue: 0,0:07:25.12,0:07:28.37,zhengwen,NTP,0,0,0,,说起来  谁都没有为我庆祝过生日呢
+Dialogue: 0,0:07:30.75,0:07:32.82,zhengwen,NTP,0,0,0,,算了  也没什么的
+Dialogue: 0,0:07:36.71,0:07:38.53,zhengwen,NTP,0,0,0,,虽然不能取回失去的时间
+Dialogue: 0,0:07:38.82,0:07:41.24,zhengwen,NTP,0,0,0,,信赖却能取回
+Dialogue: 0,0:07:41.72,0:07:44.44,zhengwen,NTP,0,0,0,,嗯  所以呢  找我有什么事情
+Dialogue: 0,0:07:44.58,0:07:45.44,zhengwen,NTP,0,0,0,,想给礼物
+Dialogue: 0,0:07:45.63,0:07:45.97,zhengwen,NTP,0,0,0,,不要
+Dialogue: 0,0:07:46.30,0:07:48.94,zhengwen,NTP,0,0,0,,谁会给你礼物啊
+Dialogue: 0,0:07:50.31,0:07:55.77,zhengwen,NTP,0,0,0,,在求别人时就要像Haman Karn一样  请注意你的恳求态度
+Dialogue: 0,0:07:50.31,0:07:56.96,zhushi,NTP,0,0,0,,(Haman Karn：「机动战士z高达」中阿库西斯的实质领袖，\N以上是Haman和夏亚对话的台词。顺便一提Haman也和沙希一样是20岁)
+Dialogue: 0,0:07:56.08,0:07:56.96,zhengwen,NTP,0,0,0,,Yes sir
+Dialogue: 0,0:07:57.30,0:08:02.84,zhengwen,NTP,0,0,0,,真是的  比起一个人画漫画  还是和朋友一起玩比较好
+Dialogue: 0,0:08:03.24,0:08:05.25,zhengwen,NTP,0,0,0,,那么  给他们拿些红茶什么的吧
+Dialogue: 0,0:08:06.08,0:08:08.02,zhengwen,NTP,0,0,0,,然后  那礼物是什么
+Dialogue: 0,0:08:08.43,0:08:12.46,zhengwen,NTP,0,0,0,,都说了  想送她振袖作为礼物
+Dialogue: 0,0:08:12.73,0:08:14.52,zhengwen,NTP,0,0,0,,却不知道怎么做比较好
+Dialogue: 0,0:08:14.84,0:08:17.35,zhengwen,NTP,0,0,0,,哦  想送振袖吗
+Dialogue: 0,0:08:17.74,0:08:18.53,zhengwen,NTP,0,0,0,,原来如此
+Dialogue: 0,0:08:18.69,0:08:19.78,zhengwen,NTP,0,0,0,,你也终于…
+Dialogue: 0,0:08:21.54,0:08:26.00,zhengwen,NTP,0,0,0,,去这店  有许多既便宜又能让她满意的振袖
+Dialogue: 0,0:08:26.33,0:08:27.53,zhengwen,NTP,0,0,0,,真…真的吗
+Dialogue: 0,0:08:27.96,0:08:29.13,zhengwen,NTP,0,0,0,,欠你一个人情  小凪
+Dialogue: 0,0:08:29.32,0:08:30.56,zhengwen,NTP,0,0,0,,那我马上就去
+Dialogue: 0,0:08:30.94,0:08:33.59,zhengwen,NTP,0,0,0,,啊  先说了  别买太便宜的
+Dialogue: 0,0:08:37.12,0:08:40.29,zhengwen,NTP,0,0,0,,先问一下  振袖一件要多少钱
+Dialogue: 0,0:08:40.67,0:08:42.81,zhengwen,NTP,0,0,0,,没多少  也就不到买两台法拉利的钱
+Dialogue: 0,0:08:43.92,0:08:46.29,zhengwen,NTP,0,0,0,,为什么一件衣服比法拉利还贵
+Dialogue: 0,0:08:46.47,0:08:48.82,zhengwen,NTP,0,0,0,,别小看平民的金钱观
+Dialogue: 0,0:08:49.09,0:08:50.59,zhengwen,NTP,0,0,0,,真是烦人的家伙
+Dialogue: 0,0:08:50.84,0:08:53.27,zhengwen,NTP,0,0,0,,刚才揍你的椅子更贵呢
+Dialogue: 0,0:08:54.11,0:08:56.18,zhengwen,NTP,0,0,0,,你是在用什么样的日常用品啊
+Dialogue: 0,0:08:56.36,0:08:59.25,zhengwen,NTP,0,0,0,,再说男人决定送女人礼物的话
+Dialogue: 0,0:08:59.71,0:09:02.57,zhengwen,NTP,0,0,0,,拿出那程度的钱是当然的
+Dialogue: 0,0:09:02.74,0:09:03.79,zhengwen,NTP,0,0,0,,拿不出来怎么说的过去呢
+Dialogue: 0,0:09:04.09,0:09:06.43,zhengwen,NTP,0,0,0,,确…确实是这样
+Dialogue: 0,0:09:06.82,0:09:08.32,zhengwen,NTP,0,0,0,,但那么多钱从哪里来…
+Dialogue: 0,0:09:11.43,0:09:13.90,zhengwen,NTP,0,0,0,,虽说是名义上的  不过看在未婚夫的份上
+Dialogue: 0,0:09:14.27,0:09:15.52,zhengwen,NTP,0,0,0,,偿还就不计利息了
+Dialogue: 0,0:09:16.79,0:09:18.64,zhengwen,NTP,0,0,0,,那么  你要怎么办
+Dialogue: 0,0:09:22.04,0:09:23.31,zhengwen,NTP,0,0,0,,啊  好耀眼
+Dialogue: 0,0:09:27.55,0:09:28.67,zhushi,NTP,0,0,0,,（蟑螂过来  过来）
+Dialogue: 0,0:09:31.35,0:09:33.46,zhengwen,NTP,0,0,0,,居然会像是阴阳师
+Dialogue: 0,0:09:34.23,0:09:35.27,zhengwen,NTP,0,0,0,,这是怎么回事
+Dialogue: 0,0:09:35.50,0:09:37.36,zhengwen,NTP,0,0,0,,玛莉亚小姐  这很奇怪哦
+Dialogue: 0,0:09:37.77,0:09:41.41,zhengwen,NTP,0,0,0,,咦  你指什么  没什么奇怪的啊
+Dialogue: 0,0:09:43.64,0:09:46.08,zhengwen,NTP,0,0,0,,这…这是  究竟…
+Dialogue: 0,0:09:52.09,0:09:54.79,zhengwen,NTP,0,0,0,,我…我只有对那个…那个
+Dialogue: 0,0:09:55.18,0:09:57.75,zhengwen,NTP,0,0,0,,黑色爬起来沙沙的东西…不行的
+Dialogue: 0,0:09:59.80,0:10:01.95,zhengwen,NTP,0,0,0,,玛莉亚小姐也有这一面…
+Dialogue: 0,0:10:05.10,0:10:07.47,zhengwen,NTP,0,0,0,,对不起  扑了过来
+Dialogue: 0,0:10:08.08,0:10:09.75,zhengwen,NTP,0,0,0,,不过  只有那个无论如何都…
+Dialogue: 0,0:10:10.60,0:10:11.51,zhengwen,NTP,0,0,0,,没事的
+Dialogue: 0,0:10:11.85,0:10:12.86,zhengwen,NTP,0,0,0,,就算那东西出现
+Dialogue: 0,0:10:13.13,0:10:15.22,zhengwen,NTP,0,0,0,,我也一定会保护玛莉亚小姐的
+Dialogue: 0,0:10:15.55,0:10:16.99,zhengwen,NTP,0,0,0,,是…是吗
+Dialogue: 0,0:10:17.24,0:10:18.06,zhengwen,NTP,0,0,0,,真的吗
+Dialogue: 0,0:10:18.39,0:10:19.07,zhengwen,NTP,0,0,0,,是的
+Dialogue: 0,0:10:36.16,0:10:36.78,zhengwen,NTP,0,0,0,,怎么了
+Dialogue: 0,0:10:38.08,0:10:39.19,zhengwen,NTP,0,0,0,,难…难道…
+Dialogue: 0,0:10:39.58,0:10:41.78,zhengwen,NTP,0,0,0,,小…小飒  刚才是…
+Dialogue: 0,0:10:41.98,0:10:43.31,zhengwen,NTP,0,0,0,,没事的  玛莉亚小姐
+Dialogue: 0,0:10:57.46,0:10:59.24,zhengwen,NTP,0,0,0,,{\fs22}いま、会いにゆきます{\r}\N现在  就来与你相见
+Dialogue: 0,0:10:57.46,0:10:59.24,zhushi,NTP,0,0,0,,（いま、会いにゆきます：2005年的电影作品）
+Dialogue: 0,0:11:02.46,0:11:04.41,zhengwen,NTP,0,0,0,,{\fs22}す、スースーするんです{\r}\N感…感觉脊背发凉
+Dialogue: 0,0:11:08.19,0:11:12.76,zhengwen,NTP,0,0,0,,少主那么在意我生日礼物的事情呢
+Dialogue: 0,0:11:13.32,0:11:17.57,zhengwen,NTP,0,0,0,,相比之下  外婆连个电话都不打过来
+Dialogue: 0,0:11:18.38,0:11:19.74,zhengwen,NTP,0,0,0,,在这里说明一下
+Dialogue: 0,0:11:19.97,0:11:22.24,zhengwen,NTP,0,0,0,,贵岛沙希的外祖母  那是…
+Dialogue: 0,0:11:22.59,0:11:23.84,zhengwen,NTP,0,0,0,,传说中的公关女仆
+Dialogue: 0,0:11:24.12,0:11:25.84,zhengwen,NTP,0,0,0,,贵岛丽
+Dialogue: 0,0:11:26.13,0:11:28.43,zhengwen,NTP,0,0,0,,贵岛丽为了寻找行踪不明的女儿女婿
+Dialogue: 0,0:11:28.68,0:11:30.40,zhengwen,NTP,0,0,0,,即为沙希的双亲
+Dialogue: 0,0:11:30.69,0:11:34.10,zhengwen,NTP,0,0,0,,和外孙女沙希一起  周游世界
+Dialogue: 0,0:11:35.68,0:11:38.53,zhengwen,NTP,0,0,0,,有时曾保护了总统免于被暗杀
+Dialogue: 0,0:11:41.75,0:11:45.08,zhengwen,NTP,0,0,0,,有时曾解决了疑难事件
+Dialogue: 0,0:11:47.88,0:11:54.28,zhengwen,NTP,0,0,0,,有时又曾用料理把饱受虐待的民众从皇帝手中解放出来
+Dialogue: 0,0:11:54.58,0:11:56.06,zhengwen,NTP,0,0,0,,呃…不过
+Dialogue: 0,0:11:56.21,0:11:58.74,zhengwen,NTP,0,0,0,,传说中的公关女仆也已经62岁
+Dialogue: 0,0:11:59.09,0:12:02.68,zhengwen,NTP,0,0,0,,在撒哈拉沙漠中生命似乎要走到尽头  不过…
+Dialogue: 0,0:12:03.82,0:12:05.63,zhengwen,NTP,0,0,0,,外婆  外婆
+Dialogue: 0,0:12:05.88,0:12:07.76,zhengwen,NTP,0,0,0,,怎么能在这种地方用尽力量
+Dialogue: 0,0:12:08.34,0:12:10.97,zhengwen,NTP,0,0,0,,传说中的公关女仆  贵岛丽
+Dialogue: 0,0:12:11.47,0:12:16.76,zhengwen,NTP,0,0,0,,那男人正是橘集团的总裁橘圆京本人
+Dialogue: 0,0:12:18.60,0:12:20.03,zhengwen,NTP,0,0,0,,在圆京影响下  贵岛丽受到激励
+Dialogue: 0,0:12:20.29,0:12:21.71,zhengwen,NTP,0,0,0,,沙希也顺便被救了
+Dialogue: 0,0:12:21.98,0:12:23.91,zhengwen,NTP,0,0,0,,贵岛丽和圆京之间诞生的
+Dialogue: 0,0:12:24.18,0:12:26.21,zhengwen,NTP,0,0,0,,不是爱也不是友情的灵魂共鸣
+Dialogue: 0,0:12:26.41,0:12:30.71,zhengwen,NTP,0,0,0,,为了回报这份恩情  她要和邪恶  和犯人继续战斗
+Dialogue: 0,0:12:31.36,0:12:34.57,zhengwen,NTP,0,0,0,,在这之后沙希也发生了命运中的相遇
+Dialogue: 0,0:12:37.24,0:12:38.30,zhengwen,NTP,0,0,0,,和亘的相遇
+Dialogue: 0,0:12:38.52,0:12:42.91,zhengwen,NTP,0,0,0,,因为太年轻的母亲几乎都不关心自己的儿子
+Dialogue: 0,0:12:43.16,0:12:45.52,zhengwen,NTP,0,0,0,,看着那寂寞的侧脸  沙希发誓了
+Dialogue: 0,0:12:45.84,0:12:47.69,zhengwen,NTP,0,0,0,,那份外婆被救的恩情
+Dialogue: 0,0:12:47.92,0:12:51.28,zhengwen,NTP,0,0,0,,就以将那男孩教导成出色的男人作为偿还
+Dialogue: 0,0:12:53.41,0:12:54.95,zhengwen,NTP,0,0,0,,红茶  请用
+Dialogue: 0,0:12:55.62,0:13:01.47,zhengwen,NTP,0,0,0,,沙希感到两人同被母亲所抛弃的灵魂在共鸣
+Dialogue: 0,0:13:04.58,0:13:06.50,zhengwen,NTP,0,0,0,,还没我沏的好喝
+Dialogue: 0,0:13:07.00,0:13:11.54,zhengwen,NTP,0,0,0,,不过  亘却意外是个聪明的什么都做得到的少年
+Dialogue: 0,0:13:11.86,0:13:15.49,zhengwen,NTP,0,0,0,,比起天然呆的沙希要优秀得许多
+Dialogue: 0,0:13:17.93,0:13:22.80,zhengwen,NTP,0,0,0,,我…能指引少主成为出色的男人吗
+Dialogue: 0,0:13:23.45,0:13:26.32,zhengwen,NTP,0,0,0,,顺便一提  沙希的双亲现在也住在上野
+Dialogue: 0,0:13:26.59,0:13:28.79,zhengwen,NTP,0,0,0,,不是行踪不明  请不用担心
+Dialogue: 0,0:13:42.06,0:13:43.26,zhengwen,NTP,0,0,0,,没…没路了
+Dialogue: 0,0:13:43.44,0:13:45.10,zhengwen,NTP,0,0,0,,抓紧了
+Dialogue: 0,0:13:51.85,0:13:52.59,zhengwen,NTP,0,0,0,,小飒
+Dialogue: 0,0:13:55.52,0:13:57.68,zhengwen,NTP,0,0,0,,呀  今天真是好天气
+Dialogue: 0,0:13:59.49,0:14:04.25,zhengwen,NTP,0,0,0,,这种天气  该给院子里的花创作原创的花语
+Dialogue: 0,0:14:07.92,0:14:08.35,zhengwen,NTP,0,0,0,,侵入者
+Dialogue: 0,0:14:08.52,0:14:09.87,zhengwen,NTP,0,0,0,,有了有了  目标发现
+Dialogue: 0,0:14:11.41,0:14:13.29,zhengwen,NTP,0,0,0,,Jet Stream Attack
+Dialogue: 0,0:14:11.41,0:14:13.29,zhushi,NTP,0,0,0,,（机动战士高达吉恩君新型MS黑色三连星攻击）
+Dialogue: 0,0:14:14.40,0:14:16.38,zhengwen,NTP,0,0,0,,Attack
+Dialogue: 0,0:14:17.30,0:14:18.89,zhengwen,NTP,0,0,0,,Attack
+Dialogue: 0,0:14:20.03,0:14:22.22,zhengwen,NTP,0,0,0,,Attack
+Dialogue: 0,0:14:29.88,0:14:32.40,zhengwen,NTP,0,0,0,,要逃跑了  再一次Jet Stream Attack
+Dialogue: 0,0:14:32.62,0:14:33.12,zhengwen,NTP,0,0,0,,了解
+Dialogue: 0,0:14:35.91,0:14:39.81,zhengwen,NTP,0,0,0,,Jet Stream
+Dialogue: 0,0:14:42.19,0:14:44.04,zhengwen,NTP,0,0,0,,Attack
+Dialogue: 0,0:14:46.96,0:14:47.84,zhengwen,NTP,0,0,0,,把我当跳板…
+Dialogue: 0,0:14:49.86,0:14:51.83,zhengwen,NTP,0,0,0,,来到这里可以安心了
+Dialogue: 0,0:14:52.29,0:14:53.84,zhengwen,NTP,0,0,0,,有什么根据？
+Dialogue: 0,0:14:56.74,0:14:57.47,zhengwen,NTP,0,0,0,,小飒
+Dialogue: 0,0:14:57.72,0:14:59.98,zhengwen,NTP,0,0,0,,呀  这是理所当然的
+Dialogue: 0,0:15:01.14,0:15:02.40,zhengwen,NTP,0,0,0,,不是  看那个
+Dialogue: 0,0:15:06.42,0:15:07.61,zhengwen,NTP,0,0,0,,你这纠缠不休的家伙
+Dialogue: 0,0:15:07.81,0:15:09.15,zhengwen,NTP,0,0,0,,玛莉亚小姐由我来保护
+Dialogue: 0,0:15:10.57,0:15:12.57,zhengwen,NTP,0,0,0,,Striker Kick
+Dialogue: 0,0:15:30.27,0:15:31.53,zhengwen,NTP,0,0,0,,要是对小飒出手的话
+Dialogue: 0,0:15:31.92,0:15:33.12,zhengwen,NTP,0,0,0,,我可不轻饶你！
+Dialogue: 0,0:15:50.44,0:15:51.58,zhengwen,NTP,0,0,0,,好痛…
+Dialogue: 0,0:15:52.02,0:15:52.62,zhengwen,NTP,0,0,0,,玛莉亚小姐
+Dialogue: 0,0:15:53.69,0:15:55.81,zhengwen,NTP,0,0,0,,小飒  没事吧
+Dialogue: 0,0:15:56.22,0:15:57.83,zhengwen,NTP,0,0,0,,我还说什么「保护你」这样大言不惭的话
+Dialogue: 0,0:15:58.29,0:15:59.51,zhengwen,NTP,0,0,0,,结果被你保护了
+Dialogue: 0,0:16:00.92,0:16:02.45,zhengwen,NTP,0,0,0,,没有这回事
+Dialogue: 0,0:16:02.92,0:16:04.95,zhengwen,NTP,0,0,0,,小飒已经保护过我了
+Dialogue: 0,0:16:05.36,0:16:06.49,zhengwen,NTP,0,0,0,,玛莉亚小姐…
+Dialogue: 0,0:16:09.31,0:16:12.00,zhengwen,NTP,0,0,0,,不好  刚才的那个  要是去袭击凪的话…
+Dialogue: 0,0:16:12.50,0:16:13.34,zhengwen,NTP,0,0,0,,大小姐…
+Dialogue: 0,0:16:19.45,0:16:22.57,zhengwen,NTP,0,0,0,,难得我这次没有迷路
+Dialogue: 0,0:16:22.86,0:16:24.81,zhengwen,NTP,0,0,0,,却有迷路进来的孩子
+Dialogue: 0,0:16:38.68,0:16:40.76,zhengwen,NTP,0,0,0,,伊澄小姐  您来了吗
+Dialogue: 0,0:16:41.13,0:16:45.33,zhengwen,NTP,0,0,0,,这附近有没有出现那黑色走起来沙沙的东西
+Dialogue: 0,0:16:45.80,0:16:49.48,zhengwen,NTP,0,0,0,,啊  那孩子的话  已经回去了
+Dialogue: 0,0:16:50.68,0:16:52.18,zhengwen,NTP,0,0,0,,伊澄小姐把它消灭了吗
+Dialogue: 0,0:16:52.30,0:16:53.89,zhengwen,NTP,0,0,0,,在吵什么
+Dialogue: 0,0:16:56.42,0:16:59.37,zhengwen,NTP,0,0,0,,你来了吗  亘和你联络过了吗
+Dialogue: 0,0:16:59.75,0:17:00.24,zhengwen,NTP,0,0,0,,咦？
+Dialogue: 0,0:17:01.41,0:17:02.24,zhengwen,NTP,0,0,0,,没有吗
+Dialogue: 0,0:17:02.63,0:17:05.34,zhengwen,NTP,0,0,0,,那家伙  别看那样子  还真害羞啊
+Dialogue: 0,0:17:13.48,0:17:15.80,zhengwen,NTP,0,0,0,,果然作为礼物  不自己出钱的话不行啊
+Dialogue: 0,0:17:16.76,0:17:18.64,zhengwen,NTP,0,0,0,,要是用我的积蓄来选择的话
+Dialogue: 0,0:17:18.90,0:17:20.40,zhengwen,NTP,0,0,0,,只有浴衣可买吗
+Dialogue: 0,0:17:21.87,0:17:24.17,zhengwen,NTP,0,0,0,,啊  真是可爱的浴衣
+Dialogue: 0,0:17:24.68,0:17:26.70,zhengwen,NTP,0,0,0,,啊…啊  伊澄
+Dialogue: 0,0:17:27.52,0:17:29.69,zhengwen,NTP,0,0,0,,对不起  但是…你为什么在这里
+Dialogue: 0,0:17:30.54,0:17:31.24,zhengwen,NTP,0,0,0,,那个…
+Dialogue: 0,0:17:31.95,0:17:37.05,zhengwen,NTP,0,0,0,,小凪说  亘有很重要的话要告诉我  还有很珍贵的礼物
+Dialogue: 0,0:17:37.46,0:17:39.77,zhengwen,NTP,0,0,0,,现在马上去亘家去
+Dialogue: 0,0:17:40.99,0:17:43.02,zhengwen,NTP,0,0,0,,难道礼物是…
+Dialogue: 0,0:17:43.74,0:17:44.33,zhengwen,NTP,0,0,0,,那个？
+Dialogue: 0,0:17:44.84,0:17:46.26,zhengwen,NTP,0,0,0,,啊  不  这个是…
+Dialogue: 0,0:17:46.63,0:17:50.02,zhengwen,NTP,0,0,0,,那  「重要的话」是什么
+Dialogue: 0,0:17:50.43,0:17:52.29,zhengwen,NTP,0,0,0,,小凪那家伙  真是多此一举
+Dialogue: 0,0:17:52.82,0:17:55.09,zhengwen,NTP,0,0,0,,不过…这对我来说  是千载难逢的机会
+Dialogue: 0,0:17:55.69,0:17:57.50,zhengwen,NTP,0,0,0,,把浴衣作为礼物送给伊澄
+Dialogue: 0,0:17:58.15,0:17:59.08,zhengwen,NTP,0,0,0,,把我心中所想的…
+Dialogue: 0,0:18:02.15,0:18:02.96,zhengwen,NTP,0,0,0,,心中所想的…
+Dialogue: 0,0:18:06.36,0:18:07.01,zhengwen,NTP,0,0,0,,伊澄
+Dialogue: 0,0:18:07.56,0:18:08.07,zhengwen,NTP,0,0,0,,是
+Dialogue: 0,0:18:08.53,0:18:11.73,zhengwen,NTP,0,0,0,,我买了两份超光战士Changerion的DVD-BOX
+Dialogue: 0,0:18:08.53,0:18:11.73,zhushi,NTP,0,0,0,,（「超光战士Changerion」是1996年东京电视台的特摄作品）
+Dialogue: 0,0:18:12.01,0:18:12.75,zhengwen,NTP,0,0,0,,给你一份吧
+Dialogue: 0,0:18:13.24,0:18:16.63,zhengwen,NTP,0,0,0,,哎呀  那么「重要的话」又是？
+Dialogue: 0,0:18:17.03,0:18:18.91,zhengwen,NTP,0,0,0,,是关于主角萩野的演技
+Dialogue: 0,0:18:19.24,0:18:20.39,zhengwen,NTP,0,0,0,,和龙骑中的浅仓不同
+Dialogue: 0,0:18:19.24,0:18:20.39,zhushi,NTP,0,0,0,,（出自「仮面ライダー龍騎」，萩野崇在其中饰演浅仓威）
+Dialogue: 0,0:18:20.57,0:18:22.25,zhengwen,NTP,0,0,0,,那爽朗的演技是看点哦
+Dialogue: 0,0:18:23.33,0:18:25.14,zhengwen,NTP,0,0,0,,那么  拿回去之后好好观赏吧
+Dialogue: 0,0:18:25.46,0:18:28.07,zhengwen,NTP,0,0,0,,好的  谢谢你  亘
+Dialogue: 0,0:18:37.45,0:18:38.02,zhengwen,NTP,0,0,0,,少主？
+Dialogue: 0,0:18:41.29,0:18:43.53,zhengwen,NTP,0,0,0,,你在这里做什么？
+Dialogue: 0,0:18:48.00,0:18:49.60,zhengwen,NTP,0,0,0,,哎呀  这是…
+Dialogue: 0,0:18:50.30,0:18:54.19,zhengwen,NTP,0,0,0,,呃…那个  之前忘记了  是我的错
+Dialogue: 0,0:18:54.32,0:18:55.11,zhengwen,NTP,0,0,0,,那个…
+Dialogue: 0,0:18:55.83,0:18:59.65,zhengwen,NTP,0,0,0,,这房间有除我之外的女人的味道
+Dialogue: 0,0:18:59.99,0:19:00.51,zhengwen,NTP,0,0,0,,哈？
+Dialogue: 0,0:19:01.62,0:19:04.71,zhengwen,NTP,0,0,0,,难道  趁我不在的时候带了女孩进来
+Dialogue: 0,0:19:04.98,0:19:07.91,zhengwen,NTP,0,0,0,,那个…做做做了…H的事情…
+Dialogue: 0,0:19:08.24,0:19:09.92,zhengwen,NTP,0,0,0,,啊～  不是！
+Dialogue: 0,0:19:10.56,0:19:12.82,zhengwen,NTP,0,0,0,,这件浴衣是送给你的礼物！
+Dialogue: 0,0:19:13.38,0:19:15.96,zhengwen,NTP,0,0,0,,哎  为什么要送礼物…
+Dialogue: 0,0:19:16.33,0:19:17.38,zhengwen,NTP,0,0,0,,是因为…那个…
+Dialogue: 0,0:19:18.00,0:19:20.59,zhengwen,NTP,0,0,0,,钱不够…振袖也买不起
+Dialogue: 0,0:19:21.12,0:19:25.66,zhengwen,NTP,0,0,0,,所以想用这个来代替  因为生日的时候忘记送你礼物了…
+Dialogue: 0,0:19:26.41,0:19:29.55,zhengwen,NTP,0,0,0,,因为最近你一直都没有精神…
+Dialogue: 0,0:19:29.94,0:19:30.54,zhengwen,NTP,0,0,0,,啊？
+Dialogue: 0,0:19:31.47,0:19:32.37,zhengwen,NTP,0,0,0,,我在烦恼的是
+Dialogue: 0,0:19:32.82,0:19:36.41,zhengwen,NTP,0,0,0,,新手机选什么颜色比较好
+Dialogue: 0,0:19:36.74,0:19:38.10,zhengwen,NTP,0,0,0,,哈——？
+Dialogue: 0,0:19:50.49,0:19:52.22,zhengwen,NTP,0,0,0,,唉  算了…
+Dialogue: 0,0:19:57.82,0:20:01.68,zhengwen,NTP,0,0,0,,真是的  那个好像不是给伊澄的礼物
+Dialogue: 0,0:20:02.20,0:20:03.26,zhengwen,NTP,0,0,0,,是这样吗
+Dialogue: 0,0:20:03.81,0:20:05.85,zhengwen,NTP,0,0,0,,那么  结果他向您借钱了吗
+Dialogue: 0,0:20:06.23,0:20:08.83,zhengwen,NTP,0,0,0,,没有  说不是自己出钱就没有意义
+Dialogue: 0,0:20:09.14,0:20:11.96,zhengwen,NTP,0,0,0,,好像买了便宜的浴衣而不是振袖
+Dialogue: 0,0:20:12.30,0:20:13.19,zhengwen,NTP,0,0,0,,五万左右的…
+Dialogue: 0,0:20:13.40,0:20:14.34,zhengwen,NTP,0,0,0,,五…五万
+Dialogue: 0,0:20:14.50,0:20:15.58,zhengwen,NTP,0,0,0,,一点都不便宜哦
+Dialogue: 0,0:20:15.80,0:20:19.08,zhengwen,NTP,0,0,0,,说回来  之前的那轮回录像的诅咒不是没有出现吗
+Dialogue: 0,0:20:19.35,0:20:21.66,zhengwen,NTP,0,0,0,,你看吧  果然那是迷信
+Dialogue: 0,0:20:24.03,0:20:24.60,zhengwen,NTP,0,0,0,,是的
+Dialogue: 0,0:20:24.98,0:20:25.51,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:20:26.72,0:20:27.45,zhengwen,NTP,0,0,0,,怎…怎么了
+Dialogue: 0,0:20:27.73,0:20:29.72,zhengwen,NTP,0,0,0,,从哪里有导弹发射过来吗
+Dialogue: 0,0:20:30.13,0:20:32.53,zhengwen,NTP,0,0,0,,似乎是附近的烟花大会开始了
+Dialogue: 0,0:20:33.02,0:20:33.96,zhengwen,NTP,0,0,0,,烟花吗
+Dialogue: 0,0:20:34.32,0:20:35.76,zhengwen,NTP,0,0,0,,夏天果然还是要看烟花啊
+Dialogue: 0,0:20:36.15,0:20:37.90,zhengwen,NTP,0,0,0,,好  一起出去吧  小飒
+Dialogue: 0,0:20:38.61,0:20:40.05,zhengwen,NTP,0,0,0,,是  大小姐
+Dialogue: 0,0:20:44.15,0:20:46.62,zhengwen,NTP,0,0,0,,夏天果然还是要吃小摊的烤章鱼啊
+Dialogue: 0,0:21:01.96,0:21:05.17,zhengwen,NTP,0,0,0,,很…很适合你哦  那浴衣
+Dialogue: 0,0:21:06.03,0:21:08.35,zhengwen,NTP,0,0,0,,谢谢  少主
+Dialogue: 0,0:21:08.81,0:21:13.50,zhengwen,NTP,0,0,0,,也许又诞生了一个新生的误解也说不定
+Dialogue: 0,0:21:15.85,0:21:16.96,zhengwen,NTP,0,0,0,,快点…快点
+Dialogue: 0,0:21:24.19,0:21:25.66,zhengwen,NTP,0,0,0,,真漂亮啊  小飒
+Dialogue: 0,0:21:25.89,0:21:26.45,zhengwen,NTP,0,0,0,,是
+Dialogue: 0,0:21:36.95,0:21:39.40,zhengwen,NTP,0,0,0,,下回将是龙和仓鼠
+Dialogue: 0,0:21:39.69,0:21:43.76,zhengwen,NTP,0,0,0,,拼上少女的思念为亲爱的人而战斗
+Dialogue: 0,0:23:21.50,0:23:22.01,zhengwen,NTP,0,0,0,,小凪和
+Dialogue: 0,0:23:22.39,0:23:22.92,zhengwen,NTP,0,0,0,,小飒的
+Dialogue: 0,0:23:23.44,0:23:24.58,zhengwen,NTP,0,0,0,,管家通讯
+Dialogue: 0,0:23:25.15,0:23:27.07,zhengwen,NTP,0,0,0,,我是铁十字杀手  三千院凪
+Dialogue: 0,0:23:25.15,0:23:27.07,zhushi,NTP,0,0,0,,（铁十字杀手：出自东映特摄版的蜘蛛侠，铁十字是蜘蛛侠的敌对组织「铁十军团」）
+Dialogue: 0,0:23:27.23,0:23:28.09,zhengwen,NTP,0,0,0,,我是绫崎飒
+Dialogue: 0,0:23:28.25,0:23:29.95,zhengwen,NTP,0,0,0,,哎呀  最近变得非常热啊
+Dialogue: 0,0:23:30.13,0:23:32.29,zhengwen,NTP,0,0,0,,今天白天最高气温都到30度以上了
+Dialogue: 0,0:23:32.50,0:23:33.88,zhengwen,NTP,0,0,0,,别说这种随便的话
+Dialogue: 0,0:23:34.08,0:23:36.29,zhengwen,NTP,0,0,0,,实际放送日到底热不热可不知道呢
+Dialogue: 0,0:23:36.49,0:23:38.37,zhengwen,NTP,0,0,0,,不同的地域放送日也不一样呢
+Dialogue: 0,0:23:39.31,0:23:40.85,zhengwen,NTP,0,0,0,,比起这个我更想说
+Dialogue: 0,0:23:41.06,0:23:46.89,zhengwen,NTP,0,0,0,,天热的时候  窝在家里边享受空调边听我的角色歌就行了
+Dialogue: 0,0:23:47.02,0:23:49.24,zhengwen,NTP,0,0,0,,不要过这样不健康的暑假哦
+Dialogue: 0,0:23:49.51,0:23:50.26,zhengwen,NTP,0,0,0,,Byebye
+Dialogue: 0,0:23:51.51,0:23:53.31,zhengwen,NTP,0,0,0,,万岁  今天开始是暑假了
+Dialogue: 0,0:23:53.52,0:23:55.88,zhengwen,NTP,0,0,0,,今天开始可以每天睡觉  看动画  画漫画
+Dialogue: 0,0:23:56.02,0:23:57.67,zhengwen,NTP,0,0,0,,尽情的玩了
+Dialogue: 0,0:23:58.04,0:24:01.19,zhengwen,NTP,0,0,0,,感觉在上学的时候也是这样过的…
+Dialogue: 0,0:24:01.40,0:24:05.25,zhengwen,NTP,0,0,0,,啊～  明明到暑假了  为什么心情还是那么差
+Dialogue: 0,0:24:05.47,0:24:07.52,zhengwen,NTP,0,0,0,,小飒现在正在做什么啊…
+Dialogue: 0,0:24:07.63,0:24:08.84,zhengwen,NTP,0,0,0,,下集  旋风管家
+Dialogue: 0,0:24:09.28,0:24:11.61,zhengwen,NTP,0,0,0,,「虽然喜欢书  也要去大龙宫城唱歌吧」
+Dialogue: 0,0:24:09.28,0:24:11.61,zhushi,NTP,0,0,0,,（出自「うたう！大竜宮城」，东映「不可思议的戏剧系列」第13作）
+Dialogue: 0,0:24:11.80,0:24:14.09,zhengwen,NTP,0,0,0,,啊  你就是上次那个小偷仓鼠
+Dialogue: 0,0:24:14.28,0:24:16.43,zhengwen,NTP,0,0,0,,谁…谁是小偷仓鼠啊
+Dialogue: 0,0:24:16.91,0:24:19.29,zhengwen,NTP,0,0,0,,守护者的证明引导着我
+Dialogue: 0,0:24:16.91,0:24:19.29,zhushi,NTP,0,0,0,,（「守護者の証が僕を導く」，出自「甲虫王者シキング」\N东京电视台放送的引发孩子们热潮的甲虫王者动画化作品）

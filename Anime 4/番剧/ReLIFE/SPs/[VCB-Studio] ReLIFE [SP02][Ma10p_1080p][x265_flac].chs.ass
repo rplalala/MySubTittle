@@ -1,0 +1,65 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.00,Default,,0000,0000,0000,,本字幕手抄自橙白字幕组，请勿用于商业用途
+Dialogue: 0,0:00:12.03,0:00:13.55,Default,,0000,0000,0000,,快点接电话啊
+Dialogue: 0,0:00:13.89,0:00:15.89,Default,,0000,0000,0000,,啊 新太 快救救我啊
+Dialogue: 0,0:00:16.03,0:00:17.03,Default,,0000,0000,0000,,什么啊？
+Dialogue: 0,0:00:17.23,0:00:18.18,Default,,0000,0000,0000,,大神 发生什么了？
+Dialogue: 0,0:00:18.85,0:00:21.93,Default,,0000,0000,0000,,虽然和狩生一起
+Dialogue: 0,0:00:22.79,0:00:24.90,Default,,0000,0000,0000,,但是…完全不知道该怎么办啊
+Dialogue: 0,0:00:25.13,0:00:26.93,Default,,0000,0000,0000,,约会吗？
+Dialogue: 0,0:00:27.83,0:00:31.23,Default,,0000,0000,0000,,是啊…这样的事情还是第一次
+Dialogue: 0,0:00:31.53,0:00:33.63,Default,,0000,0000,0000,,从刚才开始狩生…
+Dialogue: 0,0:00:33.65,0:00:34.93,Default,,0000,0000,0000,,总而言之 先冷静
+Dialogue: 0,0:00:35.03,0:00:36.13,Default,,0000,0000,0000,,约会可是个好事啊
+Dialogue: 0,0:00:36.35,0:00:36.92,Default,,0000,0000,0000,,然后？
+Dialogue: 0,0:00:38.53,0:00:41.43,Default,,0000,0000,0000,,虽然有很多想法 但我超紧张
+Dialogue: 0,0:00:41.63,0:00:44.13,Default,,0000,0000,0000,,本来想着见面后再想其他的
+Dialogue: 0,0:00:45.13,0:00:48.53,Default,,0000,0000,0000,,从早上开始总感觉狩生比平时看起来更可爱…
+Dialogue: 0,0:00:48.61,0:00:49.51,Default,,0000,0000,0000,,我看你秀的很开心嘛!
+Dialogue: 0,0:00:49.52,0:00:50.63,Default,,0000,0000,0000,,不是这样啦
+Dialogue: 0,0:00:51.13,0:00:54.93,Default,,0000,0000,0000,,等我回过神来 发现狩生好像超不开心的样子
+Dialogue: 0,0:00:55.19,0:00:56.53,Default,,0000,0000,0000,,你觉得到底是怎么回事啊
+Dialogue: 0,0:00:56.83,0:01:00.55,Default,,0000,0000,0000,,不开心？ 那不就是平时的狩生吗？
+Dialogue: 0,0:01:00.75,0:01:02.45,Default,,0000,0000,0000,,拜托你认真想想啦
+Dialogue: 0,0:01:02.95,0:01:04.72,Default,,0000,0000,0000,,但是 看后面 你后面
+Dialogue: 0,0:01:04.73,0:01:06.55,Default,,0000,0000,0000,,大神 你在干什么啊？
+Dialogue: 0,0:01:06.65,0:01:07.85,Default,,0000,0000,0000,,啊 狩生…
+Dialogue: 0,0:01:09.15,0:01:11.15,Default,,0000,0000,0000,,喂喂！ 大神！
+Dialogue: 0,0:01:11.65,0:01:13.15,Default,,0000,0000,0000,,电话？ 谁打来的？ 这样不接电话可以吗？
+Dialogue: 0,0:01:13.65,0:01:15.35,Default,,0000,0000,0000,,啊 稍等
+Dialogue: 0,0:01:15.85,0:01:18.25,Default,,0000,0000,0000,,哎？ 狩生 你剪头发了？
+Dialogue: 0,0:01:18.45,0:01:19.95,Default,,0000,0000,0000,,干、干什么 突然说起这个
+Dialogue: 0,0:01:20.05,0:01:23.65,Default,,0000,0000,0000,,不过话说回来 你反应可真够迟钝的
+Dialogue: 0,0:01:24.15,0:01:28.95,Default,,0000,0000,0000,,就说从早上开始就一直感觉狩生和平时不太一样
+Dialogue: 0,0:01:29.05,0:01:31.95,Default,,0000,0000,0000,,头发也扎了起来 又清爽又可爱
+Dialogue: 0,0:01:32.15,0:01:35.75,Default,,0000,0000,0000,,什、什么啊… 这么迟钝
+Dialogue: 0,0:01:36.25,0:01:39.65,Default,,0000,0000,0000,,虽然这么说 我也剪了头发啊…
+Dialogue: 0,0:01:41.95,0:01:44.00,Default,,0000,0000,0000,,对不起 我也没注意到
+Dialogue: 0,0:01:49.40,0:01:51.35,Default,,0000,0000,0000,,继续约会吧 我原谅你啦～
+Dialogue: 0,0:01:51.95,0:01:53.21,Default,,0000,0000,0000,,这个笨蛋～
+

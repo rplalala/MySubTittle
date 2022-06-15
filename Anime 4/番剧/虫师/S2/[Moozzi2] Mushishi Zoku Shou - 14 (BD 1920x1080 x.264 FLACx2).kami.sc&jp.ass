@@ -1,0 +1,446 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Mushishi Zoku Shou II - 04
+Original Script: 诸神字幕组
+Original Translation: 诸神字幕组
+Original Timing: 电池雪糕
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,0,2,3,2,20,20,20,1
+Style: OP EN Footlight MT Light,Footlight MT Light,44,&H1EFFFFFE,&H1EFFFFFF,&H00000000,&H14050404,0,0,0,0,100,100,0,0,1,0,2,2,10,10,13,1
+Style: OP CN 楷体,KaiTi,40,&H14FFFFFE,&H14FFFFFE,&H00000000,&H14050404,0,0,0,0,98,100,1,0,1,0,1,8,10,10,13,1
+Style: STAFF 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00FFFFFF,&H00000000,&H00000000,&H9647454A,-1,0,0,0,100,100,1,0,1,1,2,8,10,10,5,1
+Style: TXT JP G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,36,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,2,0,2,10,10,13,128
+Style: TXT JP (UP) G-OTF Kyoukasho ICA Pro M,G-OTF Kyoukasho ICA Pro M,32,&H00F3FAFB,&H000000FF,&H00041112,&H00C3C3C8,0,0,0,0,100,100,0,0,1,1,0,8,10,10,44,128
+Style: TXT CN 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,40,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,2,0,2,10,10,44,1
+Style: TXT CN (UP) 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,36,&H00F3FAFB,&H00000000,&H00041112,&H00D3D7D4,0,0,0,0,100,100,0,0,1,1,0,8,10,10,13,1
+Style: NOTES 方正北魏楷书_GBK,FZBeiWeiKaiShu-S19_GBK,32,&H0AFFFFFF,&H00FFFFFF,&H000D170C,&H500D170C,-1,0,0,0,100,100,0,0,1,0,1,7,15,15,10,1
+Style: TITLE @宋体,@RS_Song,60,&H00FFFEF7,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+Style: TITLE @方正行楷_GBK,@FZXingKai-S04,62,&H000F1315,&H00FFFFFF,&H009FB5AE,&H00000000,0,0,0,0,100,100,6,270,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:18.53,0:00:20.76,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}We broke
+Dialogue: 0,0:00:21.01,0:00:23.22,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}Everything that was right
+Dialogue: 0,0:00:23.22,0:00:26.30,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}We both enjoyed a good fight
+Dialogue: 0,0:00:26.36,0:00:28.69,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}And we sweded
+Dialogue: 0,0:00:28.79,0:00:30.77,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}All the holes we had to breathe
+Dialogue: 0,0:00:30.77,0:00:34.08,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}To make the other one leave
+Dialogue: 0,0:00:34.23,0:00:40.02,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}And I loved the way you looked at me
+Dialogue: 0,0:00:41.91,0:00:47.45,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}And I miss the way you made me feel
+Dialogue: 0,0:00:47.46,0:00:50.22,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}When we were alone
+Dialogue: 0,0:00:51.26,0:00:54.47,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,1000)}When we were alone
+Dialogue: 0,0:00:55.68,0:01:02.27,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}And I'll shiver like I used to
+Dialogue: 0,0:01:03.63,0:01:09.64,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}And I'll leave him just for you
+Dialogue: 0,0:01:11.36,0:01:17.45,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,1200)}And I'll shiver like I used to
+Dialogue: 0,0:01:18.66,0:01:24.42,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,1200)\pos(656,707)}Just for you
+Dialogue: 0,0:01:26.48,0:01:32.98,OP EN Footlight MT Light,,0000,0000,0000,,{\blur0.4\fad(600,800)}Like I used to
+Dialogue: 0,0:00:18.53,0:00:20.76,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我们毁了
+Dialogue: 0,0:00:21.01,0:00:23.22,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}原本顺利的一切
+Dialogue: 0,0:00:23.22,0:00:26.30,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我们都享受过一场精彩的争执
+Dialogue: 0,0:00:26.36,0:00:28.69,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我们爱得
+Dialogue: 0,0:00:28.79,0:00:30.77,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}无法呼吸
+Dialogue: 0,0:00:30.77,0:00:34.08,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}以致对方离开
+Dialogue: 0,0:00:34.23,0:00:40.02,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我喜欢你看我的眼神
+Dialogue: 0,0:00:41.91,0:00:47.45,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我想念你给我的感觉
+Dialogue: 0,0:00:47.46,0:00:50.22,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}当我们都孤寂一人
+Dialogue: 0,0:00:51.26,0:00:54.47,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,1000)}当我们都孤寂一人
+Dialogue: 0,0:00:55.68,0:01:02.27,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我会如从前那样打个寒战
+Dialogue: 0,0:01:03.63,0:01:09.64,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}我会为你而离开他
+Dialogue: 0,0:01:11.36,0:01:17.45,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,1200)}我会如从前那样打个寒战
+Dialogue: 0,0:01:18.66,0:01:24.42,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,1200)\pos(656,13)}只是为你
+Dialogue: 0,0:01:26.48,0:01:32.98,OP CN 楷体,,0000,0000,0000,,{\blur0.4\fad(600,800)}如从前那样
+Dialogue: 0,0:00:01.21,0:00:01.21,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:24.16,0:02:31.13,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\bord0\alpha00\shad0\blur1\frz0\p1\c&H91CEE4&\pos(220,230)}m 0 0 l 0 0 l 100 0 l 100 550 l 0 550 l 0 0
+Dialogue: 1,0:02:24.16,0:02:31.13,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,450)}江
+Dialogue: 1,0:02:24.16,0:02:31.13,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,385)}之
+Dialogue: 1,0:02:24.16,0:02:31.13,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,320)}蔽
+Dialogue: 1,0:02:24.16,0:02:31.13,TITLE @宋体,,0000,0000,0000,,{\fad(2000,0)\blur0.5\c&HF1FCFD&\pos(220,255)}隐
+Dialogue: 0,0:00:01.21,0:00:01.21,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:44.56,0:02:45.25,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,嬢ちゃん
+Dialogue: 0,0:02:52.56,0:02:53.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,大丈夫　大丈夫
+Dialogue: 0,0:02:54.49,0:02:56.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,落ち着いてじっとしてたら　すぐ治まるよ
+Dialogue: 0,0:03:05.73,0:03:06.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ねえ　スミ
+Dialogue: 0,0:03:07.84,0:03:10.62,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうして私が苦しくなったの　分かったの
+Dialogue: 1,0:02:44.56,0:02:45.25,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,小姐
+Dialogue: 1,0:02:52.56,0:02:53.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没事的 没事的
+Dialogue: 1,0:02:54.49,0:02:56.94,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,冷静下来 只要待着别动 马上就会好了
+Dialogue: 1,0:03:05.73,0:03:06.73,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我说 须美
+Dialogue: 1,0:03:07.84,0:03:10.62,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你怎么知道我发作了
+Dialogue: 0,0:03:12.46,0:03:15.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,先家にいたら　窓の外で嬢ちゃんの声がしたの
+Dialogue: 0,0:03:17.50,0:03:19.63,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,助けて　助けて　って
+Dialogue: 0,0:03:20.69,0:03:23.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,その方角にずっと行ったら　嬢ちゃんがいたのよ
+Dialogue: 0,0:03:25.24,0:03:27.48,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ほんと？すごい
+Dialogue: 0,0:03:28.21,0:03:31.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私　ずっと「スミ助けて」って思ってたよ
+Dialogue: 0,0:03:32.25,0:03:35.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,じゃ　また苦しくなったら呼んでよね
+Dialogue: 0,0:03:36.14,0:03:36.75,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,うん
+Dialogue: 0,0:03:44.98,0:03:46.06,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ねえ　スミ
+Dialogue: 0,0:03:47.21,0:03:48.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ずっとうちにいてね
+Dialogue: 0,0:03:50.41,0:03:52.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どこにも遠くに行かないでね
+Dialogue: 0,0:04:04.23,0:04:08.14,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,さきほど　水路からチラリとお嬢さんをお見かけしたんですがね
+Dialogue: 0,0:04:10.98,0:04:14.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お嬢さん　少々厄介な癖がお有りじゃないですか
+Dialogue: 0,0:04:17.03,0:04:18.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,癖？何のことだ
+Dialogue: 0,0:04:21.28,0:04:23.64,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,時折　抜け殻のようになって
+Dialogue: 0,0:04:24.38,0:04:27.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,しばらく意識が戻らない　というような
+Dialogue: 0,0:04:35.81,0:04:39.09,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,放っておくと　ますます厄介なことになりますよ
+Dialogue: 0,0:04:59.43,0:05:02.08,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,…ら　ゆら
+Dialogue: 0,0:05:09.23,0:05:10.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やっと戻ったか
+Dialogue: 0,0:05:17.34,0:05:18.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何の用
+Dialogue: 0,0:05:18.71,0:05:21.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,この人がその癖を治してくれるそうだ
+Dialogue: 0,0:05:22.96,0:05:24.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,蟲師のギンコと言います
+Dialogue: 0,0:05:25.98,0:05:27.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,誰も治してなんて言ってない
+Dialogue: 0,0:05:30.01,0:05:30.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,出ていってよ
+Dialogue: 0,0:05:31.07,0:05:32.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミと話してたもん
+Dialogue: 0,0:05:33.30,0:05:34.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,またそれか
+Dialogue: 0,0:05:34.77,0:05:38.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,バカなことを言ってないで　いい加減スミのことは忘れろ
+Dialogue: 0,0:05:39.31,0:05:42.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あれはもううちの使用人をやめたんだ
+Dialogue: 0,0:05:44.39,0:05:48.85,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でもスミは今でも　私が臥せってると分かってくれて
+Dialogue: 0,0:05:48.94,0:05:51.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,「大丈夫」って言ってくれるの
+Dialogue: 0,0:05:53.43,0:05:56.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうしたら　苦しいのも楽になるのよ
+Dialogue: 0,0:05:59.28,0:06:00.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,なるほど
+Dialogue: 0,0:06:01.13,0:06:04.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,その人との間に　深い水脈が通ったんだな
+Dialogue: 0,0:06:07.95,0:06:08.86,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,水脈？
+Dialogue: 0,0:06:11.36,0:06:15.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,人と人の意識の間には　見えない通路があるという
+Dialogue: 0,0:06:18.12,0:06:21.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ちょうど　この町に張り巡らされた水路のように
+Dialogue: 0,0:06:22.35,0:06:24.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,裏庭ですべての水路は繋がっていて
+Dialogue: 0,0:06:27.13,0:06:33.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そこには「五識」を補うもの　我々の言う「妖質」というものが流れている
+Dialogue: 0,0:06:37.48,0:06:40.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だが水嵩が少ない所も多く
+Dialogue: 0,0:06:41.62,0:06:44.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おまけに入り組んでいて　地図もない
+Dialogue: 0,0:06:47.58,0:06:49.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それでも水路は繋がっているので
+Dialogue: 0,0:06:50.34,0:06:52.44,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,望む相手に会えることもたまにある
+Dialogue: 0,0:06:54.82,0:06:58.93,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,すると　お互い同時に相手のことを思い出すようなこと
+Dialogue: 0,0:07:00.08,0:07:03.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いわゆる「虫の知らせ」が起こるわけです
+Dialogue: 0,0:07:05.09,0:07:08.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それを思うままに起こせる蟲がいる
+Dialogue: 0,0:07:12.03,0:07:14.00,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,カイロギと言いましてね
+Dialogue: 0,0:07:17.63,0:07:19.77,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,妖質の豊かなものの意識に棲み
+Dialogue: 0,0:07:20.57,0:07:24.02,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,主と同調し　自由に水脈を往来し
+Dialogue: 0,0:07:24.74,0:07:27.18,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,望む相手に思いを届けることができる
+Dialogue: 0,0:07:32.36,0:07:33.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お前さんのようにな
+Dialogue: 0,0:07:37.35,0:07:40.02,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私がスミのこと離れてても分かるのは
+Dialogue: 0,0:07:40.42,0:07:42.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いつも私のこと考えてくれてるからよ
+Dialogue: 0,0:07:43.70,0:07:45.38,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,蟲なんて関係ない
+Dialogue: 0,0:07:47.17,0:07:50.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あんたが必要とすれば　誰の所にも行けるはずなんだがな
+Dialogue: 0,0:07:53.05,0:07:55.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だが　繰り返しカイロギを使うと
+Dialogue: 0,0:07:57.25,0:07:59.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,カイロギはやがて人の意識を乗せたまま
+Dialogue: 0,0:07:59.79,0:08:01.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,自分の意思で動き始める
+Dialogue: 0,0:08:02.55,0:08:06.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,すると人はその間　意識を奪われるようになる
+Dialogue: 0,0:08:08.14,0:08:11.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そしていつかは　二度と意識は戻らなくなってしまう
+Dialogue: 0,0:08:14.37,0:08:16.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そんな　バカな
+Dialogue: 0,0:08:17.91,0:08:22.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,まあ　当分その能力を使うのをやめさえすれば　害はない
+Dialogue: 0,0:08:25.53,0:08:26.37,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,無理よ
+Dialogue: 0,0:08:27.06,0:08:30.60,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,発作が起きたら　いつの間にかスミの所へ行ってしまうの
+Dialogue: 0,0:08:32.45,0:08:35.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,相当進行しちまっているようだな
+Dialogue: 0,0:08:36.92,0:08:39.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,妖質を一時的に枯らす薬がある
+Dialogue: 0,0:08:40.18,0:08:42.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,飲めばカイロギは動けなくなる
+Dialogue: 0,0:08:44.14,0:08:48.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でも　発作が起きてスミの声が聞けなきゃ怖い
+Dialogue: 0,0:08:49.89,0:08:52.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そんなもん　気のせいだ
+Dialogue: 0,0:08:53.15,0:08:56.81,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,胸の病は　じっとして気を落ち着かせていれば大丈夫だ
+Dialogue: 0,0:09:01.77,0:09:03.46,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,急には難しいかも知れんが
+Dialogue: 0,0:09:04.60,0:09:06.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あんた一人の問題じゃねぇんだぞ
+Dialogue: 0,0:09:08.64,0:09:09.40,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,って？
+Dialogue: 0,0:09:10.53,0:09:12.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミさんの方からこっちへ来ることはあったか
+Dialogue: 0,0:09:14.70,0:09:15.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ええ
+Dialogue: 0,0:09:16.45,0:09:18.84,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,なら　すでに伝染してるな
+Dialogue: 0,0:09:19.81,0:09:23.44,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,同じ所へ繰り返し行けば　相手にもカイロギがわく
+Dialogue: 0,0:09:26.57,0:09:27.96,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,彼女の所へ行ってきます
+Dialogue: 0,0:09:30.54,0:09:33.42,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,薬　飲んどいた方が身のためだぞ
+Dialogue: 0,0:09:43.03,0:09:48.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,では　私も嬢ちゃんと話すのやめた方がいいと？
+Dialogue: 0,0:09:49.69,0:09:50.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ええ
+Dialogue: 0,0:09:53.66,0:09:55.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,嬢ちゃんは薬を飲むと？
+Dialogue: 0,0:09:57.00,0:09:58.87,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,さあ　どうだかね
+Dialogue: 0,0:10:00.78,0:10:02.20,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,きっと無理ね
+Dialogue: 0,0:10:03.44,0:10:08.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの子　ひどく寂しがり屋で　臆病で
+Dialogue: 0,0:10:11.17,0:10:12.19,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あの
+Dialogue: 0,0:10:13.53,0:10:15.72,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私にも薬をいただけませんか
+Dialogue: 0,0:10:17.67,0:10:23.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,これを機に　もう繋がりを絶ちたいんです
+Dialogue: 0,0:10:31.95,0:10:33.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミが薬を…？
+Dialogue: 0,0:10:34.16,0:10:34.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ああ
+Dialogue: 0,0:10:36.63,0:10:39.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あと　これを預かってきた
+Dialogue: 0,0:10:46.89,0:10:49.94,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そんな　どうして
+Dialogue: 0,0:10:52.28,0:10:56.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いつでも困ったら呼んでねって言ったじゃない
+Dialogue: 0,0:11:00.20,0:11:04.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,本当は　ずっと　迷惑だった？
+Dialogue: 0,0:11:07.06,0:11:09.25,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ねえ　そうなの　スミ
+Dialogue: 0,0:11:13.83,0:11:15.59,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だったら　謝るから
+Dialogue: 0,0:11:16.93,0:11:17.79,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,答えてよ
+Dialogue: 0,0:11:25.08,0:11:26.05,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ
+Dialogue: 0,0:11:32.59,0:11:33.86,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,泣いてるの
+Dialogue: 0,0:11:34.81,0:11:37.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたの　何があったの
+Dialogue: 0,0:11:42.02,0:11:43.28,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,答えてよ
+Dialogue: 0,0:11:45.40,0:11:47.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう薬を飲んでしまったの
+Dialogue: 0,0:11:52.01,0:11:53.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ
+Dialogue: 0,0:11:55.97,0:11:57.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ゆら
+Dialogue: 0,0:11:58.59,0:12:01.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何やってんだ　いい加減にしろ
+Dialogue: 0,0:12:09.42,0:12:10.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,分かったわ
+Dialogue: 0,0:12:13.16,0:12:16.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,薬　飲むから一人にして
+Dialogue: 0,0:12:43.71,0:12:45.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミが泣いてた
+Dialogue: 0,0:12:48.94,0:12:52.30,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうしたの　何があったの
+Dialogue: 0,0:12:55.42,0:12:58.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,私も少しは役に立てるかな
+Dialogue: 0,0:13:02.34,0:13:05.11,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ずっと頼ってばかりで　ごめんね
+Dialogue: 1,0:03:12.46,0:03:15.97,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,刚才在家里 突然听到窗外传来小姐的声音
+Dialogue: 1,0:03:17.50,0:03:19.63,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,喊着 救救我 救救我
+Dialogue: 1,0:03:20.69,0:03:23.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,朝那个方向一直走 就看见小姐在那里
+Dialogue: 1,0:03:25.24,0:03:27.48,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,真的吗？ 好厉害
+Dialogue: 1,0:03:28.21,0:03:31.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我一直在想 须美 救救我呢
+Dialogue: 1,0:03:32.25,0:03:35.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那你再发病了就要喊我哦
+Dialogue: 1,0:03:36.14,0:03:36.75,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,嗯
+Dialogue: 1,0:03:44.98,0:03:46.06,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美
+Dialogue: 1,0:03:47.21,0:03:48.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你要一直留在我家哦
+Dialogue: 1,0:03:50.41,0:03:52.43,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不要往别处离我远去
+Dialogue: 1,0:04:04.23,0:04:08.14,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,方才 我在水路上瞥见令嫒
+Dialogue: 1,0:04:10.98,0:04:14.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,令嫒是不是有什么恼人的毛病
+Dialogue: 1,0:04:17.03,0:04:18.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,毛病？ 你指什么
+Dialogue: 1,0:04:21.28,0:04:23.64,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,比如说 偶尔像灵魂出窍一样
+Dialogue: 1,0:04:24.38,0:04:27.87,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,过了许久意识仍无法恢复
+Dialogue: 1,0:04:35.81,0:04:39.09,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,放着不管的话 会变得越来越麻烦呢
+Dialogue: 1,0:04:59.43,0:05:02.08,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,…良 由良
+Dialogue: 1,0:05:09.23,0:05:10.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,终于清醒了吗
+Dialogue: 1,0:05:17.34,0:05:18.34,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么事
+Dialogue: 1,0:05:18.71,0:05:21.47,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这个人说可以治好你的那个怪癖
+Dialogue: 1,0:05:22.96,0:05:24.57,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我叫银古 是个虫师
+Dialogue: 1,0:05:25.98,0:05:27.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我可没说过要谁来治
+Dialogue: 1,0:05:30.01,0:05:30.94,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,出去
+Dialogue: 1,0:05:31.07,0:05:32.69,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我正在和须美说话呢
+Dialogue: 1,0:05:33.30,0:05:34.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,又来了
+Dialogue: 1,0:05:34.77,0:05:38.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,别说傻话了 快忘掉须美的事吧
+Dialogue: 1,0:05:39.31,0:05:42.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,她已经不再是我们家的佣人了
+Dialogue: 1,0:05:44.39,0:05:48.85,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是直到现在 须美依然知道我卧病在床
+Dialogue: 1,0:05:48.94,0:05:51.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,还安慰我说没事
+Dialogue: 1,0:05:53.43,0:05:56.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这样一来 病痛也随之减轻了
+Dialogue: 1,0:05:59.28,0:06:00.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,原来如此
+Dialogue: 1,0:06:01.13,0:06:04.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看来你和那个人之间连通着很深的水脉呢
+Dialogue: 1,0:06:07.95,0:06:08.86,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,水脉？
+Dialogue: 1,0:06:11.36,0:06:15.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是指人与人的意识之间有着看不见的道路
+Dialogue: 1,0:06:18.12,0:06:21.57,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,正像布满这个小镇的水路一样
+Dialogue: 1,0:06:22.35,0:06:24.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,而后院则是所有水路的交汇之处
+Dialogue: 1,0:06:27.13,0:06:33.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那里流动着填补「五识」之物 此物被我们称作「妖质」
+Dialogue: 1,0:06:37.48,0:06:40.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不过 水量少的地方很多
+Dialogue: 1,0:06:41.62,0:06:44.21,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,而且错综复杂　没有地图
+Dialogue: 1,0:06:47.58,0:06:49.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,尽管如此 水路还是连在一起
+Dialogue: 1,0:06:50.34,0:06:52.44,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,因此 偶尔也能遇见渴望见到的人
+Dialogue: 1,0:06:54.82,0:06:58.93,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,于是 双方同时想起对方
+Dialogue: 1,0:07:00.08,0:07:03.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,也就是所谓「心灵感应」的这种现象就会发生
+Dialogue: 1,0:07:05.09,0:07:08.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,有一种虫可以随心所欲地引起这种现象
+Dialogue: 1,0:07:12.03,0:07:14.00,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,名为「舟少」
+Dialogue: 1,0:07:17.63,0:07:19.77,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,其栖于妖质丰富者意识之内
+Dialogue: 1,0:07:20.57,0:07:24.02,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,与宿主同调 自由来往于水脉之间
+Dialogue: 1,0:07:24.74,0:07:27.18,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,将思念传达给宿主所思之人
+Dialogue: 1,0:07:32.36,0:07:33.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,就像你一样
+Dialogue: 1,0:07:37.35,0:07:40.02,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,即使离开须美 我也能知道她的事
+Dialogue: 1,0:07:40.42,0:07:42.96,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是因为她一直想着我
+Dialogue: 1,0:07:43.70,0:07:45.38,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,和虫什么的没关系
+Dialogue: 1,0:07:47.17,0:07:50.96,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,只要有需要 你应该也能传达给任何人
+Dialogue: 1,0:07:53.05,0:07:55.81,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是 如果反复使用「舟少」
+Dialogue: 1,0:07:57.25,0:07:59.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,它最终就会凌驾于人的意识之上
+Dialogue: 1,0:07:59.79,0:08:01.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,开始以自己的意志行动
+Dialogue: 1,0:08:02.55,0:08:06.34,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这样的话 在此期间 人的意识会被夺走
+Dialogue: 1,0:08:08.14,0:08:11.76,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,最后总有一天 意识会再也无法恢复
+Dialogue: 1,0:08:14.37,0:08:16.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么 怎么会
+Dialogue: 1,0:08:17.91,0:08:22.69,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,话虽如此 目前只要停止使用这个能力 就不会受到损害了
+Dialogue: 1,0:08:25.53,0:08:26.37,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不行啊
+Dialogue: 1,0:08:27.06,0:08:30.60,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,一旦发作 意识就不知不觉跑到须美那儿去了
+Dialogue: 1,0:08:32.45,0:08:35.20,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看来 恶化得相当快呢
+Dialogue: 1,0:08:36.92,0:08:39.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我有暂时让妖质枯竭的药
+Dialogue: 1,0:08:40.18,0:08:42.32,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,喝了之后「舟少」就无法活动了
+Dialogue: 1,0:08:44.14,0:08:48.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,可是 发作的时候听不到须美的声音我会害怕
+Dialogue: 1,0:08:49.89,0:08:52.32,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那是你的错觉
+Dialogue: 1,0:08:53.15,0:08:56.81,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,肺病发作时只要静静不动 等呼吸平定下来就没事了
+Dialogue: 1,0:09:01.77,0:09:03.46,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,突然改变习惯可能有些困难
+Dialogue: 1,0:09:04.60,0:09:06.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但这不是你一个人的问题
+Dialogue: 1,0:09:08.64,0:09:09.40,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么意思
+Dialogue: 1,0:09:10.53,0:09:12.76,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美的意识也会传来这边吗
+Dialogue: 1,0:09:14.70,0:09:15.43,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,嗯
+Dialogue: 1,0:09:16.45,0:09:18.84,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那么 已经被传染了
+Dialogue: 1,0:09:19.81,0:09:23.44,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如果反复传达至同一处　对方那儿也会涌出「舟少」
+Dialogue: 1,0:09:26.57,0:09:27.96,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我去一下她那里
+Dialogue: 1,0:09:30.54,0:09:33.42,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,为了身体着想 你还是吃药的好
+Dialogue: 1,0:09:43.03,0:09:48.05,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那就是说 我也最好不要再和小姐说话吗
+Dialogue: 1,0:09:49.69,0:09:50.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是的
+Dialogue: 1,0:09:53.66,0:09:55.59,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如果小姐吃了药…
+Dialogue: 1,0:09:57.00,0:09:58.87,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不知道会怎样呢
+Dialogue: 1,0:10:00.78,0:10:02.20,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,肯定撑不住的吧
+Dialogue: 1,0:10:03.44,0:10:08.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那个孩子 十分怕寂寞 胆子又小
+Dialogue: 1,0:10:11.17,0:10:12.19,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,请问
+Dialogue: 1,0:10:13.53,0:10:15.72,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,也能给我药吗
+Dialogue: 1,0:10:17.67,0:10:23.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我想以此为契机 斩断这份羁绊
+Dialogue: 1,0:10:31.95,0:10:33.47,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美拿了药？
+Dialogue: 1,0:10:34.16,0:10:34.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,嗯
+Dialogue: 1,0:10:36.63,0:10:39.56,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,还有 她托我把这个交给你
+Dialogue: 1,0:10:46.89,0:10:49.94,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,怎么会这样 为什么
+Dialogue: 1,0:10:52.28,0:10:56.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,她不是一直说 难受了就叫她吗
+Dialogue: 1,0:11:00.20,0:11:04.59,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,实际上一直把我当麻烦吗
+Dialogue: 1,0:11:07.06,0:11:09.25,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是这样吗 须美
+Dialogue: 1,0:11:13.83,0:11:15.59,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,如果是这样 我会道歉
+Dialogue: 1,0:11:16.93,0:11:17.79,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,回答我吧
+Dialogue: 1,0:11:25.08,0:11:26.05,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美
+Dialogue: 1,0:11:32.59,0:11:33.86,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你在哭吗
+Dialogue: 1,0:11:34.81,0:11:37.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你怎么了 发生什么事了
+Dialogue: 1,0:11:42.02,0:11:43.28,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,回答我啊
+Dialogue: 1,0:11:45.40,0:11:47.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你已经吃了药吗
+Dialogue: 1,0:11:52.01,0:11:53.55,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美
+Dialogue: 1,0:11:55.97,0:11:57.03,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,由良
+Dialogue: 1,0:11:58.59,0:12:01.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你刚才在做什么 清醒点吧
+Dialogue: 1,0:12:09.42,0:12:10.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我知道了
+Dialogue: 1,0:12:13.16,0:12:16.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我会吃药的 你们让我一个人静一静
+Dialogue: 1,0:12:43.71,0:12:45.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美哭了
+Dialogue: 1,0:12:48.94,0:12:52.30,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你怎么了 发生什么事了吗
+Dialogue: 1,0:12:55.42,0:12:58.98,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我 能不能帮上什么忙呢
+Dialogue: 1,0:13:02.34,0:13:05.11,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,对不起 我不该一直依赖着你
+Dialogue: 0,0:10:44.71,0:10:47.71,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(0,300)\blur2\alpha20\frz-50\fs45\c&H858888&\pos(713,285)}我只是区区一介女佣
+Dialogue: 0,0:10:47.71,0:10:50.71,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(300,300)\blur2\alpha20\frz-50\fs45\c&H858888&\pos(699,271)}请不要再依赖我了
+Dialogue: 0,0:10:50.71,0:10:57.72,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(300,0)\blur2\alpha20\frz-50\fs45\c&H858888&\pos(750,330)}望您千万多加保重    {\c&H707777&}须美
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:07:12.03,0:07:14.00,NOTES 方正北魏楷书_GBK,,0000,0000,0000,,注：由于画面有该虫的汉字名字，但该汉字为生造字，故用组合字代替，无直接翻译。
+Dialogue: 0,0:13:19.61,0:13:22.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ　話がある
+Dialogue: 0,0:13:25.11,0:13:28.86,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,里へ帰すと？私何か…
+Dialogue: 0,0:13:29.91,0:13:34.36,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いや　お前は母親代わりに本当によくやってくれた
+Dialogue: 0,0:13:36.16,0:13:39.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だがゆらはお前が来てから弱くなる一方だ
+Dialogue: 0,0:13:42.14,0:13:46.40,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お前に懐く余り　他のものを拒むようになってしまった
+Dialogue: 0,0:13:49.28,0:13:50.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,外で遊ぶこともせず
+Dialogue: 0,0:13:52.44,0:13:55.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お前とは話さなくても心が通じるなどと
+Dialogue: 0,0:13:59.18,0:14:01.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,それを諭せばますます拒む
+Dialogue: 0,0:14:02.94,0:14:06.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お前がそばにおる限り　ゆらは変わらんだろう
+Dialogue: 0,0:14:09.47,0:14:12.99,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,すまないが　あの子のためなんだ
+Dialogue: 0,0:14:18.21,0:14:25.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうよ　これでいいのよ　これで…
+Dialogue: 0,0:14:55.32,0:14:58.71,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だめ　もうスミに頼っちゃ
+Dialogue: 0,0:15:03.04,0:15:03.88,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だめ…
+Dialogue: 0,0:15:45.94,0:15:47.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,あれ
+Dialogue: 0,0:15:49.80,0:15:53.57,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ここ　どこ
+Dialogue: 0,0:15:57.06,0:15:58.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,こんな所
+Dialogue: 0,0:15:59.90,0:16:01.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,町にあったかしら
+Dialogue: 0,0:16:08.12,0:16:11.41,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,誰も…いない
+Dialogue: 0,0:16:22.59,0:16:24.52,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,妙なものが泳いでる
+Dialogue: 0,0:16:29.17,0:16:31.15,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうだ　戻らなきゃ
+Dialogue: 0,0:16:32.58,0:16:34.58,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,戻ってスミの所へ
+Dialogue: 0,0:16:37.93,0:16:39.24,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,竿がない
+Dialogue: 0,0:16:41.92,0:16:43.03,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,違う
+Dialogue: 0,0:16:44.26,0:16:46.33,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そっちへ行きたいんじゃない
+Dialogue: 0,0:16:51.32,0:16:55.32,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どの枝も届きそうで届かない
+Dialogue: 0,0:16:58.86,0:17:00.83,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どんどん流されてしまう
+Dialogue: 0,0:17:16.42,0:17:17.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いや
+Dialogue: 0,0:17:20.63,0:17:23.54,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,怖い　そっちは
+Dialogue: 0,0:17:25.43,0:17:26.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いや
+Dialogue: 0,0:17:28.48,0:17:29.39,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,誰か
+Dialogue: 0,0:17:32.67,0:17:35.76,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,誰か　お願い助けて
+Dialogue: 0,0:17:48.05,0:17:50.69,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何　どうしたの　あんた
+Dialogue: 0,0:17:52.84,0:17:56.70,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,なんか今　夢に女の子が出てきて
+Dialogue: 0,0:17:57.22,0:17:59.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,海に流れされそうになってて
+Dialogue: 0,0:18:00.86,0:18:03.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,女の子が助けてって言ってた
+Dialogue: 0,0:18:06.03,0:18:08.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,おーい　ゆら
+Dialogue: 0,0:18:11.12,0:18:13.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,手分けした方がいい　俺は向こうの水路
+Dialogue: 0,0:18:15.77,0:18:16.68,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,すまない
+Dialogue: 0,0:18:17.54,0:18:18.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,助けて
+Dialogue: 0,0:18:22.18,0:18:24.31,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ゆら…か？
+Dialogue: 0,0:18:47.72,0:18:49.73,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,お父ちゃん　あれ
+Dialogue: 0,0:19:26.13,0:19:27.97,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ゆら　大丈夫か
+Dialogue: 0,0:19:29.66,0:19:31.34,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,よかった　気がついたぞ
+Dialogue: 0,0:19:37.36,0:19:40.07,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ちゃんと薬飲むまで見てるからな
+Dialogue: 0,0:19:41.82,0:19:42.78,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,はーい
+Dialogue: 0,0:19:48.50,0:19:49.91,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ようやく懲りたようだな
+Dialogue: 0,0:19:51.80,0:19:54.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もう戻れないかと思った
+Dialogue: 0,0:19:55.98,0:19:59.53,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,何度もああして　皆に迷惑をかけられないしな
+Dialogue: 0,0:20:01.54,0:20:05.67,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうだ　スミ　薬飲んだんでしょう
+Dialogue: 0,0:20:06.02,0:20:07.55,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,どうして分かったの？
+Dialogue: 0,0:20:09.27,0:20:13.66,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,結局　薬全部は飲めなかったの
+Dialogue: 0,0:20:15.22,0:20:17.13,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,やっぱり嬢ちゃんが心配で
+Dialogue: 0,0:20:18.09,0:20:21.95,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,だめね　わざわざあんな文まで書いたのに
+Dialogue: 0,0:20:24.04,0:20:25.12,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そっか
+Dialogue: 0,0:20:26.86,0:20:29.74,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,でも　やっぱり寂しくなるな
+Dialogue: 0,0:20:30.74,0:20:31.65,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,そうね
+Dialogue: 0,0:20:35.04,0:20:39.47,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,会いに行きゃいいだろう　水路は変わらず繋がってるんだ
+Dialogue: 0,0:20:40.55,0:20:44.35,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,自分で漕ぐのは無理なうちは　誰かの船に乗っけてもらえばいい
+Dialogue: 0,0:20:47.21,0:20:50.21,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,苦しくなりゃ　町の誰かが助けてくれるさ
+Dialogue: 0,0:20:54.41,0:20:57.56,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,ね　父さん　私そうしていい？
+Dialogue: 0,0:21:03.07,0:21:06.07,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ　私会いに行っていい？
+Dialogue: 0,0:21:08.57,0:21:09.80,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,もちろんよ
+Dialogue: 0,0:21:31.31,0:21:33.90,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ　遊びに来たよ
+Dialogue: 0,0:21:55.29,0:21:56.50,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,スミ
+Dialogue: 0,0:21:59.11,0:22:00.98,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,また合図を送ったでしょう
+Dialogue: 0,0:22:01.54,0:22:04.43,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,いいでしょう　たまーになんだから
+Dialogue: 1,0:13:19.61,0:13:22.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美 我有话和你说
+Dialogue: 1,0:13:25.11,0:13:28.86,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,让我回老家去？ 我做错什么了吗
+Dialogue: 1,0:13:29.91,0:13:34.36,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没有 你就像她母亲一样 把她照顾得很好
+Dialogue: 1,0:13:36.16,0:13:39.99,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,但是自从你来了以后 由良就变得越来越懦弱了
+Dialogue: 1,0:13:42.14,0:13:46.40,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,她太过依赖你 甚至开始抗拒其他人
+Dialogue: 1,0:13:49.28,0:13:50.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,她不会到外面去玩
+Dialogue: 1,0:13:52.44,0:13:55.99,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,还说什么和你心有灵犀
+Dialogue: 1,0:13:59.18,0:14:01.47,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,越是告诫她 她就越抗拒我们
+Dialogue: 1,0:14:02.94,0:14:06.35,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,只要你还待在由良的身边 她就会一直这样吧
+Dialogue: 1,0:14:09.47,0:14:12.99,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,对不起 这都是为了那孩子
+Dialogue: 1,0:14:18.21,0:14:25.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没错 这样就好了 这样…
+Dialogue: 1,0:14:55.32,0:14:58.71,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不行 我不能再依赖须美了
+Dialogue: 1,0:15:03.04,0:15:03.88,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不行…
+Dialogue: 1,0:15:45.94,0:15:47.13,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,咦
+Dialogue: 1,0:15:49.80,0:15:53.57,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这里…是哪儿
+Dialogue: 1,0:15:57.06,0:15:58.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,镇上
+Dialogue: 1,0:15:59.90,0:16:01.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,有这样的地方吗
+Dialogue: 1,0:16:08.12,0:16:11.41,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,一个人…都没有
+Dialogue: 1,0:16:22.59,0:16:24.52,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,有奇怪的东西在游动
+Dialogue: 1,0:16:29.17,0:16:31.15,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,对了 我得回去
+Dialogue: 1,0:16:32.58,0:16:34.58,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,回去后去须美那里
+Dialogue: 1,0:16:37.93,0:16:39.24,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,船篙不见了
+Dialogue: 1,0:16:41.92,0:16:43.03,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不对
+Dialogue: 1,0:16:44.26,0:16:46.33,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我不想去那里
+Dialogue: 1,0:16:51.32,0:16:55.32,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,每一根枝头都似乎触手可及 却又高不可攀
+Dialogue: 1,0:16:58.86,0:17:00.83,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,越漂越远了
+Dialogue: 1,0:17:16.42,0:17:17.56,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不要
+Dialogue: 1,0:17:20.63,0:17:23.54,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那里 好可怕
+Dialogue: 1,0:17:25.43,0:17:26.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我不要
+Dialogue: 1,0:17:28.48,0:17:29.39,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,谁来
+Dialogue: 1,0:17:32.67,0:17:35.76,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,谁来救救我 求你了
+Dialogue: 1,0:17:48.05,0:17:50.69,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,什么事 老公 你怎么了
+Dialogue: 1,0:17:52.84,0:17:56.70,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,刚才 我好像梦见了一个女孩子
+Dialogue: 1,0:17:57.22,0:17:59.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,快要漂到海里去
+Dialogue: 1,0:18:00.86,0:18:03.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那个女孩子求我们救救她
+Dialogue: 1,0:18:06.03,0:18:08.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,喂 由良
+Dialogue: 1,0:18:11.12,0:18:13.98,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,还是分头找比较好 我去对面水路那里
+Dialogue: 1,0:18:15.77,0:18:16.68,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,麻烦你了
+Dialogue: 1,0:18:17.54,0:18:18.55,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,救救我
+Dialogue: 1,0:18:22.18,0:18:24.31,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是由良…吗
+Dialogue: 1,0:18:47.72,0:18:49.73,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,爸爸 你看
+Dialogue: 1,0:19:26.13,0:19:27.97,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,由良 你没事吧
+Dialogue: 1,0:19:29.66,0:19:31.34,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,太好了 她醒了
+Dialogue: 1,0:19:37.36,0:19:40.07,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我会一直盯着你 直到你吃下药
+Dialogue: 1,0:19:41.82,0:19:42.78,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,知道
+Dialogue: 1,0:19:48.50,0:19:49.91,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,看来你吃到苦头了
+Dialogue: 1,0:19:51.80,0:19:54.35,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,我还以为 再也回不来了
+Dialogue: 1,0:19:55.98,0:19:59.53,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你可不能再像这样给大家添麻烦了
+Dialogue: 1,0:20:01.54,0:20:05.67,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,对了 须美 你吃下药了吧
+Dialogue: 1,0:20:06.02,0:20:07.55,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,那又是怎么知道的呢
+Dialogue: 1,0:20:09.27,0:20:13.66,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,结果 我是没能把药全部吃完
+Dialogue: 1,0:20:15.22,0:20:17.13,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,因为我还是担心小姐
+Dialogue: 1,0:20:18.09,0:20:21.95,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,这样不行啊 亏我还特地写了那封信
+Dialogue: 1,0:20:24.04,0:20:25.12,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是吗
+Dialogue: 1,0:20:26.86,0:20:29.74,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,不过 还是会觉得寂寞啊
+Dialogue: 1,0:20:30.74,0:20:31.65,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,是啊
+Dialogue: 1,0:20:35.04,0:20:39.47,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,去见对方不就好了吗 水路还是相通的
+Dialogue: 1,0:20:40.55,0:20:44.35,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,自己不能划船的时候 拜托别人的船载你就好了
+Dialogue: 1,0:20:47.21,0:20:50.21,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,觉得痛苦的时候 镇上的人会来帮你的
+Dialogue: 1,0:20:54.41,0:20:57.56,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,父亲 我可以这么做吗
+Dialogue: 1,0:21:03.07,0:21:06.07,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美 我可以去见你吗
+Dialogue: 1,0:21:08.57,0:21:09.80,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,当然可以
+Dialogue: 1,0:21:31.31,0:21:33.90,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美 我来找你玩了
+Dialogue: 1,0:21:55.29,0:21:56.50,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,须美
+Dialogue: 1,0:21:59.11,0:22:00.98,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,你又提前通知我了
+Dialogue: 1,0:22:01.54,0:22:04.43,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,没关系啦 偶尔才一次
+Dialogue: 0,0:00:01.28,0:00:01.28,Default,,0000,0000,0000,,
+Dialogue: 1,0:23:41.26,0:23:42.76,TITLE @方正行楷_GBK,,0000,0000,0000,,{\fad(0,1500)\blur0.5\c&H01061A&\frz278.833\pos(680,413)}隐蔽{\c&H000125&}之江
+Dialogue: 1,0:23:41.31,0:23:47.11,TITLE @方正行楷_GBK,,0000,0000,0000,,{\alpha10\fad(1500,0)\blur0.5\frz280.157\pos(680,413)\c&H0D0001&}光{\c&H0E0006&}之绪
+Dialogue: 0,0:00:01.28,0:00:01.28,Default,,0000,0000,0000,,
+
+Dialogue: 1,0:23:42.81,0:23:44.23,TXT CN 方正北魏楷书_GBK,,0000,0000,0000,,光之绪
+Dialogue: 0,0:23:42.81,0:23:44.23,TXT JP G-OTF Kyoukasho ICA Pro M,,0000,0000,0000,,光の緒
+
