@@ -1,0 +1,99 @@
+﻿[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,{\an8\fad(300,300)}本片僅供學習交流使用，下載後請24小時內刪除。禁止用於任何商業行為。
+Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,{\an8\fad(300,300)}若因私自散佈造成法律問題，\N夜楓字幕組、EggPain-Raws與PusRaws概不負責。
+Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,{\an8\fad(300,300)}翻譯: 夜冥璃 校對: 夜冥璃 BLanK 時軸: BLanK\N壓制: EggPain-Raws BDRip: PusRaws
+Dialogue: 0,0:00:01.85,0:00:03.95,Default,,0,0,0,,從今天開始 我們也是菁英班了
+Dialogue: 0,0:00:03.95,0:00:05.90,Default,,0,0,0,,終於要搬出去了
+Dialogue: 0,0:00:07.88,0:00:08.73,Default,,0,0,0,,這是什麼
+Dialogue: 0,0:00:09.11,0:00:10.40,Default,,0,0,0,,倉庫嗎?
+Dialogue: 0,0:00:10.62,0:00:12.60,Default,,0,0,0,,六堂同學有跟我說
+Dialogue: 0,0:00:12.81,0:00:15.24,Default,,0,0,0,,為了預防突擊檢查
+Dialogue: 0,0:00:15.24,0:00:17.41,Default,,0,0,0,,所以把不能帶進學校的東西全部都放進這裡來了
+Dialogue: 0,0:00:17.88,0:00:19.98,Default,,0,0,0,,那這些私人物品該怎麼辦呢
+Dialogue: 0,0:00:19.98,0:00:21.43,Default,,0,0,0,,他們等一下會過來處理的
+Dialogue: 0,0:00:21.43,0:00:23.89,Default,,0,0,0,,我們就稍微收拾一下就好了
+Dialogue: 0,0:00:24.14,0:00:26.88,Default,,0,0,0,,收拾? 為什麼們還要幫忙收拾啊
+Dialogue: 0,0:00:27.05,0:00:29.49,Default,,0,0,0,,沒想到還有這些厲害的物品呢
+Dialogue: 0,0:00:30.27,0:00:33.10,Default,,0,0,0,,這是六堂同學訓練用的秘密武器
+Dialogue: 0,0:00:33.30,0:00:34.31,Default,,0,0,0,,真不愧是六堂呢
+Dialogue: 0,0:00:34.31,0:00:36.68,Default,,0,0,0,,的確在課堂中的訓練是不夠的
+Dialogue: 0,0:00:38.14,0:00:41.92,Default,,0,0,0,,也難得過來了 就來看看大家都藏了什麼在裡面吧
+Dialogue: 0,0:00:43.46,0:00:44.51,Default,,0,0,0,,這是什麼...
+Dialogue: 0,0:00:44.51,0:00:45.45,Default,,0,0,0,,仿造的?
+Dialogue: 0,0:00:46.05,0:00:47.78,Default,,0,0,0,,這是河合同學的
+Dialogue: 0,0:00:48.07,0:00:51.41,Default,,0,0,0,,他特別喜歡爬蟲類 所以收集了各種模型
+Dialogue: 0,0:00:51.56,0:00:52.89,Default,,0,0,0,,為什麼是爬蟲類?
+Dialogue: 0,0:00:53.49,0:00:55.46,Default,,0,0,0,,那這件騎士服呢?
+Dialogue: 0,0:00:55.46,0:00:57.32,Default,,0,0,0,,那是日下生同學的
+Dialogue: 0,0:00:58.31,0:01:01.95,Default,,0,0,0,,喔喔 他喜歡摩托車嗎! 好酷喔
+Dialogue: 0,0:01:01.95,0:01:05.32,Default,,0,0,0,,小望 別玩了 按照房間號碼把這些分裝一下吧
+Dialogue: 0,0:01:05.32,0:01:07.40,Default,,0,0,0,,再不快點用就天黑了
+Dialogue: 0,0:01:08.10,0:01:10.61,Default,,0,0,0,,這是什麼東西 這麼重
+Dialogue: 0,0:01:10.61,0:01:12.28,Default,,0,0,0,,裡面放了什麼?
+Dialogue: 0,0:01:12.62,0:01:13.70,Default,,0,0,0,,佛像?
+Dialogue: 0,0:01:13.70,0:01:16.35,Default,,0,0,0,,吉田同學似乎特別喜歡佛像啊
+Dialogue: 0,0:01:16.35,0:01:19.27,Default,,0,0,0,,而且還是石雕 這愛好也太八股了吧
+Dialogue: 0,0:01:19.50,0:01:22.08,Default,,0,0,0,,那這是誰的呢?
+Dialogue: 0,0:01:22.52,0:01:23.41,Default,,0,0,0,,什麼東西?
+Dialogue: 0,0:01:27.37,0:01:29.44,Default,,0,0,0,,銷魂男友!?
+Dialogue: 0,0:01:29.44,0:01:30.72,Default,,0,0,0,,藤崎同學的嗎?
+Dialogue: 0,0:01:31.21,0:01:34.02,Default,,0,0,0,,這似乎都是拍日下生同學的照片
+Dialogue: 0,0:01:34.79,0:01:35.63,Default,,0,0,0,,這也是
+Dialogue: 0,0:01:35.74,0:01:37.20,Default,,0,0,0,,{\an7}註: 相簿中的文字:\N日下生大人的本月最佳! 啊 真棒
+Dialogue: 0,0:01:35.97,0:01:37.14,Default,,0,0,0,,這也是
+Dialogue: 0,0:01:38.05,0:01:40.26,Default,,0,0,0,,這些標註了月字的箱子
+Dialogue: 0,0:01:40.26,0:01:42.89,Default,,0,0,0,,裝的全是日下生同學的相簿
+Dialogue: 0,0:01:44.11,0:01:46.39,Default,,0,0,0,,大部分都收拾完畢了
+Dialogue: 0,0:01:46.39,0:01:48.53,Default,,0,0,0,,太好了 大家再努力一下吧
+Dialogue: 0,0:01:50.17,0:01:53.69,Default,,0,0,0,,喔喔 不錯嘛 乾淨了許多呢
+Dialogue: 0,0:01:53.69,0:01:56.45,Default,,0,0,0,,接下來再把我們的行李搬進去就可以了
+Dialogue: 0,0:01:56.85,0:01:58.36,Default,,0,0,0,,地板好像有什麼東西喔
+Dialogue: 0,0:01:59.16,0:01:59.92,Default,,0,0,0,,繩子?
+Dialogue: 0,0:02:00.43,0:02:02.81,Default,,0,0,0,,不 你仔細看看
+Dialogue: 0,0:02:02.99,0:02:04.76,Default,,0,0,0,,那是內衣啊
+Dialogue: 0,0:02:04.76,0:02:07.70,Default,,0,0,0,,什麼 這根本就只是條繩子吧
+Dialogue: 0,0:02:07.70,0:02:10.39,Default,,0,0,0,,不會吧 居然還有這種款式的...
+Dialogue: 0,0:02:10.39,0:02:12.18,Default,,0,0,0,,幾乎快露點了吧
+Dialogue: 0,0:02:12.18,0:02:14.19,Default,,0,0,0,,所謂的決勝內衣吧
+Dialogue: 0,0:02:14.19,0:02:16.01,Default,,0,0,0,,決勝內衣!?
+Dialogue: 0,0:02:16.40,0:02:20.62,Default,,0,0,0,,那個 那個可以還給我嗎...
+Dialogue: 0,0:02:21.60,0:02:23.09,Default,,0,0,0,,歸還...!?
+Dialogue: 0,0:02:23.32,0:02:25.94,Default,,0,0,0,,也就是說這超性感的內衣莫非是風音的...
+Dialogue: 0,0:02:25.94,0:02:28.92,Default,,0,0,0,,不 這個是...那個
+Dialogue: 0,0:02:28.92,0:02:30.51,Default,,0,0,0,,不用解釋了 風音
+Dialogue: 0,0:02:30.51,0:02:31.40,Default,,0,0,0,,是啊是啊
+Dialogue: 0,0:02:32.61,0:02:34.66,Default,,0,0,0,,平時那麼溫文儒雅的風音同學
+Dialogue: 0,0:02:34.66,0:02:35.92,Default,,0,0,0,,來決勝負吧
+Dialogue: 0,0:02:35.45,0:02:37.77,Default,,0,0,0,,沒想到會有這麼大膽的泳衣
+Dialogue: 0,0:02:37.77,0:02:40.56,Default,,0,0,0,,看你一臉老實 沒想到這麼大膽呢
+Dialogue: 0,0:02:41.18,0:02:44.94,Default,,0,0,0,,我一時之間拿錯 拿到我姐姐的內衣了
+Dialogue: 0,0:02:44.94,0:02:47.30,Default,,0,0,0,,只是不想被別人看到 所以就藏在這了
+Dialogue: 0,0:02:47.30,0:02:49.55,Default,,0,0,0,,這種藉口可說不通的喔
+Dialogue: 0,0:02:49.71,0:02:50.68,Default,,0,0,0,,是啊
+Dialogue: 0,0:02:50.68,0:02:52.51,Default,,0,0,0,,我們之間可不許有什麼秘密喔
+Dialogue: 0,0:02:52.51,0:02:53.52,Default,,0,0,0,,是啊
+Dialogue: 0,0:02:54.27,0:02:55.68,Default,,0,0,0,,快跟我們說吧
+Dialogue: 0,0:02:55.68,0:02:58.15,Default,,0,0,0,,這件內衣是要跟誰決勝負的呢?
+Dialogue: 0,0:02:59.26,0:03:00.29,Default,,0,0,0,,快說!
+Dialogue: 0,0:03:00.38,0:03:03.15,Default,,0,0,0,,{\an8}就說了不是了!
+Dialogue: 1,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(830,320)\3c&A24E00&\1c&00F1FF&\shad0\bord10\b1\fs100}下集重點
+Dialogue: 0,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(830,320)\3c&FFFFFF&\1a&HFF&\bord15\shad5\4a&H72&\b1\fs100}下集重點
+Dialogue: 1,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(595,1062)\3c&A24E00&\1c&00F1FF&\shad0\bord10\b1\fs80}關鍵詞
+Dialogue: 0,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(595,1062)\3c&FFFFFF&\1a&HFF&\bord15\shad5\4a&H72&\b1\fs80}關鍵詞
+Dialogue: 2,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(1486,1062)\fs80\shad0\bord5\b1\3c&00F1FF&\1a&HFF&}「{\bord0\1a&H00&\1c&A76EE7&}兔子汽水{\bord5\1a&HFF&}」
+Dialogue: 1,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(1486,1062)\fs80\3c&A24E00&\1c&A24E00&\bord10\shad0\b1\fs80}「兔子汽水」
+Dialogue: 0,0:03:00.37,0:03:04.37,Default,,0,0,0,,{\pos(1486,1062)\fs80\3c&FFFFFF&\bord15\shad5\4a&H72&\b1\fs80}「兔子汽水」

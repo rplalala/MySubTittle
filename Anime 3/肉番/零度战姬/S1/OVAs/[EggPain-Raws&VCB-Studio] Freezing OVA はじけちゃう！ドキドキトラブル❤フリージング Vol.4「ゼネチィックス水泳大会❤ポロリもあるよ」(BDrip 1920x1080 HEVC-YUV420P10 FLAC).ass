@@ -1,0 +1,73 @@
+﻿[Script Info]
+; 字型格式微調；人名統一化；字幕簡体化 by 叛魂
+ScriptType: v4.00+
+Collisions:Normal
+PlayResX:704
+PlayResY:396
+Timer:100.0000
+Original Translation: 阿民
+Original Editing: 阿民
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,26,&H000075FD,&HFF000000,&H1EE4FFFE,&H284292F5,-1,0,0,0,100,100,0,0,1,3,2,2,30,30,0,1
+Style: EDJP,方正准圆_GBK,22,&H00FFFFFF,&H00000000,&H00000000,&H00B7601F,-1,0,0,0,100,100,0,0,1,3,1,2,30,30,0,1
+Style: EDCH,方正准圆_GBK,22,&H00FFFFFF,&H00000000,&H00000000,&H00B7601F,-1,0,0,0,100,100,0,0,1,3,1,8,30,30,0,1
+Style: Title,方正准圆_GBK,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1,0,2,10,10,0,1
+Style: Title2,方正准圆_GBK,26,&H0061B1EA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1,0,2,10,10,0,1
+Style: Title3,方正准圆_GBK,26,&H001382E1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1,0,2,10,10,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:00.97,0:00:06.00,Title,,0,0,0,,{\fad(502,458)\clip(50,370,650,374)}Vol.4 Genetics水泳大会 {\fe128}♥{\fe} 春光乍现
+Dialogue: 1,0:00:00.97,0:00:06.00,Title2,,0,0,0,,{\fad(502,458)\clip(50,367,650,377)}Vol.4 Genetics水泳大会 {\fe128}♥{\fe} 春光乍现
+Dialogue: 0,0:00:00.97,0:00:06.00,Title3,,0,0,0,,{\fad(502,458)}Vol.4 Genetics水泳大会 {\fe128}♥{\fe} 春光乍现
+Dialogue: 2,0:00:00.97,0:00:06.00,Title,,0,0,0,,{\fad(502,458)\clip(50,340,650,344)}呼之欲出! 脸红心跳的麻烦 {\fe128}♥{\fe} Freezing
+Dialogue: 1,0:00:00.97,0:00:06.00,Title2,,0,0,0,,{\fad(502,458)\clip(50,337,650,347)}呼之欲出! 脸红心跳的麻烦 {\fe128}♥{\fe} Freezing
+Dialogue: 0,0:00:00.97,0:00:06.00,Title3,,0,0,0,,{\fad(502,458)}呼之欲出! 脸红心跳的麻烦 {\fe128}♥{\fe} Freezing
+Dialogue: 0,0:00:07.73,0:00:12.65,Default,,0,0,0,,现在即将进行  男女混合Genetics水泳竞技大会之决胜战
+Dialogue: 0,0:00:13.78,0:00:16.37,Default,,0,0,0,,各就各位! 预备…
+Dialogue: 0,0:00:22.78,0:00:26.29,Default,,0,0,0,,真不愧是身为男人的和也 速度好快~的说!
+Dialogue: 0,0:00:31.20,0:00:34.32,Default,,0,0,0,,八极拳奥义 轻功水中漂~的说!
+Dialogue: 0,0:00:34.47,0:00:36.41,Default,,0,0,0,,不会让你得逞的!
+Dialogue: 0,0:00:36.76,0:00:38.39,Default,,0,0,0,,呜哇哇!
+Dialogue: 0,0:00:41.14,0:00:43.26,Default,,0,0,0,,抱歉啦~
+Dialogue: 0,0:00:43.49,0:00:45.36,Default,,0,0,0,,不愧是嘉涅莎学姐
+Dialogue: 0,0:00:45.48,0:00:49.06,Default,,0,0,0,,耍什么手段都没用 真是天才
+Dialogue: 0,0:00:49.38,0:00:51.72,Default,,0,0,0,,但这到底是啥竞技啊
+Dialogue: 0,0:00:56.09,0:00:58.81,Default,,0,0,0,,水中无法使用闪电装甲
+Dialogue: 0,0:00:58.92,0:01:03.25,Default,,0,0,0,,也就是说把泳衣脱掉就会提早退场!
+Dialogue: 0,0:01:03.30,0:01:05.36,Default,,0,0,0,,我才不会认输!
+Dialogue: 0,0:01:08.79,0:01:11.21,Default,,0,0,0,,趁这个机会拿下优胜!
+Dialogue: 0,0:01:12.08,0:01:15.90,Default,,0,0,0,,萨提莱莎·艾尔·布列吉特 我不会认输~的说!
+Dialogue: 0,0:01:16.59,0:01:18.54,Default,,0,0,0,,我才是不会认输!
+Dialogue: 0,0:01:18.63,0:01:21.15,Default,,0,0,0,,萨提拉学姐紧跟在拉娜后面
+Dialogue: 0,0:01:21.30,0:01:23.40,Default,,0,0,0,,嘉涅莎学姐不见踪影
+Dialogue: 0,0:01:23.62,0:01:26.70,Default,,0,0,0,,我难不成会优胜? 会那样吗!?
+Dialogue: 0,0:01:29.55,0:01:33.72,Default,,0,0,0,,那个小号的胸垫…难不成是贫乳亚提亚学姐的…
+Dialogue: 0,0:01:33.90,0:01:35.72,Default,,0,0,0,,不准说我贫!
+Dialogue: 0,0:01:35.84,0:01:38.52,Default,,0,0,0,,事到如今 只好把你们全部脱光光!
+Dialogue: 0,0:01:40.24,0:01:42.62,Default,,0,0,0,,你这家伙!
+Dialogue: 0,0:01:44.05,0:01:47.17,Default,,0,0,0,,那是祖先大人加持过内裤
+Dialogue: 0,0:01:47.29,0:01:49.75,Default,,0,0,0,,被抢的话会遭天谴~的说!
+Dialogue: 0,0:01:52.18,0:01:53.86,Default,,0,0,0,,混蛋!
+Dialogue: 0,0:01:53.93,0:01:56.14,Default,,0,0,0,,饶不了你!
+Dialogue: 0,0:01:56.29,0:01:59.64,Default,,0,0,0,,呀啊~这太过火了~姊姊~♥
+Dialogue: 0,0:01:59.72,0:02:01.43,Default,,0,0,0,,好…好可怕!
+Dialogue: 0,0:02:01.57,0:02:04.26,Default,,0,0,0,,身为前辈 唯独不能输给你
+Dialogue: 0,0:02:04.26,0:02:05.89,Default,,0,0,0,,不…不要!
+Dialogue: 0,0:02:07.06,0:02:09.05,Default,,0,0,0,,贫乳毁灭fire!
+Dialogue: 0,0:02:09.13,0:02:11.17,Default,,0,0,0,,讨厌啦~
+Dialogue: 0,0:02:14.55,0:02:16.26,Default,,0,0,0,,好…好厉害
+Dialogue: 0,0:02:17.55,0:02:19.49,Default,,0,0,0,,骗人的吧!?
+Dialogue: 0,0:02:18.15,0:02:22.70,Default,,0,0,0,,{\fnDFGMaruMoji-SL\frz324.928\move(393,-50,393,314,0,1565)\fscx123.75\fscy83.75}(我爱大海)
+Dialogue: 0,0:02:20.67,0:02:22.57,Default,,0,0,0,,NOVA竟然是优胜?
+Dialogue: 0,0:02:23.30,0:02:29.79,EDJP,NTP,0,0,0,,{\fad(200,200)}光射す未來を　君と見つけたい
+Dialogue: 0,0:02:29.86,0:02:37.63,EDJP,NTP,0,0,0,,{\fad(200,200)}溢れ出すその涙　乾かす風になれ
+Dialogue: 0,0:02:37.66,0:02:44.30,EDJP,NTP,0,0,0,,{\fad(200,200)}誰も皆　ひとりじゃ、そう 生きていけない Stand Up for You
+Dialogue: 0,0:02:44.36,0:02:48.97,EDJP,NTP,0,0,0,,{\fad(200,200)}誰も皆　孤獨の闇　走り抜き
+Dialogue: 0,0:02:49.01,0:02:53.28,EDJP,NTP,0,0,0,,{\fad(200,1000)}Don't Look Back Again
+Dialogue: 0,0:02:23.30,0:02:29.79,EDCH,NTP,0,0,0,,{\fad(200,200)}想要和你一起寻找这光芒四射的未来
+Dialogue: 0,0:02:29.86,0:02:37.63,EDCH,NTP,0,0,0,,{\fad(200,200)}化成风吹干你流出的眼泪
+Dialogue: 0,0:02:37.66,0:02:44.30,EDCH,NTP,0,0,0,,{\fad(200,200)}谁也不能 一个人生存下去　 Stand Up for You
+Dialogue: 0,0:02:44.36,0:02:48.97,EDCH,NTP,0,0,0,,{\fad(200,200)}谁都试着走出孤独的黑暗
