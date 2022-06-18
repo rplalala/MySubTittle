@@ -575,24 +575,24 @@ Dialogue: 0,0:09:15.95,0:09:17.45,Default,,0,0,0,,{\fn腾祥嘉丽细圆GB18030\
 Dialogue: 0,0:09:38.72,0:09:40.39,Default,,0,0,0,,{\fn方正兰亭细黑_GBK\b0\bord0.5\c&H505050&\pos(522.667,960)\3c&H505050&}[乳沟·无金属架]
 Dialogue: 0,0:09:38.72,0:09:40.39,Default,,0,0,0,,{\fn方正兰亭细黑_GBK\b0\bord0.5\c&H505050&\3c&H505050&\pos(1448.001,960)}[优雅·普利兹褶]
 Dialogue: 0,0:13:27.95,0:13:31.95,Default,,0,0,0,,{\fn方正准雅宋_GBK\bord0\b0\fs90\c&HFEFEFE&\pos(960,840)}童 话 · 大 逃 杀
-Dialogue: 0,0:14:14.62,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(957.334,153)}选择角色
-Dialogue: 0,0:14:14.62,0:14:18.37,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(0,420)}名字 喵小小
-Dialogue: 0,0:14:14.62,0:14:18.37,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(1517.334,1011.666)\fad(0,420)}特征 手指灵活
-Dialogue: 0,0:14:18.04,0:14:20.29,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(420,420)}名字 汪宝宝
-Dialogue: 0,0:14:18.04,0:14:20.29,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 跑得快
-Dialogue: 0,0:14:19.83,0:14:21.88,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(420,420)}名字 兔乖乖
-Dialogue: 0,0:14:19.83,0:14:21.88,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\fad(420,420)\pos(1522.667,1046.333)}特征 善于弹跳
-Dialogue: 0,0:14:21.46,0:14:22.92,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(420,420)}名字 呱叔叔
-Dialogue: 0,0:14:21.46,0:14:22.92,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 眼神好
-Dialogue: 0,0:14:22.46,0:14:24.51,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(420,420)}名字 熊嘟嘟
-Dialogue: 0,0:14:22.46,0:14:24.51,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 力气大
-Dialogue: 0,0:14:24.13,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(426.667,1006.333)\fad(420,0)}名字 狐坏坏
-Dialogue: 0,0:14:24.13,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5\fs40\pos(1520,1011.666)\fad(420,0)}特征 心狠手辣
-Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(320,105)}关东煮                                        棒棒糖
-Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(320,465)}花花                                           果汁
-Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(317,1010)}蜡笔             蛋糕           甜甜圈                糖豆
-Dialogue: 0,0:15:55.68,0:15:58.18,Default,,0,0,0,,{\fn华康少女文字W5\fs60\c&HB08EEB&\bord0\move(1024,334.333,1024.000,494.333,0,600)}持有道具
-Dialogue: 0,0:16:57.95,0:17:00.83,Default,,0,0,0,,{\fn华康少女文字W5\fs60\c&HB08EEB&\3c&HFFFFFF&\pos(941.333,907.667)\bord5}请小心颜色不同的花
+Dialogue: 0,0:14:14.62,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(957.334,153)}选择角色
+Dialogue: 0,0:14:14.62,0:14:18.37,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(0,420)}名字 喵小小
+Dialogue: 0,0:14:14.62,0:14:18.37,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(1517.334,1011.666)\fad(0,420)}特征 手指灵活
+Dialogue: 0,0:14:18.04,0:14:20.29,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(420,420)}名字 汪宝宝
+Dialogue: 0,0:14:18.04,0:14:20.29,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 跑得快
+Dialogue: 0,0:14:19.83,0:14:21.88,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(420,420)}名字 兔乖乖
+Dialogue: 0,0:14:19.83,0:14:21.88,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\fad(420,420)\pos(1522.667,1046.333)}特征 善于弹跳
+Dialogue: 0,0:14:21.46,0:14:22.92,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(420,420)}名字 呱叔叔
+Dialogue: 0,0:14:21.46,0:14:22.92,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 眼神好
+Dialogue: 0,0:14:22.46,0:14:24.51,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(420,420)}名字 熊嘟嘟
+Dialogue: 0,0:14:22.46,0:14:24.51,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(1525.334,1011.666)\fad(420,420)}特征 力气大
+Dialogue: 0,0:14:24.13,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(426.667,1006.333)\fad(420,0)}名字 狐坏坏
+Dialogue: 0,0:14:24.13,0:14:26.13,Default,,0,0,0,,{\c&HC0A737&\3c&HFFFFFF&\fn华康少女文字W5-A\fs40\pos(1520,1011.666)\fad(420,0)}特征 心狠手辣
+Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5-A\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(320,105)}关东煮                                        棒棒糖
+Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5-A\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(320,465)}花花                                           果汁
+Dialogue: 0,0:14:31.39,0:14:37.27,Default,,0,0,0,,{\an7\fn华康少女文字W5-A\fs45\c&HB08EEB&\3c&HFFFFFF&\pos(317,1010)}蜡笔             蛋糕           甜甜圈                糖豆
+Dialogue: 0,0:15:55.68,0:15:58.18,Default,,0,0,0,,{\fn华康少女文字W5-A\fs60\c&HB08EEB&\bord0\move(1024,334.333,1024.000,494.333,0,600)}持有道具
+Dialogue: 0,0:16:57.95,0:17:00.83,Default,,0,0,0,,{\fn华康少女文字W5-A\fs60\c&HB08EEB&\3c&HFFFFFF&\pos(941.333,907.667)\bord5}请小心颜色不同的花
 Dialogue: 0,0:19:36.44,0:19:39.95,Default,,0,0,0,,{\fn方正准雅宋_GBK\bord0\b0\fs90\c&HFEFEFE&\pos(960,720)}纸 上 战 争
 Dialogue: 0,0:19:40.28,0:19:43.74,Default,,0,0,0,,{\an7\fn方正兰亭准黑_GBK\c&H3230CB&\fs50\bord3\3c&HFFFFFF&\pos(1422,609.667)}游戏规则
 Dialogue: 0,0:19:40.28,0:19:43.74,Default,,0,0,0,,{\p1\bord0\c&HFFFFFF&\1a&H80&\pos(1520,1045.334)}m 0 0 l 780 0 780 370 0 370{\p0}
