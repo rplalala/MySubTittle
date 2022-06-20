@@ -5,7 +5,6 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
-Timer: 100.0000
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
@@ -28,7 +27,7 @@ Style: EDCN2,方正准圆_GBK,36,&H00979DED,&H000000FF,&H00979DED,&H00000000,-1,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——Staff——
 Dialogue: 0,0:21:56.98,0:22:01.15,Staff,,0,0,0,,{\fade(500,500)}本字幕由动漫国字幕组制作(dmguo.org)\N仅供试看,请支持购买正版音像制品
-Dialogue: 0,0:22:02.19,0:22:05.95,Staff,,0,0,0,,{\fade(500,500)}翻译:哦吼汗&Naggi   校对:哦吼汗   时轴:yonijdy   后期&BDRip:小圣
+Dialogue: 0,0:22:02.19,0:22:05.95,Staff,,0,0,0,,{\fade(500,500)}翻译:哦吼汗&Naggi   校对:哦吼汗   时轴:yonijdy   后期:小圣
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——OP——
 Dialogue: 0,0:00:01.46,0:00:08.09,OPJP,,0,0,0,,{\be1}ワガママMIRROR HEART　逆さまな瞳を見てよ
 Dialogue: 0,0:00:19.43,0:00:24.19,OPJP,,0,0,0,,{\be1}ねぇ、綺麗なだけじゃ強がれない

@@ -5,7 +5,6 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
-Timer: 100.0000
 YCbCr Matrix: TV.709
 ScaledBorderAndShadow: yes
 
@@ -22,8 +21,8 @@ Style: EDCN,方正准圆_GBK,34,&H00979DED,&H000000FF,&H00FFFFFF,&H00000000,-1,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——Staff——
-Dialogue: 0,0:20:03.99,0:20:08.16,Staff,,0,0,0,,{\fade(500,500)}本字幕由动漫国字幕组制作(dmguo.org)\N仅供试看,请支持购买正版音像制品
-Dialogue: 0,0:20:09.20,0:20:12.96,Staff,,0,0,0,,{\fade(500,500)}翻译:哦吼汗&Naggi   校对:哦吼汗   时轴:yonijdy   后期&BDRip:小圣
+Dialogue: 0,0:22:23.63,0:22:27.80,Staff,,0,0,0,,{\fade(500,500)}本字幕由动漫国字幕组制作(dmguo.org)\N仅供试看,请支持购买正版音像制品
+Dialogue: 0,0:22:28.84,0:22:32.60,Staff,,0,0,0,,{\fade(500,500)}翻译:哦吼汗&Naggi   校对:哦吼汗   时轴:yonijdy   后期:小圣
 Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN1——
 Dialogue: 0,0:13:05.24,0:13:07.24,EDJP,,0,0,0,,{\fad(150,150)}ワガママMIRROR HEART
 Dialogue: 0,0:13:07.24,0:13:11.79,EDJP,,0,0,0,,{\fad(150,150)}逆さまな瞳を見てよ
@@ -58,7 +57,7 @@ Dialogue: 0,0:15:10.74,0:15:16.45,EDCN,,0,0,0,,{\fad(150,150)}隐藏不住的遗
 Dialogue: 0,0:15:16.66,0:15:22.42,EDCN,,0,0,0,,{\fad(150,150)}你不知不觉沉浸其中
 Dialogue: 0,0:15:22.71,0:15:28.67,EDCN,,0,0,0,,{\fad(150,150)}与其不知被谁夺走
 Dialogue: 0,0:15:28.67,0:15:33.89,EDCN,,0,0,0,,{\fad(150,150)}可以让我杀了你吗
-Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN5——
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN4——
 Dialogue: 0,0:17:20.99,0:17:22.75,EDJP,,0,0,0,,{\fad(100,100)}笑顔になれ
 Dialogue: 0,0:17:22.75,0:17:24.04,EDJP,,0,0,0,,{\fad(100,100)}いつだって
 Dialogue: 0,0:17:24.04,0:17:27.13,EDJP,,0,0,0,,{\fad(100,100)}私ハダピュア
