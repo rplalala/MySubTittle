@@ -17,12 +17,11 @@ Video Position: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-
 Style: Default,simhei,34,&H00ffffff,&H0000ffff,&H003d3d3d,&H002f2f2f,-1,0,0,0,100,100,1,0.00,1,1,1,2,20,20,20,1
 Style: Default2,Microsoft YaHei,32,&H00FFFFFF,&H000000FF,&H0018232A,&H96000000,1,0,0,0,100,100,0,0.00,1,2,0,8,10,10,10,1
+
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-
 Dialogue: 0,0:00:02.74,0:00:02.87,Default,,0000,0000,0000,,{\i1}Phantom...{\i0}
 Dialogue: 0,0:00:02.87,0:00:04.20,Default,,0000,0000,0000,,"Phantom\NPicture Drama"\N{\i1}Phantom...{\i0}
 Dialogue: 0,0:00:04.20,0:00:08.51,Default,,0000,0000,0000,,"Phantom\NPicture Drama"\N{\i1}Requiem for the Phantom, Picture Drama.{\i0}
