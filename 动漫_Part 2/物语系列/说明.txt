@@ -1,0 +1,3 @@
+经过我个人修正后
+正文最佳字幕为 caso、neko ，其中 caso 缺漏的部分我都按照caso_rev补齐了，并优化了很多样式
+副音轨最佳字幕为 caso.cm_sc、Kurates.cm_sc、neko.cm_sc。均来自论坛物语十周年副音轨字幕合集

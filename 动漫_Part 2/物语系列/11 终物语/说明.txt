@@ -1,0 +1,10 @@
+删去caso副音轨中的双倍边框阴影，边框、阴影固定为 2.5,0
+
+正文：
+caso
+来自 https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=1534&pid=27870&fromuid=37059
+个人微调了OP、ED样式
+
+副音轨：
+caso(华盟多色版)
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=4783&highlight=%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97

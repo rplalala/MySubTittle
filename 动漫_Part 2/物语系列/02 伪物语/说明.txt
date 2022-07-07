@@ -1,0 +1,16 @@
+个人将TD_rev副音轨和正文caso_rev中所有字体宽高为100,95的改为100,100，并且删去TD、TD_rev副音轨中的双倍边框阴影，边框、阴影固定为 2.5,0
+
+正文：
+FanSub 
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=318&highlight=%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97
+caso_rev(woodcube 个人修改版)
+来自 https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=318&pid=2270&fromuid=37059 
+caso(华盟)
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=6948&highlight=%E4%BC%AA%E7%89%A9%E8%AF%AD
+原版缺少片尾预告，我将caso_rev改为华盟样式实现添加片尾预告，保留1080P分辨率否则屏幕字对不准，并且微调了各个OP样式
+
+副音轨：
+TD(仿华盟样式修改多色版)
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=4783&highlight=%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97
+TD_rev(woodcube 个人修改版)
+来自 https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=318&pid=2270&fromuid=37059 

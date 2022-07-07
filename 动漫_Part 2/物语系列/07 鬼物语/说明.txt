@@ -1,0 +1,11 @@
+个人将正文caso_rev中所有字体宽高为100,95的改为100,100，并且删去caso副音轨中的双倍边框阴影，边框、阴影固定为 2.5,0
+正文：
+caso
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=318&highlight=%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97
+根据caso_rev调整片尾预告屏幕字不对帧问题，微调ED样式
+caso_rev(woodcube 个人修改版)
+来自 https://bbs.acgrip.com/forum.php?mod=redirect&goto=findpost&ptid=318&pid=2270&fromuid=37059 
+
+副音轨：
+caso(华盟多色版)
+来自 https://bbs.acgrip.com/forum.php?mod=viewthread&tid=4783&highlight=%E7%89%A9%E8%AF%AD%E7%B3%BB%E5%88%97
