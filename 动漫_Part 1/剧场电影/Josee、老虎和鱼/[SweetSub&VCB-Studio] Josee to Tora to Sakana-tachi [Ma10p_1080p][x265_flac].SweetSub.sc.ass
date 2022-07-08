@@ -12,10 +12,10 @@ PlayResY: 800
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
-Style: CN,Source Han Sans SC Medium,65,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,2,20,20,58,1
-Style: JP,Source Han Sans Medium,52,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,2,20,20,15,1
-Style: CN - Top,Source Han Sans SC Medium,55,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,8,20,20,20,1
-Style: JP - Top,Source Han Sans SC Medium,42,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,8,20,20,70,1
+Style: CN,Source Han Sans SC Medium,65,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,2,20,20,53,1
+Style: JP,Source Han Sans Medium,52,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,2,20,20,10,1
+Style: CN - Top,Source Han Sans SC Medium,55,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,8,20,20,10,1
+Style: JP - Top,Source Han Sans SC Medium,42,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,1.5,1,8,20,20,60,1
 Style: Credit,ACaslonPro-BoldItalic,50,&H00BB64FF,&H000000FF,&H00FFFFFF,&H96000000,0,0,0,0,100,100,1,0,1,0,0,2,20,20,20,1
 Style: Sign,Source Han Sans SC Medium,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,20,20,50,1
 Style: Ruby,Source Han Sans SC Medium,45,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0.1,0,1,1.5,0,2,0,0,40,0
@@ -746,11 +746,11 @@ Dialogue: 1,0:33:02.13,0:33:02.50,CN,,0,0,0,,诶？
 Dialogue: 1,0:33:02.52,0:33:04.73,CN,,0,0,0,,你喜欢她哪部作品？
 Dialogue: 1,0:33:06.97,0:33:08.65,CN,,0,0,0,,啊  不好意思
 Dialogue: 1,0:33:08.65,0:33:12.37,CN,,0,0,0,,我是第一次遇到喜欢萨冈的同好  不禁有点激动
-Dialogue: 1,0:33:14.85,0:33:17.68,Ruby,,0,0,0,,{\pos(1010,720)}Dans un mois, dans un an
+Dialogue: 1,0:33:14.85,0:33:17.68,Ruby,,0,0,0,,{\pos(1005,690)}Dans un mois, dans un an
 Dialogue: 1,0:33:14.85,0:33:17.68,CN,,0,0,0,,一…『一月后，一年后』
 Dialogue: 1,0:33:18.48,0:33:19.60,CN,,0,0,0,,行家啊！
 Dialogue: 1,0:33:20.33,0:33:22.60,CN,,0,0,0,,你读过『凌乱的床』吗？
-Dialogue: 1,0:33:20.33,0:33:22.60,Ruby,,0,0,0,,{\pos(982,720)}Le Lit défait
+Dialogue: 1,0:33:20.33,0:33:22.60,Ruby,,0,0,0,,{\pos(982,690)}Le Lit défait
 Dialogue: 1,0:33:22.60,0:33:26.40,CN,,0,0,0,,主角是『一月后，一年后』里的贝娅特丽丝…
 Dialogue: 1,0:33:24.13,0:33:26.40,CN - Top,,0,0,0,,乔西  这本也帮我借了吧
 Dialogue: 1,0:33:27.76,0:33:28.74,CN,,0,0,0,,你男朋友？
