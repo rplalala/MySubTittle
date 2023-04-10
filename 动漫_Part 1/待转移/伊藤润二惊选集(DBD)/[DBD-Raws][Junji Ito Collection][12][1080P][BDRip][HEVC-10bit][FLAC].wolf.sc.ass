@@ -22,7 +22,7 @@ Video Position: 31829
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,微软雅黑,75,&H00FFFFFF,&HF0000000,&H00232527,&HF0000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,30,134
+Style: Default,微软雅黑,75,&H00FFFFFF,&HF0000000,&H00232527,&HF0000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,20,134
 Style: Title,宋体,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,1,200,0,180,1
 Style: Title3,liguofu,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,3,27,260,110,1
 Style: Title7,宋体,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,210,0,440,1
