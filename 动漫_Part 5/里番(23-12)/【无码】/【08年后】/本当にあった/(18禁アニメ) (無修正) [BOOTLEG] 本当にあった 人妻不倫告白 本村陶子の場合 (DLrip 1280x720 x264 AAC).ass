@@ -1,0 +1,226 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 272
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,10,134
+Style: Default2,Microsoft YaHei,18,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,10,134
+Style: staff,Microsoft YaHei,18,&H0042C6F4,&HF0000000,&H00001D1F,&HF0000000,-1,0,0,0,100,100,0,0,1,2,0,8,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.80,0:00:12.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}爽 好爽
+Dialogue: 0,0:00:13.56,0:00:15.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是太棒了
+Dialogue: 0,0:00:16.60,0:00:17.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}再来
+Dialogue: 0,0:00:24.12,0:00:25.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不 不
+Dialogue: 0,0:00:26.56,0:00:27.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要
+Dialogue: 0,0:00:37.06,0:00:37.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}什么？
+Dialogue: 0,0:00:55.50,0:00:56.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}热热的
+Dialogue: 0,0:00:56.86,0:00:58.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}热热的
+Dialogue: 0,0:01:00.66,0:01:03.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}插到肉穴里来了
+Dialogue: 0,0:01:10.02,0:01:13.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我的名字叫本村陶子 32岁
+Dialogue: 0,0:01:14.34,0:01:16.64,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是一名已经结婚6年的专职太太
+Dialogue: 0,0:01:17.44,0:01:19.02,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}现在还没有孩子
+Dialogue: 0,0:01:19.60,0:01:21.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}丈夫是一名平凡的工薪族
+Dialogue: 0,0:01:22.64,0:01:29.84,staff,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}魔穗字幕组 翻译：Erokou 校对：野猪 时间&后期：显血
+Dialogue: 0,0:01:22.64,0:01:29.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真实存在的人妻不伦告白 本村陶子的情况
+Dialogue: 0,0:01:30.50,0:01:33.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}女人最重要的地方
+Dialogue: 0,0:01:33.66,0:01:36.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}也是男人最想操的地方
+Dialogue: 0,0:01:37.56,0:01:40.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}为此而来的男人中
+Dialogue: 0,0:01:41.20,0:01:45.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}肯定有一个最能带给女人快乐的男人
+Dialogue: 0,0:01:46.78,0:01:48.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个叫做肉棒
+Dialogue: 0,0:01:49.18,0:01:51.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}如果能把它牢牢掌握在自己手中
+Dialogue: 0,0:01:52.26,0:01:54.54,Default2,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}(你就能得到身为女人的快乐)
+Dialogue: 0,0:01:52.68,0:01:55.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这是奶奶喝醉后常说的话
+Dialogue: 0,0:01:56.08,0:01:59.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}奶奶在妈妈私奔后一年去世
+Dialogue: 0,0:02:00.48,0:02:02.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在三年前爷爷去世后
+Dialogue: 0,0:02:02.64,0:02:05.90,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}房屋因无人居住开始变得破败不堪
+Dialogue: 0,0:02:06.88,0:02:10.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这次 因父亲的忌日回乡
+Dialogue: 0,0:02:10.82,0:02:13.34,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然父亲在城里教书
+Dialogue: 0,0:02:13.80,0:02:16.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是作为学术派的父亲无法适应教师这个工作
+Dialogue: 0,0:02:17.48,0:02:21.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}于是 他回到乡下生活并在村公所工作
+Dialogue: 0,0:02:22.80,0:02:24.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是 在城市里长大的母亲
+Dialogue: 0,0:02:25.22,0:02:28.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}却因为乡下的生活而欲求不满
+Dialogue: 0,0:02:30.00,0:02:32.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在我小学的时候 那是一个
+Dialogue: 0,0:02:33.00,0:02:37.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}父亲和祖母都不在家 月光格外明亮的晚上
+Dialogue: 0,0:02:39.16,0:02:42.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我睡到一半醒来想去找妈妈撒娇
+Dialogue: 0,0:02:42.36,0:02:44.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}于是走到妈妈的房门前时
+Dialogue: 0,0:02:45.46,0:02:47.24,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}觉察到了这奇怪的情况
+Dialogue: 0,0:02:48.68,0:02:53.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}一个不是爸爸的男人正和妈妈抱在一起
+Dialogue: 0,0:02:53.84,0:02:56.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我不知道那个男人是谁
+Dialogue: 0,0:02:57.94,0:03:03.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那晚 母亲的表情与平日完全不同
+Dialogue: 0,0:03:05.58,0:03:07.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}自从那以后不久
+Dialogue: 0,0:03:09.06,0:03:13.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}妈妈就和别的男人私奔了
+Dialogue: 0,0:03:23.26,0:03:27.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}和妈妈私奔的男人是耕太同学的爸爸
+Dialogue: 0,0:03:28.94,0:03:32.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在那以前 我们经常一起玩
+Dialogue: 0,0:03:33.52,0:03:35.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是我们渐渐地不再说话
+Dialogue: 0,0:03:36.30,0:03:39.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}耕太一家也从村子里搬了出去
+Dialogue: 0,0:03:40.44,0:03:41.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那是玩医生游戏时
+Dialogue: 0,0:03:41.80,0:03:44.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}互相看过裸体的耕太君
+Dialogue: 0,0:03:45.20,0:03:48.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我记得当时兴奋得像血在倒流一样
+Dialogue: 0,0:03:49.94,0:03:53.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我的欲望似乎就是从那时觉醒的
+Dialogue: 0,0:03:54.28,0:03:56.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}从祖母遗传下来的家族血缘
+Dialogue: 0,0:03:57.80,0:04:01.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}和从母亲直接遗传下来的情欲
+Dialogue: 0,0:04:07.28,0:04:08.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我会在生理前的一段时间里
+Dialogue: 0,0:04:09.14,0:04:11.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}身体的体质就会发生改变
+Dialogue: 0,0:04:12.54,0:04:13.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那时候
+Dialogue: 0,0:04:14.02,0:04:16.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我在街上看到男人
+Dialogue: 0,0:04:17.38,0:04:19.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}都会让我欲火焚身
+Dialogue: 0,0:04:22.32,0:04:26.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}丈夫不用说 连自慰也不能满足
+Dialogue: 0,0:04:29.80,0:04:33.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}只有不特定对象的性交
+Dialogue: 0,0:04:32.08,0:04:33.70,Default2,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}（好棒 好棒）
+Dialogue: 0,0:04:34.82,0:04:36.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好舒服
+Dialogue: 0,0:04:37.76,0:04:38.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}再来
+Dialogue: 0,0:04:40.46,0:04:43.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}总算让我保持在一种平衡的状态上
+Dialogue: 0,0:04:46.52,0:04:50.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这时 我会想起奶奶的话
+Dialogue: 0,0:04:51.34,0:04:54.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你知道比这里更远的边境地方
+Dialogue: 0,0:04:54.70,0:04:56.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}有人居住 知道吗？
+Dialogue: 0,0:04:57.44,0:05:01.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那是可以让女人融化一样的桃源乡
+Dialogue: 0,0:05:01.66,0:05:04.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那是 女人试过一次
+Dialogue: 0,0:05:04.42,0:05:09.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}就无法自拔的极乐净土
+Dialogue: 0,0:05:10.30,0:05:11.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}因为很久以前
+Dialogue: 0,0:05:11.44,0:05:13.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那一带是没落武士的村落
+Dialogue: 0,0:05:14.44,0:05:16.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}因为没有女人啊
+Dialogue: 0,0:05:16.58,0:05:20.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那有可能是为了吸引女人的流言
+Dialogue: 0,0:05:20.32,0:05:22.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我趁着给父亲上坟的机会
+Dialogue: 0,0:05:23.00,0:05:25.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}来这里一探究竟
+Dialogue: 0,0:05:26.14,0:05:29.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}还有就是我的发情期快来了
+Dialogue: 0,0:05:38.52,0:05:40.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}早上好 太太 你还真是不嫌烦呢！
+Dialogue: 0,0:05:41.58,0:05:44.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}无论多久你等的人也不会来呀
+Dialogue: 0,0:05:45.64,0:05:49.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这种事情 不是要有耐心才行吗？
+Dialogue: 0,0:05:50.00,0:05:54.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你等的人是谁？ 恋人？
+Dialogue: 0,0:05:54.40,0:05:56.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}才不是那么色情的东西呢
+Dialogue: 0,0:05:57.32,0:05:57.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}话说回来
+Dialogue: 0,0:05:58.58,0:06:02.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}昨天从都市来的两个女大学生状况如何？
+Dialogue: 0,0:06:02.44,0:06:04.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}托你做的药酒的福
+Dialogue: 0,0:06:05.18,0:06:06.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}正睡得香着呢
+Dialogue: 0,0:06:07.64,0:06:10.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}昨天 两个人不是往生极乐了吗？
+Dialogue: 0,0:06:10.86,0:06:13.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真的是因为你的药酒
+Dialogue: 0,0:06:13.58,0:06:16.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}来这里泡澡能消解压力
+Dialogue: 0,0:06:16.64,0:06:19.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}都市里的OL都口口相传
+Dialogue: 0,0:06:19.70,0:06:23.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里变得连工作日都会有顾客上门了
+Dialogue: 0,0:06:23.84,0:06:25.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}恩 是的呢
+Dialogue: 0,0:06:25.70,0:06:28.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这兴旺都是多亏了你呢
+Dialogue: 0,0:06:29.58,0:06:30.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}哪里哪里
+Dialogue: 0,0:06:36.28,0:06:38.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我是前几天预约过的本村
+Dialogue: 0,0:06:39.92,0:06:40.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个女人
+Dialogue: 0,0:06:42.04,0:06:46.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}欢迎来到这种乡下地方
+Dialogue: 0,0:06:50.60,0:06:53.62,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}本旅馆的特色就是露天浴池
+Dialogue: 0,0:06:54.06,0:06:55.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}缓解疲劳就不必说了
+Dialogue: 0,0:06:55.60,0:06:56.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}还有促进血液循环 安产
+Dialogue: 0,0:06:57.16,0:06:59.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}以及治疗各种疾病效果
+Dialogue: 0,0:07:01.34,0:07:02.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}此外还有药酒
+Dialogue: 0,0:07:03.00,0:07:05.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}喝了药酒再去泡澡能增强效果
+Dialogue: 0,0:07:06.28,0:07:09.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}能让你像换了个人一样
+Dialogue: 0,0:07:13.62,0:07:14.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是好舒服
+Dialogue: 0,0:07:15.84,0:07:19.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是 奶奶说的是真的吗？
+Dialogue: 0,0:07:19.76,0:07:22.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里只给我一种乡下温泉旅馆的感觉
+Dialogue: 0,0:07:23.86,0:07:25.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}估计只是奶奶的玩笑话吧
+Dialogue: 0,0:07:27.02,0:07:28.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}可能是老糊涂了吧
+Dialogue: 0,0:07:33.38,0:07:35.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是药酒的原因吗？
+Dialogue: 0,0:07:35.86,0:07:37.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我好像有点醉了
+Dialogue: 0,0:07:42.06,0:07:43.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}身子软软的
+Dialogue: 0,0:07:45.06,0:07:46.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好舒服
+Dialogue: 0,0:07:48.84,0:07:50.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这样下去会睡不着的
+Dialogue: 0,0:08:15.96,0:08:17.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好舒服
+Dialogue: 0,0:08:21.28,0:08:21.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}爽
+Dialogue: 0,0:08:23.88,0:08:25.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}要 要高潮了
+Dialogue: 0,0:08:29.26,0:08:31.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}高潮了！！
+Dialogue: 0,0:08:52.70,0:08:54.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}睡得很熟
+Dialogue: 0,0:08:54.46,0:08:59.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}给你喝的药酒里加了大量的曼陀罗的种子
+Dialogue: 0,0:09:00.06,0:09:01.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}曼陀罗的种子会让人产生
+Dialogue: 0,0:09:01.28,0:09:04.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}通常看不见的幻觉的危险的植物
+Dialogue: 0,0:09:05.26,0:09:07.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这是为了你特别准备的
+Dialogue: 0,0:09:09.54,0:09:12.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个时候我做了一个梦
+Dialogue: 0,0:09:13.70,0:09:15.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是我孩童时期
+Dialogue: 0,0:09:16.12,0:09:18.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在那月明之夜
+Dialogue: 0,0:09:18.84,0:09:22.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}见证母亲和别的男人抱在一起的晚上
+Dialogue: 0,0:09:46.24,0:09:47.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}什么？ 是谁？
+Dialogue: 0,0:09:53.38,0:09:54.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要
+Dialogue: 0,0:09:55.50,0:09:57.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要 住手
+Dialogue: 0,0:09:57.10,0:09:58.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}闭嘴
+Dialogue: 0,0:09:59.96,0:10:03.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不 不 不要
+Dialogue: 0,0:10:47.98,0:10:48.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}干嘛？
+Dialogue: 0,0:10:54.88,0:10:55.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好厉害
+Dialogue: 0,0:10:56.40,0:10:57.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这个好厉害
+Dialogue: 0,0:11:01.18,0:11:02.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这种感觉
+Dialogue: 0,0:11:02.94,0:11:04.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是什么？
+Dialogue: 0,0:11:09.32,0:11:13.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}和以前尝过的肉棒完全不同
+Dialogue: 0,0:11:17.78,0:11:19.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好 爽 棒
+Dialogue: 0,0:11:21.86,0:11:23.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}爽
+Dialogue: 0,0:11:26.50,0:11:28.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要 别拔出来
+Dialogue: 0,0:11:30.28,0:11:31.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要太粗暴
+Dialogue: 0,0:11:37.18,0:11:39.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好棒 好爽
+Dialogue: 0,0:11:39.72,0:11:41.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这么爽的肉棒头一遭
+Dialogue: 0,0:11:42.80,0:11:44.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我的肉穴好像要坏了
+Dialogue: 0,0:11:45.24,0:11:48.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}就像插进了滚烫的铁棒
+Dialogue: 0,0:11:49.34,0:11:51.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这种感觉是啥？
+Dialogue: 0,0:11:51.52,0:11:53.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好像要被肉穴吸走了
+Dialogue: 0,0:12:07.14,0:12:09.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这就是奶奶提到的肉棒吗？
+Dialogue: 0,0:12:11.40,0:12:12.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我不行了
+Dialogue: 0,0:12:12.86,0:12:14.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}快要失神了
+Dialogue: 0,0:12:19.02,0:12:21.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}已经不行了
+Dialogue: 0,0:12:26.92,0:12:29.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}热热的 热热的东西
+Dialogue: 0,0:12:32.04,0:12:35.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}进到肉穴里来了
+Dialogue: 0,0:12:56.90,0:12:58.90,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你也该醒来了吧
+Dialogue: 0,0:13:01.94,0:13:04.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我终于圆梦了
+Dialogue: 0,0:13:04.82,0:13:07.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我可是一直在等你
+Dialogue: 0,0:13:10.16,0:13:10.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你在说什么？
+Dialogue: 0,0:13:11.56,0:13:15.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}为了能操你而在此等待
+Dialogue: 0,0:13:15.58,0:13:16.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你到底...
+Dialogue: 0,0:13:17.54,0:13:20.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你的小穴还真是成熟了
+Dialogue: 0,0:13:22.04,0:13:22.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}难道是？
+Dialogue: 0,0:13:23.34,0:13:25.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}耕太君
+Dialogue: 0,0:13:25.54,0:13:26.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是的
+Dialogue: 0,0:13:26.38,0:13:30.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}被你妈妈玩弄然后私奔的男人的儿子
+Dialogue: 0,0:13:30.50,0:13:32.64,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是 你为什么要做这种事？
+Dialogue: 0,0:13:33.48,0:13:36.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}为此 我和我妈妈不得不搬出村子
+Dialogue: 0,0:13:37.40,0:13:39.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你知道之后我受了多少苦吗？
+Dialogue: 0,0:13:40.24,0:13:42.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我妈妈因过劳而死
+Dialogue: 0,0:13:42.28,0:13:45.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我不得不过着喝着泥水的凄惨生活
+Dialogue: 0,0:13:46.96,0:13:47.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}于是 自然而然地
+Dialogue: 0,0:13:47.72,0:13:50.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我开始痛恨生活在村子里的你
+Dialogue: 0,0:13:51.94,0:13:53.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}当我2年前回到这个村子时
+Dialogue: 0,0:13:54.42,0:13:56.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}活着的只剩你了
+Dialogue: 0,0:13:56.58,0:13:59.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是我无论如何也无法消除对你的恨意
+Dialogue: 0,0:14:00.14,0:14:01.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}听到你家的传闻以后
+Dialogue: 0,0:14:02.20,0:14:04.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我认为你应该知道这里的传说
+Dialogue: 0,0:14:04.80,0:14:05.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}并且终有一天会来
+Dialogue: 0,0:14:06.30,0:14:07.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我祈祷并等待着
+Dialogue: 0,0:14:09.58,0:14:13.02,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}果然 你淫靡的传闻是真的
+Dialogue: 0,0:14:13.36,0:14:15.02,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}兴冲冲地就来了
+Dialogue: 0,0:14:15.70,0:14:17.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你还真是不一般的淫乱
+Dialogue: 0,0:14:18.06,0:14:18.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那是...
+Dialogue: 0,0:14:19.64,0:14:22.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}因为 你是一直未能谋面的
+Dialogue: 0,0:14:22.28,0:14:24.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}肉棒所有者
+Dialogue: 0,0:14:25.62,0:14:26.90,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}说起来 老爸曾说过
+Dialogue: 0,0:14:27.30,0:14:28.24,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个女人的肉穴就像
+Dialogue: 0,0:14:28.24,0:14:29.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}浓厚的葛粉汤一样
+Dialogue: 0,0:14:30.16,0:14:32.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}肉棒插进去正合适
+Dialogue: 0,0:14:32.88,0:14:34.24,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}想拔却又拔不出
+Dialogue: 0,0:14:34.70,0:14:37.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是一种让人无法自拔的东西
+Dialogue: 0,0:14:37.88,0:14:39.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}现在终于理解了老爸的心情
+Dialogue: 0,0:14:40.10,0:14:43.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我也是 终于知道妈妈私奔的原因了
+Dialogue: 0,0:14:49.88,0:14:51.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这样好吗？ 不回去
+Dialogue: 0,0:14:51.76,0:14:52.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}没关系的
+Dialogue: 0,0:14:52.88,0:14:56.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个人终归不是我所寻找的人
+Dialogue: 0,0:14:57.36,0:15:01.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我终于找到奶奶所说的肉棒了
+Dialogue: 0,0:15:01.70,0:15:02.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}痛！
+

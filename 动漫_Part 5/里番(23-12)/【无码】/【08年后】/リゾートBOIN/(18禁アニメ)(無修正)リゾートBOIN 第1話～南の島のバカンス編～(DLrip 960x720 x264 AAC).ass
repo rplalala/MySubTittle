@@ -1,0 +1,337 @@
+﻿[Script Info]
+; Processed by 繁化姬 dict-813f45bf-r778 @ 2018/12/31 04:52:39 | https://zhconvert.org
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 970
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,42,&H00FFFFFF,&H000000FF,&H00000000,&H80323232,-1,0,0,0,100,100,0,0,1,2,1,2,20,20,54,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.56,0:00:05.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}藍色的天空
+Dialogue: 0,0:00:10.09,0:00:11.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}白色的沙灘
+Dialogue: 0,0:00:13.06,0:00:14.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}耀眼的太陽
+Dialogue: 0,0:00:16.43,0:00:17.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這裡但是就是南方的樂園…
+Dialogue: 0,0:00:21.24,0:00:23.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奄那土島啊!
+Dialogue: 0,0:00:39.30,0:00:40.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}雖然有點對不起奶奶
+Dialogue: 0,0:00:41.11,0:00:43.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不過我也有我的自由 要好好玩個痛快
+Dialogue: 0,0:00:46.42,0:00:46.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對啊
+Dialogue: 0,0:00:46.87,0:00:48.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好奇怪哦
+Dialogue: 0,0:00:50.87,0:00:52.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 小介?
+Dialogue: 0,0:00:54.44,0:00:55.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 奈央?
+Dialogue: 0,0:00:56.47,0:00:57.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣?
+Dialogue: 0,0:00:58.32,0:00:59.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}果然是小介呢
+Dialogue: 0,0:00:59.94,0:01:02.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對啊 是大介大人呢
+Dialogue: 0,0:01:03.16,0:01:05.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}為什麼你們會在這裡啊?
+Dialogue: 0,0:01:05.35,0:01:07.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}趁暑假來度假啊
+Dialogue: 0,0:01:08.04,0:01:08.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}沒錯
+Dialogue: 0,0:01:09.49,0:01:14.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}雖然來這座島就是要度假的是沒錯啦…
+Dialogue: 0,0:01:14.77,0:01:18.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不但偶然遇到 還住在同一間飯店 好厲害啊
+Dialogue: 0,0:01:18.93,0:01:20.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這一定是命運呢
+Dialogue: 0,0:01:21.53,0:01:25.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}才不是呢 一定是亞麻線 讓我們緊緊相連的關係
+Dialogue: 0,0:01:25.77,0:01:28.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}才不是亞麻線呢 是紅線
+Dialogue: 0,0:01:28.65,0:01:29.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央好笨哦
+Dialogue: 0,0:01:30.44,0:01:33.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}而且跟大介大人綁在一起的是我才對
+Dialogue: 0,0:01:35.55,0:01:38.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}都說是我了 不要跟我的小介靠那麼近啦
+Dialogue: 0,0:01:39.99,0:01:43.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你才不要靠近我的大介大人啦
+Dialogue: 0,0:01:46.47,0:01:48.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我說 你們不要鬧了啦
+Dialogue: 0,0:02:06.08,0:02:07.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這樣就好了
+Dialogue: 0,0:02:14.44,0:02:16.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}麻耶 對不起
+Dialogue: 0,0:02:17.23,0:02:18.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小桃你真是的…
+Dialogue: 0,0:02:20.49,0:02:21.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}歡迎光臨
+Dialogue: 0,0:02:22.07,0:02:23.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 哥哥?
+Dialogue: 0,0:02:23.77,0:02:25.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 麻耶?
+Dialogue: 0,0:02:25.25,0:02:28.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害 竟然能在這裡遇到 好像作夢一樣
+Dialogue: 0,0:02:28.90,0:02:31.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}等一下 小介 這個人是誰啊?
+Dialogue: 0,0:02:31.48,0:02:32.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對啊
+Dialogue: 0,0:02:33.22,0:02:34.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你在說什麼啊 奈央?
+Dialogue: 0,0:02:34.69,0:02:35.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}她是你的表妹麻耶啊
+Dialogue: 0,0:02:42.40,0:02:44.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}啊 是麻耶啊
+Dialogue: 0,0:02:44.78,0:02:46.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央表姊?
+Dialogue: 0,0:02:46.51,0:02:47.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好久不見
+Dialogue: 0,0:02:47.90,0:02:49.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}原來是親戚啊
+Dialogue: 0,0:02:50.95,0:02:53.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}但是很久沒見了 一時還認不出來
+Dialogue: 0,0:02:54.61,0:02:56.84,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}麻耶真的長大了呢
+Dialogue: 0,0:02:57.41,0:02:59.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}也有地方沒長到呢
+Dialogue: 0,0:03:00.91,0:03:02.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}哥哥 我聽到了哦
+Dialogue: 0,0:03:05.44,0:03:06.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好痛…
+Dialogue: 0,0:03:07.65,0:03:09.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小桃 你沒事吧?
+Dialogue: 0,0:03:11.21,0:03:14.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}該不會這一切的偶然都是奶奶搞的鬼吧?
+Dialogue: 0,0:03:23.01,0:03:24.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}她們真是的
+Dialogue: 0,0:03:40.13,0:03:41.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我說你啊…
+Dialogue: 0,0:03:41.50,0:03:44.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}因為…明明燈還亮著
+Dialogue: 0,0:03:44.49,0:03:47.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}可是人家怎麼叫 你就是不回應嘛
+Dialogue: 0,0:03:47.45,0:03:51.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我說你啊 你以為這裡是幾樓啊?
+Dialogue: 0,0:03:51.91,0:03:53.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那你找我有什麼事?
+Dialogue: 0,0:03:54.39,0:03:55.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要喝啤酒嗎?
+Dialogue: 0,0:03:57.09,0:04:00.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}當然是來跟小介的這個玩啊
+Dialogue: 0,0:04:07.91,0:04:09.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}喂 你要做什麼啊!?
+Dialogue: 0,0:04:09.91,0:04:12.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好想跟小介的肉棒玩呢
+Dialogue: 0,0:04:13.81,0:04:14.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我說你啊…
+Dialogue: 0,0:04:22.22,0:04:27.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介也想跟我的胸部玩吧?
+Dialogue: 0,0:04:34.35,0:04:38.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的手好色啊 再繼續摸
+Dialogue: 0,0:04:43.03,0:04:45.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介 好舒服啊
+Dialogue: 0,0:04:51.09,0:04:53.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}乳頭…好舒服
+Dialogue: 0,0:05:02.68,0:05:04.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的站起來了
+Dialogue: 0,0:05:06.53,0:05:09.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害 又粗又硬
+Dialogue: 0,0:05:10.64,0:05:12.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 很舒服呢
+Dialogue: 0,0:05:14.13,0:05:18.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那我來讓小介的肉棒更舒服吧
+Dialogue: 0,0:05:43.01,0:05:45.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 快不行了 要射了
+Dialogue: 0,0:05:46.62,0:05:47.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人
+Dialogue: 0,0:05:49.66,0:05:51.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央有來打擾你嗎?
+Dialogue: 0,0:05:52.30,0:05:54.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}她突然不見了說
+Dialogue: 0,0:05:54.82,0:05:55.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這下不妙
+Dialogue: 0,0:05:58.44,0:06:00.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不用管她沒關係啦
+Dialogue: 0,0:06:00.86,0:06:02.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}是…是沒錯啦
+Dialogue: 0,0:06:06.02,0:06:08.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}他們兩個跑去哪了啊?
+Dialogue: 0,0:06:09.65,0:06:11.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}到外面去了嗎?
+Dialogue: 0,0:06:13.75,0:06:15.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}像這樣潤滑就可以了
+Dialogue: 0,0:06:16.22,0:06:19.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你在做這種事的時候 頭腦倒是轉得挺快的嘛
+Dialogue: 0,0:06:20.08,0:06:21.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}被小介稱讚了呢
+Dialogue: 0,0:06:22.51,0:06:26.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}昨天在法蘭克福香腸上淋番茄醬時想到的
+Dialogue: 0,0:06:26.73,0:06:29.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的法蘭克福香腸也很好吃呢
+Dialogue: 0,0:06:29.44,0:06:30.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要搞錯咬到哦
+Dialogue: 0,0:06:31.00,0:06:32.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}放心好了
+Dialogue: 0,0:06:36.96,0:06:39.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}還是小介的比較好吃
+Dialogue: 0,0:06:40.18,0:06:41.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}啊 超爽的
+Dialogue: 0,0:06:45.17,0:06:47.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 胸部不要停哦
+Dialogue: 0,0:06:48.06,0:06:51.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}真是的 小介還真是喜歡胸部呢
+Dialogue: 0,0:06:52.53,0:06:55.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}怎麼樣啊 小介 要射了嗎?
+Dialogue: 0,0:06:55.58,0:06:57.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}嗯 奈央 好厲害
+Dialogue: 0,0:06:58.75,0:07:00.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}再多給你一點殺必死吧
+Dialogue: 0,0:07:08.21,0:07:10.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央的胸部好軟 太棒了
+Dialogue: 0,0:07:12.44,0:07:16.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的肉棒太大了 快跳出來了
+Dialogue: 0,0:07:20.96,0:07:22.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}乳頭被摩擦得好舒服啊
+Dialogue: 0,0:07:26.14,0:07:27.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介 我想要…
+Dialogue: 0,0:07:28.30,0:07:28.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央?
+Dialogue: 0,0:07:33.65,0:07:35.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}給我吧 小介
+Dialogue: 0,0:07:36.37,0:07:40.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}用小介的大肉棒把我的裡面塞滿吧
+Dialogue: 0,0:07:45.22,0:07:45.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要進去羅
+Dialogue: 0,0:07:46.87,0:07:47.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}嗯 小介
+Dialogue: 0,0:08:35.57,0:08:37.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}因為剛才乳交的關係 快射了
+Dialogue: 0,0:08:38.39,0:08:41.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}來吧 小介 我也快高潮了
+Dialogue: 0,0:08:43.64,0:08:44.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要去了…要去了
+Dialogue: 0,0:08:44.84,0:08:45.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央…
+Dialogue: 0,0:08:54.32,0:08:54.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}討厭…
+Dialogue: 0,0:09:03.17,0:09:07.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈…央…
+Dialogue: 0,0:09:22.63,0:09:24.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好舒服的風啊
+Dialogue: 0,0:09:25.43,0:09:28.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}還在想有錢人的船上派對是什麼樣的
+Dialogue: 0,0:09:29.68,0:09:31.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不過有酒喝真的是太棒了
+Dialogue: 0,0:09:32.57,0:09:35.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}您這麼開心真的是太好了
+Dialogue: 0,0:09:35.99,0:09:38.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不過 把奈央丟著沒關係嗎?
+Dialogue: 0,0:09:38.91,0:09:41.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}雖然她這麼愛吃應該很高興啦
+Dialogue: 0,0:09:42.06,0:09:43.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}沒關係啦
+Dialogue: 0,0:09:43.56,0:09:47.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}誰叫她先偷跑跟我的大介大人做那種事…
+Dialogue: 0,0:09:52.03,0:09:55.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}所以 這次換我了
+Dialogue: 0,0:09:59.70,0:10:03.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}沒關係 不會有人來這裡的
+Dialogue: 0,0:10:03.88,0:10:05.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}來吧 大介大人
+Dialogue: 0,0:10:07.11,0:10:08.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人…
+Dialogue: 0,0:10:08.35,0:10:10.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不行 手自己動起來了
+Dialogue: 0,0:10:14.29,0:10:17.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}又白又軟 真是美味可口的胸部啊
+Dialogue: 0,0:10:19.25,0:10:20.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人
+Dialogue: 0,0:10:25.71,0:10:26.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}乳頭…
+Dialogue: 0,0:10:27.86,0:10:30.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}乳頭好舒服啊
+Dialogue: 0,0:10:30.37,0:10:31.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣真的很敏感呢
+Dialogue: 0,0:10:32.36,0:10:35.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}是…是的 太舒服了
+Dialogue: 0,0:10:36.50,0:10:37.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}很可愛呢 美嗣
+Dialogue: 0,0:10:38.55,0:10:39.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}很香呢
+Dialogue: 0,0:10:39.95,0:10:43.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好丟人啊 大介大人
+Dialogue: 0,0:10:43.74,0:10:44.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那這邊怎樣呢?
+Dialogue: 0,0:10:45.85,0:10:46.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那裡…
+Dialogue: 0,0:10:46.96,0:10:49.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你看 淫蕩道都濕透了呢
+Dialogue: 0,0:10:49.60,0:10:51.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}怎麼這樣 請不要說出來
+Dialogue: 0,0:10:54.47,0:10:57.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}請快給我大介大人的東西吧
+Dialogue: 0,0:11:01.95,0:11:04.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}被美嗣的舌頭緊緊纏住 好舒服啊
+Dialogue: 0,0:11:14.75,0:11:16.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}請用 大介大人
+Dialogue: 0,0:11:23.00,0:11:25.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的肉棒…進來了
+Dialogue: 0,0:11:27.64,0:11:29.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣的裡面好熱啊
+Dialogue: 0,0:11:30.75,0:11:33.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的全部都進來了
+Dialogue: 0,0:11:36.71,0:11:37.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人
+Dialogue: 0,0:11:40.67,0:11:41.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害啊 美嗣
+Dialogue: 0,0:11:43.20,0:11:46.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}被誇獎了 好高興啊
+Dialogue: 0,0:11:49.46,0:11:50.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好舒服
+Dialogue: 0,0:11:50.83,0:11:55.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的好粗好大啊
+Dialogue: 0,0:11:55.50,0:11:56.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣
+Dialogue: 0,0:12:02.42,0:12:02.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣
+Dialogue: 0,0:12:04.94,0:12:05.47,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}美嗣
+Dialogue: 0,0:12:08.54,0:12:13.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的肉棒插到最深處了 好厲害啊
+Dialogue: 0,0:12:16.22,0:12:17.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不行了…快不行了…
+Dialogue: 0,0:12:17.68,0:12:19.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要去了…要高潮了
+Dialogue: 0,0:12:23.17,0:12:24.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要射了…要射出來了!
+Dialogue: 0,0:12:45.41,0:12:46.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人…
+Dialogue: 0,0:12:51.98,0:12:55.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}約會約會 和小介的約會
+Dialogue: 0,0:12:56.07,0:13:00.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 和大介大人約會的人可是我哦
+Dialogue: 0,0:13:01.38,0:13:03.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}真是的 怎麼還在說那種話啊?
+Dialogue: 0,0:13:04.17,0:13:06.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}只要在一起你的想法就這麼固執
+Dialogue: 0,0:13:06.95,0:13:08.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}才沒有呢
+Dialogue: 0,0:13:09.34,0:13:12.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我們好像被遺忘了
+Dialogue: 0,0:13:14.23,0:13:15.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好了 你們兩個人
+Dialogue: 0,0:13:15.94,0:13:19.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}難得可以享受大自然的 不要吵架啦
+Dialogue: 0,0:13:19.63,0:13:21.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}就算你這麼說
+Dialogue: 0,0:13:21.82,0:13:24.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}怎麼看就只有這些花花草草的 好無聊哦
+Dialogue: 0,0:13:29.27,0:13:30.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}香蕉
+Dialogue: 0,0:13:31.83,0:13:32.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}啊 奈央
+Dialogue: 0,0:13:32.47,0:13:34.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 不要那麼貪吃啦
+Dialogue: 0,0:13:35.79,0:13:38.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 哥哥 真是的
+Dialogue: 0,0:13:39.89,0:13:41.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}麻耶 等我
+Dialogue: 0,0:13:43.73,0:13:44.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好痛…
+Dialogue: 0,0:13:58.04,0:14:00.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要 黏黏的
+Dialogue: 0,0:14:01.03,0:14:03.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}難道我被吃掉了嗎?
+Dialogue: 0,0:14:06.42,0:14:07.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不會吧 衣服被…
+Dialogue: 0,0:14:08.83,0:14:11.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這…這是什麼啊? 雄蕊嗎?
+Dialogue: 0,0:14:11.86,0:14:14.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}等…等一下 那裡不是花啦
+Dialogue: 0,0:14:16.87,0:14:18.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要啊…
+Dialogue: 0,0:14:19.78,0:14:21.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好…好痛啊
+Dialogue: 0,0:14:22.04,0:14:24.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}麻耶…救我…
+Dialogue: 0,0:14:31.13,0:14:31.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要…
+Dialogue: 0,0:15:05.86,0:15:07.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要啊…
+Dialogue: 0,0:15:09.26,0:15:11.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}黏黏的東西射在裡面了
+Dialogue: 0,0:15:12.02,0:15:15.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好多花粉流到子宮裡面了
+Dialogue: 0,0:15:17.30,0:15:20.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}要是授粉的話怎麼辦啊?
+Dialogue: 0,0:15:29.71,0:15:31.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小桃 小桃
+Dialogue: 0,0:15:36.73,0:15:38.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小桃 小桃
+Dialogue: 0,0:15:40.43,0:15:41.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 麻耶?
+Dialogue: 0,0:15:42.47,0:15:43.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}捕蠅草呢?
+Dialogue: 0,0:15:43.90,0:15:45.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那是什麼啊? 你睡傻了嗎?
+Dialogue: 0,0:15:46.60,0:15:50.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你跌倒後就失去意識了 我好擔心你哦
+Dialogue: 0,0:15:50.61,0:15:51.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}原來是這樣啊
+Dialogue: 0,0:15:52.84,0:15:54.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對不起哦 麻耶
+Dialogue: 0,0:15:54.22,0:15:56.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小桃真是的
+Dialogue: 0,0:16:04.74,0:16:07.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}溫泉果然還是露天的好啊
+Dialogue: 0,0:16:08.73,0:16:12.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不過話說回來 她們到底在想什麼啊?
+Dialogue: 0,0:16:14.76,0:16:16.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 小介?
+Dialogue: 0,0:16:17.36,0:16:18.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}果然是小介
+Dialogue: 0,0:16:19.15,0:16:19.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對啊
+Dialogue: 0,0:16:20.25,0:16:23.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 奈央和美嗣? 為什麼會在這裡啊?
+Dialogue: 0,0:16:23.80,0:16:25.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}因為這裡是混浴啊
+Dialogue: 0,0:16:25.75,0:16:26.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對啊
+Dialogue: 0,0:16:26.94,0:16:30.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}怎麼會…我實在是太大意了
+Dialogue: 0,0:16:30.81,0:16:33.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那樣的話 我就等巨乳美女進來
+Dialogue: 0,0:16:34.08,0:16:35.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人?
+Dialogue: 0,0:16:35.24,0:16:37.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}啊 沒事 沒什麼
+Dialogue: 0,0:16:38.76,0:16:40.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介還真是好色呢
+Dialogue: 0,0:16:42.31,0:16:44.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}巨乳美女的話這裡不就有了嗎?
+Dialogue: 0,0:16:52.84,0:16:53.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}站起來了 站起來了
+Dialogue: 0,0:16:54.43,0:16:56.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}很硬挺呢 大介大人
+Dialogue: 0,0:16:56.96,0:16:58.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央、美嗣?
+Dialogue: 0,0:16:59.08,0:17:00.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介 舒服嗎?
+Dialogue: 0,0:17:02.14,0:17:04.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}光是這樣還不能滿足我
+Dialogue: 0,0:17:06.06,0:17:07.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介好熟練哦
+Dialogue: 0,0:17:08.13,0:17:10.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的手好舒服啊
+Dialogue: 0,0:17:11.91,0:17:13.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你們的胸部也很舒服哦
+Dialogue: 0,0:17:14.46,0:17:16.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介大人的已經變成這樣了呢
+Dialogue: 0,0:17:16.91,0:17:19.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我們來讓你舒服一點吧
+Dialogue: 0,0:17:30.74,0:17:33.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}怎麼樣 小介 我們的嘴巴舒服嗎?
+Dialogue: 0,0:17:37.50,0:17:38.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你們兩個都很厲害呢
+Dialogue: 0,0:17:49.75,0:17:52.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的肉棒已經硬邦邦的了
+Dialogue: 0,0:17:52.76,0:17:54.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好像要爆開了呢
+Dialogue: 0,0:17:56.12,0:17:57.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不好了 要射了
+Dialogue: 0,0:18:02.63,0:18:03.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}射…射了
+Dialogue: 0,0:18:04.49,0:18:06.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介射了好多呢
+Dialogue: 0,0:18:06.96,0:18:08.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}現在才要開始呢!
+Dialogue: 0,0:19:18.75,0:19:21.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介好厲害啊 還是那麼有精神
+Dialogue: 0,0:19:21.49,0:19:23.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好棒啊 大介大人
+Dialogue: 0,0:19:24.90,0:19:25.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好強烈的刺瀲啊
+Dialogue: 0,0:19:26.44,0:19:29.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}就算我再怎麼喜歡巨乳 這下也完蛋了
+Dialogue: 0,0:19:29.96,0:19:30.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介
+Dialogue: 0,0:19:31.19,0:19:32.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人
+Dialogue: 0,0:19:33.20,0:19:35.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}啊 不行了 要射了 你們兩個
+Dialogue: 0,0:19:35.96,0:19:38.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}可以哦 隨時都可以射
+Dialogue: 0,0:19:39.10,0:19:41.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}射在我們身上吧
+Dialogue: 0,0:19:44.08,0:19:45.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}出來了…射出來了
+Dialogue: 0,0:19:52.71,0:19:56.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}大介大人的精液好熱啊
+Dialogue: 0,0:19:57.33,0:20:02.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害 小介的精液好多哦
+Dialogue: 0,0:20:25.65,0:20:29.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}只被一件泳衣包住的巨乳們最棒了
+Dialogue: 0,0:20:30.56,0:20:32.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}哦 超棒美巨乳發現
+Dialogue: 0,0:20:36.19,0:20:37.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}咦 奈央!?
+Dialogue: 0,0:20:38.42,0:20:39.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}旁邊那傢伙是誰啊?
+Dialogue: 0,0:20:40.98,0:20:41.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}往這邊來了
+Dialogue: 0,0:20:45.61,0:20:49.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央那個傢伙和那男的來這裡做什麼啊?
+Dialogue: 0,0:20:50.45,0:20:51.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我到底在說什麼啊?
+Dialogue: 0,0:20:52.38,0:20:57.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}她什麼時候和誰在一起 都跟我沒關係不是嗎?
+Dialogue: 0,0:21:00.48,0:21:01.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}笑得那麼開心
+Dialogue: 0,0:21:02.75,0:21:04.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央只要是長那樣的都可以嗎?
+Dialogue: 0,0:21:05.02,0:21:05.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那麼奈央啊
+Dialogue: 0,0:21:06.21,0:21:06.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}什麼?
+Dialogue: 0,0:21:07.08,0:21:08.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}和我交往吧
+Dialogue: 0,0:21:08.49,0:21:08.89,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:21:11.10,0:21:13.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那個…奈央…
+Dialogue: 0,0:21:14.57,0:21:17.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你有說過我很帥吧
+Dialogue: 0,0:21:17.35,0:21:18.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}嗯 我認為你很帥哦
+Dialogue: 0,0:21:19.24,0:21:20.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那麼和我交…
+Dialogue: 0,0:21:20.16,0:21:20.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要!
+Dialogue: 0,0:21:22.73,0:21:25.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不可以啦 我已經有小介了
+Dialogue: 0,0:21:25.57,0:21:27.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}你說的小介 那是你男朋友嗎?
+Dialogue: 0,0:21:28.50,0:21:28.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}沒錯
+Dialogue: 0,0:21:29.67,0:21:32.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}雖然他一直否定 又那麼乖僻
+Dialogue: 0,0:21:32.79,0:21:34.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}一定是他很害羞的關係吧
+Dialogue: 0,0:21:34.46,0:21:37.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}為什麼她能說得那麼好聽啊?
+Dialogue: 0,0:21:37.78,0:21:39.94,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}跟那種人比起來 還是我比較好吧
+Dialogue: 0,0:21:40.42,0:21:42.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}又帥又有錢
+Dialogue: 0,0:21:42.98,0:21:44.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}跟那些沒有關係
+Dialogue: 0,0:21:45.27,0:21:46.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我就是喜歡小介
+Dialogue: 0,0:21:47.89,0:21:50.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我喜歡的只有小介一個人
+Dialogue: 0,0:21:54.20,0:21:54.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}是嗎?
+Dialogue: 0,0:21:57.51,0:21:58.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}那麼…
+Dialogue: 0,0:21:59.04,0:22:02.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}就讓你再也見不到他吧!
+Dialogue: 0,0:22:06.27,0:22:09.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}這麼棒的巨乳 我是不會讓給其他男人的
+Dialogue: 0,0:22:12.40,0:22:14.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要…小介!
+Dialogue: 0,0:22:24.20,0:22:25.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 你沒事吧?
+Dialogue: 0,0:22:26.56,0:22:28.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介真的來了…
+Dialogue: 0,0:22:30.00,0:22:32.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要連你也嚇到了嘛
+Dialogue: 0,0:22:32.52,0:22:36.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介…小介…
+Dialogue: 0,0:22:36.81,0:22:37.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央…
+Dialogue: 0,0:22:38.00,0:22:38.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介…
+Dialogue: 0,0:22:40.55,0:22:42.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}對不起 我…
+Dialogue: 0,0:22:42.71,0:22:46.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}為什麼要道歉啊? 你不是救了我嗎?
+Dialogue: 0,0:22:49.01,0:22:50.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我一直都相信著小介
+Dialogue: 0,0:22:52.10,0:22:52.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央
+Dialogue: 0,0:23:00.50,0:23:02.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}喜歡…我喜歡你 大介
+Dialogue: 0,0:23:02.83,0:23:04.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 我也是
+Dialogue: 0,0:23:05.11,0:23:08.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}只有小介才能摸我的胸部
+Dialogue: 0,0:23:11.89,0:23:14.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}真是的 像個嬰兒一樣
+Dialogue: 0,0:23:28.74,0:23:30.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}讓你更有感覺一點吧
+Dialogue: 0,0:23:31.74,0:23:34.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}不要…小介的舌頭好舒服啊
+Dialogue: 0,0:23:43.66,0:23:46.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我也想幫小介做
+Dialogue: 0,0:23:48.10,0:23:49.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}放到這邊
+Dialogue: 0,0:24:05.68,0:24:07.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害 要被吸出來了
+Dialogue: 0,0:24:08.28,0:24:14.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害…小介的大肉棒在磨擦著…
+Dialogue: 0,0:24:16.61,0:24:18.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 我想插進去
+Dialogue: 0,0:24:18.72,0:24:19.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}來吧 小介
+Dialogue: 0,0:24:38.96,0:24:39.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央
+Dialogue: 0,0:24:42.10,0:24:42.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介
+Dialogue: 0,0:24:47.82,0:24:49.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央也動動看吧
+Dialogue: 0,0:24:53.64,0:24:54.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}插到深處了…
+Dialogue: 0,0:24:59.79,0:25:01.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}把我的肉棒吸得緊緊的
+Dialogue: 0,0:25:02.57,0:25:08.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}討厭…因為肉棒的前端碰到最深處了 好舒服啊
+Dialogue: 0,0:25:11.08,0:25:13.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介 再插深一點…
+Dialogue: 0,0:25:20.19,0:25:23.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介的手好舒服啊
+Dialogue: 0,0:25:27.95,0:25:30.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}裡面…插到最深處了
+Dialogue: 0,0:25:38.29,0:25:40.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介…插得好深啊…
+Dialogue: 0,0:25:40.45,0:25:41.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}奈央 要射了
+Dialogue: 0,0:25:41.65,0:25:43.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我想射在奈央的裡面
+Dialogue: 0,0:25:44.21,0:25:44.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}把裡面…
+Dialogue: 0,0:25:45.74,0:25:49.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}用小介的精液把裡面都射滿吧!
+Dialogue: 0,0:25:50.01,0:25:50.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}射了!
+Dialogue: 0,0:25:52.71,0:25:53.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}高…高潮了…
+Dialogue: 0,0:26:04.64,0:26:08.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}好厲害…射了好多呢 小介
+Dialogue: 0,0:26:09.22,0:26:12.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}因為你那麼說 所以…
+Dialogue: 0,0:26:12.92,0:26:14.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}小介…我最喜歡你了
+Dialogue: 0,0:26:15.75,0:26:16.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs44\2c&H00FFFF&\3c&H800080&\be1}我也是

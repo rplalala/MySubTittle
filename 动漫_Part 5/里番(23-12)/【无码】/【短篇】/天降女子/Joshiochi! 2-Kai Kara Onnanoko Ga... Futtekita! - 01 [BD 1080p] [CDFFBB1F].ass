@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: 天降女子！～女孩子从2楼…掉了下来！？～ 01
+Original Script: Sakurato
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,48,&H00FFFFFF,&H000000FF,&H00BB46BD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,15,1
+Style: title,方正卡通简体,70,&H00FFFFFF,&H000000FF,&H00D14E98,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,20,20,20,1
+Style: title2,方正中等线_GBK,50,&H004305CF,&H00F1F1F1,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.72,0:00:07.02,Default,,0,0,0,,我叫相川壯介 是個高中畢業的自由職業者
+Dialogue: 0,0:00:07.30,0:00:09.58,Default,,0,0,0,,現在住在這個破舊公寓裡
+Dialogue: 0,0:00:11.72,0:00:14.04,Default,,0,0,0,,累死了
+Dialogue: 0,0:00:14.92,0:00:17.24,Default,,0,0,0,,早上好 相川君
+Dialogue: 0,0:00:18.24,0:00:19.30,Default,,0,0,0,,我回來了
+Dialogue: 0,0:00:20.02,0:00:21.98,Default,,0,0,0,,今天你上晚班嗎
+Dialogue: 0,0:00:22.18,0:00:22.78,Default,,0,0,0,,嗯
+Dialogue: 0,0:00:23.10,0:00:24.52,Default,,0,0,0,,一直以來真是辛苦你了
+Dialogue: 0,0:00:25.30,0:00:26.46,Default,,0,0,0,,清水由紀
+Dialogue: 0,0:00:27.68,0:00:30.94,Default,,0,0,0,,唯有和這個年輕貌美的房東小姐相處的片刻時光
+Dialogue: 0,0:00:31.04,0:00:34.64,Default,,0,0,0,,才能治癒被打工弄得精疲力竭的我
+Dialogue: 0,0:00:35.18,0:00:37.24,Default,,0,0,0,,今天也能活過來了
+Dialogue: 0,0:00:46.06,0:00:48.76,Default,,0,0,0,,真是的 今天好吵
+Dialogue: 0,0:00:53.34,0:00:55.54,Default,,0,0,0,,我是樓下的相川
+Dialogue: 0,0:00:55.66,0:00:57.98,Default,,0,0,0,,老是發出咚咚的聲音 我很困擾誒
+Dialogue: 0,0:00:58.04,0:00:59.98,Default,,0,0,0,,這個公寓很破舊的
+Dialogue: 0,0:01:05.40,0:01:07.40,Default,,0,0,0,,對…對不起
+Dialogue: 0,0:01:07.80,0:01:09.34,Default,,0,0,0,,吵到你了嗎
+Dialogue: 0,0:01:10.00,0:01:11.88,Default,,0,0,0,,好可愛
+Dialogue: 0,0:01:13.04,0:01:15.86,Default,,0,0,0,,為什麼會發出那麼大的噪音呢
+Dialogue: 0,0:01:16.92,0:01:18.22,Default,,0,0,0,,我在練習哦
+Dialogue: 0,0:01:18.44,0:01:20.62,Default,,0,0,0,,因為我的目標是成為女演員
+Dialogue: 0,0:01:21.06,0:01:22.86,Default,,0,0,0,,但是現在還很不成熟
+Dialogue: 0,0:01:24.20,0:01:26.22,Default,,0,0,0,,啊 原來如此
+Dialogue: 0,0:01:26.32,0:01:27.80,Default,,0,0,0,,以後我會注意的
+Dialogue: 0,0:01:36.06,0:01:38.10,Default,,0,0,0,,嘛 這也是沒辦法的啦
+Dialogue: 0,0:02:07.18,0:02:10.48,Default,,0,0,0,,內…內內內褲 這內褲可不得了啊
+Dialogue: 0,0:02:11.92,0:02:14.08,Default,,0,0,0,,請不要看
+Dialogue: 0,0:02:15.10,0:02:16.72,Default,,0,0,0,,救救我啊
+Dialogue: 0,0:02:18.96,0:02:20.78,Default,,0,0,0,,啊 好好好…
+Dialogue: 0,0:02:25.50,0:02:28.10,Default,,0,0,0,,不行 請不要亂動
+Dialogue: 0,0:02:31.16,0:02:32.70,Default,,0,0,0,,好軟
+Dialogue: 0,0:02:32.82,0:02:35.30,Default,,0,0,0,,我的嘴不受控制地動起來了
+Dialogue: 0,0:02:35.36,0:02:38.64,Default,,0,0,0,,真是的 都說了不行啦
+Dialogue: 0,0:02:42.42,0:02:48.94,title,,0,0,0,,{\fad(100,1000)\be25\3c&H84599B&}天降女子！～女孩子從2樓…掉了下來！？～
+Dialogue: 0,0:03:00.78,0:03:01.88,Default,,0,0,0,,插進來了
+Dialogue: 0,0:03:03.52,0:03:06.28,Default,,0,0,0,,糟…糟了 插進去了
+Dialogue: 0,0:03:06.28,0:03:07.76,Default,,0,0,0,,一口氣插進深處了
+Dialogue: 0,0:03:08.10,0:03:11.32,Default,,0,0,0,,這樣…忍不住啊
+Dialogue: 0,0:03:17.26,0:03:19.14,Default,,0,0,0,,好軟
+Dialogue: 0,0:03:25.82,0:03:27.58,Default,,0,0,0,,乳頭…好強烈
+Dialogue: 0,0:03:44.18,0:03:45.82,Default,,0,0,0,,太舒服了
+Dialogue: 0,0:03:46.40,0:03:47.96,Default,,0,0,0,,那就趕緊 住手…
+Dialogue: 0,0:03:49.88,0:03:51.28,Default,,0,0,0,,好舒服
+Dialogue: 0,0:03:53.36,0:03:55.52,Default,,0,0,0,,這女孩不得了啊
+Dialogue: 0,0:03:55.72,0:03:57.74,Default,,0,0,0,,她的動作漸漸和我同步了
+Dialogue: 0,0:04:08.30,0:04:09.86,Default,,0,0,0,,不行了 射了
+Dialogue: 0,0:04:13.82,0:04:17.06,Default,,0,0,0,,高潮了
+Dialogue: 0,0:04:21.52,0:04:23.48,Default,,0,0,0,,我進來了哦 相川君
+Dialogue: 0,0:04:26.32,0:04:27.16,Default,,0,0,0,,哎？
+Dialogue: 0,0:04:30.24,0:04:30.96,Default,,0,0,0,,啊
+Dialogue: 0,0:04:34.66,0:04:37.92,title2,,0,0,0,,{\fad(500,1500)}第一話  與那個女孩的聯繫、小穴。
+Dialogue: 0,0:04:37.92,0:04:39.92,title2,,0,0,0,,
+

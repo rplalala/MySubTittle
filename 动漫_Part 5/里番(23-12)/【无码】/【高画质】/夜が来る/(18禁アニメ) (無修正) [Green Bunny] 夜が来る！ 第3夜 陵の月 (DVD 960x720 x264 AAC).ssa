@@ -1,0 +1,347 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,28,&HFF3737,&H00FFFF,&HFFFFFF,&HFFFFFF,0,0,1,2,1,2,20,20,10,0,1
+Style: T2,方正氈筆黑簡體,25,&H8080FF,&H00FFFF,&H000000,&H000000,0,0,1,2,2,10,30,30,15,0,134
+Style: Default1,方正中倩繁體,28,&H00FFFF,&H00FFFF,&H000000,&H000000,-1,0,1,1,2,2,30,30,38,0,1
+Style: LOGO,文鼎中特廣告體,30,&HFF8080,&HFFFFFF,&H000000,&H000000,0,0,1,2,0,2,30,30,50,0,134
+Style: T1,方正粗倩簡體,14,&HFFFF00,&HFFFFFF,&H000000,&H000000,-1,0,1,0,0,2,30,30,50,0,134
+Style: T3,方正准圓繁體,30,&HFFFFFF,&H00FFFF,&H000000,&H000000,-1,0,1,1,2,2,30,30,42,0,1
+Style: T4,黑體,23,&HFFFFFF,&HFF3C3C,&HFF1E1E,&HFF3333,-1,0,1,2,0,10,20,20,10,0,134
+Style: New Style (3),DFKai-SB,20,&HC080FF,&HFFFFFF,&HFFFFFF,&HFFFFFF,-1,0,1,2,1,2,30,30,270,100,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:01:06.46,0:01:08.73,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那到底是什么
+Dialogue: Marked=0,0:01:25.55,0:01:27.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}以前好像遇到过同样的事
+Dialogue: Marked=0,0:01:27.95,0:01:29.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那是什么时候？
+Dialogue: Marked=0,0:01:29.55,0:01:31.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}而且我还认得它们
+Dialogue: Marked=0,0:01:32.09,0:01:33.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么？！
+Dialogue: Marked=0,0:01:35.42,0:01:38.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小姐 这样真的好吗
+Dialogue: Marked=0,0:02:06.12,0:02:08.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}片名：夜来了（3）
+Dialogue: Marked=0,0:03:49.29,0:03:50.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}果然...
+Dialogue: Marked=0,0:03:51.16,0:03:56.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那么为了让我们HIKARI 的世界“真夜”在世上实现...
+Dialogue: Marked=0,0:03:56.50,0:04:01.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是 传说创造新月出现的 原因的夜之女王
+Dialogue: Marked=0,0:04:02.10,0:04:04.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}让言灵使来唤出她的灵魂
+Dialogue: Marked=0,0:04:04.77,0:04:07.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}刺探出条件是唯一的办法
+Dialogue: Marked=0,0:04:07.98,0:04:10.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}在使用那个男人的计划中
+Dialogue: Marked=0,0:04:10.78,0:04:14.78,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}本来使可以轻易带出 言灵使少女的
+Dialogue: Marked=0,0:04:15.58,0:04:16.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}在这个时代
+Dialogue: Marked=0,0:04:17.05,0:04:20.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}最强的言灵使真奈美
+Dialogue: Marked=0,0:04:20.39,0:04:23.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}成为火蛇（KASHYA）的同伴 是一大误算
+Dialogue: Marked=0,0:04:23.73,0:04:30.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是我不认为火蛇的力量 足以阻止“界”
+Dialogue: Marked=0,0:04:30.53,0:04:32.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}很惭愧
+Dialogue: Marked=0,0:04:32.53,0:04:40.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这座塔原本是建造来 让我们获得力量的
+Dialogue: Marked=0,0:04:40.54,0:04:43.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}无法得到言灵使的话
+Dialogue: Marked=0,0:04:43.21,0:04:45.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是无法让“真夜”实现的
+Dialogue: Marked=0,0:04:45.88,0:04:46.68,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是
+Dialogue: Marked=0,0:04:46.95,0:04:50.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}再给你一次机会 知道吧
+Dialogue: Marked=0,0:04:50.55,0:04:51.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}知道
+Dialogue: Marked=0,0:04:58.56,0:04:59.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我有事想拜托你
+Dialogue: Marked=0,0:05:00.43,0:05:03.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}请去监视总司的行动
+Dialogue: Marked=0,0:05:45.27,0:05:46.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}雷阵！
+Dialogue: Marked=0,0:05:54.75,0:05:57.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小姐 为什么这么鲁莽
+Dialogue: Marked=0,0:06:02.76,0:06:04.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为了总司的事吗
+Dialogue: Marked=0,0:06:06.23,0:06:10.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}继续打倒HIKARI的话 哥哥一定会出现
+Dialogue: Marked=0,0:06:11.03,0:06:14.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我必须阻止哥哥个 一定...
+Dialogue: Marked=0,0:06:17.84,0:06:19.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那么我来帮忙你
+Dialogue: Marked=0,0:06:20.24,0:06:22.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你没必要自己一个人 深夜在外游逛
+Dialogue: Marked=0,0:06:22.51,0:06:25.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}做这种自残式的战斗
+Dialogue: Marked=0,0:06:25.71,0:06:27.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小姐！
+Dialogue: Marked=0,0:06:27.18,0:06:29.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是想赎罪吗
+Dialogue: Marked=0,0:06:29.85,0:06:30.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是吧
+Dialogue: Marked=0,0:06:31.45,0:06:33.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你内疚自己 抹消了大家的记忆
+Dialogue: Marked=0,0:06:35.06,0:06:39.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}后悔对叶村和京华 下了他们是情侣的暗示
+Dialogue: Marked=0,0:06:39.46,0:06:40.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}求求你 诚
+Dialogue: Marked=0,0:06:41.06,0:06:43.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}暂时不要管我了
+Dialogue: Marked=0,0:06:48.54,0:06:49.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小姐...
+Dialogue: Marked=0,0:07:08.42,0:07:09.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华
+Dialogue: Marked=0,0:07:17.77,0:07:19.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我等累了
+Dialogue: Marked=0,0:07:20.17,0:07:22.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你一直在这里等吗
+Dialogue: Marked=0,0:07:23.37,0:07:24.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我想早点跟你见面
+Dialogue: Marked=0,0:07:25.91,0:07:28.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}很冷吧 快进去
+Dialogue: Marked=0,0:07:31.65,0:07:33.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}让我暖和吧
+Dialogue: Marked=0,0:08:03.15,0:08:07.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等你的时候 我一直想与你这么做
+Dialogue: Marked=0,0:08:07.42,0:08:09.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}答应我吧 阿凉
+Dialogue: Marked=0,0:09:48.85,0:09:49.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好棒
+Dialogue: Marked=0,0:09:51.12,0:09:53.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这个感觉是什么
+Dialogue: Marked=0,0:09:53.66,0:09:55.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好像有哪里不对呀...
+Dialogue: Marked=0,0:09:55.39,0:09:57.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么我会有这种感觉
+Dialogue: Marked=0,0:09:58.06,0:09:59.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉
+Dialogue: Marked=0,0:10:00.33,0:10:03.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你已经兴奋了
+Dialogue: Marked=0,0:10:03.80,0:10:05.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}脉动着耶
+Dialogue: Marked=0,0:10:05.93,0:10:09.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这么大... 你想做什么呢 阿凉
+Dialogue: Marked=0,0:10:13.41,0:10:17.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没听见哦 明白讲出来
+Dialogue: Marked=0,0:10:17.95,0:10:20.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我想用力的放进你里面
+Dialogue: Marked=0,0:10:21.82,0:10:23.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好啊 来吧
+Dialogue: Marked=0,0:10:49.44,0:10:51.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉 我快坏掉了
+Dialogue: Marked=0,0:11:03.59,0:11:05.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不行
+Dialogue: Marked=0,0:11:05.59,0:11:07.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你射在里面吧
+Dialogue: Marked=0,0:11:09.73,0:11:11.73,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没关系的 阿凉
+Dialogue: Marked=0,0:11:27.75,0:11:28.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}怎么了
+Dialogue: Marked=0,0:11:29.48,0:11:30.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}睡不着
+Dialogue: Marked=0,0:11:30.95,0:11:32.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好害怕...
+Dialogue: Marked=0,0:11:32.42,0:11:36.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}梦里有个一脸凶恶的女人
+Dialogue: Marked=0,0:11:36.69,0:11:38.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}拿着刀追杀我
+Dialogue: Marked=0,0:11:39.09,0:11:41.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不知为什么 我喊她姐姐
+Dialogue: Marked=0,0:11:42.30,0:11:44.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}在我快被杀死时
+Dialogue: Marked=0,0:11:44.83,0:11:46.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}穿着黑衣服的男子
+Dialogue: Marked=0,0:11:46.97,0:11:48.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}由空而降
+Dialogue: Marked=0,0:11:48.97,0:11:51.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}以可怕的表情瞪着我讲
+Dialogue: Marked=0,0:11:51.91,0:11:54.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是背叛姐姐
+Dialogue: Marked=0,0:11:54.31,0:11:56.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}欺骗我的罪人
+Dialogue: Marked=0,0:11:56.45,0:11:59.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你必须赎罪
+Dialogue: Marked=0,0:12:00.72,0:12:05.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那只是梦 你不是什么罪人
+Dialogue: Marked=0,0:12:05.65,0:12:06.99,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉
+Dialogue: Marked=0,0:12:07.39,0:12:08.99,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可能时雨声太大
+Dialogue: Marked=0,0:12:09.12,0:12:10.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}害你做了奇怪的梦
+Dialogue: Marked=0,0:12:10.86,0:12:12.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你再睡一会儿好了
+Dialogue: Marked=0,0:12:18.73,0:12:21.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华说的“不记得”的记忆
+Dialogue: Marked=0,0:12:21.40,0:12:22.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也有
+Dialogue: Marked=0,0:12:23.27,0:12:27.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}刚才不知道为什么我觉得自己一定要战斗
+Dialogue: Marked=0,0:12:28.21,0:12:31.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对着怪物时 我也察觉到 自己遗忘了某种东西
+Dialogue: Marked=0,0:12:31.15,0:12:33.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华来这房间一个月了
+Dialogue: Marked=0,0:12:34.48,0:12:37.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们是在哪里 在什么时候认识的？
+Dialogue: Marked=0,0:12:38.09,0:12:41.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}总之我必须温柔爱护她才行
+Dialogue: Marked=0,0:12:42.36,0:12:44.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对京华要温柔一点哦
+Dialogue: Marked=0,0:12:57.57,0:12:59.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}看来不是故意装蒜
+Dialogue: Marked=0,0:13:00.78,0:13:03.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是被抹消记忆的
+Dialogue: Marked=0,0:13:09.32,0:13:11.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}放开她！哥哥！
+Dialogue: Marked=0,0:13:11.45,0:13:12.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是你吗
+Dialogue: Marked=0,0:13:13.05,0:13:16.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们的计划里面需要言灵使
+Dialogue: Marked=0,0:13:16.66,0:13:18.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么要帮助HIKARI
+Dialogue: Marked=0,0:13:18.39,0:13:21.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}把人们拉进无止境的梦中呢
+Dialogue: Marked=0,0:13:21.60,0:13:23.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}无止境的梦中吗
+Dialogue: Marked=0,0:13:24.00,0:13:28.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉 你也跟火蛇之里的老人们一样
+Dialogue: Marked=0,0:13:28.80,0:13:32.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}人们隐约感到 HIKARI的存在
+Dialogue: Marked=0,0:13:32.81,0:13:34.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}却没有思考对策
+Dialogue: Marked=0,0:13:35.08,0:13:37.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}依然安稳的过日子
+Dialogue: Marked=0,0:13:38.15,0:13:43.22,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你以为这种情况 称得上是现实吗
+Dialogue: Marked=0,0:13:43.49,0:13:44.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那是...
+Dialogue: Marked=0,0:13:44.82,0:13:47.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你让天文部的同伴们做的梦
+Dialogue: Marked=0,0:13:48.02,0:13:50.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}与HIKARI让人做的梦 有什么不同吗？
+Dialogue: Marked=0,0:13:51.23,0:13:54.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}在人的罪业中 有魔！
+Dialogue: Marked=0,0:13:55.36,0:13:58.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不能理解到这点的 火蛇之里的方法
+Dialogue: Marked=0,0:13:58.70,0:14:00.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}本来就有偏差了
+Dialogue: Marked=0,0:14:02.70,0:14:07.24,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉 人要受到惩罚才会安心
+Dialogue: Marked=0,0:14:07.91,0:14:11.11,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}承受永远的炼狱
+Dialogue: Marked=0,0:14:27.13,0:14:29.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}有事想问我？
+Dialogue: Marked=0,0:14:29.53,0:14:31.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没错 你这个叛徒
+Dialogue: Marked=0,0:14:31.80,0:14:34.74,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我还以为你是哪里的传教士
+Dialogue: Marked=0,0:14:35.14,0:14:38.74,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你好像是火蛇之里的人嘛
+Dialogue: Marked=0,0:14:39.14,0:14:41.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么 一直隐瞒我们这件事？
+Dialogue: Marked=0,0:14:42.21,0:14:44.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那是因为没有人问
+Dialogue: Marked=0,0:14:44.75,0:14:45.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}爱说笑
+Dialogue: Marked=0,0:14:46.08,0:14:50.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}前阵子火蛇之里的队长 小泉是你的妹妹吧
+Dialogue: Marked=0,0:14:51.15,0:14:53.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你怎么说明这件事
+Dialogue: Marked=0,0:14:54.49,0:14:57.83,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那一点 对我来说也是在预料之外
+Dialogue: Marked=0,0:14:58.63,0:15:01.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}看来要叫你别刺探 是很难了
+Dialogue: Marked=0,0:15:08.77,0:15:11.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}总司 你到底在打什么主意
+Dialogue: Marked=0,0:15:11.57,0:15:13.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}制裁之日
+Dialogue: Marked=0,0:15:13.17,0:15:14.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}如此而已
+Dialogue: Marked=0,0:15:27.72,0:15:29.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神！木神！
+Dialogue: Marked=0,0:15:29.06,0:15:30.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}怎么办???
+Dialogue: Marked=0,0:15:31.73,0:15:34.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神！木神会死掉的！
+Dialogue: Marked=0,0:15:38.93,0:15:40.00,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好痛
+Dialogue: Marked=0,0:15:40.14,0:15:41.60,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小姐你没事吧
+Dialogue: Marked=0,0:15:41.74,0:15:44.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神会死掉
+Dialogue: Marked=0,0:15:45.61,0:15:46.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你没事吧
+Dialogue: Marked=0,0:15:48.54,0:15:49.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是...
+Dialogue: Marked=0,0:15:52.15,0:15:54.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}记忆被抹消了吗？
+Dialogue: Marked=0,0:15:55.22,0:15:56.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我马上喊人来
+Dialogue: Marked=0,0:15:56.82,0:15:57.75,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等一下
+Dialogue: Marked=0,0:15:59.49,0:16:02.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}反正我活不久了
+Dialogue: Marked=0,0:16:02.29,0:16:05.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}抱歉 有件事想拜托你
+Dialogue: Marked=0,0:16:05.89,0:16:07.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}请你...
+Dialogue: Marked=0,0:16:07.90,0:16:10.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}照顾那个女孩子
+Dialogue: Marked=0,0:16:11.23,0:16:14.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}除了我以外 她无法依靠别人了
+Dialogue: Marked=0,0:16:16.97,0:16:20.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等一下 我只是路人 你为什么要拜托我
+Dialogue: Marked=0,0:16:20.58,0:16:22.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我认识你
+Dialogue: Marked=0,0:16:22.84,0:16:25.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是可以信赖的人
+Dialogue: Marked=0,0:16:25.91,0:16:29.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}因为你是我们对战过的火蛇
+Dialogue: Marked=0,0:16:29.92,0:16:31.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}火蛇？什么意思？
+Dialogue: Marked=0,0:16:39.79,0:16:41.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我是...
+Dialogue: Marked=0,0:16:47.40,0:16:50.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神！
+Dialogue: Marked=0,0:16:51.54,0:16:53.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你死心吧
+Dialogue: Marked=0,0:16:53.54,0:16:56.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不管怎么说 大家都想不起来的
+Dialogue: Marked=0,0:16:56.48,0:16:58.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}吵死了 这跟你没有关系
+Dialogue: Marked=0,0:16:59.41,0:17:02.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}失去记忆的日子 不是比较快乐吗
+Dialogue: Marked=0,0:17:03.28,0:17:06.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你看看寰海那个人
+Dialogue: Marked=0,0:17:06.89,0:17:10.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}还有阿凉与京华 他们不是在交往吗
+Dialogue: Marked=0,0:17:11.43,0:17:13.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是不是在吃醋啊
+Dialogue: Marked=0,0:17:14.10,0:17:15.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真傻
+Dialogue: Marked=0,0:17:15.43,0:17:16.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不是那样的
+Dialogue: Marked=0,0:17:16.90,0:17:20.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那你自己呢 为什么一直缠着我不放
+Dialogue: Marked=0,0:17:20.90,0:17:22.24,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你不是HIKARI吗
+Dialogue: Marked=0,0:17:22.50,0:17:24.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你可以回去同伴身边的
+Dialogue: Marked=0,0:17:24.91,0:17:26.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我不要
+Dialogue: Marked=0,0:17:26.91,0:17:28.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那里太阴沉了
+Dialogue: Marked=0,0:17:28.78,0:17:30.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神又不在
+Dialogue: Marked=0,0:17:31.18,0:17:35.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}跟我一起去旅馆 作爱怎样
+Dialogue: Marked=0,0:17:37.59,0:17:39.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}叶村凉 我有事找你谈
+Dialogue: Marked=0,0:17:40.66,0:17:41.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起 星川
+Dialogue: Marked=0,0:17:42.12,0:17:46.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们真的不知HIKARI与火蛇的事
+Dialogue: Marked=0,0:17:47.60,0:17:50.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那是因为们的记忆 被封印起来了
+Dialogue: Marked=0,0:17:51.33,0:17:53.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真奈美被那些家伙 掳走了呀 阿凉
+Dialogue: Marked=0,0:17:54.40,0:17:57.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那女孩确实可怜 可是我帮不上忙
+Dialogue: Marked=0,0:17:57.87,0:18:00.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我光是保护京华 就已经很勉强了
+Dialogue: Marked=0,0:18:00.68,0:18:02.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华 你...
+Dialogue: Marked=0,0:18:02.54,0:18:03.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小白怎么了？
+Dialogue: Marked=0,0:18:04.15,0:18:05.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那么疼爱他
+Dialogue: Marked=0,0:18:05.88,0:18:08.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}难道连他你都忘了吗
+Dialogue: Marked=0,0:18:12.69,0:18:14.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不准你碰京华！
+Dialogue: Marked=0,0:18:15.49,0:18:18.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉 你这么想保护京华
+Dialogue: Marked=0,0:18:18.69,0:18:20.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是受到社长的暗示呀
+Dialogue: Marked=0,0:18:20.96,0:18:22.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没那种事
+Dialogue: Marked=0,0:18:34.04,0:18:35.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好痛...
+Dialogue: Marked=0,0:18:37.51,0:18:38.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}来
+Dialogue: Marked=0,0:18:40.45,0:18:41.52,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}谢谢
+Dialogue: Marked=0,0:18:42.18,0:18:43.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你就死心吧
+Dialogue: Marked=0,0:18:43.92,0:18:46.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不管你怎么说 大家都不会想起来的
+Dialogue: Marked=0,0:18:47.26,0:18:49.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}吵死了 这跟你无关
+Dialogue: Marked=0,0:18:49.12,0:18:50.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我来帮助人
+Dialogue: Marked=0,0:18:51.26,0:18:56.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我知道让天文社的所有人 恢复记忆的方法
+Dialogue: Marked=0,0:18:56.73,0:19:00.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没想到平时冷酷的你 会这么热心
+Dialogue: Marked=0,0:19:02.60,0:19:05.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我不想看到 京华不像京华的样子
+Dialogue: Marked=0,0:19:05.67,0:19:09.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}社长变得不像社长 真奈美变得不像真奈美
+Dialogue: Marked=0,0:19:10.35,0:19:11.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}如此而已
+Dialogue: Marked=0,0:19:13.95,0:19:15.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}一起来吧
+Dialogue: Marked=0,0:19:19.69,0:19:21.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是吗
+Dialogue: Marked=0,0:19:21.16,0:19:22.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}木神那家伙啊...
+Dialogue: Marked=0,0:19:23.56,0:19:28.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不过我们的计划接近完成了
+Dialogue: Marked=0,0:19:28.76,0:19:29.83,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}满月夜晚
+Dialogue: Marked=0,0:19:30.10,0:19:31.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}言灵使
+Dialogue: Marked=0,0:19:31.83,0:19:35.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}所有条件都齐了
+Dialogue: Marked=0,0:19:36.10,0:19:37.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}火蛇们就快来了
+Dialogue: Marked=0,0:19:38.51,0:19:40.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为这美好的夜晚
+Dialogue: Marked=0,0:19:40.64,0:19:43.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}再增加一项乐子
+Dialogue: Marked=0,0:19:44.11,0:19:47.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}现在...赐给我那个力量....
+Dialogue: Marked=0,0:19:48.38,0:19:49.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}如果可以救出真奈美
+Dialogue: Marked=0,0:19:50.52,0:19:52.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}打倒哥哥的话
+Dialogue: Marked=0,0:19:53.32,0:19:54.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我...
+Dialogue: Marked=0,0:19:56.66,0:19:59.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉 京华 诚
+Dialogue: Marked=0,0:19:59.73,0:20:00.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家再见了
+Dialogue: Marked=0,0:20:01.06,0:20:02.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}祝你们幸福
+Dialogue: Marked=0,0:20:27.36,0:20:30.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华 你跑去哪里了
+Dialogue: Marked=0,0:20:30.56,0:20:31.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我找你好久
+Dialogue: Marked=0,0:20:32.56,0:20:33.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}姐姐
+Dialogue: Marked=0,0:20:34.16,0:20:36.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都很担心你
+Dialogue: Marked=0,0:20:36.70,0:20:38.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}来 回来吧
+Dialogue: Marked=0,0:20:38.43,0:20:41.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}太好了原来以前都是梦
+Dialogue: Marked=0,0:20:41.24,0:20:43.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都在等你呢
+Dialogue: Marked=0,0:20:43.37,0:20:45.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}爸爸和妈妈
+Dialogue: Marked=0,0:20:45.91,0:20:47.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}还有总司
+Dialogue: Marked=0,0:20:47.78,0:20:50.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}总司也来啦？
+Dialogue: Marked=0,0:20:51.25,0:20:52.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起 姐姐
+Dialogue: Marked=0,0:20:52.98,0:20:55.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}破坏了你的约会
+Dialogue: Marked=0,0:20:55.38,0:20:56.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没关系的
+Dialogue: Marked=0,0:20:56.58,0:21:01.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对了 我们三个人一起去庙会吧
+Dialogue: Marked=0,0:21:04.73,0:21:06.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我好像见你啊
+Dialogue: Marked=0,0:21:07.26,0:21:10.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我背叛美里是为了你
+Dialogue: Marked=0,0:21:10.87,0:21:12.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}想和你这么做呀
+Dialogue: Marked=0,0:21:13.00,0:21:15.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不要 住手啊
+Dialogue: Marked=0,0:21:19.27,0:21:22.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}接受的话就不会有不安
+Dialogue: Marked=0,0:21:22.88,0:21:25.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}堕落的话 不安就会消失
+Dialogue: Marked=0,0:21:28.35,0:21:29.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}姐姐
+Dialogue: Marked=0,0:22:29.08,0:22:31.35,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}讨厌...
+Dialogue: Marked=0,0:22:48.70,0:22:50.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这边还没经验过吧
+Dialogue: Marked=0,0:22:55.24,0:22:58.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不要 不要 不要
+Dialogue: Marked=0,0:23:16.59,0:23:17.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}原来是这样
+Dialogue: Marked=0,0:23:18.19,0:23:19.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我想起来了
+Dialogue: Marked=0,0:23:22.20,0:23:24.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我作战的对象是HIKARI
+Dialogue: Marked=0,0:23:24.60,0:23:26.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我被消除了记忆
+Dialogue: Marked=0,0:23:28.34,0:23:30.74,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小白 你回来了
+Dialogue: Marked=0,0:23:33.14,0:23:35.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华 你...
+Dialogue: Marked=0,0:23:37.28,0:23:38.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我想起来了
+Dialogue: Marked=0,0:23:41.95,0:23:43.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}京华
+Dialogue: Marked=0,0:23:52.63,0:23:54.63,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}请问是谁
+Dialogue: Marked=0,0:23:54.76,0:23:57.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}晚安 抱歉这么晚打搅
+Dialogue: Marked=0,0:23:57.57,0:23:59.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}原来是你 怎么了
+Dialogue: Marked=0,0:23:59.43,0:24:00.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}离家出走吗
+Dialogue: Marked=0,0:24:00.77,0:24:02.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}啊 等一下
+Dialogue: Marked=0,0:24:05.04,0:24:06.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我刚刚才补习完
+Dialogue: Marked=0,0:24:06.51,0:24:09.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}经过这里时 突然想见你
+Dialogue: Marked=0,0:24:09.98,0:24:12.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也是 一个人在家有点怕呢
+Dialogue: Marked=0,0:24:19.19,0:24:21.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉真的独自去那里？
+Dialogue: Marked=0,0:24:28.00,0:24:30.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}嗨 你想一个人偷跑吗
+Dialogue: Marked=0,0:24:30.67,0:24:31.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}星川
+Dialogue: Marked=0,0:24:32.53,0:24:34.00,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}太见外了
+Dialogue: Marked=0,0:24:34.14,0:24:36.80,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不能只让学长当英雄的
+Dialogue: Marked=0,0:24:37.61,0:24:41.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉那个傻瓜 太会给人带来麻烦了
+Dialogue: Marked=0,0:24:41.48,0:24:42.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对
+Dialogue: Marked=0,0:24:43.88,0:24:45.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这样大家都到齐了
+Dialogue: Marked=0,0:24:51.09,0:24:53.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都来了...
+Dialogue: Marked=0,0:24:54.29,0:24:56.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}去救真奈美吧
+Dialogue: Marked=0,0:25:08.70,0:25:09.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉
+Dialogue: Marked=0,0:25:10.30,0:25:10.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}社长
+Dialogue: Marked=0,0:25:11.11,0:25:11.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}社长
+Dialogue: Marked=0,0:25:12.17,0:25:14.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉 小泉 小泉
+Dialogue: Marked=0,0:25:16.98,0:25:17.78,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家
+Dialogue: Marked=0,0:25:17.91,0:25:18.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉
+Dialogue: Marked=0,0:25:18.85,0:25:19.78,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}雷阵！
+Dialogue: Marked=0,0:25:28.06,0:25:29.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}暗黑兽贝利！
+Dialogue: Marked=0,0:25:30.46,0:25:32.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么你们会来这里
+Dialogue: Marked=0,0:25:32.73,0:25:34.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们不是好同伴吗
+Dialogue: Marked=0,0:25:34.73,0:25:38.60,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}怎么能让你一个人背起 跟HIKARI的战争呢
+Dialogue: Marked=0,0:25:39.67,0:25:41.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也这么认为
+Dialogue: Marked=0,0:25:41.80,0:25:43.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}虽然对不起小姐
+Dialogue: Marked=0,0:25:43.40,0:25:45.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但我还是解除了他们的暗示
+Dialogue: Marked=0,0:25:45.67,0:25:47.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是这是我的...
+Dialogue: Marked=0,0:25:47.94,0:25:50.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉 让我们解决总司的事
+Dialogue: Marked=0,0:25:51.15,0:25:52.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我不能答应
+Dialogue: Marked=0,0:25:53.01,0:25:56.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那么别怪我了
+Dialogue: Marked=0,0:25:57.69,0:25:59.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为了可以活着回来
+Dialogue: Marked=0,0:25:59.69,0:26:01.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们决定请你暂时休养一下
+Dialogue: Marked=0,0:26:02.62,0:26:04.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}叶村 剩下的交给你了
+Dialogue: Marked=0,0:26:05.56,0:26:08.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等她醒来以后 再追上我们
+Dialogue: Marked=0,0:26:09.43,0:26:11.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好 知道了
+Dialogue: Marked=0,0:26:12.63,0:26:15.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等等 你那眼神是什么意思
+Dialogue: Marked=0,0:26:16.24,0:26:17.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是...
+Dialogue: Marked=0,0:26:18.11,0:26:20.11,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}就算跟你有过那种关系
+Dialogue: Marked=0,0:26:20.37,0:26:22.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们之间本来就没什么
+Dialogue: Marked=0,0:26:22.91,0:26:27.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}想到被这种人以男友自居 真差劲
+Dialogue: Marked=0,0:26:27.85,0:26:29.85,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我都厌恶自己
+Dialogue: Marked=0,0:26:30.52,0:26:31.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起
+Dialogue: Marked=0,0:26:31.59,0:26:33.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}干什么道歉啊 真是
+Dialogue: Marked=0,0:26:37.06,0:26:38.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好 要走了
+Dialogue: Marked=0,0:26:38.79,0:26:40.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}拜托你了 叶村
+Dialogue: Marked=0,0:26:40.26,0:26:42.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}很遗憾 这次的骑士让给你做
+Dialogue: Marked=0,0:26:42.93,0:26:44.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}要好好做哦 阿凉
+Dialogue: Marked=0,0:26:44.80,0:26:46.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家也小心点
+Dialogue: Marked=0,0:26:50.94,0:26:51.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}阿凉
+Dialogue: Marked=0,0:26:52.27,0:26:55.74,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你那么在意我 让我有点高兴
+Dialogue: Marked=0,0:26:56.41,0:26:57.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}谢谢
+Dialogue: Marked=0,0:27:01.75,0:27:03.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这是怎么回事 总司
+Dialogue: Marked=0,0:27:03.88,0:27:06.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么夜之女王不出现
+Dialogue: Marked=0,0:27:06.29,0:27:10.69,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}据说女王是 抱着怨恨之心离开这里的
+Dialogue: Marked=0,0:27:10.83,0:27:16.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这个言灵使 可能少了一些怨恨的能源
+Dialogue: Marked=0,0:27:17.63,0:27:19.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}让塔聚集的HIKARI
+Dialogue: Marked=0,0:27:19.90,0:27:21.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}配合言灵使的波动
+Dialogue: Marked=0,0:27:21.90,0:27:24.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对着新月发射 你看怎么样？
+Dialogue: Marked=0,0:27:25.37,0:27:28.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}新月是挂在夜空中 的另一个影子
+Dialogue: Marked=0,0:27:29.24,0:27:31.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}新月本身充满光辉
+Dialogue: Marked=0,0:27:31.65,0:27:33.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}变成没有影子的世界的话
+Dialogue: Marked=0,0:27:33.65,0:27:37.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}HIKARI就无法栖息在那里
+Dialogue: Marked=0,0:28:10.62,0:28:11.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}新月...
+Dialogue: Marked=0,0:28:11.55,0:28:12.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}发生么什么事了
+Dialogue: Marked=0,0:28:14.89,0:28:16.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}待续
+

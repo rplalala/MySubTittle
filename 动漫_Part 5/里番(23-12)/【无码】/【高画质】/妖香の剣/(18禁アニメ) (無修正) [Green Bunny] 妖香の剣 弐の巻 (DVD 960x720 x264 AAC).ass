@@ -1,0 +1,293 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZZhunYuan-M02,31,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.90,0:00:14.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}战国时代
+Dialogue: 0,0:00:15.30,0:00:20.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}为了得到敌方秘宝的我  潜入了多岐川
+Dialogue: 0,0:00:20.60,0:00:24.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是没有武功又没学问的我
+Dialogue: 0,0:00:24.40,0:00:27.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}为什么会被托付这种任务呢？
+Dialogue: 0,0:00:27.70,0:00:31.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那是因为我有一项特长
+Dialogue: 0,0:00:31.80,0:00:33.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那项特长就是
+Dialogue: 0,0:00:34.60,0:00:35.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}"床上功夫"
+Dialogue: 0,0:00:36.20,0:00:40.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我冒着生命危险  与敌女忍者交手
+Dialogue: 0,0:00:40.00,0:00:43.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}获得了地图碎片的印记
+Dialogue: 0,0:00:50.40,0:00:51.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不行了
+Dialogue: 0,0:00:59.80,0:01:03.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}潜入敌国的目的还有一个
+Dialogue: 0,0:01:03.60,0:01:08.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那就是为了寻找10年前  被劫走的妹妹小夜
+Dialogue: 0,0:01:17.10,0:01:23.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是没想到  小夜在敌人天衣无缝斋那里
+Dialogue: 0,0:01:23.70,0:01:26.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这是让我始料未及的
+Dialogue: 0,0:01:35.70,0:01:40.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}片名：妖香之剑 第二卷
+Dialogue: 0,0:01:44.30,0:01:48.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}完全没有小夜的线索啊  我该怎么办呢？
+Dialogue: 0,0:01:57.40,0:01:59.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这…这是什么？
+Dialogue: 0,0:02:02.60,0:02:03.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好美啊…
+Dialogue: 0,0:02:05.10,0:02:08.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这个香味真好啊
+Dialogue: 0,0:02:13.50,0:02:15.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}感觉真好啊
+Dialogue: 0,0:02:23.60,0:02:28.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我还以为  打倒她们的人有多厉害呢
+Dialogue: 0,0:02:28.50,0:02:29.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}原来是个废物
+Dialogue: 0,0:02:30.60,0:02:33.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哼  又是个好女人
+Dialogue: 0,0:02:35.00,0:02:39.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}虽然中了我的幻术  眼光还是不错嘛
+Dialogue: 0,0:02:47.20,0:02:48.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}下雨了吗？
+Dialogue: 0,0:02:51.90,0:02:54.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}因为太舒服了所以…
+Dialogue: 0,0:02:57.90,0:02:59.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}竟敢小看我
+Dialogue: 0,0:03:02.70,0:03:05.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这个味道怎么这么好啊
+Dialogue: 0,0:03:15.40,0:03:16.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这是什么？
+Dialogue: 0,0:03:55.50,0:03:57.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}幻术已经解除了？
+Dialogue: 0,0:04:05.60,0:04:09.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不要老是自己一个人享受哦
+Dialogue: 0,0:04:15.30,0:04:19.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}为什么会这么大？  我第一次见到这种的呀
+Dialogue: 0,0:04:21.20,0:04:23.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}又是这个味道…
+Dialogue: 0,0:04:23.30,0:04:28.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我虽然可以操纵花香  可是对这种味道没有抵抗力
+Dialogue: 0,0:04:30.10,0:04:34.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}已经不行了  快点用那个插我吧
+Dialogue: 0,0:04:36.00,0:04:37.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}了解
+Dialogue: 0,0:04:44.30,0:04:46.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}已经有花了啊
+Dialogue: 0,0:04:47.60,0:04:50.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那种东西拿掉就好了
+Dialogue: 0,0:04:50.00,0:04:52.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}快用真的…插…我…呀
+Dialogue: 0,0:04:52.90,0:04:57.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好不容易装饰的美美的  对了
+Dialogue: 0,0:04:58.90,0:05:01.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}如果那里使用中  那我就插这里吧
+Dialogue: 0,0:05:02.00,0:05:03.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不要
+Dialogue: 0,0:05:04.10,0:05:05.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}太大了啊
+Dialogue: 0,0:05:05.40,0:05:10.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}请你忍耐一下啰  你也不想输给我吧
+Dialogue: 0,0:05:11.90,0:05:16.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那是当然的  随便你来吧
+Dialogue: 0,0:05:17.30,0:05:18.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}嘿荷
+Dialogue: 0,0:05:26.10,0:05:27.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}会痛吗？
+Dialogue: 0,0:05:27.70,0:05:28.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不会
+Dialogue: 0,0:05:28.60,0:05:31.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}很不错嘛  非常舒服哦
+Dialogue: 0,0:05:33.50,0:05:36.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}真是名器呀  好舒服
+Dialogue: 0,0:05:36.50,0:05:37.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哪里…
+Dialogue: 0,0:05:59.90,0:06:04.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好棒啊  后面的洞居然这么湿
+Dialogue: 0,0:06:06.60,0:06:07.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好舒服…
+Dialogue: 0,0:06:12.20,0:06:15.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你的大东西在我的身体里
+Dialogue: 0,0:06:22.70,0:06:23.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好棒哦
+Dialogue: 0,0:06:39.80,0:06:41.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}结束了
+Dialogue: 0,0:07:05.10,0:07:07.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}收集地图还算蛮顺利的
+Dialogue: 0,0:07:08.20,0:07:11.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜  你到底在哪里？
+Dialogue: 0,0:07:13.20,0:07:14.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}再想也是没办法的
+Dialogue: 0,0:07:20.10,0:07:22.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好久没在被子里睡了
+Dialogue: 0,0:07:22.60,0:07:25.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}今天好好休息  明天继续努力吧
+Dialogue: 0,0:07:39.20,0:07:41.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}谁？是小夜吗？
+Dialogue: 0,0:07:49.10,0:07:50.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}是梦吗？
+Dialogue: 0,0:07:51.40,0:07:53.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那只不过是个梦
+Dialogue: 0,0:07:53.40,0:07:56.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我一定会找到小夜  绝对会找到的
+Dialogue: 0,0:08:05.70,0:08:06.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}是小夜吗？
+Dialogue: 0,0:08:08.20,0:08:09.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜！
+Dialogue: 0,0:08:15.10,0:08:16.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜
+Dialogue: 0,0:08:25.70,0:08:27.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}对不起  我认错人了
+Dialogue: 0,0:08:35.50,0:08:38.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}咦？到底是怎么回事？
+Dialogue: 0,0:08:43.20,0:08:45.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}在梦境中  你的动作是跟不上我的
+Dialogue: 0,0:08:59.70,0:09:03.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}死之前让你吃点苦头吧
+Dialogue: 0,0:09:07.70,0:09:10.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}下贱的垃圾  无聊的东西
+Dialogue: 0,0:09:13.00,0:09:16.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}连身体都动不了  要如何反抗啊？
+Dialogue: 0,0:09:16.70,0:09:17.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}可恶
+Dialogue: 0,0:09:17.70,0:09:23.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}如果不是在梦境里  也许还有点办法对抗
+Dialogue: 0,0:09:23.80,0:09:24.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}痛苦吧
+Dialogue: 0,0:09:27.10,0:09:28.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}从梦中醒过来…
+Dialogue: 0,0:09:28.80,0:09:32.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}对了  也许这方法能派上用场
+Dialogue: 0,0:09:32.50,0:09:33.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}虽然有点丢脸
+Dialogue: 0,0:09:35.20,0:09:38.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这种如花香一般的  味道是什么？
+Dialogue: 0,0:09:38.30,0:09:39.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}莫…莫非
+Dialogue: 0,0:09:45.80,0:09:46.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}成功了
+Dialogue: 0,0:09:47.40,0:09:52.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}用小便让自己恶心得醒来啊
+Dialogue: 0,0:09:52.50,0:09:53.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}可恶
+Dialogue: 0,0:09:56.10,0:09:59.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}太奇怪了  尽管是进入别人梦里的幻术
+Dialogue: 0,0:09:59.90,0:10:01.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}术者也应该在附近的啊
+Dialogue: 0,0:10:05.40,0:10:07.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你…是谁？
+Dialogue: 0,0:10:08.90,0:10:12.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没想到你居然  用那种方法从梦中醒来
+Dialogue: 0,0:10:12.80,0:10:16.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}是啊  我也认为那是…
+Dialogue: 0,0:10:17.00,0:10:19.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你怎么和  梦境中完全不一样啊？
+Dialogue: 0,0:10:25.30,0:10:29.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我从小就常被男生们欺负
+Dialogue: 0,0:10:30.00,0:10:32.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}所以我一直憎恨男人
+Dialogue: 0,0:10:35.60,0:10:40.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这就成了修炼无缝斋  教我幻术的源动力
+Dialogue: 0,0:10:41.40,0:10:46.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}让我可以用这招给男人苦头吃
+Dialogue: 0,0:10:46.40,0:10:52.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}所以你就在梦境里  变得那么厉害呀
+Dialogue: 0,0:10:54.60,0:10:59.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好可爱啊  你没有遇到过温柔的男人吗？
+Dialogue: 0,0:11:02.20,0:11:04.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我获得了胜利
+Dialogue: 0,0:11:05.00,0:11:07.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}即使是要你的人头也不算过份
+Dialogue: 0,0:11:08.20,0:11:10.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是我不会那么做的
+Dialogue: 0,0:11:11.50,0:11:16.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}只要一晚就好  请把你的身体献给我吧
+Dialogue: 0,0:11:16.60,0:11:18.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我绝对会好好对待你的
+Dialogue: 0,0:11:26.30,0:11:27.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}感觉很好啊
+Dialogue: 0,0:11:28.10,0:11:30.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}居然欺负有这种名器的你
+Dialogue: 0,0:11:30.60,0:11:34.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你身边的男人真是太愚蠢了
+Dialogue: 0,0:11:41.90,0:11:43.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}味道如同蜜汁一般
+Dialogue: 0,0:11:45.00,0:11:45.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不要
+Dialogue: 0,0:11:45.90,0:11:48.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不需要感到害羞的
+Dialogue: 0,0:11:48.80,0:11:53.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你的身体感受到快感  这是正常的
+Dialogue: 0,0:11:53.50,0:11:55.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你看  我也是啊
+Dialogue: 0,0:11:57.80,0:11:59.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这…这是
+Dialogue: 0,0:11:59.80,0:12:04.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我们都可以给予对方  美好的回忆唷
+Dialogue: 0,0:12:05.00,0:12:07.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}互相为对方着想的情感
+Dialogue: 0,0:12:09.10,0:12:11.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}互相着想的情感？
+Dialogue: 0,0:12:11.30,0:12:14.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没错  我想给你美好的回忆
+Dialogue: 0,0:12:14.40,0:12:15.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}想使你幸福
+Dialogue: 0,0:12:20.90,0:12:24.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好…好舒服  怎么会这样呢？
+Dialogue: 0,0:12:25.60,0:12:27.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}一根还不够吧？
+Dialogue: 0,0:12:33.70,0:12:38.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好湿啊  你大概还想要更多吧
+Dialogue: 0,0:12:38.40,0:12:40.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好…好丢脸哦
+Dialogue: 0,0:12:42.40,0:12:44.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}全部都插进去了
+Dialogue: 0,0:12:45.40,0:12:46.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好…好痛
+Dialogue: 0,0:12:46.80,0:12:48.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}要停下来吗？
+Dialogue: 0,0:12:48.20,0:12:50.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不行  虽然有点痛  但是好舒服
+Dialogue: 0,0:12:50.40,0:12:53.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}请继续弄  再对我粗暴一点
+Dialogue: 0,0:12:53.70,0:12:55.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我明白了
+Dialogue: 0,0:13:26.80,0:13:31.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我虽然不会折磨女性  这点事还是可以的
+Dialogue: 0,0:13:35.30,0:13:37.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没…没问题吧？
+Dialogue: 0,0:13:49.90,0:13:51.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好美丽啊
+Dialogue: 0,0:13:51.70,0:13:53.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你真是太美了
+Dialogue: 0,0:14:19.20,0:14:20.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好奇怪啊
+Dialogue: 0,0:14:20.80,0:14:26.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你一直被欺负  为什么还如此喜欢被凌辱呢？
+Dialogue: 0,0:14:26.50,0:14:28.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}虽然身体变成那样了
+Dialogue: 0,0:14:28.60,0:14:32.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}可是如此充满爱的凌辱  还是第一次
+Dialogue: 0,0:15:04.60,0:15:06.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}收集到了四张地图
+Dialogue: 0,0:15:06.70,0:15:08.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}恐怕只剩下一张了
+Dialogue: 0,0:15:09.50,0:15:13.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是事情会这么顺利吗？
+Dialogue: 0,0:15:14.40,0:15:15.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}比起这个小夜更重要啊
+Dialogue: 0,0:15:16.10,0:15:18.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我到底能不能找到小夜呢？
+Dialogue: 0,0:15:53.40,0:15:56.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}早乙女的探子  你的死期到了
+Dialogue: 0,0:16:05.00,0:16:06.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}还能活着啊
+Dialogue: 0,0:16:06.60,0:16:09.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你居然能打倒我四名弟子
+Dialogue: 0,0:16:10.80,0:16:15.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这么说你…  难道就是天衣无缝斋吗？
+Dialogue: 0,0:16:15.90,0:16:17.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没错
+Dialogue: 0,0:16:21.60,0:16:22.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}是小夜
+Dialogue: 0,0:16:26.30,0:16:27.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}认识他吗？
+Dialogue: 0,0:16:29.10,0:16:31.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜  我是又五郎啊
+Dialogue: 0,0:16:31.60,0:16:33.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你不认得哥哥了吗？
+Dialogue: 0,0:16:33.70,0:16:36.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我以前是有位哥哥
+Dialogue: 0,0:16:36.70,0:16:41.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是我被劫走的时候  哥哥却没有来救我
+Dialogue: 0,0:16:41.30,0:16:44.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}还说什么要保护我一辈子
+Dialogue: 0,0:16:45.00,0:16:46.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜…
+Dialogue: 0,0:16:48.90,0:16:51.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}看来感人的重逢是看不到了
+Dialogue: 0,0:16:51.80,0:16:55.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜  让他见识一下你的本领
+Dialogue: 0,0:16:55.20,0:16:56.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}当作是死亡的贺礼吧
+Dialogue: 0,0:16:56.90,0:16:57.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜
+Dialogue: 0,0:17:03.30,0:17:04.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}怎么了？小夜
+Dialogue: 0,0:17:06.60,0:17:07.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我做不到
+Dialogue: 0,0:17:08.90,0:17:10.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}手软了是吗？
+Dialogue: 0,0:17:10.40,0:17:12.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}看来你的修行还不够啊
+Dialogue: 0,0:17:12.60,0:17:14.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}算了  你让开！
+Dialogue: 0,0:17:25.70,0:17:29.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我早已经知道  你的目标是收集地图了
+Dialogue: 0,0:17:30.30,0:17:33.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没想到你能打倒我的弟子们
+Dialogue: 0,0:17:38.70,0:17:42.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是对付男人  你的特技就没用了
+Dialogue: 0,0:17:49.30,0:17:50.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}死吧！
+Dialogue: 0,0:17:51.40,0:17:52.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}无缝斋大人
+Dialogue: 0,0:17:53.70,0:17:56.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}请听小夜一生的请求
+Dialogue: 0,0:17:56.40,0:17:58.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}请您放过他吧
+Dialogue: 0,0:17:58.30,0:17:59.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你说什么？
+Dialogue: 0,0:18:04.70,0:18:09.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}取了这种废物的性命  对我们也没什么好处
+Dialogue: 0,0:18:10.00,0:18:15.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}取回地图不就可以了吗？
+Dialogue: 0,0:18:15.60,0:18:17.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你想反抗我吗？
+Dialogue: 0,0:18:17.70,0:18:21.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}忘记10年来对你的恩情了吗？
+Dialogue: 0,0:18:21.50,0:18:23.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不  您的恩情我不敢忘
+Dialogue: 0,0:18:23.40,0:18:28.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是他是我唯一的哥哥  是我重要的人
+Dialogue: 0,0:18:28.40,0:18:31.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不行！我要杀掉他
+Dialogue: 0,0:18:35.30,0:18:38.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}他竟然对你这么重要
+Dialogue: 0,0:18:43.00,0:18:44.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}得救了…
+Dialogue: 0,0:18:50.70,0:18:52.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}太天真了
+Dialogue: 0,0:18:52.30,0:18:58.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不只是剑术  我还拥有强胜过你的百年智慧
+Dialogue: 0,0:18:59.90,0:19:03.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你应该知道叛徒的下场吧
+Dialogue: 0,0:19:04.10,0:19:05.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}死吧
+Dialogue: 0,0:19:11.00,0:19:12.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥！
+Dialogue: 0,0:19:27.00,0:19:28.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥你没事吧？
+Dialogue: 0,0:19:29.10,0:19:30.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}只是有点擦伤
+Dialogue: 0,0:19:30.70,0:19:32.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}要赶快包扎起来
+Dialogue: 0,0:19:32.30,0:19:33.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜
+Dialogue: 0,0:19:39.80,0:19:40.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}谢谢你
+Dialogue: 0,0:19:41.80,0:19:43.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}救了我一命
+Dialogue: 0,0:19:46.10,0:19:47.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥…
+Dialogue: 0,0:19:50.50,0:19:53.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}一起回去吧  父亲在等着我们呢
+Dialogue: 0,0:19:53.60,0:19:56.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}过了十年  哥哥还是没有变
+Dialogue: 0,0:19:56.90,0:19:59.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}果然还是来救我了
+Dialogue: 0,0:19:59.40,0:20:01.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你爱哭鬼的毛病还是没变啊
+Dialogue: 0,0:20:01.70,0:20:02.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥
+Dialogue: 0,0:20:06.30,0:20:08.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}但是有点不甘心啊
+Dialogue: 0,0:20:10.30,0:20:14.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}虽然找到了小夜  我就应该满足了
+Dialogue: 0,0:20:15.10,0:20:17.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}可是只差一个人呀
+Dialogue: 0,0:20:17.30,0:20:21.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}只差一张地图  就可以找到秘宝了
+Dialogue: 0,0:20:21.10,0:20:23.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥请你放心吧
+Dialogue: 0,0:20:23.30,0:20:25.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那个随时都可以到手的
+Dialogue: 0,0:20:25.10,0:20:27.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不要说得这么简单啦
+Dialogue: 0,0:20:27.20,0:20:29.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}以前都是靠我运气好
+Dialogue: 0,0:20:29.10,0:20:33.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}下次可就不晓得  能否活着回来呢
+Dialogue: 0,0:20:33.50,0:20:38.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没问题的  已经不用再潜入多岐川了
+Dialogue: 0,0:20:38.20,0:20:40.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}剩下的那一人就在这里
+Dialogue: 0,0:20:52.90,0:20:57.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥  我一直在等待这天的到来
+Dialogue: 0,0:20:57.50,0:20:58.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜
+Dialogue: 0,0:20:58.50,0:20:59.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我喜欢你
+Dialogue: 0,0:20:59.60,0:21:00.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我也是
+Dialogue: 0,0:21:24.50,0:21:25.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好痒哦
+Dialogue: 0,0:21:42.20,0:21:43.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那里是…
+Dialogue: 0,0:21:45.90,0:21:50.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}放心吧  哥哥会好好对待你的
+Dialogue: 0,0:21:50.70,0:21:51.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}是
+Dialogue: 0,0:22:11.20,0:22:14.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜的这里  好棒啊
+Dialogue: 0,0:22:14.90,0:22:17.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不要  好丢脸
+Dialogue: 0,0:22:18.40,0:22:21.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不用忍耐  叫出声音来吧
+Dialogue: 0,0:22:21.50,0:22:22.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这里没有别人的
+Dialogue: 0,0:22:22.80,0:22:27.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}被舔得好舒服  感觉好奇怪呀
+Dialogue: 0,0:22:27.50,0:22:29.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没错  就是这样
+Dialogue: 0,0:22:35.40,0:22:37.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这个就是哥哥的…
+Dialogue: 0,0:22:38.20,0:22:40.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}从今天开始就是小夜的东西了
+Dialogue: 0,0:22:40.40,0:22:41.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}随你喜欢弄吧
+Dialogue: 0,0:22:47.50,0:22:48.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}很棒哦
+Dialogue: 0,0:22:48.40,0:22:50.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}非常舒服呢
+Dialogue: 0,0:22:58.30,0:23:00.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}差不多可以了吧？
+Dialogue: 0,0:23:03.90,0:23:05.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}也就是说…
+Dialogue: 0,0:23:05.40,0:23:08.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我们做那回事…
+Dialogue: 0,0:23:20.10,0:23:22.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好…好舒服
+Dialogue: 0,0:23:22.30,0:23:25.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}身…身体要融化了…
+Dialogue: 0,0:23:38.80,0:23:41.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥  好热啊…
+Dialogue: 0,0:23:41.20,0:23:44.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}身体好像在燃烧一样啊
+Dialogue: 0,0:23:47.30,0:23:48.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你是最棒的
+Dialogue: 0,0:23:54.70,0:24:00.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥的大东西插到深处了  就在我的身体里面
+Dialogue: 0,0:24:16.20,0:24:17.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好厉害
+Dialogue: 0,0:24:17.10,0:24:20.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}太舒服了  好酥麻啊…
+Dialogue: 0,0:24:20.30,0:24:22.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}小夜  要射了哦
+Dialogue: 0,0:24:22.40,0:24:25.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}来吧…全部射在我的身体里
+Dialogue: 0,0:24:45.60,0:24:47.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}对不起了  小夜
+Dialogue: 0,0:24:47.60,0:24:49.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}还让你做这种事情
+Dialogue: 0,0:24:49.30,0:24:51.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}哥哥有伤在身嘛
+Dialogue: 0,0:24:51.90,0:24:57.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}而且受过忍者修炼的我  是更加在行的
+Dialogue: 0,0:24:57.50,0:25:01.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}确实是如此  不过你的称呼要改改哦
+Dialogue: 0,0:25:01.70,0:25:02.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你已经是…
+Dialogue: 0,0:25:04.00,0:25:05.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我的妻子了
+Dialogue: 0,0:25:06.20,0:25:08.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}好的  又五郎
+Dialogue: 0,0:25:19.50,0:25:21.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那么…要打开了
+Dialogue: 0,0:25:25.10,0:25:27.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}到底是怎么回事？
+Dialogue: 0,0:25:27.60,0:25:28.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}不知道…
+Dialogue: 0,0:25:29.40,0:25:30.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}怎…怎么了？
+Dialogue: 0,0:25:39.40,0:25:41.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这是…
+Dialogue: 0,0:25:41.60,0:25:43.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这些女人…
+Dialogue: 0,0:25:44.30,0:25:47.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}就是多崎川的秘宝吗？
+Dialogue: 0,0:25:49.30,0:25:50.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}莫非这是…
+Dialogue: 0,0:25:50.90,0:25:55.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}当作外交的手段  做为馈赠他国的礼物
+Dialogue: 0,0:25:56.90,0:26:00.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}主人您好  请你爱护我吧
+Dialogue: 0,0:26:00.70,0:26:02.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}那…  主人
+Dialogue: 0,0:26:02.00,0:26:04.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这…这种秘宝我不要啦
+Dialogue: 0,0:26:05.00,0:26:07.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}我只要有小夜就满足了
+Dialogue: 0,0:26:08.10,0:26:09.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}这是真的吗？
+Dialogue: 0,0:26:09.90,0:26:12.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}你不会去跟其他的女人…
+Dialogue: 0,0:26:12.80,0:26:16.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}没有那回事啦  大概没有吧…
+Dialogue: 0,0:26:16.10,0:26:17.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}…做那档事吗？
+Dialogue: 0,0:26:17.50,0:26:20.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}主人  请等一下…
+Dialogue: 0,0:26:20.20,0:26:21.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}主人  请等等啊…
+Dialogue: 0,0:26:26.30,0:26:27.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs28\bord2\2c&H00FFFF&\3c&H800080&}主人…
+

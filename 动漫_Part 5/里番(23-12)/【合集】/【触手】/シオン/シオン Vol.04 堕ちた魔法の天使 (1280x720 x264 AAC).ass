@@ -1,0 +1,370 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 亞薩園字幕
+Original Script: 亞薩園字幕組
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 482
+PlayResY: 272
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00FFFFFF,&H00000000,&H00800080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.41,0:00:03.60,Default,NTP,0,0,0,,追尋寄生於人類而造成危害
+Dialogue: 0,0:00:03.95,0:00:07.60,Default,NTP,0,0,0,,一種叫做蓋斯特的生命體而從其他次元來的
+Dialogue: 0,0:00:07.83,0:00:10.11,Default,NTP,0,0,0,,戰鬥生命體DOLL——紫苑
+Dialogue: 0,0:00:10.78,0:00:12.30,Default,NTP,0,0,0,,在和蛞瑜蓋斯特戰鬥中
+Dialogue: 0,0:00:12.50,0:00:17.15,Default,NTP,0,0,0,,被傳說站在蓋斯特頂峰的狼人蓋斯特所救
+Dialogue: 0,0:00:18.83,0:00:22.02,Default,NTP,0,0,0,,狼人蓋斯特是紫苑寄宿的高中生
+Dialogue: 0,0:00:22.83,0:00:24.90,Default,NTP,0,0,0,,朝木弘樹所變身的姿態
+Dialogue: 0,0:00:26.60,0:00:30.66,Default,NTP,0,0,0,,被蓋斯特寄生的弘樹還保有人類的心
+Dialogue: 0,0:00:31.21,0:00:33.11,Default,NTP,0,0,0,,不知不覺中 紫苑對他有了愛慕之心
+Dialogue: 0,0:00:33.91,0:00:38.55,Default,NTP,0,0,0,,那個夜晚 不關敵我的立場 紫苑和他拋開一切結合了
+Dialogue: 0,0:00:40.73,0:00:44.05,Default,NTP,0,0,0,,翌日 弘樹被叫到保健室
+Dialogue: 0,0:00:44.45,0:00:46.03,Default,NTP,0,0,0,,被保健老師美玲雪子下了毒
+Dialogue: 0,0:00:46.43,0:00:49.84,Default,NTP,0,0,0,,24小時內會完全蓋斯特化
+Dialogue: 0,0:00:51.72,0:00:53.19,Default,NTP,0,0,0,,雪子也是蓋斯特
+Dialogue: 0,0:00:54.51,0:00:56.98,Default,NTP,0,0,0,,這樣下去弘樹會蓋斯特化嗎
+Dialogue: 0,0:00:57.94,0:01:01.01,Default,NTP,0,0,0,,兩人面前出現的謎之團隊又是什麼
+Dialogue: 0,0:01:02.06,0:01:05.13,Default,NTP,0,0,0,,解開各個謎團的故事帷幕又將拉開
+Dialogue: 0,0:01:09.23,0:01:13.72,Default,NTP,0,0,0,,是你吧 和那個DOLL一起的Single Figure
+Dialogue: 0,0:01:14.56,0:01:16.66,Default,NTP,0,0,0,,那個DOLL的意思是 原來是這樣
+Dialogue: 0,0:01:17.30,0:01:19.17,Default,NTP,0,0,0,,就是你綁架了13號嗎
+Dialogue: 0,0:01:20.09,0:01:21.21,Default,NTP,0,0,0,,她在哪裡
+Dialogue: 0,0:01:21.96,0:01:23.58,Default,NTP,0,0,0,,不會白白告訴你的
+Dialogue: 0,0:01:24.26,0:01:27.61,Default,NTP,0,0,0,,但是 戰勝我就知道了
+Dialogue: 0,0:01:32.68,0:01:33.57,Default,NTP,0,0,0,,糟了
+Dialogue: 0,0:01:35.02,0:01:37.89,Default,NTP,0,0,0,,哈哈哈 妳也中招了
+Dialogue: 0,0:01:38.93,0:01:39.82,Default,NTP,0,0,0,,可惡
+Dialogue: 0,0:01:41.99,0:01:44.70,Default,NTP,0,0,0,,哼哼 麻痹了吧 還不夠喵
+Dialogue: 0,0:01:45.27,0:01:47.52,Default,NTP,0,0,0,,接下來讓我好好享受喵
+Dialogue: 0,0:01:50.91,0:01:53.95,Default,NTP,0,0,0,,不錯 不錯 更加痛苦喵
+Dialogue: 0,0:01:58.75,0:02:00.32,Default,NTP,0,0,0,,啊呼 在痛苦著呢喵
+Dialogue: 0,0:02:00.89,0:02:03.28,Default,NTP,0,0,0,,妳也和那個DOLL一樣吧
+Dialogue: 0,0:02:05.90,0:02:07.76,Default,NTP,0,0,0,,喵 好像有點怪喵
+Dialogue: 0,0:02:15.49,0:02:16.23,Default,NTP,0,0,0,,弘…弘樹
+Dialogue: 0,0:02:20.43,0:02:22.75,Default,NTP,0,0,0,,弘樹 你還是弘樹嗎
+Dialogue: 0,0:02:27.37,0:02:28.44,Default,NTP,0,0,0,,啊 13號
+Dialogue: 0,0:02:31.84,0:02:45.50,Default,NTP,0,0,0,,{\pos(241,250)\1c&HD29700&\3c&H000000&}紫苑
+Dialogue: 0,0:02:31.84,0:02:45.50,Default,NTP,0,0,0,,{\fs16\an8\3c&HFF0000&}時間軸、校正：jaswee940054
+Dialogue: 0,0:02:41.05,0:02:45.50,Default,NTP,0,0,0,,{\bord0\1c&H000000&\3c&H000000&}Vol.04  墮落的魔法天使
+Dialogue: 0,0:03:08.16,0:03:08.81,Default,NTP,0,0,0,,リリムエキ
+Dialogue: 0,0:03:14.49,0:03:15.78,Default,NTP,0,0,0,,13號
+Dialogue: 0,0:03:16.75,0:03:17.74,Default,NTP,0,0,0,,7號
+Dialogue: 0,0:03:19.13,0:03:20.33,Default,NTP,0,0,0,,13號
+Dialogue: 0,0:03:22.65,0:03:23.82,Default,NTP,0,0,0,,7號
+Dialogue: 0,0:03:29.08,0:03:30.85,Default,NTP,0,0,0,,紫苑
+Dialogue: 0,0:03:38.20,0:03:39.82,Default,NTP,0,0,0,,我知道了
+Dialogue: 0,0:03:47.36,0:03:51.64,Default,NTP,0,0,0,,哎 難道要殺了同伴嗎 不要這麼做啊
+Dialogue: 0,0:03:52.24,0:03:56.41,Default,NTP,0,0,0,,被淩辱到這個程度 修正機能無法運作
+Dialogue: 0,0:03:58.73,0:04:00.57,Default,NTP,0,0,0,,紫苑 快點
+Dialogue: 0,0:04:02.53,0:04:04.31,Default,NTP,0,0,0,,莉蒂婭
+Dialogue: 0,0:04:08.00,0:04:10.99,Default,NTP,0,0,0,,謝謝你 紫苑
+Dialogue: 0,0:04:21.73,0:04:24.17,Default,NTP,0,0,0,,喂 紫苑 妳在幹嘛啊
+Dialogue: 0,0:04:24.68,0:04:27.83,Default,NTP,0,0,0,,和我受損的戰鬥裝備交換
+Dialogue: 0,0:04:28.90,0:04:32.74,Default,NTP,0,0,0,,妳在說什麼啊 妳這麼做不就什麼都感覺不到嗎
+Dialogue: 0,0:04:33.02,0:04:36.90,Default,NTP,0,0,0,,我們是為了消滅蓋斯特而被製造的人造生命體
+Dialogue: 0,0:04:37.79,0:04:41.29,Default,NTP,0,0,0,,為了達成目標 會不擇手段
+Dialogue: 0,0:04:43.02,0:04:46.48,Default,NTP,0,0,0,,呃 紫苑 你的眼淚
+Dialogue: 0,0:04:46.84,0:04:50.51,Default,NTP,0,0,0,,這是為了除去眼裡的垃圾罷了 心感榮耀
+Dialogue: 0,0:04:50.91,0:04:51.69,Default,NTP,0,0,0,,紫苑
+Dialogue: 0,0:04:51.95,0:04:54.97,Default,NTP,0,0,0,,哇哦 真是精彩 妳的自尊
+Dialogue: 0,0:04:58.46,0:05:00.46,Default,NTP,0,0,0,,哎 美玲老師
+Dialogue: 0,0:05:01.22,0:05:03.28,Default,NTP,0,0,0,,你這傢伙 リリムエキ
+Dialogue: 0,0:05:03.49,0:05:06.11,Default,NTP,0,0,0,,等等 要是現在殺了我
+Dialogue: 0,0:05:06.20,0:05:09.06,Default,NTP,0,0,0,,朝木君的完全蓋斯特化就無法停止了
+Dialogue: 0,0:05:10.10,0:05:14.20,Default,NTP,0,0,0,,現在就把解毒劑給我 這樣我可以不用讓你妳得太痛苦
+Dialogue: 0,0:05:14.50,0:05:18.59,Default,NTP,0,0,0,,這句話是任務需要嗎 還是說…妳是在吃醋
+Dialogue: 0,0:05:21.01,0:05:24.85,Default,NTP,0,0,0,,啊 美玲老師 突然做什麼啊
+Dialogue: 0,0:05:25.37,0:05:27.45,Default,NTP,0,0,0,,弘樹 你搞什麼啊
+Dialogue: 0,0:05:28.01,0:05:29.61,Default,NTP,0,0,0,,什麼啊 是老師突然
+Dialogue: 0,0:05:30.76,0:05:32.31,Default,NTP,0,0,0,,嘛 安靜得看著
+Dialogue: 0,0:05:32.91,0:05:34.77,Default,NTP,0,0,0,,美玲老師 要幹什麼
+Dialogue: 0,0:05:38.88,0:05:43.47,Default,NTP,0,0,0,,弘樹 不可原諒 現在就把你們兩個殺掉
+Dialogue: 0,0:05:45.19,0:05:48.94,Default,NTP,0,0,0,,等…等一下 剛才不是我的錯吧
+Dialogue: 0,0:05:49.56,0:05:52.67,Default,NTP,0,0,0,,你們兩個交纏舌頭 好下流
+Dialogue: 0,0:05:53.09,0:05:54.95,Default,NTP,0,0,0,,所以說 這是美玲老師她…
+Dialogue: 0,0:05:55.62,0:05:58.90,Default,NTP,0,0,0,,不要賴了 現在就殺了你們
+Dialogue: 0,0:05:59.71,0:06:04.06,Default,NTP,0,0,0,,剛才在他的身體裡注入了解毒劑 已經沒事了
+Dialogue: 0,0:06:05.73,0:06:09.72,Default,NTP,0,0,0,,的確 弘樹的身體裡面 沒有了藥物反應
+Dialogue: 0,0:06:10.34,0:06:12.80,Default,NTP,0,0,0,,妳這次在謀劃些什麼
+Dialogue: 0,0:06:13.72,0:06:16.88,Default,NTP,0,0,0,,我什麼都沒有謀劃哦 只是放棄了
+Dialogue: 0,0:06:17.71,0:06:18.77,Default,NTP,0,0,0,,放棄了？
+Dialogue: 0,0:06:19.22,0:06:21.46,Default,NTP,0,0,0,,看了剛才的戰鬥 完全理解了
+Dialogue: 0,0:06:22.21,0:06:27.07,Default,NTP,0,0,0,,要控制完全蓋斯特化的朝木君 是我辦不到的
+Dialogue: 0,0:06:27.28,0:06:30.60,Default,NTP,0,0,0,,所以 馬上決定改變方針了
+Dialogue: 0,0:06:31.98,0:06:33.72,Default,NTP,0,0,0,,這是什麼意思啊
+Dialogue: 0,0:06:34.14,0:06:37.65,Default,NTP,0,0,0,,也就是這樣作為朝木君的奴隸活下去吧
+Dialogue: 0,0:06:37.99,0:06:39.76,Default,NTP,0,0,0,,這樣比較開心呢
+Dialogue: 0,0:06:40.58,0:06:42.64,Default,NTP,0,0,0,,啊…是嗎 弘樹 這樣太好了呢
+Dialogue: 0,0:06:43.43,0:06:46.54,Default,NTP,0,0,0,,不是 這個… 該怎麼說呢
+Dialogue: 0,0:06:47.19,0:06:49.16,Default,NTP,0,0,0,,哎呀 妳也一起吧
+Dialogue: 0,0:06:50.01,0:06:52.39,Default,NTP,0,0,0,,我是DOLL哦 這種事情
+Dialogue: 0,0:06:53.36,0:06:58.71,Default,NTP,0,0,0,,裝也是沒用的 妳的臉上都寫著身體離不開朝木君了哦
+Dialogue: 0,0:06:59.22,0:07:00.49,Default,NTP,0,0,0,,這種事情
+Dialogue: 0,0:07:01.09,0:07:03.99,Default,NTP,0,0,0,,誒 DOLL也有這樣的表情啊
+Dialogue: 0,0:07:04.42,0:07:07.19,Default,NTP,0,0,0,,嘛 奴隸之間好好相處吧
+Dialogue: 0,0:07:14.15,0:07:15.24,Default,NTP,0,0,0,,美玲老師
+Dialogue: 0,0:07:15.92,0:07:17.27,Default,NTP,0,0,0,,剛才的 難道是…
+Dialogue: 0,0:07:21.59,0:07:23.25,Default,NTP,0,0,0,,什麼啊 這次又是…
+Dialogue: 0,0:07:27.74,0:07:28.61,Default,NTP,0,0,0,,英菲尼迪
+Dialogue: 0,0:07:28.87,0:07:31.50,Default,NTP,0,0,0,,英菲尼迪？你認識嗎
+Dialogue: 0,0:07:32.19,0:07:36.89,Default,NTP,0,0,0,,站在DOLL頂峰的 我們的指揮官
+Dialogue: 0,0:07:37.04,0:07:38.05,Default,NTP,0,0,0,,指揮官…
+Dialogue: 0,0:07:38.32,0:07:40.92,Default,NTP,0,0,0,,7號 我對你很吃驚
+Dialogue: 0,0:07:41.30,0:07:43.35,Default,NTP,0,0,0,,居然會被蓋斯特拉攏
+Dialogue: 0,0:07:43.72,0:07:46.65,Default,NTP,0,0,0,,等等 弘樹雖然被蓋斯特寄生了
+Dialogue: 0,0:07:46.83,0:07:48.91,Default,NTP,0,0,0,,但是還有著人類的心
+Dialogue: 0,0:07:49.25,0:07:50.78,Default,NTP,0,0,0,,和其他的蓋斯特不一樣
+Dialogue: 0,0:07:51.20,0:07:54.75,Default,NTP,0,0,0,,原來如此 連Single Figure都能迷倒
+Dialogue: 0,0:07:55.16,0:07:58.59,Default,NTP,0,0,0,,這是立於蓋斯特頂峰的狼人蓋斯特的能力嗎
+Dialogue: 0,0:07:59.27,0:08:00.10,Default,NTP,0,0,0,,但是…
+Dialogue: 0,0:08:01.62,0:08:04.89,Default,NTP,0,0,0,,啊…不要…住手…
+Dialogue: 0,0:08:07.18,0:08:08.24,Default,NTP,0,0,0,,紫苑
+Dialogue: 0,0:08:11.82,0:08:15.77,Default,NTP,0,0,0,,這是 身體動不了了
+Dialogue: 0,0:08:16.33,0:08:18.36,Default,NTP,0,0,0,,住手 英菲尼迪
+Dialogue: 0,0:08:18.85,0:08:22.02,Default,NTP,0,0,0,,7號 待會給你進行再調整
+Dialogue: 0,0:08:25.14,0:08:26.34,Default,NTP,0,0,0,,住手啊
+Dialogue: 0,0:08:29.25,0:08:30.46,Default,NTP,0,0,0,,可惡
+Dialogue: 0,0:08:30.50,0:08:31.20,Default,NTP,0,0,0,,沒用的
+Dialogue: 0,0:08:32.09,0:08:35.55,Default,NTP,0,0,0,,這個結界是對你們的力量反作用製造的
+Dialogue: 0,0:08:36.54,0:08:40.36,Default,NTP,0,0,0,,你越是強大 結界也越是強大
+Dialogue: 0,0:08:40.84,0:08:44.49,Default,NTP,0,0,0,,7號 你好好看看這個蓋斯特死吧
+Dialogue: 0,0:08:44.65,0:08:47.13,Default,NTP,0,0,0,,求求你…住手…
+Dialogue: 0,0:08:48.24,0:08:49.46,Default,NTP,0,0,0,,紫…紫苑…
+Dialogue: 0,0:08:50.60,0:08:52.80,Default,NTP,0,0,0,,英菲尼迪 住手
+Dialogue: 0,0:08:54.41,0:08:57.87,Default,NTP,0,0,0,,紫…紫苑 別管我了
+Dialogue: 0,0:09:00.03,0:09:01.32,Default,NTP,0,0,0,,弘樹
+Dialogue: 0,0:09:01.64,0:09:04.82,Default,NTP,0,0,0,,回去吧…自己的…世界
+Dialogue: 0,0:09:06.40,0:09:07.47,Default,NTP,0,0,0,,弘樹
+Dialogue: 0,0:09:08.05,0:09:12.18,Default,NTP,0,0,0,,我被蓋斯特寄生的時刻開始
+Dialogue: 0,0:09:12.18,0:09:13.51,Default,NTP,0,0,0,,命運就已經註定了
+Dialogue: 0,0:09:13.96,0:09:15.82,Default,NTP,0,0,0,,就是這樣被殺掉
+Dialogue: 0,0:09:16.63,0:09:18.29,Default,NTP,0,0,0,,但是 妳沒有必要去死
+Dialogue: 0,0:09:18.80,0:09:21.94,Default,NTP,0,0,0,,所以 連我的份一起活著
+Dialogue: 0,0:09:22.80,0:09:26.07,Default,NTP,0,0,0,,原來如此 你的確還有人類的心
+Dialogue: 0,0:09:26.51,0:09:31.55,Default,NTP,0,0,0,,但是 抹殺被蓋斯特寄生的人類是我們的使命
+Dialogue: 0,0:09:31.78,0:09:35.11,Default,NTP,0,0,0,,不要…不行…弘樹…不要…
+Dialogue: 0,0:09:35.51,0:09:38.89,Default,NTP,0,0,0,,再見了 統領蓋斯特的蓋斯特
+Dialogue: 0,0:09:39.32,0:09:40.97,Default,NTP,0,0,0,,再見了 紫苑
+Dialogue: 0,0:09:43.69,0:09:44.75,Default,NTP,0,0,0,,不要
+Dialogue: 0,0:09:48.82,0:09:51.71,Default,NTP,0,0,0,,啊…這是… 紫苑
+Dialogue: 0,0:09:54.84,0:10:00.30,Default,NTP,0,0,0,,7號 為什麼…不受我控制…
+Dialogue: 0,0:10:01.14,0:10:03.61,Default,NTP,0,0,0,,妳的力量從哪來…
+Dialogue: 0,0:10:04.75,0:10:06.46,Default,NTP,0,0,0,,對不起
+Dialogue: 0,0:10:09.33,0:10:11.43,Default,NTP,0,0,0,,緊急情況發生 緊急情況發生......
+Dialogue: 0,0:10:14.03,0:10:15.27,Default,NTP,0,0,0,,啊 紫苑
+Dialogue: 0,0:10:16.92,0:10:19.43,Default,NTP,0,0,0,,緊急計畫發動 撤退
+Dialogue: 0,0:10:21.72,0:10:23.61,Default,NTP,0,0,0,,紫苑 沒事嗎
+Dialogue: 0,0:10:24.46,0:10:25.64,Default,NTP,0,0,0,,我沒事
+Dialogue: 0,0:10:25.93,0:10:27.07,Default,NTP,0,0,0,,為什麼會這樣
+Dialogue: 0,0:10:28.64,0:10:30.97,Default,NTP,0,0,0,,我已經注意到了
+Dialogue: 0,0:10:31.62,0:10:32.94,Default,NTP,0,0,0,,什…什麼…
+Dialogue: 0,0:10:33.53,0:10:36.69,Default,NTP,0,0,0,,吶 現在什麼都不要想 抱住我
+Dialogue: 0,0:10:38.59,0:10:39.57,Default,NTP,0,0,0,,紫苑
+Dialogue: 0,0:10:39.78,0:10:41.87,Default,NTP,0,0,0,,哎呀哎呀 真讓人吃醋
+Dialogue: 0,0:10:46.63,0:10:49.32,Default,NTP,0,0,0,,美玲老師 你還活著啊
+Dialogue: 0,0:10:50.03,0:10:52.25,Default,NTP,0,0,0,,算是啦 被射穿的瞬間
+Dialogue: 0,0:10:52.43,0:10:57.24,Default,NTP,0,0,0,,體內合成了急速強心劑 稍微有點危險呢
+Dialogue: 0,0:10:58.05,0:11:00.72,Default,NTP,0,0,0,,但是…妳啊… 為了保護蓋斯特
+Dialogue: 0,0:11:00.72,0:11:01.89,Default,NTP,0,0,0,,背叛了同伴吧
+Dialogue: 0,0:11:02.70,0:11:05.29,Default,NTP,0,0,0,,不會後悔 只要弘樹沒事
+Dialogue: 0,0:11:06.02,0:11:07.72,Default,NTP,0,0,0,,紫苑 對不起 都是為了我
+Dialogue: 0,0:11:08.57,0:11:12.91,Default,NTP,0,0,0,,但是 既然到了這步 我們就不得不互相幫助了
+Dialogue: 0,0:11:13.51,0:11:16.84,Default,NTP,0,0,0,,作為朝木君的奴隸 一起開心的幹下去吧
+Dialogue: 0,0:11:18.90,0:11:23.06,Default,NTP,0,0,0,,我也協助你們了 把我收進同伴吧
+Dialogue: 0,0:11:24.94,0:11:26.44,Default,NTP,0,0,0,,你的協助我們不需要
+Dialogue: 0,0:11:27.25,0:11:27.80,Default,NTP,0,0,0,,呵呵
+Dialogue: 0,0:11:29.94,0:11:34.93,Default,NTP,0,0,0,,那之後一個月 學院內什麼都沒改變
+Dialogue: 0,0:11:35.66,0:11:39.72,Default,NTP,0,0,0,,舊校舍依然有幽靈的傳說 誰都不敢接近
+Dialogue: 0,0:11:40.41,0:11:46.24,Default,NTP,0,0,0,,所以 那之後我一直對紫苑和老師進行秘密的遊樂
+Dialogue: 0,0:11:57.95,0:12:00.26,Default,NTP,0,0,0,,求你了 也幹我
+Dialogue: 0,0:12:01.34,0:12:04.87,Default,NTP,0,0,0,,不行 老師在那裡好好看著我們哦
+Dialogue: 0,0:12:05.32,0:12:09.30,Default,NTP,0,0,0,,不要 不能忍受了 求求你
+Dialogue: 0,0:12:24.88,0:12:25.98,Default,NTP,0,0,0,,這樣 好丟人哦
+Dialogue: 0,0:12:26.40,0:12:29.31,Default,NTP,0,0,0,,但是很舒服吧 紫苑的小穴好濕哦
+Dialogue: 0,0:12:29.87,0:12:32.09,Default,NTP,0,0,0,,這種事不要說出來啦
+Dialogue: 0,0:12:39.04,0:12:40.71,Default,NTP,0,0,0,,這樣 不要
+Dialogue: 0,0:12:42.66,0:12:45.29,Default,NTP,0,0,0,,紫苑 乳頭都立成這樣了 好淫蕩哦
+Dialogue: 0,0:12:47.62,0:12:53.00,Default,NTP,0,0,0,,不要 這樣不行 不要 這麼做的話
+Dialogue: 0,0:12:54.14,0:12:57.66,Default,NTP,0,0,0,,不要 這樣 會有感覺
+Dialogue: 0,0:12:58.33,0:13:01.28,Default,NTP,0,0,0,,不要 只是看著就有感覺了
+Dialogue: 0,0:13:02.24,0:13:05.30,Default,NTP,0,0,0,,那麼 做些讓你更爽的事情吧
+Dialogue: 0,0:13:07.10,0:13:09.28,Default,NTP,0,0,0,,弘樹 你想幹嘛啊
+Dialogue: 0,0:13:09.60,0:13:13.45,Default,NTP,0,0,0,,讓紫苑更加舒服啊 來咯
+Dialogue: 0,0:13:16.93,0:13:18.09,Default,NTP,0,0,0,,怎麼樣 舒服嗎
+Dialogue: 0,0:13:19.84,0:13:21.82,Default,NTP,0,0,0,,啊啊 真好 好厲害
+Dialogue: 0,0:13:26.11,0:13:29.05,Default,NTP,0,0,0,,不行了 求你 也來幹我 求你了
+Dialogue: 0,0:13:31.91,0:13:33.10,Default,NTP,0,0,0,,好厲害哦 紫苑
+Dialogue: 0,0:13:34.50,0:13:41.69,Default,NTP,0,0,0,,啊…不行了…要去了…
+Dialogue: 0,0:13:46.42,0:13:48.31,Default,NTP,0,0,0,,去了啊啊
+Dialogue: 0,0:13:53.36,0:13:55.58,Default,NTP,0,0,0,,好過分 弘樹 這種事
+Dialogue: 0,0:13:56.37,0:13:57.57,Default,NTP,0,0,0,,很舒服吧
+Dialogue: 0,0:13:58.74,0:14:01.65,Default,NTP,0,0,0,,我的好友 我也想加入啊
+Dialogue: 0,0:14:02.17,0:14:04.05,Default,NTP,0,0,0,,礙事
+Dialogue: 0,0:14:04.59,0:14:06.36,Default,NTP,0,0,0,,好過分 我的好友
+Dialogue: 0,0:14:06.80,0:14:10.30,Default,NTP,0,0,0,,但是 這點程度就有感覺 之後會怎麼樣呢
+Dialogue: 0,0:14:10.87,0:14:13.39,Default,NTP,0,0,0,,唉 弘樹 這次是什麼
+Dialogue: 0,0:14:14.33,0:14:18.74,Default,NTP,0,0,0,,擁有蓋斯特力量的我的新樣子 給你看看
+Dialogue: 0,0:14:22.94,0:14:24.87,Default,NTP,0,0,0,,弘樹 這是
+Dialogue: 0,0:14:25.39,0:14:27.87,Default,NTP,0,0,0,,用它們好好疼愛紫苑哦
+Dialogue: 0,0:14:28.59,0:14:31.81,Default,NTP,0,0,0,,啊…給我…也給我啊…求你
+Dialogue: 0,0:14:33.47,0:14:41.49,Default,NTP,0,0,0,,什麼啊…黏黏的…濕濕的…弘樹…
+Dialogue: 0,0:14:54.08,0:14:56.18,Default,NTP,0,0,0,,乳頭被…啊…不要…
+Dialogue: 0,0:14:58.82,0:15:01.20,Default,NTP,0,0,0,,怎麼樣 紫苑 舒服嗎
+Dialogue: 0,0:15:01.42,0:15:06.37,Default,NTP,0,0,0,,有感覺…乳頭被吸著…好有感覺…
+Dialogue: 0,0:15:07.06,0:15:14.36,Default,NTP,0,0,0,,弘樹…弘樹…好有感覺…有感覺…
+Dialogue: 0,0:15:24.15,0:15:28.47,Default,NTP,0,0,0,,這樣…不行…已經不行了…好舒服…
+Dialogue: 0,0:15:32.17,0:15:33.07,Default,NTP,0,0,0,,好舒服...
+Dialogue: 0,0:15:36.87,0:15:37.97,Default,NTP,0,0,0,,好舒服...
+Dialogue: 0,0:15:41.10,0:15:43.72,Default,NTP,0,0,0,,去了
+Dialogue: 0,0:15:49.95,0:15:54.11,Default,NTP,0,0,0,,求你了啦 也幹我 求你了啦
+Dialogue: 0,0:15:54.74,0:15:59.01,Default,NTP,0,0,0,,美玲老師還不行啦 現在在疼愛紫苑呢
+Dialogue: 0,0:16:00.50,0:16:03.39,Default,NTP,0,0,0,,弘樹…不行了…已經受不了了…
+Dialogue: 0,0:16:03.89,0:16:05.69,Default,NTP,0,0,0,,只是玩弄下胸部就去了 這樣可不行
+Dialogue: 0,0:16:05.70,0:16:08.60,Default,NTP,0,0,0,,紫苑 接下來才是好戲啊
+Dialogue: 0,0:16:12.55,0:16:13.25,Default,NTP,0,0,0,,誒…什麼…
+Dialogue: 0,0:16:18.55,0:16:19.25,Default,NTP,0,0,0,,不要…
+Dialogue: 0,0:16:30.63,0:16:31.67,Default,NTP,0,0,0,,這樣…弘樹…
+Dialogue: 0,0:16:32.46,0:16:33.80,Default,NTP,0,0,0,,我進來咯 紫苑
+Dialogue: 0,0:16:38.58,0:16:47.18,Default,NTP,0,0,0,,啊 進來了 弘樹
+Dialogue: 0,0:16:47.43,0:16:48.36,Default,NTP,0,0,0,,感覺到了嗎 紫苑
+Dialogue: 0,0:16:49.07,0:16:55.21,Default,NTP,0,0,0,,感覺到了…有感覺…超級有感覺…不能忍耐了
+Dialogue: 0,0:16:56.64,0:16:59.99,Default,NTP,0,0,0,,有紫苑小穴的味道呢 超下流的味道呢
+Dialogue: 0,0:17:01.27,0:17:03.58,Default,NTP,0,0,0,,啊…好爽哦…
+Dialogue: 0,0:17:03.58,0:17:04.47,Default,NTP,0,0,0,,啊…紫苑…
+Dialogue: 0,0:17:06.85,0:17:09.09,Default,NTP,0,0,0,,啊…真棒…要去了…
+Dialogue: 0,0:17:09.43,0:17:10.69,Default,NTP,0,0,0,,去吧 紫苑
+Dialogue: 0,0:17:10.95,0:17:13.22,Default,NTP,0,0,0,,去…去了…
+Dialogue: 0,0:17:24.61,0:17:26.10,Default,NTP,0,0,0,,美玲老師也想要嗎
+Dialogue: 0,0:17:27.20,0:17:30.97,Default,NTP,0,0,0,,恩…恩…給我…好好欺負我…
+Dialogue: 0,0:17:35.70,0:17:37.45,Default,NTP,0,0,0,,還要 吸我
+Dialogue: 0,0:17:38.15,0:17:50.45,Default,NTP,0,0,0,,真棒…乳頭…還要哦…
+Dialogue: 0,0:17:57.65,0:18:03.17,Default,NTP,0,0,0,,要插進小穴嗎 對 這裡就是小穴的洞哦
+Dialogue: 0,0:18:03.20,0:18:09.52,Default,NTP,0,0,0,,快進來啊…進來了…真棒…好棒…
+Dialogue: 0,0:18:16.75,0:18:23.17,Default,NTP,0,0,0,,誒…還要菊花嗎 來了嗎 要插進菊花了嗎
+Dialogue: 0,0:18:24.02,0:18:27.46,Default,NTP,0,0,0,,不要…太爽了…
+Dialogue: 0,0:18:31.06,0:18:31.96,Default,NTP,0,0,0,,太爽了…
+Dialogue: 0,0:19:04.00,0:19:07.34,Default,NTP,0,0,0,,老師 接下來會好好侵犯你身體裡面哦
+Dialogue: 0,0:19:34.98,0:19:35.75,Default,NTP,0,0,0,,真棒
+Dialogue: 0,0:19:36.75,0:19:38.28,Default,NTP,0,0,0,,舒服嗎
+Dialogue: 0,0:19:38.87,0:19:40.55,Default,NTP,0,0,0,,弘樹 好舒服哦
+Dialogue: 0,0:19:41.79,0:19:42.48,Default,NTP,0,0,0,,這樣嗎
+Dialogue: 0,0:19:43.09,0:19:45.30,Default,NTP,0,0,0,,好深啊 弘樹 弘樹
+Dialogue: 0,0:19:45.75,0:19:47.06,Default,NTP,0,0,0,,紫苑 好舒服哦
+Dialogue: 0,0:19:48.13,0:19:50.26,Default,NTP,0,0,0,,爽嗎 弘樹也很爽嗎
+Dialogue: 0,0:19:50.88,0:19:52.67,Default,NTP,0,0,0,,啊 超級爽呢
+Dialogue: 0,0:19:53.80,0:19:54.75,Default,NTP,0,0,0,,好開心
+Dialogue: 0,0:19:55.68,0:19:56.94,Default,NTP,0,0,0,,紫苑
+Dialogue: 0,0:19:57.14,0:20:00.79,Default,NTP,0,0,0,,弘樹在裡面…裡面好有感覺…弘樹的在進來…
+Dialogue: 0,0:20:01.26,0:20:02.79,Default,NTP,0,0,0,,紫苑 妳好淫蕩哦
+Dialogue: 0,0:20:03.23,0:20:04.09,Default,NTP,0,0,0,,怎麼會
+Dialogue: 0,0:20:04.66,0:20:05.48,Default,NTP,0,0,0,,舒服嗎
+Dialogue: 0,0:20:05.48,0:20:07.55,Default,NTP,0,0,0,,好舒服啊 弘樹
+Dialogue: 0,0:20:10.03,0:20:11.17,Default,NTP,0,0,0,,啊…紫苑…
+Dialogue: 0,0:20:11.38,0:20:13.59,Default,NTP,0,0,0,,弘樹的肉棒在我的裡面變大了
+Dialogue: 0,0:20:14.69,0:20:19.76,Default,NTP,0,0,0,,我要裂開了 好粗好粗 好有感覺
+Dialogue: 0,0:20:20.31,0:20:21.30,Default,NTP,0,0,0,,啊 紫苑
+Dialogue: 0,0:20:22.49,0:20:27.00,Default,NTP,0,0,0,,真棒…要去了…弘樹…去了…
+Dialogue: 0,0:20:28.55,0:20:37.17,Default,NTP,0,0,0,,啊…真棒…給我…也給我肉棒…肉棒給我啦
+Dialogue: 0,0:20:37.98,0:20:41.30,Default,NTP,0,0,0,,這麼想要啊 那給妳吧
+Dialogue: 0,0:20:44.33,0:20:47.49,Default,NTP,0,0,0,,你們兩個 好棒的姿勢呢 超級撩人呢
+Dialogue: 0,0:20:50.40,0:20:55.66,Default,NTP,0,0,0,,啊…真棒…弘樹 這次要幹什麼
+Dialogue: 0,0:20:56.03,0:20:58.13,Default,NTP,0,0,0,,你們兩個 都想要我的肉棒嗎
+Dialogue: 0,0:20:58.63,0:21:01.83,Default,NTP,0,0,0,,啊…想要…想要肉棒…快給我…
+Dialogue: 0,0:21:02.35,0:21:05.27,Default,NTP,0,0,0,,插我…狠狠的插我啊…
+Dialogue: 0,0:21:05.67,0:21:07.06,Default,NTP,0,0,0,,紫苑呢
+Dialogue: 0,0:21:07.59,0:21:10.31,Default,NTP,0,0,0,,這種話太丟人了啦 說不出口啊
+Dialogue: 0,0:21:11.11,0:21:12.62,Default,NTP,0,0,0,,這樣可不給紫苑哦
+Dialogue: 0,0:21:17.44,0:21:19.47,Default,NTP,0,0,0,,弘樹 怎麼這樣
+Dialogue: 0,0:21:23.45,0:21:27.86,Default,NTP,0,0,0,,啊…老師的小穴…超級有味道…真好吃…
+Dialogue: 0,0:21:30.29,0:21:33.64,Default,NTP,0,0,0,,啊…裡面有感覺…超級有感覺…還要…
+Dialogue: 0,0:21:36.25,0:21:37.64,Default,NTP,0,0,0,,不要...
+Dialogue: 0,0:21:39.75,0:21:44.00,Default,NTP,0,0,0,,不要... 要去了
+Dialogue: 0,0:21:50.28,0:21:53.28,Default,NTP,0,0,0,,感覺 菊花好舒服
+Dialogue: 0,0:21:53.68,0:21:56.03,Default,NTP,0,0,0,,已經不行了 快給我 肉棒快給我
+Dialogue: 0,0:22:00.64,0:22:01.85,Default,NTP,0,0,0,,弘樹
+Dialogue: 0,0:22:02.44,0:22:04.20,Default,NTP,0,0,0,,什麼 聽不到哦
+Dialogue: 0,0:22:05.35,0:22:07.63,Default,NTP,0,0,0,,求你了 也給我
+Dialogue: 0,0:22:08.06,0:22:09.48,Default,NTP,0,0,0,,完全聽不到呢
+Dialogue: 0,0:22:09.80,0:22:11.73,Default,NTP,0,0,0,,真是的 弘樹欺負人
+Dialogue: 0,0:22:12.27,0:22:14.70,Default,NTP,0,0,0,,不好好說我可不明白哦
+Dialogue: 0,0:22:15.36,0:22:17.16,Default,NTP,0,0,0,,我知道啦 給我
+Dialogue: 0,0:22:17.52,0:22:18.49,Default,NTP,0,0,0,,再大聲點
+Dialogue: 0,0:22:19.19,0:22:22.55,Default,NTP,0,0,0,,給我 弘樹的肉棒好想要哦 給我
+Dialogue: 0,0:22:22.99,0:22:24.09,Default,NTP,0,0,0,,求你了 給我
+Dialogue: 0,0:22:25.24,0:22:29.01,Default,NTP,0,0,0,,真是的 紫苑完完全全變成了個淫亂的母豬呢
+Dialogue: 0,0:22:29.61,0:22:32.22,Default,NTP,0,0,0,,因為 是弘樹叫我這麼說的啊
+Dialogue: 0,0:22:32.62,0:22:34.89,Default,NTP,0,0,0,,是嗎 那就插你吧
+Dialogue: 0,0:22:35.73,0:22:38.62,Default,NTP,0,0,0,,啊…弘樹…弘樹的肉棒要來了…
+Dialogue: 0,0:22:38.67,0:22:41.08,Default,NTP,0,0,0,,快點…給我們兩個…
+Dialogue: 0,0:22:45.85,0:22:47.21,Default,NTP,0,0,0,,進到深處了 不要啊
+Dialogue: 0,0:22:54.03,0:22:58.01,Default,NTP,0,0,0,,啊…好棒…妳們的小穴和菊花都好緊
+Dialogue: 0,0:23:02.47,0:23:05.73,Default,NTP,0,0,0,,啊啊…菊花好有感覺…求你了…還要…
+Dialogue: 0,0:23:08.68,0:23:10.10,Default,NTP,0,0,0,,快點…感覺到了…肉棒…
+Dialogue: 0,0:23:11.25,0:23:14.49,Default,NTP,0,0,0,,繼續插我…弘樹的肉棒…
+Dialogue: 0,0:23:15.99,0:23:17.07,Default,NTP,0,0,0,,啊…好爽哦
+Dialogue: 0,0:23:23.77,0:23:24.53,Default,NTP,0,0,0,,這是
+Dialogue: 0,0:23:25.77,0:23:27.22,Default,NTP,0,0,0,,有好多肉棒哦
+Dialogue: 0,0:23:27.72,0:23:29.34,Default,NTP,0,0,0,,這麼多肉棒 進不來的啦
+Dialogue: 0,0:23:29.88,0:23:32.98,Default,NTP,0,0,0,,來吧…來吧…狠狠地插我…
+Dialogue: 0,0:23:39.82,0:23:41.52,Default,NTP,0,0,0,,怎…怎麼行…這麼多…進不來的
+Dialogue: 0,0:23:43.16,0:23:46.06,Default,NTP,0,0,0,,肉棒…好厲害…
+Dialogue: 0,0:23:46.86,0:23:49.38,Default,NTP,0,0,0,,啊…好爽
+Dialogue: 0,0:23:52.06,0:23:54.57,Default,NTP,0,0,0,,好粗…一直插到好深哦
+Dialogue: 0,0:23:56.07,0:24:03.13,Default,NTP,0,0,0,,再插…在裡面用力插…還要…快點…給我更多…
+Dialogue: 0,0:24:04.42,0:24:08.09,Default,NTP,0,0,0,,真爽…肉棒…在身體裡面…
+Dialogue: 0,0:24:08.52,0:24:09.63,Default,NTP,0,0,0,,舒服嗎
+Dialogue: 0,0:24:09.77,0:24:11.82,Default,NTP,0,0,0,,真棒…好爽哦…弘樹…
+Dialogue: 0,0:24:12.31,0:24:15.34,Default,NTP,0,0,0,,好爽啊…啊…主人…更多…
+Dialogue: 0,0:24:16.45,0:24:17.98,Default,NTP,0,0,0,,要…要去了哦
+Dialogue: 0,0:24:19.47,0:24:22.46,Default,NTP,0,0,0,,啊…去了…給我給我
+Dialogue: 0,0:24:29.43,0:24:34.53,Default,NTP,0,0,0,,好厲害…啊…要去了…去了…
+Dialogue: 0,0:24:35.03,0:24:37.90,Default,NTP,0,0,0,,啊…去了去了…去了
+Dialogue: 0,0:24:39.98,0:24:40.97,Default,NTP,0,0,0,,啊…去了…
+Dialogue: 0,0:24:42.38,0:24:47.32,Default,NTP,0,0,0,,啊啊…去了！！！！！！！！！！
+Dialogue: 0,0:24:56.49,0:25:00.00,Default,NTP,0,0,0,,弘樹 好慢哦 真是的
+Dialogue: 0,0:25:00.17,0:25:03.43,Default,NTP,0,0,0,,那種失神的女人 不用特地把她搬回保健室啊
+Dialogue: 0,0:25:03.74,0:25:04.82,Default,NTP,0,0,0,,扔在那裡不就好了
+Dialogue: 0,0:25:05.43,0:25:07.89,Default,NTP,0,0,0,,但是 這也是弘樹的優點吧
+Dialogue: 0,0:25:08.54,0:25:11.54,Default,NTP,0,0,0,,而且 回家之後 沒人打擾
+Dialogue: 0,0:25:11.84,0:25:12.78,Default,NTP,0,0,0,,兩個單獨可以做了呢
+Dialogue: 0,0:25:13.39,0:25:14.78,Default,NTP,0,0,0,,嘛 算了吧
+Dialogue: 0,0:25:19.66,0:25:22.29,Default,NTP,0,0,0,,說起來 從那以後一個月
+Dialogue: 0,0:25:23.06,0:25:26.29,Default,NTP,0,0,0,,希望這種幸福今後一直延續下去
+Dialogue: 0,0:25:28.84,0:25:32.15,Default,NTP,0,0,0,,啊 什麼
+Dialogue: 0,0:25:49.49,0:25:52.18,Default,NTP,0,0,0,,英…菲…尼…迪
+Dialogue: 0,0:25:52.53,0:25:55.47,Default,NTP,0,0,0,,姐姐 好久不見了呢
+Dialogue: 0,0:25:57.04,0:26:02.25,Default,NTP,0,0,0,,怎麼樣 對我還活著很意外嗎 哈哈
+Dialogue: 0,0:26:05.59,0:26:10.70,Default,NTP,0,0,0,,我可是為了對付那個有再生能力的蓋斯特而誕生的
+Dialogue: 0,0:26:11.35,0:26:14.07,Default,NTP,0,0,0,,所以 是不死的身體
+Dialogue: 0,0:26:27.67,0:26:32.14,Default,NTP,0,0,0,,真可惜呢 在妳最幸福的時候
+Dialogue: 0,0:26:37.54,0:26:39.83,Default,NTP,0,0,0,,恩 妳說了什麼 姐姐
+Dialogue: 0,0:26:57.12,0:26:59.07,Default,NTP,0,0,0,,什麼啊 姐姐
+Dialogue: 0,0:27:05.10,0:27:06.32,Default,NTP,0,0,0,,弘樹
+Dialogue: 0,0:27:07.68,0:27:12.19,Default,NTP,0,0,0,,哼 我馬上會殺了他
+Dialogue: 0,0:27:18.58,0:27:20.77,Default,NTP,0,0,0,,悲傷嗎 姐姐
+Dialogue: 0,0:27:29.93,0:27:32.34,Default,NTP,0,0,0,,哼 真是沒貞操的DOLL
+Dialogue: 0,0:27:39.64,0:27:43.02,Default,NTP,0,0,0,,姐姐 不會給你最後一擊
+Dialogue: 0,0:27:43.90,0:27:47.45,Default,NTP,0,0,0,,背叛的傢伙就給我慢慢痛苦著死掉吧
+Dialogue: 0,0:27:47.91,0:27:50.65,Default,NTP,0,0,0,,那 再見咯 姐姐
+Dialogue: 0,0:27:54.31,0:28:02.32,Default,NTP,0,0,0,,弘樹…對不起…已經不能和你一起了
+Dialogue: 0,0:28:03.39,0:28:11.65,Default,NTP,0,0,0,,我在消失 但是…
+Dialogue: 0,0:28:21.19,0:28:27.11,Default,NTP,0,0,0,,但是…對你的愛 是我活著的證明
+Dialogue: 0,0:28:28.50,0:28:31.41,Default,NTP,0,0,0,,最後的願望 只有一個
+Dialogue: 0,0:28:34.91,0:28:38.86,Default,NTP,0,0,0,,我愛著你 所以絕對不要忘記
+

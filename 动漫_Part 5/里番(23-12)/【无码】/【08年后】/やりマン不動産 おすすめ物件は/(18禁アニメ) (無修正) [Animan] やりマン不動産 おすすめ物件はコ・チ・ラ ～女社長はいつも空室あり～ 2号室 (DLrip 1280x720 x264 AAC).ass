@@ -1,0 +1,291 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 480
+PlayResY: 272
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,20,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,134
+Style: back5,Microsoft YaHei,20,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,10,10,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.40,0:00:03.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}魔穗字幕组 翻译：beta 校对：野猪 后期：灵魂
+Dialogue: 0,0:00:03.40,0:00:04.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我叫实川直人
+Dialogue: 0,0:00:05.50,0:00:07.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在这个城市的不动产公司工作
+Dialogue: 0,0:00:08.16,0:00:10.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}公司职员 只有我和社长两人
+Dialogue: 0,0:00:12.88,0:00:16.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}日暮不动产 从外面看并不像是不动产
+Dialogue: 0,0:00:17.58,0:00:19.34,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}反倒是像欺诈公司
+Dialogue: 0,0:00:20.54,0:00:22.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}最近我们在考虑搬家
+Dialogue: 0,0:00:22.76,0:00:24.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}所以在找房子
+Dialogue: 0,0:00:25.22,0:00:29.64,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}因为很急 然后听说这里能马上找到房子
+Dialogue: 0,0:00:30.02,0:00:33.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}其实我们马上就要结婚了
+Dialogue: 0,0:00:33.68,0:00:35.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那可真是恭喜了
+Dialogue: 0,0:00:35.58,0:00:37.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}有计划过预算和房间条件吗
+Dialogue: 0,0:00:38.24,0:00:40.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}希望是大一点的房子
+Dialogue: 0,0:00:40.86,0:00:41.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我明白了
+Dialogue: 0,0:00:42.24,0:00:44.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}大点的房子 马上要搬入
+Dialogue: 0,0:00:45.08,0:00:47.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}25年的房子 这两套房吗…
+Dialogue: 0,0:00:48.10,0:00:50.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然房子老 但是比他家便宜很多啊
+Dialogue: 0,0:00:50.90,0:00:54.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}新房子 3LDK  住宅的最高层
+Dialogue: 0,0:00:50.90,0:00:54.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}3LDK意为3居室1客厅1厨1卫
+Dialogue: 0,0:00:54.92,0:00:55.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里很不错呢
+Dialogue: 0,0:00:56.56,0:00:58.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}两位的选择都很极端呢
+Dialogue: 0,0:00:59.02,0:01:00.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不如择中一下 这样…
+Dialogue: 0,0:01:00.66,0:01:03.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}小房子可不要 至少也要公寓式的
+Dialogue: 0,0:01:08.72,0:01:12.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}3年的房子 在车站附近 最高层的3LDK
+Dialogue: 0,0:01:13.16,0:01:14.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然超过预算很多
+Dialogue: 0,0:01:15.46,0:01:17.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}厨房也是最新的全电子式
+Dialogue: 0,0:01:18.44,0:01:19.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我很喜欢
+Dialogue: 0,0:01:20.22,0:01:21.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}安全措施也很完备哦
+Dialogue: 0,0:01:22.20,0:01:23.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}武你也很喜欢吧
+Dialogue: 0,0:01:24.06,0:01:27.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这么快就决定了？ 再看看别的房子吧
+Dialogue: 0,0:01:28.46,0:01:31.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你怎么一点快速决断的迫力都没有
+Dialogue: 0,0:01:32.58,0:01:34.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}超出了预算很多哦
+Dialogue: 0,0:01:34.66,0:01:36.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我也会努力工作的啦
+Dialogue: 0,0:01:36.70,0:01:38.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}能存下来的钱也很少哦
+Dialogue: 0,0:01:39.08,0:01:40.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我会为你做便当的
+Dialogue: 0,0:01:41.08,0:01:43.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然离车站很近 但是离公司很远
+Dialogue: 0,0:01:43.84,0:01:45.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我们两人一起加油吧
+Dialogue: 0,0:01:46.02,0:01:49.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}要知道 这可是我们两人的新婚生活啊
+Dialogue: 0,0:01:50.36,0:01:52.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}嗯 也是呢
+Dialogue: 0,0:02:01.42,0:02:04.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}嗯 那对新婚夫妻已经决定了吗
+Dialogue: 0,0:02:05.72,0:02:07.62,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是我有些担心呢
+Dialogue: 0,0:02:08.18,0:02:09.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}钱的问题？
+Dialogue: 0,0:02:10.12,0:02:11.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}还是说两人的关系？
+Dialogue: 0,0:02:12.26,0:02:13.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}两者都是啊
+Dialogue: 0,0:02:13.98,0:02:16.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}两人的价值观不合
+Dialogue: 0,0:02:16.84,0:02:18.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}存款好像也很少
+Dialogue: 0,0:02:19.16,0:02:22.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然丈夫是在中坚企业工作 薪金不低
+Dialogue: 0,0:02:23.38,0:02:24.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但感觉他很小气
+Dialogue: 0,0:02:25.34,0:02:27.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}妻子虽然打过零工
+Dialogue: 0,0:02:27.44,0:02:29.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但似乎没有正式就职过
+Dialogue: 0,0:02:30.14,0:02:32.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}可不能这样看顾客哦
+Dialogue: 0,0:02:32.90,0:02:36.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}两人一定是有相合的地方 才会在一起的
+Dialogue: 0,0:02:38.50,0:02:39.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我回来了
+Dialogue: 0,0:02:40.24,0:02:41.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}欢迎回来
+Dialogue: 0,0:02:42.10,0:02:44.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}鞘子你还没睡吗
+Dialogue: 0,0:02:44.76,0:02:47.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}嗯 就当是我在等你吧
+Dialogue: 0,0:02:49.08,0:02:50.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}晚饭就在那边
+Dialogue: 0,0:02:51.12,0:02:51.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}谢谢
+Dialogue: 0,0:02:52.42,0:02:54.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我好高… 啊
+Dialogue: 0,0:02:56.68,0:02:59.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}呐 鞘子 可以的吧
+Dialogue: 0,0:02:59.40,0:03:01.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}明天还要早起啊
+Dialogue: 0,0:03:01.48,0:03:02.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽是这样…
+Dialogue: 0,0:03:02.86,0:03:04.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}呐 可以的吧
+Dialogue: 0,0:03:04.24,0:03:05.60,back5,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不要…
+Dialogue: 0,0:03:06.18,0:03:08.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}已经三星期没做了啊
+Dialogue: 0,0:03:08.88,0:03:11.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是的 我没这种心情啊
+Dialogue: 0,0:03:12.44,0:03:15.90,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}搬来这里之后 只做了三次啊
+Dialogue: 0,0:03:16.16,0:03:18.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}竟然还数过次数 你是白痴吗
+Dialogue: 0,0:03:18.94,0:03:20.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}明日早上不叫你了哦
+Dialogue: 0,0:03:21.38,0:03:23.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你明明从来没叫过我
+Dialogue: 0,0:03:25.30,0:03:26.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你还不是一直在睡觉
+Dialogue: 0,0:03:55.82,0:03:58.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}鞘子到什么时候才能去工作啊
+Dialogue: 0,0:04:00.20,0:04:03.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}风俗店…没去过呢
+Dialogue: 0,0:04:04.10,0:04:06.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}已经没人约我喝酒了
+Dialogue: 0,0:04:07.52,0:04:08.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我回来了
+Dialogue: 0,0:04:09.02,0:04:10.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}在睡觉吗
+Dialogue: 0,0:04:12.16,0:04:15.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}肚子饿了 今天的晚饭是…
+Dialogue: 0,0:04:21.48,0:04:23.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}要吃什么呢
+Dialogue: 0,0:04:24.56,0:04:27.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}其实我也没钱
+Dialogue: 0,0:04:27.28,0:04:29.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}老样子 牛肉饭和味增汤
+Dialogue: 0,0:04:29.94,0:04:32.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}啊咧 这不是不动产的先生么
+Dialogue: 0,0:04:33.54,0:04:35.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田先生 为什么在这里？
+Dialogue: 0,0:04:35.88,0:04:38.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}因为工作的关系到这附近来了
+Dialogue: 0,0:04:38.66,0:04:40.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}感觉你比前段阵子还要疲劳呢
+Dialogue: 0,0:04:41.24,0:04:42.34,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}看得出来吗？
+Dialogue: 0,0:04:43.08,0:04:46.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}其实 我在考虑离婚
+Dialogue: 0,0:04:46.56,0:04:47.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}为什么啊
+Dialogue: 0,0:04:48.24,0:04:51.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}鞘子明明说要自己用厨房
+Dialogue: 0,0:04:52.12,0:04:54.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}结果到今天为止什么都没做过
+Dialogue: 0,0:04:55.08,0:04:57.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}其他的家务活也不做
+Dialogue: 0,0:04:57.50,0:04:59.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}也没有出去工作的意思
+Dialogue: 0,0:05:00.46,0:05:03.28,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是和结婚前说好的截然相反啊
+Dialogue: 0,0:05:03.92,0:05:06.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田先生为什么决定要结婚
+Dialogue: 0,0:05:07.24,0:05:09.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我年龄也不小了 很急
+Dialogue: 0,0:05:10.30,0:05:14.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}鞘子比我年长 也觉得她比较正经
+Dialogue: 0,0:05:15.18,0:05:18.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}本想只要能和我做爱
+Dialogue: 0,0:05:18.12,0:05:19.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}结果这也不行
+Dialogue: 0,0:05:20.06,0:05:22.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是亏大了
+Dialogue: 0,0:05:22.40,0:05:25.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田的妻子竟然年龄比他大
+Dialogue: 0,0:05:26.50,0:05:27.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是出乎意料
+Dialogue: 0,0:05:28.00,0:05:30.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是长得挺漂亮啊
+Dialogue: 0,0:05:30.98,0:05:32.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}妻子不出去工作
+Dialogue: 0,0:05:33.26,0:05:35.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田先生也开始去风俗店了
+Dialogue: 0,0:05:35.78,0:05:38.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这样下去 已经不能称作为家庭了
+Dialogue: 0,0:05:38.88,0:05:41.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}只要能付钱就行了吧
+Dialogue: 0,0:05:42.08,0:05:43.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}早晚都要离婚
+Dialogue: 0,0:05:44.88,0:05:47.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我也去收租金吧
+Dialogue: 0,0:05:49.18,0:05:51.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你好 我是日暮不动产的
+Dialogue: 0,0:05:51.92,0:05:52.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田先生？
+Dialogue: 0,0:05:54.52,0:05:55.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是
+Dialogue: 0,0:05:55.54,0:05:57.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我们来收房租了
+Dialogue: 0,0:05:59.78,0:06:02.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}啊 是这样吗 我马上开门
+Dialogue: 0,0:06:04.82,0:06:06.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那 太太 下次再…
+Dialogue: 0,0:06:06.46,0:06:08.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}嗯 辛苦了
+Dialogue: 0,0:06:10.94,0:06:11.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}送快递的？
+Dialogue: 0,0:06:12.52,0:06:15.16,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}打扰了 原来有客人啊
+Dialogue: 0,0:06:16.02,0:06:18.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不 不 没有关系
+Dialogue: 0,0:06:18.74,0:06:20.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}没事情的…
+Dialogue: 0,0:06:23.22,0:06:24.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}请稍等一下
+Dialogue: 0,0:06:25.50,0:06:29.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}哎？ 啊 在哪里 找到了
+Dialogue: 0,0:06:29.68,0:06:31.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}嗯 我知道了
+Dialogue: 0,0:06:31.76,0:06:35.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不好意思 刚刚那位好像忘拿东西了
+Dialogue: 0,0:06:35.80,0:06:37.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我马上就回来
+Dialogue: 0,0:06:38.60,0:06:41.34,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}太太的样子有点奇怪啊
+Dialogue: 0,0:06:42.06,0:06:44.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}快递一般会拉下货物吗？
+Dialogue: 0,0:06:45.88,0:06:47.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不一般啊
+Dialogue: 0,0:06:48.04,0:06:50.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那是在…偷情啊
+Dialogue: 0,0:06:52.30,0:06:54.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}刚刚肯定还在做
+Dialogue: 0,0:06:55.52,0:06:57.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里 就在这里
+Dialogue: 0,0:06:59.40,0:07:01.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}太太马上就会回来的啊
+Dialogue: 0,0:07:01.78,0:07:03.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那就得抓紧做了
+Dialogue: 0,0:07:34.34,0:07:37.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我还要 动得更激烈些
+Dialogue: 0,0:08:04.18,0:08:06.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}快点 快点啊
+Dialogue: 0,0:08:33.72,0:08:34.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}久等了
+Dialogue: 0,0:08:35.84,0:08:36.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不
+Dialogue: 0,0:08:38.30,0:08:39.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:08:39.86,0:08:43.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}森田先生要是知道妻子偷情 肯定会离婚啊
+Dialogue: 0,0:08:44.08,0:08:45.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}一般可能是这样
+Dialogue: 0,0:08:46.34,0:08:47.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}打扰了
+Dialogue: 0,0:08:48.26,0:08:49.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}发生什么事了吗
+Dialogue: 0,0:08:49.86,0:08:54.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不…不 刚刚正好说到森田先生的事
+Dialogue: 0,0:08:55.00,0:08:58.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}其实 我好像有小孩了
+Dialogue: 0,0:08:59.60,0:09:01.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}虽然H的次数屈指可数
+Dialogue: 0,0:09:02.18,0:09:03.78,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是关键时候还是可以的呢
+Dialogue: 0,0:09:04.44,0:09:08.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}老婆虽然那样 但既然有了小孩 就要为小孩奋斗了
+Dialogue: 0,0:09:08.98,0:09:10.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那我下次再来
+Dialogue: 0,0:09:12.10,0:09:12.82,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:09:13.94,0:09:16.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这应该是…森田先生的小孩吧？
+Dialogue: 0,0:09:17.78,0:09:18.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不知道
+Dialogue: 0,0:09:23.12,0:09:24.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不好意思 麻烦你跑一趟
+Dialogue: 0,0:09:25.20,0:09:26.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不 谢谢了
+Dialogue: 0,0:09:28.02,0:09:31.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}果然还是直接打卡里吧
+Dialogue: 0,0:09:31.94,0:09:34.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君一个人已经可以打点所有事务了呢
+Dialogue: 0,0:09:35.92,0:09:39.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君 你要试试代替我做社长吗
+Dialogue: 0,0:09:40.04,0:09:41.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我暂且辞职
+Dialogue: 0,0:09:43.50,0:09:44.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}哎？
+Dialogue: 0,0:09:51.54,0:09:53.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长 能麻烦你过来看一下吗
+Dialogue: 0,0:09:54.98,0:10:00.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我在直接收房租的人里整理出了愿意打卡转账的名单
+Dialogue: 0,0:10:01.64,0:10:04.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君想这样的话 就试试吧
+Dialogue: 0,0:10:05.16,0:10:06.62,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我都已经辞职了
+Dialogue: 0,0:10:06.90,0:10:08.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长 你是认真的吗
+Dialogue: 0,0:10:10.02,0:10:12.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我不在的话 你工作上会有不方便的地方么？
+Dialogue: 0,0:10:12.56,0:10:13.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不…
+Dialogue: 0,0:10:13.66,0:10:15.62,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}合同和手续有什么不懂的吗？
+Dialogue: 0,0:10:16.12,0:10:16.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}没有…
+Dialogue: 0,0:10:17.34,0:10:21.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我可是很信赖实川君的
+Dialogue: 0,0:10:23.38,0:10:27.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长是真心要离开事务所吗
+Dialogue: 0,0:10:28.42,0:10:31.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我原本负责的房租 就交给你了
+Dialogue: 0,0:10:32.10,0:10:34.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}下任社长
+Dialogue: 0,0:10:34.24,0:10:36.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}就算这么说 我也很困扰啊
+Dialogue: 0,0:10:38.34,0:10:39.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}打扰了
+Dialogue: 0,0:10:40.14,0:10:41.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我是日暮不动产的
+Dialogue: 0,0:10:42.62,0:10:45.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}来了 是哪位
+Dialogue: 0,0:10:46.58,0:10:48.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我来收房租了
+Dialogue: 0,0:10:48.82,0:10:51.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}哎呀 怎么不是社长小姐
+Dialogue: 0,0:10:53.38,0:10:54.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}请收下
+Dialogue: 0,0:10:55.40,0:10:56.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}谢谢款待
+Dialogue: 0,0:10:57.02,0:11:00.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长小姐身体不适吗
+Dialogue: 0,0:11:00.74,0:11:02.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}倒也不是这样…
+Dialogue: 0,0:11:02.98,0:11:04.38,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}您认识社长很久了吗
+Dialogue: 0,0:11:04.92,0:11:09.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是啊 从住这里开始就一直受她照顾
+Dialogue: 0,0:11:09.50,0:11:13.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}每个月都会这样来受房租
+Dialogue: 0,0:11:13.68,0:11:16.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}一直愿意陪我聊天
+Dialogue: 0,0:11:16.42,0:11:18.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}真是温柔呢
+Dialogue: 0,0:11:19.98,0:11:20.40,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是的！
+Dialogue: 0,0:11:21.86,0:11:24.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}为什么不是社长而是你来啊
+Dialogue: 0,0:11:25.02,0:11:26.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长稍微有些事情…
+Dialogue: 0,0:11:26.98,0:11:29.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}难得有好消息告诉她
+Dialogue: 0,0:11:29.52,0:11:30.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}您已经出道了吗？
+Dialogue: 0,0:11:30.76,0:11:37.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我入围了AHB社科幻微型小说比赛第一回选考的前500名
+Dialogue: 0,0:11:37.96,0:11:39.42,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这很厉害吗？
+Dialogue: 0,0:11:41.02,0:11:42.46,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长小姐
+Dialogue: 0,0:11:43.58,0:11:44.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}黑崎？
+Dialogue: 0,0:11:44.78,0:11:46.64,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长 糟糕了
+Dialogue: 0,0:11:46.90,0:11:52.24,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}他不知道去哪了 我没有去处了 嘤嘤嘤
+Dialogue: 0,0:11:52.98,0:11:54.64,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我已经不是社长了哦
+Dialogue: 0,0:11:55.28,0:11:56.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那谁是？
+Dialogue: 0,0:11:57.78,0:11:58.88,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君
+Dialogue: 0,0:11:59.58,0:12:01.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长~~~
+Dialogue: 0,0:12:01.58,0:12:04.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君 不 社长
+Dialogue: 0,0:12:04.78,0:12:07.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}拜托你 便宜的地方就可以了
+Dialogue: 0,0:12:07.82,0:12:09.32,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}怎么可以 这么突然
+Dialogue: 0,0:12:09.52,0:12:12.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}要不 我住在实川社长的家里也可以哦
+Dialogue: 0,0:12:13.04,0:12:15.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}当然  我晚上也会努力的
+Dialogue: 0,0:12:16.56,0:12:17.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:12:17.88,0:12:19.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川社长 加油
+Dialogue: 0,0:12:20.98,0:12:23.08,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我现在马上帮你找房子
+Dialogue: 0,0:12:23.38,0:12:24.52,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}请稍等一下
+Dialogue: 0,0:12:25.24,0:12:28.00,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}住在实川社长家里就可以了啦
+Dialogue: 0,0:12:28.36,0:12:30.94,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不 我会帮你好好找的
+Dialogue: 0,0:12:32.10,0:12:34.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}啊 今天可真忙呢
+Dialogue: 0,0:12:35.36,0:12:36.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是啊
+Dialogue: 0,0:12:37.08,0:12:39.70,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我会整理房子的资料的
+Dialogue: 0,0:12:40.18,0:12:41.72,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你可以先回去哦
+Dialogue: 0,0:12:42.82,0:12:46.22,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好 明天开始 这间事务所就交给你了哦
+Dialogue: 0,0:12:48.34,0:12:51.20,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}加油哦 实川社长
+Dialogue: 0,0:12:52.50,0:12:53.04,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:12:55.80,0:13:00.14,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长 租房子 意外地难呢
+Dialogue: 0,0:13:01.14,0:13:03.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}怎了 突然说这种话
+Dialogue: 0,0:13:03.56,0:13:04.96,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}即便是在工作
+Dialogue: 0,0:13:05.38,0:13:06.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}要是没有保证人
+Dialogue: 0,0:13:07.22,0:13:08.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}或者是收入不稳定
+Dialogue: 0,0:13:08.98,0:13:09.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}年纪变大了
+Dialogue: 0,0:13:10.86,0:13:13.48,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}总是会有各种原因导致被拒绝
+Dialogue: 0,0:13:13.84,0:13:15.36,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是啊
+Dialogue: 0,0:13:15.36,0:13:20.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我来到这里 又一次感受到了这份工作的价值
+Dialogue: 0,0:13:20.52,0:13:22.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}所以 请不要辞职
+Dialogue: 0,0:13:26.32,0:13:30.58,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那还好了 这样我就可以安心隐退…
+Dialogue: 0,0:13:33.14,0:13:33.76,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:13:34.36,0:13:37.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我还想和社长一起工作
+Dialogue: 0,0:13:38.02,0:13:40.60,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君 你不是不喜欢吗
+Dialogue: 0,0:13:41.40,0:13:43.90,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}你不是觉得我很变态吗
+Dialogue: 0,0:13:44.26,0:13:45.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}那个… 确实
+Dialogue: 0,0:13:46.38,0:13:51.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}但是我 那个…稍微有些 高兴…
+Dialogue: 0,0:13:52.82,0:13:55.56,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}哎 是这样啊
+Dialogue: 0,0:13:57.10,0:13:59.26,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君刚刚说的话
+Dialogue: 0,0:13:59.74,0:14:01.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是不是真话
+Dialogue: 0,0:14:01.50,0:14:03.50,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}我来试试看吧
+Dialogue: 0,0:14:04.12,0:14:04.84,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:14:11.12,0:14:13.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里可是事务所啊 要是有客人来了
+Dialogue: 0,0:14:15.82,0:14:18.02,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}只是想想就觉得很兴奋呢
+Dialogue: 0,0:14:19.68,0:14:21.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社…社长
+Dialogue: 0,0:14:30.68,0:14:31.68,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好大
+Dialogue: 0,0:14:41.84,0:14:43.02,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好舒服
+Dialogue: 0,0:14:48.94,0:14:49.66,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}好舒服
+Dialogue: 0,0:14:50.20,0:14:52.18,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君 我很舒服哦
+Dialogue: 0,0:14:54.54,0:14:57.30,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}插到深处了
+Dialogue: 0,0:14:57.48,0:14:58.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:15:28.90,0:15:31.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}比平时更舒服
+Dialogue: 0,0:15:46.50,0:15:49.10,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}射吧 实川君
+Dialogue: 0,0:16:02.20,0:16:03.24,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君…
+Dialogue: 0,0:16:02.64,0:16:04.26,back5,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长 我…
+Dialogue: 0,0:16:06.78,0:16:07.12,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不行
+Dialogue: 0,0:16:08.82,0:16:09.80,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}社长
+Dialogue: 0,0:16:17.52,0:16:20.86,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}又找不到了 这是第几个了啊
+Dialogue: 0,0:16:21.78,0:16:23.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}大的事务所感觉没可能了呢
+Dialogue: 0,0:16:24.48,0:16:26.92,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}这里是不是对外地人比较严格啊
+Dialogue: 0,0:16:28.62,0:16:30.98,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}就算希望很小还是再去试试这家吧
+Dialogue: 0,0:16:33.48,0:16:36.06,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}不好意思 能打扰一下吗
+Dialogue: 0,0:16:37.04,0:16:37.74,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}欢迎光临
+Dialogue: 0,0:16:38.50,0:16:41.54,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}实川君 介绍一下
+Dialogue: 0,0:16:42.54,0:16:43.44,Default,,0,0,0,,{\bord1\shad2\2c&H00FFFF&\be1}是 社长
+Dialogue: 0,0:16:43.44,0:16:45.44,Default,,0,0,0,,
+

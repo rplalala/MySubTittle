@@ -1,0 +1,20 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 960
+PlayResY: 720
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,36,&H00FAFAFA,&H80808080,&H20202020,&HA0101010,0,0,0,0,100,100,0,0,1,2,1,2,30,30,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:56.00,0:00:59.00,Default,NTP,0000,0000,0000,,Bible Black ONLY版\n伊萬里 凌辱現場
+Dialogue: 0,0:01:12.30,0:01:14.00,Default,NTP,0000,0000,0000,,放開我！
+Dialogue: 0,0:01:29.30,0:01:29.70,Default,NTP,0000,0000,0000,,你到底是誰？
+Dialogue: 0,0:01:30.80,0:01:31.55,Default,NTP,0000,0000,0000,,到底要做什麼？
+Dialogue: 0,0:01:40.50,0:01:41.80,Default,NTP,0000,0000,0000,,不要！
+Dialogue: 0,0:02:45.50,0:02:47.00,Default,NTP,0000,0000,0000,,不要阿 放開我！
+Dialogue: 0,0:05:58.90,0:06:01.00,Default,NTP,0000,0000,0000,,怎麼這樣，不要阿！

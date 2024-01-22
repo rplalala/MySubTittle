@@ -1,0 +1,238 @@
+﻿[Script Info]
+; Processed by 繁化姬 dict-4e0be94d-r713 @ 2018/08/04 15:38:50 | https://zhconvert.org
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 704
+PlayResY: 396
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Simhei,28,&HFFFFFF,&H00FFFF,&H000000,&H000000,-1,0,1,2,0,2,20,20,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:16.90,0:00:19.99,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}哈哈哈哈…
+Dialogue: Marked=0,0:00:20.00,0:00:22.96,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}看吧 果然是不一樣的吧
+Dialogue: Marked=0,0:00:23.26,0:00:26.10,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗯…真奇怪呢
+Dialogue: Marked=0,0:00:27.67,0:00:29.89,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}總之 這就解決問題了
+Dialogue: Marked=0,0:00:30.27,0:00:30.75,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗯
+Dialogue: Marked=0,0:00:31.17,0:00:33.04,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不給你點懲罰不行呢
+Dialogue: Marked=0,0:00:33.37,0:00:36.30,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}和以前相反 塞麗你給我變小吧
+Dialogue: Marked=0,0:00:36.37,0:00:36.76,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是
+Dialogue: Marked=0,0:00:46.70,0:00:48.55,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}請把蛋還給我們
+Dialogue: Marked=0,0:00:51.29,0:00:52.89,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你到底想我說什麼?
+Dialogue: Marked=0,0:00:53.54,0:00:55.07,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不 沒什麼
+Dialogue: Marked=0,0:03:26.55,0:03:28.07,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那麼我坐下了
+Dialogue: Marked=0,0:03:30.94,0:03:31.68,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這樣子嗎?
+Dialogue: Marked=0,0:04:07.30,0:04:08.19,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}好癢
+Dialogue: Marked=0,0:04:09.09,0:04:10.91,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}主人 放開啊
+Dialogue: Marked=0,0:05:49.38,0:05:54.79,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不 鈴奈小姐怎麼可能是小夏奈呢 哈哈哈
+Dialogue: Marked=0,0:05:55.23,0:05:57.01,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}說…說的也是
+Dialogue: Marked=0,0:05:57.10,0:06:01.43,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不過拜託你可不可以說話別那麼直接
+Dialogue: Marked=0,0:06:01.87,0:06:02.85,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 對了
+Dialogue: Marked=0,0:06:03.22,0:06:04.13,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}什…什麼
+Dialogue: Marked=0,0:06:04.95,0:06:07.04,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}在那之後 還有跟蹤狂嗎?
+Dialogue: Marked=0,0:06:07.43,0:06:07.77,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦?
+Dialogue: Marked=0,0:06:10.65,0:06:14.62,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗯 好像沒了 謝謝
+Dialogue: Marked=0,0:06:20.67,0:06:24.86,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不過 太好了 這樣子世界就和平了
+Dialogue: Marked=0,0:06:25.04,0:06:28.26,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐和小夏奈是不同人物
+Dialogue: Marked=0,0:06:28.60,0:06:29.55,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 真是的
+Dialogue: Marked=0,0:06:29.76,0:06:32.32,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 主任 你的小孩怎麼了?
+Dialogue: Marked=0,0:06:33.69,0:06:38.27,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗯? 很有活力哦 只顧著吸奶奶
+Dialogue: Marked=0,0:06:40.13,0:06:41.12,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}奶…奶奶
+Dialogue: Marked=0,0:06:41.47,0:06:44.10,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你在想什麼還真容易懂
+Dialogue: Marked=0,0:06:44.19,0:06:46.43,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊啦 日直君也飲飲看嗎
+Dialogue: Marked=0,0:06:47.12,0:06:49.64,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}主任 這可不能說笑啊
+Dialogue: Marked=0,0:06:53.85,0:06:55.91,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不 不行的 日直君
+Dialogue: Marked=0,0:06:56.41,0:07:00.99,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你在說什麼 是主任你引誘我的吧
+Dialogue: Marked=0,0:07:02.58,0:07:03.74,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那只是…
+Dialogue: Marked=0,0:07:06.74,0:07:09.09,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不行哦 丈夫會發怒的
+Dialogue: Marked=0,0:07:09.84,0:07:12.49,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}只有胸部啦 胸部已而
+Dialogue: Marked=0,0:07:13.29,0:07:15.90,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我明白了 不過只有胸部已而
+Dialogue: Marked=0,0:07:16.18,0:07:17.28,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}只有胸部的話
+Dialogue: Marked=0,0:07:35.22,0:07:38.42,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}小嬰兒吸啜的就是這個胸部吧
+Dialogue: Marked=0,0:07:38.93,0:07:42.04,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不過吸的人不只有小嬰兒吧
+Dialogue: Marked=0,0:07:42.43,0:07:43.55,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那種事 別說
+Dialogue: Marked=0,0:07:44.42,0:07:46.69,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我也可以吸吧
+Dialogue: Marked=0,0:07:50.66,0:07:52.22,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}好丟臉…
+Dialogue: Marked=0,0:08:05.74,0:08:08.10,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不行 吸那麼用力的話
+Dialogue: Marked=0,0:08:15.51,0:08:19.44,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}漏出來的不只有奶對吧
+Dialogue: Marked=0,0:08:19.74,0:08:21.82,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這裡也是濕濕的
+Dialogue: Marked=0,0:08:23.90,0:08:26.95,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這裡就是被丈夫攪弄至濕濕的吧
+Dialogue: Marked=0,0:08:27.33,0:08:31.24,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不行 太有感覺的話 胸部會…
+Dialogue: Marked=0,0:08:36.32,0:08:39.37,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不行哦 日直君 不行 只有那個
+Dialogue: Marked=0,0:08:39.53,0:08:44.33,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}主任你雖這麼說 小穴可是濕淋淋的
+Dialogue: Marked=0,0:08:45.84,0:08:46.79,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}怎麼會
+Dialogue: Marked=0,0:09:04.59,0:09:07.15,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}主任的小穴 好舒服哦
+Dialogue: Marked=0,0:10:20.19,0:10:24.11,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}小雞雞弄髒了 給我用口弄乾淨吧
+Dialogue: Marked=0,0:10:44.90,0:10:46.56,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}怎麼了 一堆路人的
+Dialogue: Marked=0,0:10:46.76,0:10:49.25,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}討厭 很多和日直君一樣子的人
+Dialogue: Marked=0,0:10:50.85,0:10:51.91,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這是什麼?
+Dialogue: Marked=0,0:10:52.23,0:10:55.98,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}好像 小鈴奈 是偶像什麼的
+Dialogue: Marked=0,0:10:56.27,0:10:58.62,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}發現在便利商店打工的小夏奈!
+Dialogue: Marked=0,0:10:59.14,0:11:02.05,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}從男店員的問話上親耳聽見了
+Dialogue: Marked=0,0:11:02.27,0:11:04.49,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那時候 她本人雖否定了
+Dialogue: Marked=0,0:11:04.73,0:11:09.50,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}近看一下並非不像! (感謝店員_
+Dialogue: Marked=0,0:11:09.83,0:11:12.67,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}總之 我去讓小鈴奈先回去了
+Dialogue: Marked=0,0:11:12.91,0:11:13.97,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是我的錯
+Dialogue: Marked=0,0:11:15.10,0:11:18.97,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}雖然想總有這一天來臨
+Dialogue: Marked=0,0:11:20.06,0:11:22.65,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}只好放棄打工了
+Dialogue: Marked=0,0:11:25.88,0:11:27.09,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 是鈴奈小姐嗎
+Dialogue: Marked=0,0:11:27.46,0:11:32.86,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}日直君? 什麼 明天來秋葉?
+Dialogue: Marked=0,0:11:33.05,0:11:34.33,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你在說什麼呀
+Dialogue: Marked=0,0:11:34.52,0:11:37.81,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你也聽說了吧 我現在的狀況
+Dialogue: Marked=0,0:11:38.34,0:11:39.99,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}到那種地方的話 我會!
+Dialogue: Marked=0,0:11:40.80,0:11:42.22,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我會想辦法的
+Dialogue: Marked=0,0:11:55.53,0:11:56.68,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐
+Dialogue: Marked=0,0:12:00.07,0:12:03.40,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}把我叫來這種人多的地方
+Dialogue: Marked=0,0:12:02.31,0:12:03.53,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你想怎麼辦啊
+Dialogue: Marked=0,0:12:03.76,0:12:04.63,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}很簡單呀
+Dialogue: Marked=0,0:12:04.97,0:12:08.46,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}只要鈴奈小姐在這裡時小夏奈也出現就…
+Dialogue: Marked=0,0:12:09.80,0:12:12.39,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你在說什麼啊 怎麼有可能在!
+Dialogue: Marked=0,0:12:12.75,0:12:16.58,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那…那麼鈴奈小姐果然就是…
+Dialogue: Marked=0,0:12:20.80,0:12:23.30,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}對不起 到底什麼啊
+Dialogue: Marked=0,0:12:23.99,0:12:27.34,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}因為我大吵大鬧的關係 才弄成這樣
+Dialogue: Marked=0,0:12:27.76,0:12:29.75,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}笨蛋 別這樣啊
+Dialogue: Marked=0,0:12:30.27,0:12:33.17,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}反正我想遲早會被發現
+Dialogue: Marked=0,0:12:33.64,0:12:35.54,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}並不是你的錯
+Dialogue: Marked=0,0:12:40.84,0:12:43.41,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}因此 再一個對不起
+Dialogue: Marked=0,0:12:44.12,0:12:45.19,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}幹什麼
+Dialogue: Marked=0,0:12:45.79,0:12:46.69,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我脫
+Dialogue: Marked=0,0:12:50.23,0:12:52.74,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}等 笨蛋 你在幹什麼
+Dialogue: Marked=0,0:12:53.09,0:12:56.10,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}喂 那人 不就是很受歡迎的小夏奈?
+Dialogue: Marked=0,0:12:56.26,0:12:57.36,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦? 等 真的?
+Dialogue: Marked=0,0:12:57.42,0:12:59.61,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是小夏奈吧
+Dialogue: Marked=0,0:12:59.81,0:13:01.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦? 小夏奈? 真的?
+Dialogue: Marked=0,0:13:01.23,0:13:02.76,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}慢著
+Dialogue: Marked=0,0:13:04.06,0:13:05.79,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你說誰是夏奈?
+Dialogue: Marked=0,0:13:06.02,0:13:08.05,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}把那個和我比較
+Dialogue: Marked=0,0:13:08.31,0:13:10.69,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你們真沒眼光
+Dialogue: Marked=0,0:13:11.27,0:13:12.60,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}哦 是小夏奈本人
+Dialogue: Marked=0,0:13:12.86,0:13:16.02,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}雖然口氣有點大 是小夏奈啊
+Dialogue: Marked=0,0:13:17.12,0:13:19.16,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}怎麼會 騙人的
+Dialogue: Marked=0,0:13:22.26,0:13:24.71,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這邊才是真正的夏奈才對呀
+Dialogue: Marked=0,0:13:25.92,0:13:26.50,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}什麼?
+Dialogue: Marked=0,0:13:26.79,0:13:28.59,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這傢伙 那時的跟蹤狂啊
+Dialogue: Marked=0,0:13:30.63,0:13:33.91,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 你這麼說 好像有見過
+Dialogue: Marked=0,0:13:34.45,0:13:37.51,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 那個部落格也是這傢伙…
+Dialogue: Marked=0,0:13:37.99,0:13:41.51,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}哼 你就是那個情報的發起人吧
+Dialogue: Marked=0,0:13:41.90,0:13:44.05,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我也放上我的部落格吧
+Dialogue: Marked=0,0:13:44.42,0:13:48.56,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}放假消息引起騷動的跟蹤狂
+Dialogue: Marked=0,0:13:49.71,0:13:50.60,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}停手
+Dialogue: Marked=0,0:13:53.61,0:13:57.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是你做過的事吧 慌個什麼
+Dialogue: Marked=0,0:13:57.29,0:14:01.16,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}好 我也來 我也來 我也來
+Dialogue: Marked=0,0:14:02.29,0:14:02.97,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}停手呀
+Dialogue: Marked=0,0:14:06.28,0:14:08.38,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}停手呀
+Dialogue: Marked=0,0:14:09.97,0:14:11.99,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}邪不能勝正
+Dialogue: Marked=0,0:14:12.07,0:14:14.60,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那…那個 你是?
+Dialogue: Marked=0,0:14:14.81,0:14:17.54,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那個 小夏奈 請握個手
+Dialogue: Marked=0,0:14:17.77,0:14:19.97,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}小夏奈 我也要
+Dialogue: Marked=0,0:14:21.56,0:14:24.15,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}看來再留在這不太妙
+Dialogue: Marked=0,0:14:24.48,0:14:26.64,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那麼 我就此告別
+Dialogue: Marked=0,0:14:29.08,0:14:32.40,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}等等小夏奈 等等
+Dialogue: Marked=0,0:14:32.92,0:14:34.26,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}小夏奈不在啊
+Dialogue: Marked=0,0:14:34.62,0:14:36.44,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦 沒出路呢…
+Dialogue: Marked=0,0:14:40.17,0:14:41.85,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這就不用再被懷疑了吧
+Dialogue: Marked=0,0:14:43.58,0:14:44.76,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}到底怎麼了?
+Dialogue: Marked=0,0:14:48.15,0:14:52.17,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不過 你還真找到那麼像的人
+Dialogue: Marked=0,0:14:52.49,0:14:53.55,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}莫非是女朋友?
+Dialogue: Marked=0,0:14:54.53,0:14:57.46,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這…可說來話長
+Dialogue: Marked=0,0:14:58.08,0:15:01.41,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}說吧 我會回禮的
+Dialogue: Marked=0,0:15:01.61,0:15:03.77,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦? 和小夏奈約會之類?
+Dialogue: Marked=0,0:15:04.02,0:15:05.75,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}笨蛋 我回來了
+Dialogue: Marked=0,0:15:08.28,0:15:09.49,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 回來了
+Dialogue: Marked=0,0:15:10.37,0:15:11.05,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}歡迎回來
+Dialogue: Marked=0,0:15:11.63,0:15:14.33,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 鈴奈小姐 初次見面
+Dialogue: Marked=0,0:15:15.06,0:15:17.07,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊…初次見面
+Dialogue: Marked=0,0:15:17.32,0:15:20.03,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}辛苦了 做得好 不錯嘛
+Dialogue: Marked=0,0:15:20.01,0:15:20.44,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}Yeah
+Dialogue: Marked=0,0:15:23.11,0:15:25.36,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那個? 這傢伙是
+Dialogue: Marked=0,0:15:25.68,0:15:28.69,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我是変身性愛人造人的塞麗
+Dialogue: Marked=0,0:15:30.19,0:15:30.89,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊…性愛?
+Dialogue: Marked=0,0:15:31.47,0:15:33.37,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}能幫上忙太好了
+Dialogue: Marked=0,0:15:33.65,0:15:34.50,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}幫忙?
+Dialogue: Marked=0,0:15:35.16,0:15:37.81,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}今天假份小夏奈的人呀
+Dialogue: Marked=0,0:15:43.46,0:15:47.13,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}別說大話 不管怎樣 臉不同吧
+Dialogue: Marked=0,0:15:47.47,0:15:50.18,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我有那麼笨笨的樣子嗎
+Dialogue: Marked=0,0:15:50.57,0:15:52.54,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗚 有點傷心
+Dialogue: Marked=0,0:15:52.78,0:15:54.48,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那是
+Dialogue: Marked=0,0:15:55.66,0:15:58.50,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}騙人 那種事怎麼可能
+Dialogue: Marked=0,0:15:58.68,0:16:01.39,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我也知啦 不過…
+Dialogue: Marked=0,0:16:01.67,0:16:03.79,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}塞麗 你變身看看
+Dialogue: Marked=0,0:16:03.68,0:16:04.88,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是
+Dialogue: Marked=0,0:16:12.49,0:16:15.56,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}怎麼會 不敢相信
+Dialogue: Marked=0,0:16:16.44,0:16:18.37,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不過…只有相信吧
+Dialogue: Marked=0,0:16:19.72,0:16:22.51,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}對了 小塞麗 你幫了我
+Dialogue: Marked=0,0:16:22.74,0:16:24.19,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我想回點禮…
+Dialogue: Marked=0,0:16:24.71,0:16:26.11,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊…怎麼會
+Dialogue: Marked=0,0:16:26.28,0:16:27.34,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}沒對你說
+Dialogue: Marked=0,0:16:28.16,0:16:29.81,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦 我嗎
+Dialogue: Marked=0,0:16:30.22,0:16:33.94,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嗯 說說吧 只要是我能做所及
+Dialogue: Marked=0,0:16:35.16,0:16:38.00,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那個…那麼
+Dialogue: Marked=0,0:16:38.51,0:16:41.28,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦? 想和女孩子幹一次?
+Dialogue: Marked=0,0:16:41.61,0:16:43.69,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}很想試一次
+Dialogue: Marked=0,0:16:44.14,0:16:47.28,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}說起來這傢伙是這種目的才出生的
+Dialogue: Marked=0,0:16:48.96,0:16:50.17,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}等…等等
+Dialogue: Marked=0,0:16:50.39,0:16:52.25,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}為什麼連你也同意呀
+Dialogue: Marked=0,0:16:52.54,0:16:54.35,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}是主人的話阻止下吧
+Dialogue: Marked=0,0:16:54.37,0:16:56.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嘛 別這麼說
+Dialogue: Marked=0,0:16:56.13,0:16:57.11,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}嘛嘛
+Dialogue: Marked=0,0:16:59.37,0:17:01.51,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}媽媽呀
+Dialogue: Marked=0,0:17:02.03,0:17:04.28,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}呀 好柔軟
+Dialogue: Marked=0,0:17:04.78,0:17:06.30,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不要
+Dialogue: Marked=0,0:17:07.29,0:17:09.18,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}姊姊大人
+Dialogue: Marked=0,0:17:10.46,0:17:11.33,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不要
+Dialogue: Marked=0,0:18:36.39,0:18:39.22,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐也來舐舐我的吧
+Dialogue: Marked=0,0:18:45.65,0:18:48.40,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊 好舒服
+Dialogue: Marked=0,0:19:07.26,0:19:08.58,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不要 不要
+Dialogue: Marked=0,0:19:31.00,0:19:32.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}小夏奈…
+Dialogue: Marked=0,0:19:41.03,0:19:44.13,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這就是小夏奈的嘴唇
+Dialogue: Marked=0,0:19:51.40,0:19:54.57,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}然後這是小夏奈的…
+Dialogue: Marked=0,0:20:00.48,0:20:02.89,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}啊　主人真狡滑
+Dialogue: Marked=0,0:20:37.84,0:20:41.70,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}雖然很舒服　但有點不夠激熱…
+Dialogue: Marked=0,0:20:41.84,0:20:43.42,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}你說什麼話
+Dialogue: Marked=0,0:20:57.95,0:21:00.51,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}慢著 不行 不行
+Dialogue: Marked=0,0:21:01.42,0:21:03.03,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}拜託了
+Dialogue: Marked=0,0:21:05.51,0:21:07.25,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不要
+Dialogue: Marked=0,0:21:15.06,0:21:19.67,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}停不了　好舒服　這個好舒服
+Dialogue: Marked=0,0:21:24.34,0:21:26.73,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}高潮了　要高潮了
+Dialogue: Marked=0,0:22:05.57,0:22:08.61,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}那裡的肉碰到了小弟弟
+Dialogue: Marked=0,0:22:12.60,0:22:15.43,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐的菊眼看的一清二楚哦
+Dialogue: Marked=0,0:22:15.72,0:22:16.71,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}不要
+Dialogue: Marked=0,0:22:17.23,0:22:19.11,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}2人也濕了
+Dialogue: Marked=0,0:22:39.50,0:22:42.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}這就是小夏奈的…
+Dialogue: Marked=0,0:23:10.31,0:23:14.29,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐…小夏奈在幫我含
+Dialogue: Marked=0,0:25:23.04,0:25:25.14,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}到了最後有了個好回憶
+Dialogue: Marked=0,0:25:25.54,0:25:27.31,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}咦 最後?
+Dialogue: Marked=0,0:25:27.65,0:25:30.89,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}討厭啦 沒讀說明書嗎?
+Dialogue: Marked=0,0:25:31.38,0:25:32.60,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}我的細胞是
+Dialogue: Marked=0,0:25:33.53,0:25:38.06,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}5分鐘後開始成長 約一週後
+Dialogue: Marked=0,0:25:39.06,0:25:49.42,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}一週後 1天 2天 3天 4天 5天 6天
+Dialogue: Marked=0,0:25:49.90,0:25:55.00,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}然後…怎…怎麼會
+Dialogue: Marked=0,0:25:55.43,0:25:56.18,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐
+Dialogue: Marked=0,0:25:56.45,0:25:59.55,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}很感謝你肯聽我最後的任性
+Dialogue: Marked=0,0:26:00.08,0:26:03.24,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}能來到主人身邊我很快樂
+Dialogue: Marked=0,0:26:03.66,0:26:06.81,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}從普通的H到回憶的大姊play
+Dialogue: Marked=0,0:26:07.17,0:26:08.50,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}主任的母乳play
+Dialogue: Marked=0,0:26:08.77,0:26:11.21,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}鈴奈小姐的模擬play 咦?
+Dialogue: Marked=0,0:26:13.68,0:26:15.11,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}全部都很快樂
+Dialogue: Marked=0,0:26:15.94,0:26:17.91,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}再見了 主人
+Dialogue: Marked=0,0:26:21.05,0:26:25.61,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}喂 太突然了吧 還有想試的play…
+Dialogue: Marked=0,0:26:26.46,0:26:27.54,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}塞麗…
+Dialogue: Marked=0,0:26:32.24,0:26:33.10,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}再見
+Dialogue: Marked=0,0:26:36.05,0:26:37.76,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}再見了 塞麗
+Dialogue: Marked=0,0:26:47.49,0:26:50.96,Default,NTP,0000,0000,0000,!Effect,{\fnMicrosoft YaHei\fs24\shad2\3c&H800080&\be1}呵呵 這還真是不錯呢

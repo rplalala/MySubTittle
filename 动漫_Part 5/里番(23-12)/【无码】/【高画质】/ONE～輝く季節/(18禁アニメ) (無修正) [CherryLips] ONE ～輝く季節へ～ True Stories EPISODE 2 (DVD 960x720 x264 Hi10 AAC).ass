@@ -1,0 +1,419 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 未设定
+Original Script: 未设定
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正粗圆_GBK,29,&H00FFFFFF,&HC8C0C0C0,&H000F0F0F,&H008F8F8F,0,0,0,0,100,100,2,0,1,2,1,2,18,18,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.40,0:00:08.07,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}为什么我会在这么肃穆的风景中旅行呢？
+Dialogue: 0,0:00:08.20,0:00:10.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我只觉得看起来很美啊
+Dialogue: 0,0:00:11.01,0:00:13.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}如果在你眼中看起来它显得悲伤的话
+Dialogue: 0,0:00:13.41,0:00:15.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那么它应该是悲伤的风景吧
+Dialogue: 0,0:00:15.81,0:00:17.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这是没有人的地方
+Dialogue: 0,0:00:17.81,0:00:18.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是的
+Dialogue: 0,0:00:19.28,0:00:23.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是为什么我们会在没有人的地方出现呢
+Dialogue: 0,0:00:24.22,0:00:26.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我们应该留在热闹的人群中
+Dialogue: 0,0:00:26.49,0:00:29.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}或是温暖的家中啊
+Dialogue: 0,0:00:29.43,0:00:31.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这  我也不是很清楚
+Dialogue: 0,0:00:32.23,0:00:35.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}但它确实是你心中的景致
+Dialogue: 0,0:00:35.57,0:00:40.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}意思是 那是我的心改变了景色的感觉吗？
+Dialogue: 0,0:00:40.90,0:00:43.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}如果是这样的话 我觉得有点悲哀
+Dialogue: 0,0:00:44.11,0:00:45.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我也不知道
+Dialogue: 0,0:00:45.71,0:00:49.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}但这就是我在追求的世界
+Dialogue: 0,0:00:50.51,0:00:52.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}接下来我们去哪里？
+Dialogue: 0,0:00:52.78,0:00:57.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没问题 我会永远跟随你 不论是天涯海角
+Dialogue: 0,0:00:57.59,0:00:58.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}说的也是
+Dialogue: 0,0:00:58.79,0:01:01.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我们只要一直走就可以了
+Dialogue: 0,0:01:01.46,0:01:03.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}对 一直…
+Dialogue: 0,0:02:40.09,0:02:41.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}片名：ONE（2）
+Dialogue: 0,0:02:55.04,0:02:57.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我们在哪里碰过面吗
+Dialogue: 0,0:03:15.99,0:03:18.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}喂喂 喂喂
+Dialogue: 0,0:03:18.53,0:03:19.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}永森家
+Dialogue: 0,0:03:20.80,0:03:21.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那个…
+Dialogue: 0,0:03:21.86,0:03:23.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}喂喂？耕平？
+Dialogue: 0,0:03:24.80,0:03:26.14,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是耕平吗
+Dialogue: 0,0:03:27.20,0:03:29.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}原来是你  怎么啦？
+Dialogue: 0,0:03:29.87,0:03:33.88,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}还问我怎么了 是你打电话过来的耶
+Dialogue: 0,0:03:34.01,0:03:35.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是这样吗
+Dialogue: 0,0:03:35.35,0:03:36.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你不要紧吧
+Dialogue: 0,0:03:37.21,0:03:40.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}从终业式以后到现在你一直显得很奇怪
+Dialogue: 0,0:03:40.95,0:03:42.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}才没有那回事
+Dialogue: 0,0:03:42.69,0:03:45.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}有烦恼的话 我可以当你的倾听对像
+Dialogue: 0,0:03:45.36,0:03:47.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我没那个意思
+Dialogue: 0,0:03:47.36,0:03:50.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我只是想听一下你的声音
+Dialogue: 0,0:03:51.23,0:03:53.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}又说这种话
+Dialogue: 0,0:03:53.76,0:03:54.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没骗你
+Dialogue: 0,0:03:55.23,0:03:56.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这次你又在打什么鬼主意啊？
+Dialogue: 0,0:03:57.10,0:04:00.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}今天 我真的只是想听你的声音
+Dialogue: 0,0:04:02.17,0:04:03.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}用森？
+Dialogue: 0,0:04:03.11,0:04:04.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真的吗
+Dialogue: 0,0:04:04.71,0:04:06.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}刚才你说的话是真的吗
+Dialogue: 0,0:04:07.24,0:04:08.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你呀！
+Dialogue: 0,0:04:08.85,0:04:10.58,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}对不起 可是…
+Dialogue: 0,0:04:10.85,0:04:12.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我真的有点高兴嘛
+Dialogue: 0,0:04:13.52,0:04:15.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你有没有好好吃饭？
+Dialogue: 0,0:04:15.52,0:04:19.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没问题的 由由纪子很快就放假了
+Dialogue: 0,0:04:19.66,0:04:22.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}有困难时记得马上跟我联络
+Dialogue: 0,0:04:22.33,0:04:25.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}知道啦！你别像我老妈子一样
+Dialogue: 0,0:04:25.66,0:04:28.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没办法 人家就是担心你
+Dialogue: 0,0:04:28.73,0:04:30.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}好啦 我懂啦
+Dialogue: 0,0:04:32.20,0:04:37.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}与永森不经意的对话 感觉是把冰封的心给融化了
+Dialogue: 0,0:04:38.61,0:04:39.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是…
+Dialogue: 0,0:04:39.54,0:04:41.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那并不是预感
+Dialogue: 0,0:04:41.81,0:04:45.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那是正在逼近的恐惧啊
+Dialogue: 0,0:05:03.70,0:05:05.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你等的人还没来吗
+Dialogue: 0,0:05:08.50,0:05:11.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你可别再问是谁哦
+Dialogue: 0,0:05:11.57,0:05:12.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}有何贵干
+Dialogue: 0,0:05:13.44,0:05:16.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我看起来像是来泡妞的吗？
+Dialogue: 0,0:05:17.18,0:05:19.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我知道可能是我多管闲事
+Dialogue: 0,0:05:19.45,0:05:21.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是在这么冷的天气里
+Dialogue: 0,0:05:21.18,0:05:23.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}一直站着发愣会着凉的
+Dialogue: 0,0:05:25.32,0:05:28.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}倒是你…在等谁？
+Dialogue: 0,0:05:28.52,0:05:30.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}为何表情这么悲哀？
+Dialogue: 0,0:05:30.93,0:05:33.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}抱歉 刚才我不该多嘴
+Dialogue: 0,0:05:34.13,0:05:38.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}只是看啊你的表情 有些放不下心
+Dialogue: 0,0:05:40.14,0:05:41.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}算我多事
+Dialogue: 0,0:05:41.87,0:05:42.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}再见
+Dialogue: 0,0:05:44.81,0:05:46.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}青梅竹马
+Dialogue: 0,0:05:47.61,0:05:51.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我在等待当初与我在这里分手的青梅竹马
+Dialogue: 0,0:05:51.61,0:05:52.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}青梅竹马？
+Dialogue: 0,0:05:53.08,0:05:56.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这里是我与他最后分手时的地方
+Dialogue: 0,0:05:57.22,0:05:59.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我喜欢那个人
+Dialogue: 0,0:06:00.16,0:06:00.82,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}所以…
+Dialogue: 0,0:06:01.22,0:06:03.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我要一直在这里等待他
+Dialogue: 0,0:06:03.89,0:06:06.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你们有约好在这里相会吗
+Dialogue: 0,0:06:07.23,0:06:10.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}若是没有 你这样等是没意义的
+Dialogue: 0,0:06:10.70,0:06:12.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}也许是吧
+Dialogue: 0,0:06:12.70,0:06:14.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这样你还是要等他吗
+Dialogue: 0,0:06:20.04,0:06:21.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村…
+Dialogue: 0,0:06:39.53,0:06:40.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}喂喂
+Dialogue: 0,0:06:40.73,0:06:42.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}喂喂 是我
+Dialogue: 0,0:06:42.33,0:06:44.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你知道明天是什么日子吗
+Dialogue: 0,0:06:45.13,0:06:46.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你果然忘了
+Dialogue: 0,0:06:47.00,0:06:48.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}明天起是新学期了
+Dialogue: 0,0:06:49.14,0:06:50.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}寒假到今天就结束了
+Dialogue: 0,0:06:51.01,0:06:54.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你要早点睡早点起床哦
+Dialogue: 0,0:06:55.28,0:06:56.75,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}永森
+Dialogue: 0,0:06:57.68,0:06:58.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}如果
+Dialogue: 0,0:06:58.48,0:07:02.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}如果我突然从你眼前消失
+Dialogue: 0,0:07:02.35,0:07:03.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你会怎么办？
+Dialogue: 0,0:07:03.42,0:07:04.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这…
+Dialogue: 0,0:07:04.49,0:07:07.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}大概是找阿姨讨回我借给你的钱吧
+Dialogue: 0,0:07:07.69,0:07:09.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你认真回答嘛
+Dialogue: 0,0:07:09.43,0:07:12.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我才是要请你认真考虑前程呢
+Dialogue: 0,0:07:12.76,0:07:15.03,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}离联考只剩一年了哦
+Dialogue: 0,0:07:15.30,0:07:18.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}算了 算我白问你
+Dialogue: 0,0:07:19.04,0:07:21.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我一定会后悔…
+Dialogue: 0,0:07:22.51,0:07:25.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}后悔很多事情
+Dialogue: 0,0:07:25.44,0:07:26.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}永森
+Dialogue: 0,0:07:26.78,0:07:28.38,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}明天见
+Dialogue: 0,0:07:28.64,0:07:30.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不可以熬夜哦
+Dialogue: 0,0:07:30.38,0:07:31.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}晚安
+Dialogue: 0,0:07:36.12,0:07:37.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}后悔吗…
+Dialogue: 0,0:07:40.26,0:07:42.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}然后我大吃一惊
+Dialogue: 0,0:07:47.60,0:07:49.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村是什么样的人？
+Dialogue: 0,0:07:49.47,0:07:51.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}什么样的？很可爱啊
+Dialogue: 0,0:07:51.87,0:07:54.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我问的不是这个
+Dialogue: 0,0:07:54.40,0:07:56.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}原来如此
+Dialogue: 0,0:07:57.07,0:08:00.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不 你看上里村令我很吃惊
+Dialogue: 0,0:08:02.28,0:08:06.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}加油啊 里村的竞争率很高
+Dialogue: 0,0:08:06.02,0:08:07.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}什么意思？
+Dialogue: 0,0:08:07.35,0:08:08.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}就是你听到的那样
+Dialogue: 0,0:08:08.82,0:08:11.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我听到的那样？她很受欢迎吗
+Dialogue: 0,0:08:11.62,0:08:13.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不谈个性
+Dialogue: 0,0:08:13.62,0:08:16.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}她的外表可是无懈可击
+Dialogue: 0,0:08:16.43,0:08:17.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我没那个意思的
+Dialogue: 0,0:08:18.03,0:08:21.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}她是出名的讨厌男人
+Dialogue: 0,0:08:21.63,0:08:25.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那冰冷的眼神与不留情的言辞
+Dialogue: 0,0:08:25.23,0:08:28.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不知压倒了多少男人啊
+Dialogue: 0,0:08:28.30,0:08:29.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可恶！
+Dialogue: 0,0:08:29.91,0:08:32.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}也就是说你也被甩过
+Dialogue: 0,0:08:41.25,0:08:43.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}嗨 真是巧合啊 里村
+Dialogue: 0,0:08:44.85,0:08:47.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}难得碰到 一起吃吧
+Dialogue: 0,0:08:51.13,0:08:52.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}吃饱了
+Dialogue: 0,0:08:56.87,0:08:59.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}等一下 你还没有完全吃完嘛
+Dialogue: 0,0:09:00.20,0:09:01.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我肚子饱了
+Dialogue: 0,0:09:01.67,0:09:04.34,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不行 你不应该吃剩
+Dialogue: 0,0:09:04.47,0:09:07.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}米粒上面住着许多的神
+Dialogue: 0,0:09:07.41,0:09:10.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不好好珍惜是会遭天谴的
+Dialogue: 0,0:09:10.08,0:09:12.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}今天我是吃三明治
+Dialogue: 0,0:09:12.08,0:09:15.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}即使如此 可能还有一半啊
+Dialogue: 0,0:09:15.55,0:09:16.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没有！
+Dialogue: 0,0:09:18.09,0:09:19.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真不可爱
+Dialogue: 0,0:09:31.97,0:09:35.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}要回家啦？真是巧合
+Dialogue: 0,0:09:35.17,0:09:35.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}然后呢
+Dialogue: 0,0:09:35.97,0:09:41.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}偶然在这里碰面嘛 想跟你问候一下
+Dialogue: 0,0:09:41.31,0:09:42.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}然后呢？
+Dialogue: 0,0:09:42.65,0:09:45.05,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}呃…就是这样
+Dialogue: 0,0:09:45.18,0:09:46.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}找我有什么事吗
+Dialogue: 0,0:09:47.05,0:09:48.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没什么事
+Dialogue: 0,0:09:49.05,0:09:50.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我也没有事
+Dialogue: 0,0:09:53.46,0:09:55.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这一口气我一定要拼下去
+Dialogue: 0,0:10:02.40,0:10:05.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你的态度好像在说我在给你找麻烦
+Dialogue: 0,0:10:05.60,0:10:06.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}确实是很麻烦
+Dialogue: 0,0:10:06.94,0:10:10.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你若要忽视我 那也可以啦…但是…
+Dialogue: 0,0:10:13.61,0:10:16.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这个东西出人意料的好吃
+Dialogue: 0,0:10:16.68,0:10:18.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}随便你怎么说
+Dialogue: 0,0:10:19.75,0:10:22.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你为什么要遮住耳朵？
+Dialogue: 0,0:10:22.15,0:10:24.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不遮住的话 脑浆会流出来
+Dialogue: 0,0:10:26.56,0:10:30.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我的朋友之中有个拿乌龙当小菜吃饭的哦
+Dialogue: 0,0:10:30.69,0:10:31.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}厉害吧？
+Dialogue: 0,0:10:33.76,0:10:35.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}无聊吗？
+Dialogue: 0,0:10:35.77,0:10:37.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}无聊透顶
+Dialogue: 0,0:10:38.03,0:10:39.64,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}啊！好失望！
+Dialogue: 0,0:10:39.64,0:10:42.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜 好久不见
+Dialogue: 0,0:10:42.44,0:10:45.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}最近你都没打电话给我 我好担心你呢
+Dialogue: 0,0:10:46.18,0:10:48.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}太好了 你好像很健康的样子
+Dialogue: 0,0:10:49.11,0:10:51.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}再联络哦
+Dialogue: 0,0:10:51.38,0:10:53.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}看要不要一起去逛街
+Dialogue: 0,0:10:55.38,0:10:56.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}再见
+Dialogue: 0,0:10:57.25,0:10:58.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你的朋友？
+Dialogue: 0,0:10:58.99,0:11:01.79,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}还称不上是朋友
+Dialogue: 0,0:11:28.75,0:11:31.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这个便当很有女人味
+Dialogue: 0,0:11:31.42,0:11:32.62,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不适合我吗？
+Dialogue: 0,0:11:32.62,0:11:34.22,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我没那么说
+Dialogue: 0,0:11:35.69,0:11:38.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村 这里不冷吗
+Dialogue: 0,0:11:38.89,0:11:40.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不冷
+Dialogue: 0,0:11:40.23,0:11:42.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我觉得很冷耶
+Dialogue: 0,0:11:42.63,0:11:44.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那你就回教室啊
+Dialogue: 0,0:11:47.04,0:11:49.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}其实你很冷吧
+Dialogue: 0,0:11:49.71,0:11:51.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}一点也没有
+Dialogue: 0,0:11:51.31,0:11:53.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我看你是在逞强
+Dialogue: 0,0:11:53.58,0:11:54.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是你多心了
+Dialogue: 0,0:11:54.78,0:11:57.45,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是你的身体在发抖
+Dialogue: 0,0:11:57.45,0:11:58.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没那回事
+Dialogue: 0,0:11:59.05,0:12:00.52,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是的话就好了
+Dialogue: 0,0:12:02.38,0:12:04.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你一定觉得很冷
+Dialogue: 0,0:12:04.79,0:12:06.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没那种事
+Dialogue: 0,0:12:29.35,0:12:30.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村有没有来
+Dialogue: 0,0:12:31.35,0:12:33.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}今天还没看到她
+Dialogue: 0,0:12:33.75,0:12:36.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}怪了 她明明有出门啊
+Dialogue: 0,0:12:42.69,0:12:44.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}难道…她…
+Dialogue: 0,0:12:54.84,0:12:57.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村 你会着凉的
+Dialogue: 0,0:12:57.91,0:13:00.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你至少听一下别人的劝告嘛
+Dialogue: 0,0:13:01.51,0:13:04.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}别在这里做毫无意义的等候
+Dialogue: 0,0:13:05.38,0:13:06.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}只有这个…
+Dialogue: 0,0:13:08.32,0:13:11.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我唯一能做的事只有这个
+Dialogue: 0,0:13:11.92,0:13:14.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那时候我好幸福
+Dialogue: 0,0:13:14.19,0:13:16.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}虽然每一天都很单调
+Dialogue: 0,0:13:16.86,0:13:18.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}一成不变
+Dialogue: 0,0:13:18.19,0:13:21.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}很平凡的日常生活 却充满了幸福
+Dialogue: 0,0:13:21.13,0:13:24.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}因为青梅竹马的他总是陪在我身边
+Dialogue: 0,0:13:25.80,0:13:27.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我觉得很理所当然
+Dialogue: 0,0:13:27.54,0:13:29.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}他应该也是
+Dialogue: 0,0:13:29.41,0:13:33.41,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我以为他应该跟我一样幸福
+Dialogue: 0,0:13:34.34,0:13:37.95,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}还以为幸福会永远持续下去
+Dialogue: 0,0:13:38.21,0:13:39.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是…
+Dialogue: 0,0:13:39.95,0:13:41.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}最初是椎子
+Dialogue: 0,0:13:42.08,0:13:44.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}椎子把他忘了
+Dialogue: 0,0:13:44.49,0:13:48.36,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}然后同班同学也渐渐把他给忘了
+Dialogue: 0,0:13:49.16,0:13:51.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}就在跟今天一样的下雨天
+Dialogue: 0,0:13:51.83,0:13:55.30,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}他在我眼前消失了
+Dialogue: 0,0:13:56.23,0:13:57.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我在等他
+Dialogue: 0,0:13:57.57,0:14:00.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}等待在这里与我分手的青梅竹马
+Dialogue: 0,0:14:01.70,0:14:06.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}眼看着他渐渐消失 我却是束手无策
+Dialogue: 0,0:14:07.31,0:14:09.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}在他消失掉的同时
+Dialogue: 0,0:14:09.58,0:14:10.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我的心中
+Dialogue: 0,0:14:10.78,0:14:12.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}他的存在也渐渐变得淡薄
+Dialogue: 0,0:14:14.38,0:14:16.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}即使如此 我还是…
+Dialogue: 0,0:14:19.05,0:14:22.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}即使如此我还是想留下他
+Dialogue: 0,0:14:23.33,0:14:25.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}拚命的想着他
+Dialogue: 0,0:14:26.00,0:14:28.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我相信我若是还记得他
+Dialogue: 0,0:14:29.06,0:14:31.73,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}他一定还会回来
+Dialogue: 0,0:14:32.53,0:14:34.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是…那是…
+Dialogue: 0,0:14:37.21,0:14:38.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}里村！
+Dialogue: 0,0:14:39.74,0:14:43.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}振作一点 里村 小茜
+Dialogue: 0,0:14:44.41,0:14:46.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你回来了
+Dialogue: 0,0:14:48.02,0:14:49.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}别留下我一个人
+Dialogue: 0,0:14:50.29,0:14:53.49,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不要再把我留下来啊
+Dialogue: 0,0:15:16.05,0:15:17.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}织原同学
+Dialogue: 0,0:15:17.65,0:15:20.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}喊我耕平就行了 耕平
+Dialogue: 0,0:15:20.32,0:15:22.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}请问…这里是…
+Dialogue: 0,0:15:23.12,0:15:26.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我请伯母联络学校和你家了
+Dialogue: 0,0:15:28.99,0:15:33.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没事的 我跟他们说你只是人觉得不舒服
+Dialogue: 0,0:15:33.93,0:15:35.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}对不起 给你添麻烦
+Dialogue: 0,0:15:35.93,0:15:37.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}替你换上睡衣时
+Dialogue: 0,0:15:38.33,0:15:41.80,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没事的 我没有看你的裸体
+Dialogue: 0,0:15:42.34,0:15:44.87,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是伯母替你换衣服的
+Dialogue: 0,0:15:45.01,0:15:45.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}还有
+Dialogue: 0,0:15:45.81,0:15:47.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}下次要昏倒时
+Dialogue: 0,0:15:47.41,0:15:51.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}最好能选择在自己家附近没下雨的日子
+Dialogue: 0,0:15:51.68,0:15:52.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是
+Dialogue: 0,0:15:53.42,0:15:56.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我端点热的来给你
+Dialogue: 0,0:15:56.22,0:15:57.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那个…
+Dialogue: 0,0:15:57.69,0:15:59.69,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那个…耕平…
+Dialogue: 0,0:16:00.22,0:16:01.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}谢谢你
+Dialogue: 0,0:16:01.56,0:16:03.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}别见外啦
+Dialogue: 0,0:16:13.04,0:16:14.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}好暖和
+Dialogue: 0,0:16:14.37,0:16:17.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这杯喝完后再睡一会儿吧
+Dialogue: 0,0:16:17.71,0:16:19.44,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}干嘛用这种眼神看我
+Dialogue: 0,0:16:19.71,0:16:21.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}把我当成禽兽似的
+Dialogue: 0,0:16:21.98,0:16:23.71,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}伯母就在楼下啦
+Dialogue: 0,0:16:24.25,0:16:25.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不信的话我喊她过来
+Dialogue: 0,0:16:26.92,0:16:28.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}跟你开玩笑的…
+Dialogue: 0,0:16:28.25,0:16:31.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你笑起来可爱多了
+Dialogue: 0,0:16:31.59,0:16:33.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不要取笑我了
+Dialogue: 0,0:16:33.19,0:16:35.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}啊！脸变红了！
+Dialogue: 0,0:16:35.59,0:16:37.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这是因为身体变暖了
+Dialogue: 0,0:16:38.26,0:16:40.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不用太认真啦
+Dialogue: 0,0:16:40.26,0:16:44.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这种时候只要诚心的说声谢谢就行了
+Dialogue: 0,0:16:45.07,0:16:46.94,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}来 你说说看
+Dialogue: 0,0:16:48.40,0:16:49.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}谢谢你
+Dialogue: 0,0:16:50.54,0:16:53.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那么我到楼下看电视
+Dialogue: 0,0:16:54.68,0:16:56.28,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}还有 小茜
+Dialogue: 0,0:16:57.21,0:16:58.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你被甩了
+Dialogue: 0,0:16:59.62,0:17:01.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不要再拖着他了
+Dialogue: 0,0:17:03.22,0:17:04.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是
+Dialogue: 0,0:17:20.44,0:17:22.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}等一下 小茜
+Dialogue: 0,0:17:23.24,0:17:24.04,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}什么事
+Dialogue: 0,0:17:24.44,0:17:25.64,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}难得星期六
+Dialogue: 0,0:17:26.31,0:17:27.78,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}一起去约会好吗？
+Dialogue: 0,0:17:28.31,0:17:28.98,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不要
+Dialogue: 0,0:17:29.51,0:17:31.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我们都同床共枕了 何必这么见外
+Dialogue: 0,0:17:32.98,0:17:35.65,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你别说得让大家误会好吗
+Dialogue: 0,0:17:36.05,0:17:39.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我只是借睡你的床而已
+Dialogue: 0,0:17:39.25,0:17:42.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}三点 在公园见 怎么样
+Dialogue: 0,0:17:44.33,0:17:46.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我刚刚已经说了
+Dialogue: 0,0:17:46.46,0:17:47.66,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真的不要吗？
+Dialogue: 0,0:17:47.66,0:17:48.06,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真的不要吗？
+Dialogue: 0,0:17:50.33,0:17:51.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我走了
+Dialogue: 0,0:17:52.33,0:17:55.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}总之我会等你的
+Dialogue: 0,0:17:56.87,0:17:59.68,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}别担心 你若是没有来
+Dialogue: 0,0:17:59.81,0:18:02.21,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我就把目的从约会改成散步
+Dialogue: 0,0:18:02.34,0:18:03.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}自己到处逛逛
+Dialogue: 0,0:18:16.76,0:18:18.23,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}好天气…
+Dialogue: 0,0:18:22.36,0:18:23.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}比如说
+Dialogue: 0,0:18:23.30,0:18:24.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}躺在草地上
+Dialogue: 0,0:18:25.17,0:18:26.77,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}感受风的存在
+Dialogue: 0,0:18:27.04,0:18:28.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你会这样吗
+Dialogue: 0,0:18:28.50,0:18:31.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不 我想应该不会
+Dialogue: 0,0:18:31.31,0:18:32.91,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我想这样试试看
+Dialogue: 0,0:18:33.18,0:18:35.84,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}看着云层从正上风留过
+Dialogue: 0,0:18:36.11,0:18:37.98,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那你就尝试啊
+Dialogue: 0,0:18:38.11,0:18:40.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}这是你的旅行
+Dialogue: 0,0:18:40.12,0:18:42.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}做你喜欢的事就好了
+Dialogue: 0,0:18:42.25,0:18:44.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是…该怎么办好呢？
+Dialogue: 0,0:18:44.79,0:18:47.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我总是在观看的世界的外面
+Dialogue: 0,0:18:47.99,0:18:49.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可能还很难吧
+Dialogue: 0,0:18:50.39,0:18:51.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我可以感受到
+Dialogue: 0,0:18:52.39,0:18:54.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}带着草儿气息的风
+Dialogue: 0,0:18:54.66,0:18:56.40,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你就告诉我做法吧
+Dialogue: 0,0:18:56.67,0:18:59.47,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我来帮你…
+Dialogue: 0,0:18:59.60,0:19:01.60,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}她绕到我的背后
+Dialogue: 0,0:19:01.87,0:19:04.81,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}然后 用双手抱住我的身体
+Dialogue: 0,0:19:04.81,0:19:06.54,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}怎样 可以看到云了吧？
+Dialogue: 0,0:19:06.54,0:19:07.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}看到了
+Dialogue: 0,0:19:07.48,0:19:09.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是不是动得很缓慢？
+Dialogue: 0,0:19:09.61,0:19:12.01,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是 动得很缓慢
+Dialogue: 0,0:19:12.41,0:19:15.08,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是什么在推着它动呢？
+Dialogue: 0,0:19:15.22,0:19:16.15,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}风
+Dialogue: 0,0:19:16.55,0:19:18.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}对 就是风
+Dialogue: 0,0:19:18.95,0:19:20.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}风会运着云层
+Dialogue: 0,0:19:20.69,0:19:22.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}到很远的地方去
+Dialogue: 0,0:19:23.09,0:19:24.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}到世界的边缘
+Dialogue: 0,0:19:24.83,0:19:27.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}草的气味扑鼻而来
+Dialogue: 0,0:19:27.76,0:19:30.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}那是风所带来的气息
+Dialogue: 0,0:19:31.50,0:19:32.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}风…来了
+Dialogue: 0,0:19:33.24,0:19:34.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是吗 太好了
+Dialogue: 0,0:19:34.97,0:19:37.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是我想请你再帮忙一下
+Dialogue: 0,0:19:37.37,0:19:39.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}嗯 我知道了
+Dialogue: 0,0:19:45.51,0:19:49.92,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真想确认她的心情
+Dialogue: 0,0:19:57.53,0:19:59.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜 你来了
+Dialogue: 0,0:19:59.26,0:20:01.00,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你不是希望我来吗
+Dialogue: 0,0:20:01.93,0:20:03.53,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你明明自己想来
+Dialogue: 0,0:20:03.93,0:20:06.74,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我只是觉得下雨会很头痛
+Dialogue: 0,0:20:07.40,0:20:10.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是 现在是大晴天哦
+Dialogue: 0,0:20:24.35,0:20:27.42,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}伯母好像出门了
+Dialogue: 0,0:20:27.56,0:20:29.02,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真的吗
+Dialogue: 0,0:20:31.16,0:20:33.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你那是什么眼神
+Dialogue: 0,0:20:33.43,0:20:34.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你以为我带你进房间
+Dialogue: 0,0:20:35.03,0:20:36.37,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是打着歪主意
+Dialogue: 0,0:20:36.50,0:20:38.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}要做什么越轨的行为吗
+Dialogue: 0,0:20:39.57,0:20:41.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我可没有那么说
+Dialogue: 0,0:20:41.84,0:20:44.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真是 伯母到底去哪儿了
+Dialogue: 0,0:20:44.37,0:20:46.24,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我知道
+Dialogue: 0,0:20:46.78,0:20:49.31,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我知道耕平你不是那种人
+Dialogue: 0,0:20:49.58,0:20:52.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你这么说 反而让我想做啊
+Dialogue: 0,0:20:54.52,0:20:55.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}来 接吻吧
+Dialogue: 0,0:20:56.92,0:20:57.99,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不要
+Dialogue: 0,0:21:02.79,0:21:03.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}开玩笑的
+Dialogue: 0,0:21:04.53,0:21:06.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}讨厌 真是…
+Dialogue: 0,0:21:06.26,0:21:07.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平 你好坏
+Dialogue: 0,0:21:08.80,0:21:10.27,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}对不起
+Dialogue: 0,0:21:10.40,0:21:12.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我没有那个意思
+Dialogue: 0,0:21:23.48,0:21:26.55,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}刚才的不是开玩笑哦
+Dialogue: 0,0:21:42.70,0:21:44.57,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜 可以吗
+Dialogue: 0,0:21:45.37,0:21:48.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我若是不愿意 我会说的
+Dialogue: 0,0:22:09.66,0:22:11.93,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜 会觉得难为情吗
+Dialogue: 0,0:22:12.33,0:22:14.20,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}会
+Dialogue: 0,0:22:14.60,0:22:18.33,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}脑袋里面一片空白
+Dialogue: 0,0:22:39.55,0:22:41.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不行 那里是
+Dialogue: 0,0:22:48.63,0:22:51.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}可是 这么的湿啊
+Dialogue: 0,0:22:52.90,0:22:53.70,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}讨厌
+Dialogue: 0,0:22:53.84,0:22:56.10,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你直接转往那一边
+Dialogue: 0,0:23:18.26,0:23:19.46,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}讨厌
+Dialogue: 0,0:23:19.59,0:23:21.86,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平 那里是…
+Dialogue: 0,0:23:44.69,0:23:47.09,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}讨厌 好奇怪
+Dialogue: 0,0:23:47.22,0:23:50.43,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}脑中渐渐变成空白
+Dialogue: 0,0:23:51.63,0:23:53.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}太美丽了 小茜
+Dialogue: 0,0:24:04.44,0:24:05.64,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}要去了哦
+Dialogue: 0,0:24:06.44,0:24:07.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}是
+Dialogue: 0,0:24:09.38,0:24:10.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}好痛
+Dialogue: 0,0:24:10.31,0:24:11.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你还好吧
+Dialogue: 0,0:24:12.31,0:24:14.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}请你…温柔一点
+Dialogue: 0,0:24:17.79,0:24:20.72,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}讨厌 耕平 好痛
+Dialogue: 0,0:24:35.80,0:24:36.61,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜
+Dialogue: 0,0:24:36.61,0:24:37.67,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平
+Dialogue: 0,0:24:47.82,0:24:48.48,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}进来了
+Dialogue: 0,0:24:48.62,0:24:50.35,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平的…进来了
+Dialogue: 0,0:24:53.96,0:24:56.63,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平的…进来了
+Dialogue: 0,0:25:11.84,0:25:14.11,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平的 好棒 好有感觉
+Dialogue: 0,0:25:14.51,0:25:15.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}小茜
+Dialogue: 0,0:25:17.18,0:25:18.25,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平
+Dialogue: 0,0:25:19.98,0:25:22.12,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}要去了哦 小茜
+Dialogue: 0,0:25:22.12,0:25:23.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平
+Dialogue: 0,0:25:23.59,0:25:25.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我也要一起…
+Dialogue: 0,0:25:56.95,0:25:58.29,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你怎么了
+Dialogue: 0,0:25:58.69,0:26:00.56,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不 没事
+Dialogue: 0,0:26:01.09,0:26:04.16,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}刚才你的表情好像很恐惧
+Dialogue: 0,0:26:04.29,0:26:05.76,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}我做了梦
+Dialogue: 0,0:26:05.76,0:26:06.96,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}一个恶梦
+Dialogue: 0,0:26:09.50,0:26:12.97,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}没事的 有你在我身边
+Dialogue: 0,0:26:13.90,0:26:16.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你陪着我就行了…
+Dialogue: 0,0:26:26.05,0:26:28.18,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}今年下雨的日子真多
+Dialogue: 0,0:26:29.52,0:26:32.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平 你有没有听我讲话
+Dialogue: 0,0:26:33.79,0:26:37.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}真是 你怎么一早就发呆
+Dialogue: 0,0:26:37.13,0:26:38.19,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}永森
+Dialogue: 0,0:26:39.26,0:26:41.26,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}抱歉 你先走吧
+Dialogue: 0,0:26:41.40,0:26:43.13,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}等等 耕平
+Dialogue: 0,0:27:10.63,0:27:11.83,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}果然…
+Dialogue: 0,0:27:13.29,0:27:14.50,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平
+Dialogue: 0,0:27:15.83,0:27:19.17,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你怎么了 为什么突然跑起来
+Dialogue: 0,0:27:21.17,0:27:22.90,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}蜜香
+Dialogue: 0,0:27:23.84,0:27:26.51,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你怎么了 耕平
+Dialogue: 0,0:27:27.31,0:27:31.98,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你从没有直呼我的名字耶
+Dialogue: 0,0:27:32.51,0:27:33.85,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}蜜香
+Dialogue: 0,0:27:34.92,0:27:37.32,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}你会记住我到死吗？
+Dialogue: 0,0:27:39.32,0:27:41.59,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}不…没事
+Dialogue: 0,0:27:43.46,0:27:44.39,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}耕平
+Dialogue: 0,0:28:10.29,0:28:11.89,Default,NTP,0000,0000,0000,,{\fnKaiTi\fs24\2c&H00FFFF&\3c&H800080&\4c&H000000&\b1\be1}（待续）
+

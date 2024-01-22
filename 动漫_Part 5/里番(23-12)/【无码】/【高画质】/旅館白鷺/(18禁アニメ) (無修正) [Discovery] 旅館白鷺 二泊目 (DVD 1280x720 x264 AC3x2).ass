@@ -1,0 +1,357 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,28,&H00FFFFFF,&HF0000000,&H00FF0000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,15,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.10,0:00:12.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是玄海地方的白鹭旅馆发生的事情
+Dialogue: 0,0:00:13.34,0:00:17.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}有许多一言难以道尽的状况
+Dialogue: 0,0:00:18.18,0:00:24.75,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}想起这些状况 我的胸口就不禁阵阵发热
+Dialogue: 0,0:00:25.99,0:00:31.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}大腿间异发得湿润起来
+Dialogue: 0,0:00:40.50,0:00:45.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}且说这次 白鹭旅馆的运将是如何呢?
+Dialogue: 0,0:00:49.28,0:00:53.05,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}片名：旅馆白鹭　二泊目
+Dialogue: 0,0:01:10.73,0:01:12.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是我的妹妹
+Dialogue: 0,0:01:12.40,0:01:14.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}白鸟冬香
+Dialogue: 0,0:01:14.83,0:01:16.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}虽说是妹妹
+Dialogue: 0,0:01:16.40,0:01:19.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}但是别有内情的名义上的妹妹
+Dialogue: 0,0:01:20.61,0:01:23.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}现在是 工作人员专用的时间...
+Dialogue: 0,0:01:24.11,0:01:25.48,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不要管那些
+Dialogue: 0,0:01:26.01,0:01:28.18,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}说 你想要我做什么啊
+Dialogue: 0,0:01:30.02,0:01:33.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香!你到底想干什么?
+Dialogue: 0,0:01:33.35,0:01:37.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}白鹭旅馆的秘密名产 特别服务喔
+Dialogue: 0,0:01:38.69,0:01:41.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}等、等一下
+Dialogue: 0,0:01:48.40,0:01:50.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香!住手!
+Dialogue: 0,0:01:50.50,0:01:53.04,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}他并不是客人啊
+Dialogue: 0,0:01:54.91,0:01:58.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}所以说 他是特别的贵宾啊
+Dialogue: 0,0:02:14.86,0:02:20.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那个...
+Dialogue: 0,0:02:21.23,0:02:22.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}优黎子小姐
+Dialogue: 0,0:02:22.13,0:02:23.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香
+Dialogue: 0,0:02:24.04,0:02:25.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你干什么
+Dialogue: 0,0:02:25.91,0:02:27.31,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}就是要干这个
+Dialogue: 0,0:02:49.13,0:02:50.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我也要...
+Dialogue: 0,0:02:56.74,0:02:58.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个感触...
+Dialogue: 0,0:03:03.71,0:03:06.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}射出来 射出来吧 健司
+Dialogue: 0,0:03:11.48,0:03:13.55,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}全部射出来吧
+Dialogue: 0,0:03:13.82,0:03:16.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}射阿!射阿!
+Dialogue: 0,0:03:18.66,0:03:19.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我去了
+Dialogue: 0,0:03:23.53,0:03:26.53,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}在大都市当上班族的冬香
+Dialogue: 0,0:03:26.77,0:03:30.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好像也听到白鹭旅馆 不好的风声
+Dialogue: 0,0:03:30.74,0:03:35.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}说这儿的秘密名产...是老板娘的色情招待
+Dialogue: 0,0:03:41.55,0:03:43.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}要坐上去了喔
+Dialogue: 0,0:03:54.73,0:03:55.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香
+Dialogue: 0,0:04:07.01,0:04:09.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}怎样?很棒吧?
+Dialogue: 0,0:04:10.18,0:04:11.68,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香...很棒
+Dialogue: 0,0:04:12.21,0:04:13.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}真的吗?
+Dialogue: 0,0:04:14.65,0:04:16.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那里会打转
+Dialogue: 0,0:04:16.58,0:04:18.95,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}里面的嫩肉紧紧包住我
+Dialogue: 0,0:04:22.15,0:04:24.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}伸缩性非常优良
+Dialogue: 0,0:04:27.39,0:04:28.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我又快射了!
+Dialogue: 0,0:04:28.89,0:04:30.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}射吧!射吧!
+Dialogue: 0,0:04:30.23,0:04:34.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}尽量的...射进里面吧
+Dialogue: 0,0:04:43.08,0:04:44.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}怎么样啊?
+Dialogue: 0,0:04:47.45,0:04:49.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}对不起 是我误会了
+Dialogue: 0,0:04:50.48,0:04:52.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}以为你们在做谣传中的事
+Dialogue: 0,0:04:52.65,0:04:53.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不!哪里!
+Dialogue: 0,0:04:54.35,0:04:56.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}对了 你在哪里听到谣言的
+Dialogue: 0,0:04:56.42,0:04:58.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个我不能说
+Dialogue: 0,0:04:59.56,0:05:04.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香 我很高兴你回来了 可是
+Dialogue: 0,0:05:04.60,0:05:06.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待的工作我来做就够了
+Dialogue: 0,0:05:07.03,0:05:07.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}为什么?
+Dialogue: 0,0:05:08.23,0:05:10.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}两个人一起做 业绩应该会加倍的
+Dialogue: 0,0:05:10.80,0:05:14.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}美女姐妹的特别招待 肯定大受好评
+Dialogue: 0,0:05:14.54,0:05:16.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香 什么?
+Dialogue: 0,0:05:16.78,0:05:18.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待不是普通的性行为
+Dialogue: 0,0:05:19.45,0:05:24.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}没有让客人满意的高度技术是做不好的
+Dialogue: 0,0:05:26.65,0:05:28.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}没问题的
+Dialogue: 0,0:05:28.55,0:05:31.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}连初次碰面的你 我都没有半点问题
+Dialogue: 0,0:05:32.22,0:05:33.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你也很爽不是吗?
+Dialogue: 0,0:05:34.63,0:05:36.73,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}话是这样没错 可是
+Dialogue: 0,0:05:37.03,0:05:39.23,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那么我当然也行了
+Dialogue: 0,0:05:39.33,0:05:40.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香!
+Dialogue: 0,0:05:40.73,0:05:43.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你知道我之前吃了多少苦吗?
+Dialogue: 0,0:05:44.94,0:05:48.17,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}抱歉 这么晚打扰了
+Dialogue: 0,0:05:48.74,0:05:52.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}待会儿 请送一根黄瓜到房间好吗?
+Dialogue: 0,0:05:52.91,0:05:55.55,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是 待会就送过去
+Dialogue: 0,0:05:55.65,0:05:57.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我住再一楼的一号房
+Dialogue: 0,0:06:01.79,0:06:03.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那么我送过去了
+Dialogue: 0,0:06:06.23,0:06:08.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香什么都不晓得
+Dialogue: 0,0:06:10.73,0:06:12.56,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}虽说是理所当然
+Dialogue: 0,0:06:13.20,0:06:16.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}可是我不能看着她 这样小看接待工作
+Dialogue: 0,0:06:16.70,0:06:21.31,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}于是我决定让那孩子 亲身体验接待工作
+Dialogue: 0,0:06:25.64,0:06:28.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这就是老板娘的妹妹?
+Dialogue: 0,0:06:29.01,0:06:31.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}果然是 名不虚传的美女姐妹
+Dialogue: 0,0:06:31.55,0:06:32.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}而且还很年轻
+Dialogue: 0,0:06:33.22,0:06:35.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}像生鱼片一样鲜嫩啊
+Dialogue: 0,0:06:36.26,0:06:38.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个得尝一尝才晓得
+Dialogue: 0,0:06:39.99,0:06:41.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}喂!不可以动!
+Dialogue: 0,0:06:42.36,0:06:42.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是
+Dialogue: 0,0:06:43.66,0:06:44.63,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不准说话
+Dialogue: 0,0:07:27.47,0:07:29.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}什么?你做什么?
+Dialogue: 0,0:07:29.17,0:07:31.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}乖乖听话
+Dialogue: 0,0:07:34.75,0:07:37.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}住手 住手 住手
+Dialogue: 0,0:07:37.55,0:07:39.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不要!不要!
+Dialogue: 0,0:07:40.09,0:07:41.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}讨厌
+Dialogue: 0,0:07:41.82,0:07:44.02,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我受够了 这算什么嘛
+Dialogue: 0,0:07:46.12,0:07:48.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}喂 这是怎么回事
+Dialogue: 0,0:07:48.26,0:07:49.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}一点教养也没有
+Dialogue: 0,0:07:50.16,0:07:52.53,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个不行啊 完全不行
+Dialogue: 0,0:07:53.03,0:07:54.63,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}真的非常抱歉
+Dialogue: 0,0:07:55.13,0:07:57.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}剩下的让我来应付吧
+Dialogue: 0,0:08:03.84,0:08:06.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}既然老板娘这么说
+Dialogue: 0,0:08:06.35,0:08:07.78,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}没有办法
+Dialogue: 0,0:08:07.98,0:08:09.55,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}就换一道菜吧
+Dialogue: 0,0:08:12.62,0:08:14.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}气人 我失败了
+Dialogue: 0,0:08:15.12,0:08:16.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这样你稍微了解了吧
+Dialogue: 0,0:08:17.36,0:08:19.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}姊姊竟然能忍受这种事
+Dialogue: 0,0:08:24.70,0:08:29.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}百合子小姐为了白鹭旅馆 连命都不惜牺牲啊
+Dialogue: 0,0:08:31.80,0:08:32.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}讨厌...
+Dialogue: 0,0:08:32.44,0:08:34.67,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}对 真的是这样
+Dialogue: 0,0:08:34.91,0:08:36.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}姊姊他太伟大了
+Dialogue: 0,0:08:39.88,0:08:41.75,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}招待不周不好意思
+Dialogue: 0,0:08:41.85,0:08:44.02,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我们玩的很尽兴
+Dialogue: 0,0:08:44.08,0:08:45.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}来 收下吧
+Dialogue: 0,0:08:51.82,0:08:54.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}太感激不禁了
+Dialogue: 0,0:08:57.90,0:09:00.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}喔!真是绝景啊!
+Dialogue: 0,0:09:11.11,0:09:13.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}虽说是过度劳累
+Dialogue: 0,0:09:13.71,0:09:16.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我这女人也太糟糕了
+Dialogue: 0,0:09:19.52,0:09:21.69,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}在我睡着的时候
+Dialogue: 0,0:09:21.89,0:09:25.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香决定做接待的特训
+Dialogue: 0,0:09:26.63,0:09:30.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我想赶快出去接待 已经没时间了
+Dialogue: 0,0:09:31.33,0:09:35.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这样下去 不只露天澡池没钱修改...
+Dialogue: 0,0:09:36.74,0:09:39.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪的绝艺 也不可能重现啊
+Dialogue: 0,0:09:41.47,0:09:42.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪?
+Dialogue: 0,0:09:44.68,0:09:45.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}听好了!
+Dialogue: 0,0:09:45.81,0:09:47.51,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪是...
+Dialogue: 0,0:09:48.28,0:09:51.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}从女人身上得到提示
+Dialogue: 0,0:09:51.65,0:09:55.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}只要有这个绝活 任何旅馆都一定生意兴旺
+Dialogue: 0,0:09:56.22,0:09:58.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你要好好记住
+Dialogue: 0,0:09:58.76,0:10:02.39,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}还有 别忘记招待之心
+Dialogue: 0,0:10:03.83,0:10:05.33,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}招待之心?
+Dialogue: 0,0:10:05.90,0:10:11.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这样下去你是不可能知道 怎么做世身雪的
+Dialogue: 0,0:10:21.88,0:10:25.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}还要用力 再用力
+Dialogue: 0,0:10:27.49,0:10:31.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}再...再...再用力
+Dialogue: 0,0:10:36.06,0:10:38.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}要高潮了 高潮了
+Dialogue: 0,0:10:39.73,0:10:45.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我要高潮了!高潮了!
+Dialogue: 0,0:10:48.87,0:10:51.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我知道冬香小姐 应该要克服的问题了
+Dialogue: 0,0:11:02.15,0:11:03.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}为了冬香
+Dialogue: 0,0:11:03.92,0:11:07.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}严格的特训正式展开了
+Dialogue: 0,0:11:11.53,0:11:13.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那么就跨过绳索吧
+Dialogue: 0,0:11:14.63,0:11:15.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}跨过绳索?
+Dialogue: 0,0:11:19.14,0:11:20.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}维持这样走路
+Dialogue: 0,0:11:21.34,0:11:21.97,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是
+Dialogue: 0,0:11:25.24,0:11:26.58,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不准出声
+Dialogue: 0,0:11:34.75,0:11:37.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那里摩擦到...好热啊
+Dialogue: 0,0:11:41.69,0:11:43.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}碰到了!碰到了!
+Dialogue: 0,0:11:43.90,0:11:45.63,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好棒 好友感觉
+Dialogue: 0,0:11:45.83,0:11:47.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好舒服
+Dialogue: 0,0:11:51.57,0:11:55.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}就是这个 这就是冬香小姐最大的缺点
+Dialogue: 0,0:11:55.81,0:11:57.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}为何只想到自己的爽快
+Dialogue: 0,0:11:58.44,0:12:01.51,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你必须培养招待之心
+Dialogue: 0,0:12:02.25,0:12:03.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}招待之心?
+Dialogue: 0,0:12:04.35,0:12:06.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待是要接待客户
+Dialogue: 0,0:12:07.45,0:12:09.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香小姐却只贪图快感
+Dialogue: 0,0:12:10.49,0:12:14.63,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这一次招待的失败 就是肇因于这个任性
+Dialogue: 0,0:12:15.19,0:12:19.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这种女人是 无资格担忧白鹭旅馆的
+Dialogue: 0,0:12:19.60,0:12:23.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不!我决定的是一定要办到!
+Dialogue: 0,0:12:23.30,0:12:26.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我不会再让姊姊单独受苦了
+Dialogue: 0,0:12:29.41,0:12:31.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}把意识集中起来
+Dialogue: 0,0:12:35.91,0:12:41.75,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香的心意 痛切的传达到我的大腿间
+Dialogue: 0,0:12:49.43,0:12:51.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好棒!好棒!
+Dialogue: 0,0:12:51.63,0:12:54.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}黄瓜的凸起真棒
+Dialogue: 0,0:13:01.31,0:13:03.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}快高潮了快高潮了
+Dialogue: 0,0:13:05.24,0:13:07.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我要高潮了
+Dialogue: 0,0:13:07.65,0:13:10.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不行了 不行不行
+Dialogue: 0,0:13:24.80,0:13:26.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}要修复露天澡池吗
+Dialogue: 0,0:13:26.93,0:13:31.47,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}恩 快做修缮工程了 冬天前应该会完工
+Dialogue: 0,0:13:32.00,0:13:33.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}太令人期待了
+Dialogue: 0,0:13:34.07,0:13:34.87,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:13:35.61,0:13:36.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司?
+Dialogue: 0,0:13:37.74,0:13:38.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}对不起
+Dialogue: 0,0:13:39.51,0:13:40.78,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你还好吧
+Dialogue: 0,0:13:42.01,0:13:44.08,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}有时我脑中会一片空白
+Dialogue: 0,0:13:44.55,0:13:45.88,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我不是故意的
+Dialogue: 0,0:13:46.52,0:13:48.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这可能是记忆恢复的前兆
+Dialogue: 0,0:13:49.49,0:13:51.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司要到远方了
+Dialogue: 0,0:13:52.06,0:13:54.56,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}如果计一恢复的话...
+Dialogue: 0,0:13:54.59,0:13:57.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}其实这也是理所当然的啊
+Dialogue: 0,0:14:00.90,0:14:02.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好痛
+Dialogue: 0,0:14:02.90,0:14:05.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}太痛了!住手!
+Dialogue: 0,0:14:06.64,0:14:08.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你还不懂吗?
+Dialogue: 0,0:14:08.54,0:14:12.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这只手代表着 你拒绝客人的心啊
+Dialogue: 0,0:14:12.51,0:14:14.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}话是这样说...
+Dialogue: 0,0:14:15.48,0:14:18.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不行!
+Dialogue: 0,0:14:19.78,0:14:22.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你这种态度能让客人满足?
+Dialogue: 0,0:14:23.52,0:14:25.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那是不可能的!
+Dialogue: 0,0:14:27.19,0:14:30.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你不理解招待之心 别捏乳头啊
+Dialogue: 0,0:14:30.30,0:14:32.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}没有人会搭理你的
+Dialogue: 0,0:14:32.43,0:14:34.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不行!不行!
+Dialogue: 0,0:14:46.18,0:14:50.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}身体必须在更柔软 否则是无法做接待的
+Dialogue: 0,0:14:50.55,0:14:53.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好痛
+Dialogue: 0,0:14:54.19,0:14:57.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好痛!好痛!
+Dialogue: 0,0:14:57.49,0:14:58.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}记起接待之心
+Dialogue: 0,0:14:59.32,0:15:00.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}可是...
+Dialogue: 0,0:15:07.70,0:15:11.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香必须想办法改正 不够稳重的个性
+Dialogue: 0,0:15:12.90,0:15:13.94,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好烫
+Dialogue: 0,0:15:14.97,0:15:16.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}讨厌...
+Dialogue: 0,0:15:17.81,0:15:20.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}讨厌!我不行了!
+Dialogue: 0,0:15:20.68,0:15:22.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不行 要继续忍耐
+Dialogue: 0,0:15:22.48,0:15:24.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}直到我射精为止
+Dialogue: 0,0:15:31.32,0:15:37.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我受够了 饶了我吧
+Dialogue: 0,0:15:37.10,0:15:39.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}记起接待之心啊 冬香
+Dialogue: 0,0:15:41.17,0:15:42.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待之心...
+Dialogue: 0,0:15:48.04,0:15:51.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待之心!接待之心!
+Dialogue: 0,0:15:51.54,0:15:54.41,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}记起接待之心啊!冬香小姐!
+Dialogue: 0,0:15:55.78,0:15:59.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待之心...
+Dialogue: 0,0:16:08.33,0:16:10.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接待之心
+Dialogue: 0,0:16:12.70,0:16:14.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}为了看特训的成果
+Dialogue: 0,0:16:15.07,0:16:18.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香接受了最终考试
+Dialogue: 0,0:16:19.27,0:16:22.04,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}干的好 冬香 就是这样
+Dialogue: 0,0:16:27.38,0:16:28.31,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好痛
+Dialogue: 0,0:16:28.41,0:16:30.42,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香小姐 加油
+Dialogue: 0,0:16:41.79,0:16:43.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}还差一点点
+Dialogue: 0,0:16:43.43,0:16:44.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}加油
+Dialogue: 0,0:17:00.88,0:17:03.18,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}太好了 你成功了
+Dialogue: 0,0:17:03.28,0:17:05.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}干的好!冬香小姐!
+Dialogue: 0,0:17:12.19,0:17:13.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}冬香小姐
+Dialogue: 0,0:17:19.53,0:17:20.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:17:21.13,0:17:23.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}百合子小姐 他及格了
+Dialogue: 0,0:17:23.07,0:17:26.17,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}真的吗?恭喜你了!冬香!
+Dialogue: 0,0:17:26.27,0:17:29.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}正式接待时我会做的更好的
+Dialogue: 0,0:17:36.31,0:17:38.92,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是世身雪的真正模样
+Dialogue: 0,0:17:39.02,0:17:41.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你要仔细记好了 是
+Dialogue: 0,0:17:42.25,0:17:43.42,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪?
+Dialogue: 0,0:17:45.42,0:17:47.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}难道?不会吧!
+Dialogue: 0,0:17:50.13,0:17:56.73,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}啊~~呀~~
+Dialogue: 0,0:18:44.22,0:18:47.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这次他不会 像上次那样逃跑了
+Dialogue: 0,0:18:47.55,0:18:49.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}请放心品尝吧
+Dialogue: 0,0:18:51.59,0:18:54.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}趁肉正新鲜 赶快沾上新鲜酱料
+Dialogue: 0,0:19:05.44,0:19:06.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个好吃啊
+Dialogue: 0,0:19:06.84,0:19:09.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}加上酒还会更棒吧
+Dialogue: 0,0:19:09.41,0:19:10.78,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}试试看
+Dialogue: 0,0:19:29.09,0:19:31.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那么...接下来就
+Dialogue: 0,0:19:31.70,0:19:34.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好好的接住美酒吧
+Dialogue: 0,0:19:41.84,0:19:44.08,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}谢谢大家
+Dialogue: 0,0:19:51.22,0:19:52.95,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪
+Dialogue: 0,0:19:53.45,0:19:57.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是从女人身体得到提示后 做出来的料理
+Dialogue: 0,0:19:57.69,0:20:00.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}色之道通食之道
+Dialogue: 0,0:20:01.63,0:20:04.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是不可缺少的
+Dialogue: 0,0:20:05.46,0:20:07.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}接着要讲究的是接待之心
+Dialogue: 0,0:20:07.97,0:20:10.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}绝不可以忘记接待之心
+Dialogue: 0,0:20:12.87,0:20:17.11,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这就是我学到的 世身雪的终极型态
+Dialogue: 0,0:20:18.38,0:20:19.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}完成了
+Dialogue: 0,0:20:22.05,0:20:23.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好好吃!
+Dialogue: 0,0:20:23.55,0:20:24.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}就是这个
+Dialogue: 0,0:20:24.65,0:20:29.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是以前我尝到的 真正的世身雪
+Dialogue: 0,0:20:30.05,0:20:31.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:20:34.43,0:20:35.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}做的好
+Dialogue: 0,0:20:36.29,0:20:38.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你能做这么完美
+Dialogue: 0,0:20:38.20,0:20:40.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}表示你的记忆快恢复了
+Dialogue: 0,0:20:41.27,0:20:42.47,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:20:43.60,0:20:45.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}请问你是谁?
+Dialogue: 0,0:20:45.37,0:20:48.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我先向大家自我介绍
+Dialogue: 0,0:20:48.64,0:20:50.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我是秋泽云雀
+Dialogue: 0,0:20:50.91,0:20:52.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}而在这里的男性
+Dialogue: 0,0:20:53.01,0:20:57.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是家父经营的 秋泽观光集团的饭店事业部
+Dialogue: 0,0:20:57.72,0:21:04.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}和食品部门总料理长 也是我的未婚夫水鹭健司
+Dialogue: 0,0:21:05.09,0:21:06.22,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}未婚夫?
+Dialogue: 0,0:21:06.29,0:21:11.86,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}秋泽观光集团是... 那家大型度假开发公司吗
+Dialogue: 0,0:21:12.06,0:21:13.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}当然了
+Dialogue: 0,0:21:13.46,0:21:14.33,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}如何?
+Dialogue: 0,0:21:14.87,0:21:17.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}想起来了吧?健司?
+Dialogue: 0,0:21:18.47,0:21:20.87,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}那么...
+Dialogue: 0,0:21:21.61,0:21:25.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你知道自己 为何在这里被称为健司吗?
+Dialogue: 0,0:21:26.18,0:21:29.91,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你是这里的 上一任主人的徒弟
+Dialogue: 0,0:21:30.05,0:21:33.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}上一任主人的名子也叫健司
+Dialogue: 0,0:21:33.85,0:21:35.09,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}事吧?
+Dialogue: 0,0:21:36.99,0:21:40.49,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}老板娘给你取了同样的名子
+Dialogue: 0,0:21:40.59,0:21:42.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好了!快想起来吧!健司!
+Dialogue: 0,0:21:43.49,0:21:44.53,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:21:44.80,0:21:47.47,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我的名子是水鹭健司
+Dialogue: 0,0:21:47.57,0:21:48.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司...
+Dialogue: 0,0:21:48.53,0:21:49.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}师傅的名子是...
+Dialogue: 0,0:21:50.13,0:21:51.37,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}白鸟健司
+Dialogue: 0,0:21:51.67,0:21:52.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}师傅的绝技是...
+Dialogue: 0,0:21:53.14,0:21:54.37,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪
+Dialogue: 0,0:21:55.87,0:21:58.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}师傅的旅馆是白鹭旅馆
+Dialogue: 0,0:21:59.74,0:22:01.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你是认真的吗
+Dialogue: 0,0:22:02.21,0:22:04.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}师傅的旅馆出现危机
+Dialogue: 0,0:22:04.32,0:22:06.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我一定要去重整
+Dialogue: 0,0:22:06.38,0:22:11.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你是秋泽集团的下任总裁 你真的要抛弃这一切吗
+Dialogue: 0,0:22:12.12,0:22:16.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}没错 我抛弃了一切 前往白鹭旅馆
+Dialogue: 0,0:22:46.79,0:22:49.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我被医生阻止
+Dialogue: 0,0:22:49.39,0:22:53.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}说依下子让你全部想起来 对你造成的负担太大了
+Dialogue: 0,0:22:54.00,0:22:57.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}所以... 我才住进来观察情况
+Dialogue: 0,0:23:00.57,0:23:03.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你有必须回去的地方
+Dialogue: 0,0:23:04.58,0:23:07.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}走吧 跟我一起回去吧
+Dialogue: 0,0:23:13.89,0:23:15.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好怀念...
+Dialogue: 0,0:23:16.82,0:23:18.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这个感觉
+Dialogue: 0,0:23:22.13,0:23:25.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}以后我不用再寂寞的自慰
+Dialogue: 0,0:23:25.80,0:23:28.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}再插!在插啊!
+Dialogue: 0,0:23:29.50,0:23:31.87,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}插到底了 碰到了
+Dialogue: 0,0:23:33.07,0:23:34.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不行不行
+Dialogue: 0,0:23:34.94,0:23:37.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}比黄瓜还舒服
+Dialogue: 0,0:23:38.71,0:23:42.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}快一点!快一点!
+Dialogue: 0,0:23:43.11,0:23:44.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}高潮了 要高潮了
+Dialogue: 0,0:23:44.55,0:23:46.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我要高潮了
+Dialogue: 0,0:23:53.59,0:23:56.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司的记忆完全恢复了
+Dialogue: 0,0:24:01.50,0:24:04.80,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你是明天要回去吧?
+Dialogue: 0,0:24:05.47,0:24:08.71,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我觉得... 好像做了一场梦
+Dialogue: 0,0:24:11.44,0:24:12.88,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}优黎子小姐
+Dialogue: 0,0:24:45.18,0:24:48.55,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}优黎子小姐 我永远不会忘记你
+Dialogue: 0,0:24:49.08,0:24:51.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪已经完成了
+Dialogue: 0,0:24:51.42,0:24:53.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}白鹭旅馆不会有问题了
+Dialogue: 0,0:24:53.88,0:24:55.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}你可以和冬香一起努力
+Dialogue: 0,0:24:56.92,0:24:59.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司 真的谢谢你
+Dialogue: 0,0:25:00.29,0:25:02.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我对你的感谢之意 是语言无法表达出来的
+Dialogue: 0,0:25:03.33,0:25:06.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我一定会 让白鹭旅馆兴盛起来
+Dialogue: 0,0:25:06.83,0:25:10.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司居然有未婚妻 好打击人的事实喔
+Dialogue: 0,0:25:10.87,0:25:14.11,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}不过没有办法 谁叫他是个好男人呢
+Dialogue: 0,0:25:14.17,0:25:15.71,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我会努力接待客户的
+Dialogue: 0,0:25:26.05,0:25:29.22,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}最近我的体力变得好极了
+Dialogue: 0,0:25:29.99,0:25:34.59,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这一定是与健司作爱 及吃了世身雪的关系吧
+Dialogue: 0,0:25:35.96,0:25:39.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司是我的救命恩人
+Dialogue: 0,0:25:39.86,0:25:40.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}谢谢你
+Dialogue: 0,0:25:44.94,0:25:46.04,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司
+Dialogue: 0,0:25:57.98,0:26:00.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}好棒 快高潮了 快高潮了
+Dialogue: 0,0:26:00.75,0:26:03.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司 健司 我快高潮了
+Dialogue: 0,0:26:06.09,0:26:08.09,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}要高潮了
+Dialogue: 0,0:26:08.83,0:26:12.33,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我、我可以高潮吗
+Dialogue: 0,0:26:12.76,0:26:14.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我可以高潮吗
+Dialogue: 0,0:26:15.43,0:26:16.67,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我也跟你一起
+Dialogue: 0,0:26:17.87,0:26:20.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}来吧 健司射吧
+Dialogue: 0,0:26:22.07,0:26:25.01,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}把精液全部射出来
+Dialogue: 0,0:26:25.48,0:26:28.31,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}要高潮了 要高潮了
+Dialogue: 0,0:26:28.41,0:26:30.88,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我高潮了 优黎子小姐
+Dialogue: 0,0:26:54.41,0:26:59.91,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}就这样 健司回去自己应该在的地方
+Dialogue: 0,0:27:00.38,0:27:04.92,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}把重生的白鹭旅馆 留给了我们
+Dialogue: 0,0:27:11.39,0:27:13.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}春天又来了
+Dialogue: 0,0:27:14.13,0:27:17.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是我遇到健司的季节
+Dialogue: 0,0:27:18.40,0:27:19.56,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}然后...
+Dialogue: 0,0:27:21.27,0:27:23.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}世身雪好了
+Dialogue: 0,0:27:23.57,0:27:25.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}是 来了
+Dialogue: 0,0:27:27.07,0:27:31.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}白鹭旅馆被纳入 秋泽观光集团的伞下
+Dialogue: 0,0:27:31.44,0:27:36.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}健司成了 白鹭旅馆的经理兼厨师长
+Dialogue: 0,0:27:42.42,0:27:46.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}这是可喜可贺的圆满结局啊
+Dialogue: 0,0:27:48.39,0:27:53.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}我真的是个很幸福的女人
+Dialogue: 0,0:27:55.47,0:27:58.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\bord2\shad2\2c&H00FFFF&\3c&H800080&\4c&H400040&\be1}剧终
+

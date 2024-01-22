@@ -1,0 +1,266 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 720
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: 魔穗字幕组,Microsoft YaHei,28,&HFFFFFF,&H000000,&H800080,&H000000,-1,0,1,2,0,2,30,30,10,0,134
+Style: Default,Arial,18,&HFFFFFF,&H00FFFF,&H000000,&H000000,-1,0,1,2,3,2,20,20,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:01.20,0:00:02.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,阿...!
+Dialogue: Marked=0,0:00:02.40,0:00:03.47,魔穗字幕组,NTP,0000,0000,0000,!Effect,求求你
+Dialogue: Marked=0,0:00:03.60,0:00:05.47,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手啊
+Dialogue: Marked=0,0:00:06.63,0:00:07.74,魔穗字幕组,NTP,0000,0000,0000,!Effect,放开我
+Dialogue: Marked=0,0:00:11.07,0:00:14.28,魔穗字幕组,NTP,0000,0000,0000,!Effect,我不要这样 我不要
+Dialogue: Marked=0,0:00:22.95,0:00:26.42,魔穗字幕组,NTP,0000,0000,0000,!Effect,怎么样 棒吗 棒吗?
+Dialogue: Marked=0,0:00:30.43,0:00:32.03,魔穗字幕组,NTP,0000,0000,0000,!Effect,好棒...
+Dialogue: Marked=0,0:00:32.35,0:00:34.43,魔穗字幕组,NTP,0000,0000,0000,!Effect,好棒呀
+Dialogue: Marked=0,0:00:38.43,0:00:39.77,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐姐
+Dialogue: Marked=0,0:00:41.50,0:00:43.10,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐姐 振作一点
+Dialogue: Marked=0,0:00:43.51,0:00:45.64,魔穗字幕组,NTP,0000,0000,0000,!Effect,赶快走 小姐
+Dialogue: Marked=0,0:00:52.05,0:00:53.78,魔穗字幕组,NTP,0000,0000,0000,!Effect,这么慢才来
+Dialogue: Marked=0,0:00:54.05,0:00:56.32,魔穗字幕组,NTP,0000,0000,0000,!Effect,你以为我会放你回去吗?
+Dialogue: Marked=0,0:00:56.45,0:00:58.72,魔穗字幕组,NTP,0000,0000,0000,!Effect,请把小香小姐还给我
+Dialogue: Marked=0,0:01:07.30,0:01:08.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,临
+Dialogue: Marked=0,0:01:09.00,0:01:10.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,兵
+Dialogue: Marked=0,0:01:10.00,0:01:11.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,斗
+Dialogue: Marked=0,0:01:11.00,0:01:12.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,者
+Dialogue: Marked=0,0:01:12.00,0:01:13.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,皆
+Dialogue: Marked=0,0:01:13.00,0:01:14.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,阵
+Dialogue: Marked=0,0:01:14.00,0:01:15.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,列
+Dialogue: Marked=0,0:01:18.00,0:01:19.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,在
+Dialogue: Marked=0,0:01:19.81,0:01:21.34,魔穗字幕组,NTP,0000,0000,0000,!Effect,前！
+Dialogue: Marked=0,0:01:23.04,0:01:24.38,魔穗字幕组,NTP,0000,0000,0000,!Effect,休想逃
+Dialogue: Marked=0,0:01:28.78,0:01:30.12,魔穗字幕组,NTP,0000,0000,0000,!Effect,好像逃走了
+Dialogue: Marked=0,0:01:30.25,0:01:31.19,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳小姐
+Dialogue: Marked=0,0:01:35.72,0:01:38.66,魔穗字幕组,NTP,0000,0000,0000,!Effect,他终于死了
+Dialogue: Marked=0,0:01:53.07,0:01:56.81,魔穗字幕组,NTP,0000,0000,0000,!Effect,听说小香小姐生病休息了
+Dialogue: Marked=0,0:01:56.94,0:01:57.61,魔穗字幕组,NTP,0000,0000,0000,!Effect,古贺同学
+Dialogue: Marked=0,0:01:57.75,0:01:58.68,魔穗字幕组,NTP,0000,0000,0000,!Effect,高桥同学
+Dialogue: Marked=0,0:01:58.81,0:01:59.61,魔穗字幕组,NTP,0000,0000,0000,!Effect,丰田同学
+Dialogue: Marked=0,0:02:00.01,0:02:02.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,现在连小浙也失踪
+Dialogue: Marked=0,0:02:03.08,0:02:05.75,魔穗字幕组,NTP,0000,0000,0000,!Effect,我们学校是不是快完了呢
+Dialogue: Marked=0,0:02:16.56,0:02:19.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,带我来这地方要做什么
+Dialogue: Marked=0,0:02:20.03,0:02:21.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,大鸟家的直系
+Dialogue: Marked=0,0:02:21.77,0:02:24.97,魔穗字幕组,NTP,0000,0000,0000,!Effect,代代都是不依靠男人的力量而诞生的
+Dialogue: Marked=0,0:02:27.91,0:02:31.38,魔穗字幕组,NTP,0000,0000,0000,!Effect,因为那是茶吉尼天在冥界与冥主交合
+Dialogue: Marked=0,0:02:31.91,0:02:34.32,魔穗字幕组,NTP,0000,0000,0000,!Effect,借用巫女的身体诞生的
+Dialogue: Marked=0,0:02:34.85,0:02:35.78,魔穗字幕组,NTP,0000,0000,0000,!Effect,难道...
+Dialogue: Marked=0,0:02:36.45,0:02:40.32,魔穗字幕组,NTP,0000,0000,0000,!Effect,大鸟家自古以来就是巫女家系
+Dialogue: Marked=0,0:02:41.12,0:02:43.79,魔穗字幕组,NTP,0000,0000,0000,!Effect,理佳子小姐与她的母亲
+Dialogue: Marked=0,0:02:44.19,0:02:46.06,魔穗字幕组,NTP,0000,0000,0000,!Effect,都是冥界的冥主的巫女
+Dialogue: Marked=0,0:02:46.46,0:02:50.06,魔穗字幕组,NTP,0000,0000,0000,!Effect,我是代代服侍她们的
+Dialogue: Marked=0,0:02:50.33,0:02:51.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,好比真绪？
+Dialogue: Marked=0,0:02:53.13,0:02:56.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,也就是说 小瞳小姐与真绪小姐是姐妹
+Dialogue: Marked=0,0:02:56.74,0:02:58.34,魔穗字幕组,NTP,0000,0000,0000,!Effect,却也不是姐妹
+Dialogue: Marked=0,0:03:00.48,0:03:02.34,魔穗字幕组,NTP,0000,0000,0000,!Effect,小姐可能会选择大鸟家
+Dialogue: Marked=0,0:03:02.48,0:03:04.61,魔穗字幕组,NTP,0000,0000,0000,!Effect,排除掉你吧
+Dialogue: Marked=0,0:03:05.28,0:03:08.22,魔穗字幕组,NTP,0000,0000,0000,!Effect,不管卑弥呼夫人怎样想得到大鸟家的地位
+Dialogue: Marked=0,0:03:08.35,0:03:10.22,魔穗字幕组,NTP,0000,0000,0000,!Effect,都是白费力气
+Dialogue: Marked=0,0:03:11.02,0:03:15.96,魔穗字幕组,NTP,0000,0000,0000,!Effect,看是你要说服卑弥呼夫人还是支持我们这边
+Dialogue: Marked=0,0:03:16.22,0:03:18.63,魔穗字幕组,NTP,0000,0000,0000,!Effect,你要我背叛妈妈？
+Dialogue: Marked=0,0:03:20.50,0:03:21.96,魔穗字幕组,NTP,0000,0000,0000,!Effect,若我拒绝呢？
+Dialogue: Marked=0,0:03:22.50,0:03:25.03,魔穗字幕组,NTP,0000,0000,0000,!Effect,我就在这里消灭掉你
+Dialogue: Marked=0,0:03:25.17,0:03:29.17,魔穗字幕组,NTP,0000,0000,0000,!Effect,有意思 我们那时候的决斗还没分出胜负呢
+Dialogue: Marked=0,0:03:38.11,0:03:39.45,魔穗字幕组,NTP,0000,0000,0000,!Effect,小姐
+Dialogue: Marked=0,0:03:39.71,0:03:41.85,魔穗字幕组,NTP,0000,0000,0000,!Effect,偷听别人讲话很没品哦
+Dialogue: Marked=0,0:03:49.86,0:03:50.79,魔穗字幕组,NTP,0000,0000,0000,!Effect,小姐...
+Dialogue: Marked=0,0:03:52.13,0:03:57.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,你不动手的话 就得由我来动手了
+Dialogue: Marked=0,0:03:57.73,0:04:01.74,魔穗字幕组,NTP,0000,0000,0000,!Effect,事情还没到到需要总本山出动
+Dialogue: Marked=0,0:04:01.87,0:04:05.34,魔穗字幕组,NTP,0000,0000,0000,!Effect,现在的你...又能够有什么做为？
+Dialogue: Marked=0,0:04:05.74,0:04:10.41,魔穗字幕组,NTP,0000,0000,0000,!Effect,哎 你也太小看我了
+Dialogue: Marked=0,0:04:10.55,0:04:12.55,魔穗字幕组,NTP,0000,0000,0000,!Effect,你若有那个意思
+Dialogue: Marked=0,0:04:12.55,0:04:16.42,魔穗字幕组,NTP,0000,0000,0000,!Effect,那些被牺牲的女孩可能就得救了
+Dialogue: Marked=0,0:04:17.08,0:04:20.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,你不在意大鸟家的存亡吧
+Dialogue: Marked=0,0:04:21.09,0:04:25.49,魔穗字幕组,NTP,0000,0000,0000,!Effect,你应该不会是想与总本山为敌吧？
+Dialogue: Marked=0,0:04:27.90,0:04:30.70,魔穗字幕组,NTP,0000,0000,0000,!Effect,你是在说卑弥呼阿姨的事吗
+Dialogue: Marked=0,0:04:30.83,0:04:36.30,魔穗字幕组,NTP,0000,0000,0000,!Effect,过度自信的话小心掉进陷阱里面
+Dialogue: Marked=0,0:04:36.97,0:04:38.84,魔穗字幕组,NTP,0000,0000,0000,!Effect,比如像这次
+Dialogue: Marked=0,0:04:38.97,0:04:41.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,我不会就这么善罢甘休的
+Dialogue: Marked=0,0:04:45.51,0:04:49.92,魔穗字幕组,NTP,0000,0000,0000,!Effect,我想找小瞳补偿一下
+Dialogue: Marked=0,0:04:55.92,0:04:58.19,魔穗字幕组,NTP,0000,0000,0000,!Effect,气氛不大妙哦
+Dialogue: Marked=0,0:05:04.33,0:05:06.73,魔穗字幕组,NTP,0000,0000,0000,!Effect,好像不肯放我们走的样子
+Dialogue: Marked=0,0:05:18.08,0:05:20.88,魔穗字幕组,NTP,0000,0000,0000,!Effect,算你够狠 小香
+Dialogue: Marked=0,0:05:21.42,0:05:25.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,为了明天的日食 我不能够离开这里
+Dialogue: Marked=0,0:05:26.22,0:05:28.62,魔穗字幕组,NTP,0000,0000,0000,!Effect,你帮我去一趟 高志
+Dialogue: Marked=0,0:05:29.02,0:05:30.49,魔穗字幕组,NTP,0000,0000,0000,!Effect,包在我身上
+Dialogue: Marked=0,0:05:32.09,0:05:35.03,魔穗字幕组,NTP,0000,0000,0000,!Effect,就快了 理佳子姐姐
+Dialogue: Marked=0,0:05:36.36,0:05:38.10,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳 快释放我
+Dialogue: Marked=0,0:05:38.63,0:05:39.30,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行
+Dialogue: Marked=0,0:05:39.70,0:05:40.90,魔穗字幕组,NTP,0000,0000,0000,!Effect,可恶
+Dialogue: Marked=0,0:05:41.44,0:05:42.37,魔穗字幕组,NTP,0000,0000,0000,!Effect,莫诺
+Dialogue: Marked=0,0:05:46.91,0:05:47.98,魔穗字幕组,NTP,0000,0000,0000,!Effect,放开我
+Dialogue: Marked=0,0:05:49.44,0:05:49.58,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:05:49.58,0:05:50.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,放开我
+Dialogue: Marked=0,0:05:50.65,0:05:53.85,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳 你是温柔的女生
+Dialogue: Marked=0,0:05:54.12,0:05:57.18,魔穗字幕组,NTP,0000,0000,0000,!Effect,不可能下手杀死同学的
+Dialogue: Marked=0,0:06:00.25,0:06:02.26,魔穗字幕组,NTP,0000,0000,0000,!Effect,小香那个女人！
+Dialogue: Marked=0,0:06:07.06,0:06:08.53,魔穗字幕组,NTP,0000,0000,0000,!Effect,志村
+Dialogue: Marked=0,0:06:08.66,0:06:12.00,魔穗字幕组,NTP,0000,0000,0000,!Effect,难得小香有意思动手 你别来干扰
+Dialogue: Marked=0,0:06:12.53,0:06:15.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,来得正好 我要跟上次的帐一起算清
+Dialogue: Marked=0,0:06:15.60,0:06:18.14,魔穗字幕组,NTP,0000,0000,0000,!Effect,古达利明王！
+Dialogue: Marked=0,0:06:31.22,0:06:32.55,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:06:33.35,0:06:34.69,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要
+Dialogue: Marked=0,0:06:35.89,0:06:38.43,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行 大家快清醒啊
+Dialogue: Marked=0,0:06:44.83,0:06:47.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,你们做这种事...
+Dialogue: Marked=0,0:06:59.25,0:07:00.45,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行
+Dialogue: Marked=0,0:07:00.45,0:07:01.65,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:07:09.12,0:07:10.86,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳 你在干什么
+Dialogue: Marked=0,0:07:10.99,0:07:12.59,魔穗字幕组,NTP,0000,0000,0000,!Effect,快释放我呀
+Dialogue: Marked=0,0:07:13.79,0:07:14.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行
+Dialogue: Marked=0,0:07:16.46,0:07:19.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,把你释放出来 他们会有生命危险
+Dialogue: Marked=0,0:07:27.41,0:07:29.01,魔穗字幕组,NTP,0000,0000,0000,!Effect,好痛
+Dialogue: Marked=0,0:07:36.22,0:07:37.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手啊
+Dialogue: Marked=0,0:07:43.29,0:07:44.23,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:07:47.56,0:07:48.63,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳小姐
+Dialogue: Marked=0,0:08:10.38,0:08:12.39,魔穗字幕组,NTP,0000,0000,0000,!Effect,不...住手啊
+Dialogue: Marked=0,0:08:17.86,0:08:19.33,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要  住手
+Dialogue: Marked=0,0:08:22.40,0:08:24.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要  不要
+Dialogue: Marked=0,0:08:29.20,0:08:31.07,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要！
+Dialogue: Marked=0,0:08:31.74,0:08:32.81,魔穗字幕组,NTP,0000,0000,0000,!Effect,阿明
+Dialogue: Marked=0,0:08:33.07,0:08:35.61,魔穗字幕组,NTP,0000,0000,0000,!Effect,你知道小瞳会被袭击
+Dialogue: Marked=0,0:08:36.94,0:08:39.21,魔穗字幕组,NTP,0000,0000,0000,!Effect,设下结界的是小香
+Dialogue: Marked=0,0:08:40.15,0:08:41.22,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐姐？
+Dialogue: Marked=0,0:08:43.62,0:08:44.95,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:08:47.35,0:08:48.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,好痛
+Dialogue: Marked=0,0:08:49.62,0:08:50.96,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要动啊
+Dialogue: Marked=0,0:08:57.63,0:08:59.77,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要
+Dialogue: Marked=0,0:09:20.32,0:09:21.79,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳！
+Dialogue: Marked=0,0:09:21.92,0:09:23.12,魔穗字幕组,NTP,0000,0000,0000,!Effect,莫诺
+Dialogue: Marked=0,0:09:23.52,0:09:25.53,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要看 莫诺
+Dialogue: Marked=0,0:10:00.23,0:10:02.63,魔穗字幕组,NTP,0000,0000,0000,!Effect,停下来呀
+Dialogue: Marked=0,0:10:21.98,0:10:24.12,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:10:37.33,0:10:39.07,魔穗字幕组,NTP,0000,0000,0000,!Effect,飞行母神！
+Dialogue: Marked=0,0:10:55.48,0:10:56.68,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:11:00.82,0:11:03.89,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪 你来做什么
+Dialogue: Marked=0,0:11:04.02,0:11:05.89,魔穗字幕组,NTP,0000,0000,0000,!Effect,你不是我的...
+Dialogue: Marked=0,0:11:05.89,0:11:06.03,魔穗字幕组,NTP,0000,0000,0000,!Effect,你不是我的...
+Dialogue: Marked=0,0:11:07.76,0:11:10.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,真拿你没办法 真绪
+Dialogue: Marked=0,0:11:10.70,0:11:14.03,魔穗字幕组,NTP,0000,0000,0000,!Effect,好吧 这次就到次为止
+Dialogue: Marked=0,0:11:14.44,0:11:28.05,魔穗字幕组,NTP,0000,0000,0000,!Effect,（咒）
+Dialogue: Marked=0,0:11:28.18,0:11:29.78,魔穗字幕组,NTP,0000,0000,0000,!Effect,不是姐姐
+Dialogue: Marked=0,0:11:29.92,0:11:31.12,魔穗字幕组,NTP,0000,0000,0000,!Effect,这个咒文...
+Dialogue: Marked=0,0:11:36.19,0:11:37.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行 快住手
+Dialogue: Marked=0,0:11:38.06,0:11:39.39,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:11:40.59,0:11:41.80,魔穗字幕组,NTP,0000,0000,0000,!Effect,小香
+Dialogue: Marked=0,0:11:41.93,0:11:45.40,魔穗字幕组,NTP,0000,0000,0000,!Effect,趁现在可以一次收拾掉两个危险的棋子哦
+Dialogue: Marked=0,0:11:45.67,0:11:48.74,魔穗字幕组,NTP,0000,0000,0000,!Effect,你以为我会放过这个机会吗?
+Dialogue: Marked=0,0:11:50.74,0:11:52.34,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要
+Dialogue: Marked=0,0:11:52.61,0:11:53.81,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:12:00.88,0:12:02.22,魔穗字幕组,NTP,0000,0000,0000,!Effect,好痛
+Dialogue: Marked=0,0:12:10.36,0:12:12.09,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:12:12.23,0:12:13.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要
+Dialogue: Marked=0,0:12:13.96,0:12:14.76,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:12:26.91,0:12:28.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:12:34.38,0:12:35.32,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行
+Dialogue: Marked=0,0:12:43.72,0:12:46.26,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪  真绪  不要看
+Dialogue: Marked=0,0:12:50.80,0:12:51.73,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳...
+Dialogue: Marked=0,0:12:58.54,0:12:59.74,魔穗字幕组,NTP,0000,0000,0000,!Effect,好痛
+Dialogue: Marked=0,0:13:12.02,0:13:13.89,魔穗字幕组,NTP,0000,0000,0000,!Effect,救命啊
+Dialogue: Marked=0,0:13:36.98,0:13:38.58,魔穗字幕组,NTP,0000,0000,0000,!Effect,好粗
+Dialogue: Marked=0,0:13:40.31,0:13:41.65,魔穗字幕组,NTP,0000,0000,0000,!Effect,太粗了
+Dialogue: Marked=0,0:13:43.78,0:13:47.92,魔穗字幕组,NTP,0000,0000,0000,!Effect,高潮了 要高潮了
+Dialogue: Marked=0,0:13:50.99,0:13:52.46,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳！
+Dialogue: Marked=0,0:13:52.59,0:13:53.39,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:14:11.81,0:14:13.81,魔穗字幕组,NTP,0000,0000,0000,!Effect,感情这么好
+Dialogue: Marked=0,0:14:14.08,0:14:17.02,魔穗字幕组,NTP,0000,0000,0000,!Effect,我送你们两个人一起上天堂吧
+Dialogue: Marked=0,0:14:17.15,0:14:18.89,魔穗字幕组,NTP,0000,0000,0000,!Effect,那可不行
+Dialogue: Marked=0,0:14:19.95,0:14:24.36,魔穗字幕组,NTP,0000,0000,0000,!Effect,我以为老师你是很疼学生的
+Dialogue: Marked=0,0:14:24.63,0:14:28.10,魔穗字幕组,NTP,0000,0000,0000,!Effect,我又不是正规的老师
+Dialogue: Marked=0,0:14:28.10,0:14:29.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,夜叉神老师
+Dialogue: Marked=0,0:15:13.61,0:15:15.21,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳 你没事吧
+Dialogue: Marked=0,0:15:16.01,0:15:17.08,魔穗字幕组,NTP,0000,0000,0000,!Effect,别管我
+Dialogue: Marked=0,0:15:21.88,0:15:23.22,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳...
+Dialogue: Marked=0,0:15:25.09,0:15:27.35,魔穗字幕组,NTP,0000,0000,0000,!Effect,下次碰面时我们就是敌人
+Dialogue: Marked=0,0:15:29.89,0:15:31.63,魔穗字幕组,NTP,0000,0000,0000,!Effect,这样子你高兴了吧？
+Dialogue: Marked=0,0:15:37.23,0:15:38.97,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳还不知道吗?
+Dialogue: Marked=0,0:15:39.77,0:15:44.44,魔穗字幕组,NTP,0000,0000,0000,!Effect,不 她应该知道了 我们是姐妹
+Dialogue: Marked=0,0:15:52.18,0:15:54.31,魔穗字幕组,NTP,0000,0000,0000,!Effect,对不起 我多管闲事
+Dialogue: Marked=0,0:15:54.58,0:15:55.65,魔穗字幕组,NTP,0000,0000,0000,!Effect,没关系
+Dialogue: Marked=0,0:15:56.32,0:16:00.19,魔穗字幕组,NTP,0000,0000,0000,!Effect,那个老师 本来一开始就不该存在
+Dialogue: Marked=0,0:16:00.72,0:16:02.72,魔穗字幕组,NTP,0000,0000,0000,!Effect,明天就是日食了
+Dialogue: Marked=0,0:16:02.99,0:16:05.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,应该是卑弥呼阿姨最后的仪式的日子
+Dialogue: Marked=0,0:16:06.73,0:16:08.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪不知道要不要紧
+Dialogue: Marked=0,0:16:09.00,0:16:09.93,魔穗字幕组,NTP,0000,0000,0000,!Effect,她...
+Dialogue: Marked=0,0:16:11.53,0:16:12.73,魔穗字幕组,NTP,0000,0000,0000,!Effect,住手
+Dialogue: Marked=0,0:16:18.07,0:16:20.47,魔穗字幕组,NTP,0000,0000,0000,!Effect,希望不会太沮丧
+Dialogue: Marked=0,0:16:20.74,0:16:23.01,魔穗字幕组,NTP,0000,0000,0000,!Effect,您请放心 小姐她...
+Dialogue: Marked=0,0:16:23.54,0:16:25.01,魔穗字幕组,NTP,0000,0000,0000,!Effect,已经变坚强了
+Dialogue: Marked=0,0:16:37.16,0:16:38.36,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:16:38.49,0:16:40.36,魔穗字幕组,NTP,0000,0000,0000,!Effect,我不知道你在想什么
+Dialogue: Marked=0,0:16:40.63,0:16:43.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,杀死妈妈就等于杀死我
+Dialogue: Marked=0,0:16:46.63,0:16:48.90,魔穗字幕组,NTP,0000,0000,0000,!Effect,我...我已经决定了
+Dialogue: Marked=0,0:16:49.57,0:16:51.57,魔穗字幕组,NTP,0000,0000,0000,!Effect,我要阻止卑弥呼阿姨的计划
+Dialogue: Marked=0,0:16:52.11,0:16:53.44,魔穗字幕组,NTP,0000,0000,0000,!Effect,把你救出来
+Dialogue: Marked=0,0:17:06.25,0:17:08.52,魔穗字幕组,NTP,0000,0000,0000,!Effect,明天就要与你告别了
+Dialogue: Marked=0,0:17:08.92,0:17:13.19,魔穗字幕组,NTP,0000,0000,0000,!Effect,妈妈想要我的命的话我就给她我的命
+Dialogue: Marked=0,0:17:17.86,0:17:21.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,对不起 没办法法和你做爱
+Dialogue: Marked=0,0:17:28.28,0:17:49.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,（咒）
+Dialogue: Marked=0,0:17:52.17,0:17:53.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,开始了
+Dialogue: Marked=0,0:17:54.30,0:17:58.04,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪 你的茶尼天的力量觉醒了
+Dialogue: Marked=0,0:17:58.57,0:18:01.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,但是当你无法完全舍弃私情时
+Dialogue: Marked=0,0:18:02.04,0:18:02.98,魔穗字幕组,NTP,0000,0000,0000,!Effect,我...
+Dialogue: Marked=0,0:18:26.33,0:18:28.20,魔穗字幕组,NTP,0000,0000,0000,!Effect,小姐
+Dialogue: Marked=0,0:18:33.01,0:18:36.21,魔穗字幕组,NTP,0000,0000,0000,!Effect,（咒）
+Dialogue: Marked=0,0:18:36.34,0:18:39.41,魔穗字幕组,NTP,0000,0000,0000,!Effect,我不会让你利用小瞳的
+Dialogue: Marked=0,0:18:39.55,0:18:40.75,魔穗字幕组,NTP,0000,0000,0000,!Effect,卑弥呼阿姨
+Dialogue: Marked=0,0:18:45.15,0:18:46.49,魔穗字幕组,NTP,0000,0000,0000,!Effect,妈妈
+Dialogue: Marked=0,0:18:47.15,0:18:48.76,魔穗字幕组,NTP,0000,0000,0000,!Effect,好难过
+Dialogue: Marked=0,0:18:51.02,0:18:52.76,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:18:52.89,0:18:54.23,魔穗字幕组,NTP,0000,0000,0000,!Effect,卑弥呼
+Dialogue: Marked=0,0:18:54.49,0:18:56.36,魔穗字幕组,NTP,0000,0000,0000,!Effect,你这个人 你对小瞳做什么
+Dialogue: Marked=0,0:19:15.80,0:19:16.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳!
+Dialogue: Marked=0,0:19:33.07,0:19:34.27,魔穗字幕组,NTP,0000,0000,0000,!Effect,快了
+Dialogue: Marked=0,0:19:34.53,0:19:37.74,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐姐快成为我的了
+Dialogue: Marked=0,0:19:37.87,0:19:39.47,魔穗字幕组,NTP,0000,0000,0000,!Effect,妈妈
+Dialogue: Marked=0,0:19:56.29,0:19:59.63,魔穗字幕组,NTP,0000,0000,0000,!Effect,终于见到你了 姐姐
+Dialogue: Marked=0,0:20:02.56,0:20:11.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,（咒）
+Dialogue: Marked=0,0:20:14.44,0:20:15.91,魔穗字幕组,NTP,0000,0000,0000,!Effect,因果轮回呀
+Dialogue: Marked=0,0:20:16.44,0:20:19.11,魔穗字幕组,NTP,0000,0000,0000,!Effect,妈妈与卑弥呼阿姨的因果
+Dialogue: Marked=0,0:20:19.91,0:20:22.98,魔穗字幕组,NTP,0000,0000,0000,!Effect,没想到会经由真绪与小瞳来做个了结
+Dialogue: Marked=0,0:20:23.38,0:20:24.05,魔穗字幕组,NTP,0000,0000,0000,!Effect,可是！
+Dialogue: Marked=0,0:20:27.12,0:20:31.79,魔穗字幕组,NTP,0000,0000,0000,!Effect,那可能是我们大鸟家的业障吧
+Dialogue: Marked=0,0:20:35.40,0:20:36.60,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:20:37.13,0:20:38.33,魔穗字幕组,NTP,0000,0000,0000,!Effect,我赢了
+Dialogue: Marked=0,0:20:38.73,0:20:42.20,魔穗字幕组,NTP,0000,0000,0000,!Effect,这样理佳子姐姐就是我的了
+Dialogue: Marked=0,0:20:50.74,0:20:52.61,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行了
+Dialogue: Marked=0,0:20:52.75,0:20:55.68,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪 振作起来 真绪
+Dialogue: Marked=0,0:20:56.48,0:20:57.28,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐姐
+Dialogue: Marked=0,0:20:57.55,0:20:59.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,我的力量给你
+Dialogue: Marked=0,0:21:09.30,0:21:12.23,魔穗字幕组,NTP,0000,0000,0000,!Effect,姐...
+Dialogue: Marked=0,0:21:22.11,0:21:23.71,魔穗字幕组,NTP,0000,0000,0000,!Effect,怎么搞的
+Dialogue: Marked=0,0:21:23.84,0:21:26.38,魔穗字幕组,NTP,0000,0000,0000,!Effect,理佳子姐姐 回来啊
+Dialogue: Marked=0,0:21:56.14,0:22:00.55,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要 我要再试一次把理佳子姐姐叫回来
+Dialogue: Marked=0,0:22:00.68,0:22:02.82,魔穗字幕组,NTP,0000,0000,0000,!Effect,我们输给大鸟家了
+Dialogue: Marked=0,0:22:03.22,0:22:05.75,魔穗字幕组,NTP,0000,0000,0000,!Effect,妈妈 我陪你一起死
+Dialogue: Marked=0,0:22:05.89,0:22:08.69,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要 我一定要姐姐才行
+Dialogue: Marked=0,0:22:08.82,0:22:10.56,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行 我们一起死
+Dialogue: Marked=0,0:22:10.69,0:22:12.16,魔穗字幕组,NTP,0000,0000,0000,!Effect,不要
+Dialogue: Marked=0,0:22:14.56,0:22:15.50,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:22:16.70,0:22:17.76,魔穗字幕组,NTP,0000,0000,0000,!Effect,真绪
+Dialogue: Marked=0,0:22:20.30,0:22:24.04,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳 你还可以逃的 过来
+Dialogue: Marked=0,0:22:24.30,0:22:27.24,魔穗字幕组,NTP,0000,0000,0000,!Effect,不行 只有妈妈一个人太寂寞了
+Dialogue: Marked=0,0:22:27.37,0:22:28.58,魔穗字幕组,NTP,0000,0000,0000,!Effect,怎么这样
+Dialogue: Marked=0,0:22:28.98,0:22:30.98,魔穗字幕组,NTP,0000,0000,0000,!Effect,再见了 姐姐
+Dialogue: Marked=0,0:22:38.85,0:22:41.92,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:23:32.91,0:23:34.51,魔穗字幕组,NTP,0000,0000,0000,!Effect,小瞳
+Dialogue: Marked=0,0:23:43.85,0:23:45.59,魔穗字幕组,NTP,0000,0000,0000,!Effect,剧终
+

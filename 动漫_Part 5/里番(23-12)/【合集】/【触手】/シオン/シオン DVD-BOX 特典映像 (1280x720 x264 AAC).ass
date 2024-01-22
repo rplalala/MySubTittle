@@ -1,0 +1,73 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 480
+PlayResY: 270
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00FFFFFF,&H00000000,&H00800080,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:05.65,Default,,0,0,0,,{\pos(241,248)\1c&HD29700&\3c&H000000&}紫苑
+Dialogue: 0,0:00:00.40,0:00:05.65,Default,,0,0,0,,{\fs16\an8\3c&HFF0000&}校正：jaswee940054
+Dialogue: 0,0:00:00.40,0:00:05.65,Default,,0,0,0,,{\bord0\1c&H000000&\3c&H000000&}特典映像
+Dialogue: 0,0:00:31.49,0:00:32.68,Default,,0,0,0,,你在做什麼啊 弘樹
+Dialogue: 0,0:00:34.59,0:00:35.88,Default,,0,0,0,,竟然用泳衣把我綁起來
+Dialogue: 0,0:00:36.27,0:00:36.93,Default,,0,0,0,,變態
+Dialogue: 0,0:00:39.18,0:00:40.00,Default,,0,0,0,,我說…
+Dialogue: 0,0:00:52.17,0:00:54.06,Default,,0,0,0,,弘樹 你給我差不多一點…
+Dialogue: 0,0:00:54.37,0:00:55.40,Default,,0,0,0,,真是的…不…
+Dialogue: 0,0:01:01.00,0:01:02.57,Default,,0,0,0,,如果妳用DOLL的力量的話
+Dialogue: 0,0:01:02.77,0:01:04.23,Default,,0,0,0,,這種程度的很簡單就能…
+Dialogue: 0,0:01:06.52,0:01:07.91,Default,,0,0,0,,雖然嘴上那麼說
+Dialogue: 0,0:01:08.09,0:01:09.77,Default,,0,0,0,,可這裡已經濕成這樣了
+Dialogue: 0,0:01:12.00,0:01:14.00,Default,,0,0,0,,不…不行…那裡是…
+Dialogue: 0,0:01:15.31,0:01:16.59,Default,,0,0,0,,那麼我要來了喔
+Dialogue: 0,0:01:17.21,0:01:18.61,Default,,0,0,0,,明明還沒有濕透啊
+Dialogue: 0,0:01:18.64,0:01:20.24,Default,,0,0,0,,不 這樣就好了啦
+Dialogue: 0,0:01:23.81,0:01:26.57,Default,,0,0,0,,哎呀 好像在做很開心的事呢
+Dialogue: 0,0:01:27.89,0:01:28.94,Default,,0,0,0,,美鈴老師…
+Dialogue: 0,0:01:29.25,0:01:31.72,Default,,0,0,0,,又想偷偷來做 不能原諒呢
+Dialogue: 0,0:01:32.82,0:01:35.04,Default,,0,0,0,,很礙事喔 閃開一邊
+Dialogue: 0,0:01:41.27,0:01:44.67,Default,,0,0,0,,快嘛 朝木也讓我舒服一下啦
+Dialogue: 0,0:01:44.83,0:01:46.41,Default,,0,0,0,,竟然擅自…
+Dialogue: 0,0:01:46.54,0:01:47.47,Default,,0,0,0,,有什麼不好嘛
+Dialogue: 0,0:01:47.88,0:01:49.38,Default,,0,0,0,,一個人獨占太過分了啊
+Dialogue: 0,0:01:50.11,0:01:53.04,Default,,0,0,0,,妳以為是誰救了妳啊
+Dialogue: 0,0:01:53.49,0:01:55.77,Default,,0,0,0,,我也想和弘樹好好享受一下啊
+Dialogue: 0,0:01:56.79,0:01:58.75,Default,,0,0,0,,不…不准搶
+Dialogue: 0,0:02:05.72,0:02:08.21,Default,,0,0,0,,深喉可是蛇的專長喔
+Dialogue: 0,0:02:14.43,0:02:15.91,Default,,0,0,0,,要…要射了
+Dialogue: 0,0:02:23.32,0:02:26.03,Default,,0,0,0,,弘樹…明明才射過的…
+Dialogue: 0,0:02:26.74,0:02:27.98,Default,,0,0,0,,居然還這麼大…
+Dialogue: 0,0:02:30.42,0:02:31.40,Default,,0,0,0,,要進入了喔 紫苑
+Dialogue: 0,0:02:37.10,0:02:38.50,Default,,0,0,0,,妳好可愛 紫苑
+Dialogue: 0,0:02:38.72,0:02:40.99,Default,,0,0,0,,那樣害羞的話不要講出來…
+Dialogue: 0,0:02:41.61,0:02:43.64,Default,,0,0,0,,好舒服啊…紫苑的裡面
+Dialogue: 0,0:02:53.13,0:02:56.40,Default,,0,0,0,,接下來可是要輪到我的 妳快點高潮啊
+Dialogue: 0,0:03:00.68,0:03:03.27,Default,,0,0,0,,這個泳衣的觸感 真是太棒了
+Dialogue: 0,0:03:04.56,0:03:05.90,Default,,0,0,0,,弘樹個花心
+Dialogue: 0,0:03:06.20,0:03:07.10,Default,,0,0,0,,看我的...
+Dialogue: 0,0:03:08.63,0:03:10.69,Default,,0,0,0,,紫苑 妳那樣動的話…
+Dialogue: 0,0:03:11.65,0:03:12.35,Default,,0,0,0,,就要…
+Dialogue: 0,0:03:17.87,0:03:20.51,Default,,0,0,0,,去了!!!!!!
+Dialogue: 0,0:03:27.46,0:03:29.92,Default,,0,0,0,,接下來該到我了啦
+Dialogue: 0,0:03:30.40,0:03:31.87,Default,,0,0,0,,如此美妙的樂園…
+Dialogue: 0,0:03:32.44,0:03:34.60,Default,,0,0,0,,已經不想回去日本了
+

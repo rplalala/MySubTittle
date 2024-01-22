@@ -1,0 +1,269 @@
+﻿[Script Info]
+; Processed by 繁化姬 dict-813f45bf-r778 @ 2018/12/31 03:41:25 | https://zhconvert.org
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Simhei,28,&HFFFFFF,&H00FFFF,&H000000,&H000000,-1,0,1,2,0,2,20,20,20,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:49.27,0:00:52.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}為了演出一項偉大的復仇劇
+Dialogue: Marked=0,0:00:53.19,0:00:55.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我已經開始實施我的計劃了
+Dialogue: Marked=0,0:01:02.11,0:01:06.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}愛魯夫的安潔莉娜公主已經被囚禁在此三天了
+Dialogue: Marked=0,0:01:10.08,0:01:11.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}差不多是時候了
+Dialogue: Marked=0,0:01:17.42,0:01:22.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好爽 就這樣繼續 讓我高潮吧
+Dialogue: Marked=0,0:01:28.68,0:01:36.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}來了 來了 這次真的要丟了 高潮…
+Dialogue: Marked=0,0:01:39.69,0:01:41.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}為什麼 為什麼停下了
+Dialogue: Marked=0,0:01:42.03,0:01:45.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}還以為這次一定會高潮的
+Dialogue: Marked=0,0:01:49.33,0:01:54.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}又開始震動了 好厲害 麻麻的
+Dialogue: Marked=0,0:01:55.33,0:02:04.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那裡要壞了 好爽 讓我高潮吧
+Dialogue: Marked=0,0:02:06.51,0:02:11.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}怎麼 好過份 為什麼又停了
+Dialogue: Marked=0,0:02:13.43,0:02:15.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}看來意識已經很清醒了
+Dialogue: Marked=0,0:02:17.69,0:02:20.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 艾魯 讓我高潮吧
+Dialogue: Marked=0,0:02:20.77,0:02:23.24,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}求你了 讓我高潮吧
+Dialogue: Marked=0,0:02:23.61,0:02:25.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}想怎麼個高潮法啊
+Dialogue: Marked=0,0:02:25.95,0:02:28.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不說具體點我可是沒辦法的哦
+Dialogue: Marked=0,0:02:31.03,0:02:33.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我這個身為處女的一國公主
+Dialogue: Marked=0,0:02:33.16,0:02:38.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好想艾魯大人那又大又粗的進入我裡面
+Dialogue: Marked=0,0:02:39.21,0:02:42.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}原來這麼想啊
+Dialogue: Marked=0,0:02:47.05,0:02:51.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}說 到底誰想要誰的什麼
+Dialogue: Marked=0,0:02:51.64,0:02:55.73,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}勞頓西魯特王國的公主安潔莉娜
+Dialogue: Marked=0,0:02:55.85,0:03:00.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}想要偉大的艾魯大人奪走她的處女
+Dialogue: Marked=0,0:03:16.75,0:03:22.00,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要逗我了 進來了
+Dialogue: Marked=0,0:03:25.05,0:03:29.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}很痛但好舒服 全部進來了
+Dialogue: Marked=0,0:03:34.43,0:03:35.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}很爽吧
+Dialogue: Marked=0,0:03:48.11,0:03:56.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}處女膜破了 我被人類玷汙了 好墮落的公主
+Dialogue: Marked=0,0:04:01.25,0:04:06.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好粗 好厲害 要丟了
+Dialogue: Marked=0,0:04:09.34,0:04:10.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}安潔莉娜
+Dialogue: Marked=0,0:04:16.52,0:04:29.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不行了 不好 我可是公主啊
+Dialogue: Marked=0,0:04:30.32,0:04:30.99,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}安潔莉娜
+Dialogue: Marked=0,0:04:33.66,0:04:36.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}太激烈了 快點射出來吧
+Dialogue: Marked=0,0:04:37.79,0:04:41.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}快把精液射進安潔莉娜的那裡去吧
+Dialogue: Marked=0,0:04:42.21,0:04:48.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}等著 我會全部射進你身體裡面去的
+Dialogue: Marked=0,0:04:48.84,0:04:57.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}裡面的精液 被說了這種話居然興奮起來了
+Dialogue: Marked=0,0:05:03.06,0:05:11.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}進到子宮裡去了 人類骯髒的精液射了進來
+Dialogue: Marked=0,0:05:14.11,0:05:20.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}來了 來了 要高潮了
+Dialogue: Marked=0,0:05:24.00,0:05:27.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我也要射了
+Dialogue: Marked=0,0:05:29.55,0:05:37.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請…請全部射進安潔莉娜的子宮裡去吧
+Dialogue: Marked=0,0:05:40.22,0:05:46.52,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我已經不行了 要高潮了
+Dialogue: Marked=0,0:05:59.20,0:06:09.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}完了 子宮裡全是精液 不要
+Dialogue: Marked=0,0:06:23.27,0:06:24.69,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}給我聽好了 安潔莉娜
+Dialogue: Marked=0,0:06:25.14,0:06:28.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}很快國王騎士團將會到達此地
+Dialogue: Marked=0,0:06:30.57,0:06:35.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}所以給我放聰明點 知道這是什麼吧
+Dialogue: Marked=0,0:06:36.53,0:06:39.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那是…記憶水晶
+Dialogue: Marked=0,0:06:39.87,0:06:42.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}難道你把剛才的都錄下來了
+Dialogue: Marked=0,0:06:42.33,0:06:47.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}沒錯 剛才你淫亂的樣子全部都記錄下來了
+Dialogue: Marked=0,0:06:55.05,0:06:59.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這…太過分了
+Dialogue: Marked=0,0:06:59.80,0:07:03.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}你到時和騎士團說是我救了你
+Dialogue: Marked=0,0:07:04.27,0:07:07.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不這麼說的後果你也知道了
+Dialogue: Marked=0,0:07:07.48,0:07:12.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}你的目的到底是什麼 讓我遭受如此境遇
+Dialogue: Marked=0,0:07:13.28,0:07:17.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我只不過想為勞頓西魯特王國效勞罷了
+Dialogue: Marked=0,0:07:17.70,0:07:19.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}作為救了公主一命的英雄的我來說
+Dialogue: Marked=0,0:07:19.99,0:07:23.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}就算是人類 國王也不會拒絕我的吧
+Dialogue: Marked=0,0:08:12.46,0:08:13.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}幾天後
+Dialogue: Marked=0,0:08:17.76,0:08:19.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}和我計劃的一樣
+Dialogue: Marked=0,0:08:19.97,0:08:22.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}作為拯救安潔莉娜的英雄
+Dialogue: Marked=0,0:08:23.76,0:08:27.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}成功潛入勞頓西魯特王國為其效勞
+Dialogue: Marked=0,0:08:36.32,0:08:36.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是這裡吧
+Dialogue: Marked=0,0:08:46.79,0:08:47.87,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}你就是佛洛拉吧
+Dialogue: Marked=0,0:08:48.45,0:08:50.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是的 艾魯內斯特大人
+Dialogue: Marked=0,0:08:51.42,0:08:53.83,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我進來時還有個條件
+Dialogue: Marked=0,0:08:54.17,0:08:56.00,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}就是像我這樣的外族人
+Dialogue: Marked=0,0:08:56.00,0:08:57.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是不能夠移住於艾魯夫國的
+Dialogue: Marked=0,0:08:58.84,0:09:02.80,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉從小眼睛就看不見
+Dialogue: Marked=0,0:09:03.39,0:09:05.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}所以請艾魯內特斯大人
+Dialogue: Marked=0,0:09:06.64,0:09:10.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那就是讓我和作為王室之女的這位佛洛拉成婚
+Dialogue: Marked=0,0:09:11.06,0:09:14.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}成為王室的一員以此來為王國服務
+Dialogue: Marked=0,0:09:17.52,0:09:19.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}現在拒絕我也沒關係
+Dialogue: Marked=0,0:09:19.94,0:09:22.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}讓其他的公主來作為你的妻子吧
+Dialogue: Marked=0,0:09:25.28,0:09:26.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯內特斯大人
+Dialogue: Marked=0,0:09:27.45,0:09:30.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉 這是結婚戒指
+Dialogue: Marked=0,0:09:31.25,0:09:32.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}戒指
+Dialogue: Marked=0,0:09:35.21,0:09:37.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}可不是一般的戒指哦
+Dialogue: Marked=0,0:09:37.96,0:09:42.42,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這枚戒指上附有能活躍佛洛拉生命能量的能力
+Dialogue: Marked=0,0:09:49.85,0:09:57.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}怎麼會 看見了 好像做夢一樣
+Dialogue: Marked=0,0:09:59.78,0:10:00.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯內特斯大人
+Dialogue: Marked=0,0:10:01.19,0:10:03.11,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是嗎 那太好了
+Dialogue: Marked=0,0:10:07.28,0:10:10.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}怎麼了 我臉上沾上什麼東西了
+Dialogue: Marked=0,0:10:11.66,0:10:15.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我一直聽說人類是可怕的一族
+Dialogue: Marked=0,0:10:16.54,0:10:19.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}可是艾魯內特斯大人真是善良的人
+Dialogue: Marked=0,0:10:20.34,0:10:21.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}而且還這麼漂亮
+Dialogue: Marked=0,0:10:27.89,0:10:30.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那麼請 做我的妻子吧
+Dialogue: Marked=0,0:10:31.10,0:10:35.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}如果不嫌棄佛洛拉的話 大哥哥
+Dialogue: Marked=0,0:10:36.94,0:10:39.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥
+Dialogue: Marked=0,0:10:39.90,0:10:45.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不行嗎 如果艾魯內特斯大人不討厭的話
+Dialogue: Marked=0,0:10:46.16,0:10:48.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我想這麼稱呼您
+Dialogue: Marked=0,0:10:49.49,0:10:52.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不介意 你喜歡怎麼叫就怎麼叫
+Dialogue: Marked=0,0:10:53.12,0:10:55.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}謝謝 大哥哥
+Dialogue: Marked=0,0:10:56.87,0:11:03.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥如果不討厭 請給佛洛拉一個吻
+Dialogue: Marked=0,0:11:05.47,0:11:06.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉
+Dialogue: Marked=0,0:11:14.52,0:11:15.60,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥
+Dialogue: Marked=0,0:11:30.03,0:11:32.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉 好漂亮
+Dialogue: Marked=0,0:11:50.84,0:11:56.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要這麼玩弄乳頭 不行 大哥哥
+Dialogue: Marked=0,0:11:57.14,0:11:59.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉的身體真是敏感啊
+Dialogue: Marked=0,0:12:01.23,0:12:05.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}被碰到那裡… 佛洛拉…
+Dialogue: Marked=0,0:12:10.32,0:12:13.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不行 大哥哥 那裡不行
+Dialogue: Marked=0,0:12:15.62,0:12:22.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好厲害 好厲害 請停下來
+Dialogue: Marked=0,0:12:23.17,0:12:26.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥的… 大哥哥的手指
+Dialogue: Marked=0,0:12:28.42,0:12:29.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那滲出來的水是怎麼回事
+Dialogue: Marked=0,0:12:35.68,0:12:40.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}對不起 這麼羞恥的我 對不起
+Dialogue: Marked=0,0:12:41.19,0:12:42.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉真可愛
+Dialogue: Marked=0,0:12:48.03,0:12:50.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 不要直接用手
+Dialogue: Marked=0,0:12:56.49,0:12:57.20,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好舒服
+Dialogue: Marked=0,0:13:04.59,0:13:05.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥
+Dialogue: Marked=0,0:13:05.21,0:13:08.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要擺弄乳頭 這麼用力的話
+Dialogue: Marked=0,0:13:09.76,0:13:11.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}看來要高潮了 佛洛拉
+Dialogue: Marked=0,0:13:13.43,0:13:15.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 佛洛拉好怕
+Dialogue: Marked=0,0:13:17.10,0:13:20.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}求你了 請抱住我
+Dialogue: Marked=0,0:13:25.81,0:13:29.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不行了 大哥哥 佛洛拉已經受不了了
+Dialogue: Marked=0,0:13:30.07,0:13:33.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那麼就盡情高潮吧
+Dialogue: Marked=0,0:13:33.95,0:13:38.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 大哥哥 大哥哥
+Dialogue: Marked=0,0:13:43.58,0:13:46.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好厲害 大哥哥
+Dialogue: Marked=0,0:13:47.09,0:13:48.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我會疼愛你的 佛洛拉
+Dialogue: Marked=0,0:13:51.01,0:13:54.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 這次用大哥哥的肉棒
+Dialogue: Marked=0,0:13:54.26,0:13:57.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}讓佛洛拉成為您真正的妻子吧
+Dialogue: Marked=0,0:13:58.01,0:13:59.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真的嗎 佛洛拉
+Dialogue: Marked=0,0:14:00.35,0:14:04.52,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}嗯 佛洛拉願意把處女獻給大哥哥
+Dialogue: Marked=0,0:14:08.86,0:14:10.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真的可以嗎 佛洛拉
+Dialogue: Marked=0,0:14:12.15,0:14:14.20,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是的 大哥哥
+Dialogue: Marked=0,0:14:17.95,0:14:19.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}要進來了哦
+Dialogue: Marked=0,0:14:21.54,0:14:25.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請進來吧 大哥哥的東西到佛洛拉的裡面去
+Dialogue: Marked=0,0:14:31.84,0:14:32.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}還好吧
+Dialogue: Marked=0,0:14:33.55,0:14:39.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}進來了 好厲害 和大哥哥合而為一了
+Dialogue: Marked=0,0:14:42.64,0:14:46.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好痛 好舒服
+Dialogue: Marked=0,0:14:51.69,0:14:56.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}感受到了 大哥哥在佛洛拉的身體裡
+Dialogue: Marked=0,0:14:58.95,0:15:00.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請再用力一點
+Dialogue: Marked=0,0:15:03.50,0:15:04.00,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉
+Dialogue: Marked=0,0:15:09.25,0:15:11.13,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 請射出來吧
+Dialogue: Marked=0,0:15:20.72,0:15:24.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好爽 大哥哥 大哥哥
+Dialogue: Marked=0,0:15:29.19,0:15:31.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉 我快要射了
+Dialogue: Marked=0,0:15:33.19,0:15:38.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請直接射在佛洛拉的身體裡面吧
+Dialogue: Marked=0,0:15:39.16,0:15:42.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉 來了 佛洛拉
+Dialogue: Marked=0,0:15:45.83,0:15:46.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}射進來了
+Dialogue: Marked=0,0:15:46.87,0:15:50.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥那熱熱的精液全部射進佛洛拉的裡面了
+Dialogue: Marked=0,0:15:52.34,0:15:55.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 喜歡 好喜歡你啊
+Dialogue: Marked=0,0:15:57.72,0:16:02.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥 好舒服啊 佛洛拉好舒服啊
+Dialogue: Marked=0,0:16:05.10,0:16:07.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}佛洛拉一個人的哥哥
+Dialogue: Marked=0,0:16:18.40,0:16:19.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}大哥哥
+Dialogue: Marked=0,0:16:35.88,0:16:36.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}說起來
+Dialogue: Marked=0,0:16:37.09,0:16:41.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我來這裡的目的只有一個 復仇
+Dialogue: Marked=0,0:16:41.51,0:16:44.85,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我這麼做全是為了向一個女人報仇
+Dialogue: Marked=0,0:16:51.69,0:16:53.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}克里斯蒂娜‧勞頓西魯特
+Dialogue: Marked=0,0:16:53.98,0:16:58.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}一個我曾經愛過的女人 卻又背叛我的女人
+Dialogue: Marked=0,0:17:04.70,0:17:05.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯
+Dialogue: Marked=0,0:17:09.12,0:17:09.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}來了
+Dialogue: Marked=0,0:17:16.92,0:17:17.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯
+Dialogue: Marked=0,0:17:20.05,0:17:23.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}克里斯 好久不見
+Dialogue: Marked=0,0:17:24.76,0:17:28.85,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 你還在為那件事…
+Dialogue: Marked=0,0:17:28.97,0:17:33.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}當然 你答應那天和我一起私奔逃出這個國家
+Dialogue: Marked=0,0:17:33.65,0:17:36.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}為什麼那天沒來
+Dialogue: Marked=0,0:17:37.82,0:17:39.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我也是被逼迫的
+Dialogue: Marked=0,0:17:40.24,0:17:42.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}父王說了如果我拒絕對方的提親
+Dialogue: Marked=0,0:17:42.28,0:17:44.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}就會殺了我
+Dialogue: Marked=0,0:17:44.49,0:17:48.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}所以你就把我賣到其他的王國去
+Dialogue: Marked=0,0:17:48.62,0:17:52.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那天我差點死在一個王國的使者手上
+Dialogue: Marked=0,0:17:52.54,0:17:55.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真的對不起 艾魯 對不起
+Dialogue: Marked=0,0:18:02.88,0:18:03.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯
+Dialogue: Marked=0,0:18:03.72,0:18:06.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}現在的我已經不是從前的艾魯了
+Dialogue: Marked=0,0:18:06.60,0:18:09.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}是一個對你的背叛充滿仇恨的復仇者
+Dialogue: Marked=0,0:18:09.81,0:18:15.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要 住手艾魯
+Dialogue: Marked=0,0:18:15.15,0:18:19.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}你這個骯髒的身體和這下流的乳房
+Dialogue: Marked=0,0:18:21.19,0:18:25.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}住手 艾魯 住手 再這麼下去的話…
+Dialogue: Marked=0,0:18:25.78,0:18:28.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}怎麼 有感覺了
+Dialogue: Marked=0,0:18:30.29,0:18:36.46,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不是 這麼繼續下去的話 乳頭會…
+Dialogue: Marked=0,0:18:40.63,0:18:43.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真叫人吃驚啊 難道這就是國王的傑作
+Dialogue: Marked=0,0:18:44.59,0:18:50.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 不要再繼續了 停不下來了
+Dialogue: Marked=0,0:18:52.27,0:18:54.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}求你了 艾魯 不要再繼續了
+Dialogue: Marked=0,0:18:55.14,0:18:57.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要再碰乳房了
+Dialogue: Marked=0,0:18:58.11,0:18:59.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真是個蕩婦
+Dialogue: Marked=0,0:18:59.23,0:19:02.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}只是乳頭被揉弄就這麼有感覺
+Dialogue: Marked=0,0:19:08.24,0:19:12.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好了克里斯 用你的舌頭把這個舔乾淨
+Dialogue: Marked=0,0:19:14.75,0:19:16.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請饒了我吧
+Dialogue: Marked=0,0:19:16.75,0:19:18.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}變回以前的艾魯吧
+Dialogue: Marked=0,0:19:35.10,0:19:36.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請不要這麼粗暴
+Dialogue: Marked=0,0:19:37.27,0:19:39.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我會照艾魯說的做的
+Dialogue: Marked=0,0:19:39.52,0:19:42.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}哦 照我說的做
+Dialogue: Marked=0,0:19:43.32,0:19:46.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那麼快點在我跟前把衣服都脫了
+Dialogue: Marked=0,0:19:46.99,0:19:50.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}然後讓我看看你淫蕩的那裡
+Dialogue: Marked=0,0:19:51.78,0:19:53.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那種事
+Dialogue: Marked=0,0:19:53.33,0:19:54.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}快點
+Dialogue: Marked=0,0:20:10.97,0:20:13.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}哈 不是已經濕答答了嗎
+Dialogue: Marked=0,0:20:14.43,0:20:17.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 請不要這麼盯著看
+Dialogue: Marked=0,0:20:17.39,0:20:18.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好丟臉
+Dialogue: Marked=0,0:20:21.40,0:20:24.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 這個絕對不行 我已經有丈夫了
+Dialogue: Marked=0,0:20:25.11,0:20:26.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}沒什麼不可以的
+Dialogue: Marked=0,0:20:28.90,0:20:30.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好痛
+Dialogue: Marked=0,0:20:31.07,0:20:34.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}就算裝處女 我也不會留情的
+Dialogue: Marked=0,0:20:35.20,0:20:38.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不是的 因為我已經很做了
+Dialogue: Marked=0,0:20:46.46,0:20:50.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}太猛烈了 請輕一點 求你了艾魯
+Dialogue: Marked=0,0:20:50.26,0:20:52.22,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}請輕一點
+Dialogue: Marked=0,0:20:54.39,0:20:57.52,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這麼猛烈的話我的那裡會壞掉了
+Dialogue: Marked=0,0:20:58.64,0:21:02.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}還不夠 不會就這麼完的
+Dialogue: Marked=0,0:21:14.33,0:21:19.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 艾魯 不要再來了
+Dialogue: Marked=0,0:21:22.58,0:21:27.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯 饒了我吧 不要再這麼插了
+Dialogue: Marked=0,0:21:33.26,0:21:38.31,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那裡不行 又會有東西噴出來的
+Dialogue: Marked=0,0:21:46.40,0:21:51.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}真是個蕩婦 差不多該高潮了
+Dialogue: Marked=0,0:21:51.49,0:21:53.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}讓我的精液全部注入進你那裡吧
+Dialogue: Marked=0,0:21:54.03,0:21:56.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要 求你不要
+Dialogue: Marked=0,0:21:56.78,0:21:58.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}如果懷孕了的話我就完了
+Dialogue: Marked=0,0:21:58.70,0:22:00.25,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}太遲了
+Dialogue: Marked=0,0:22:06.13,0:22:12.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}進去了 精液全部進入子宮了
+Dialogue: Marked=0,0:22:14.59,0:22:17.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好過分 太過分了
+Dialogue: Marked=0,0:22:20.98,0:22:22.52,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}腰部要用點力
+Dialogue: Marked=0,0:22:22.73,0:22:26.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這種劍法是無法在戰鬥中取勝的
+Dialogue: Marked=0,0:22:32.11,0:22:34.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好像很有氣勢啊 安潔莉娜
+Dialogue: Marked=0,0:22:37.58,0:22:41.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}艾魯內特斯 你來這裡幹什麼
+Dialogue: Marked=0,0:22:41.91,0:22:45.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}有些話想和安潔莉娜說罷了
+Dialogue: Marked=0,0:22:45.75,0:22:47.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我可沒有什麼話可說的
+Dialogue: Marked=0,0:22:48.42,0:22:51.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}別妨礙訓練 請快點離開
+Dialogue: Marked=0,0:22:55.09,0:22:58.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這麼和我說話覺得合適嗎
+Dialogue: Marked=0,0:22:59.43,0:23:01.22,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}那個是…
+Dialogue: Marked=0,0:23:10.15,0:23:11.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}又要我做這種事
+Dialogue: Marked=0,0:23:14.11,0:23:18.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好臭 你到底洗沒洗過
+Dialogue: Marked=0,0:23:18.20,0:23:20.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好像沒洗過哦
+Dialogue: Marked=0,0:23:21.70,0:23:23.91,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}太差勁了 怎麼會有你這種男人
+Dialogue: Marked=0,0:23:24.08,0:23:25.67,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好好洗乾淨
+Dialogue: Marked=0,0:23:25.96,0:23:29.75,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}沒有那個必要 你的嘴就能弄乾淨
+Dialogue: Marked=0,0:23:31.05,0:23:36.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}不要 饒了我吧 我的嘴已經…
+Dialogue: Marked=0,0:23:39.47,0:23:40.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}高興點 安潔莉娜
+Dialogue: Marked=0,0:23:40.81,0:23:42.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我待會會射進你嘴裡的
+Dialogue: Marked=0,0:23:55.49,0:23:58.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}把這麼臭的東西射在人家嘴裡
+Dialogue: Marked=0,0:23:58.45,0:24:01.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}你真是太差勁了
+Dialogue: Marked=0,0:24:01.28,0:24:02.95,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}接下來是下面那個口了
+Dialogue: Marked=0,0:24:03.33,0:24:06.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}快點把你的大屁股伸過來
+Dialogue: Marked=0,0:24:19.89,0:24:23.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}進來了 在我的裡面這麼亂來
+Dialogue: Marked=0,0:24:25.14,0:24:29.73,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}居然越反抗越興奮 怎麼有這種男人
+Dialogue: Marked=0,0:24:29.85,0:24:32.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}變態 真的太差勁了
+Dialogue: Marked=0,0:24:38.07,0:24:52.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}好厲害 要丟了… 要丟了…
+Dialogue: Marked=0,0:24:52.00,0:24:55.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}來了 接好了 安潔莉娜
+Dialogue: Marked=0,0:24:58.97,0:25:04.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}人類的精液全部射進來了
+Dialogue: Marked=0,0:25:05.10,0:25:07.68,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}裡面好緊哦 安潔莉娜
+Dialogue: Marked=0,0:25:08.73,0:25:14.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}太丟臉了 被人類這麼玩弄 太丟臉了
+Dialogue: Marked=0,0:25:14.77,0:25:18.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}算是獎勵吧 有個禮物給你
+Dialogue: Marked=0,0:25:19.45,0:25:20.20,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}禮物
+Dialogue: Marked=0,0:25:21.61,0:25:25.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這個…難道是 上次的
+Dialogue: Marked=0,0:25:26.45,0:25:31.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}這個是讓你快要高潮的時候就停下來的東西
+Dialogue: Marked=0,0:25:32.54,0:25:34.63,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}拿開 快拿開
+Dialogue: Marked=0,0:25:34.63,0:25:39.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}讓我們看看安潔莉娜能忍耐多久呢
+Dialogue: Marked=0,0:25:40.68,0:25:42.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}等著吧 克里斯
+Dialogue: Marked=0,0:25:44.39,0:25:46.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}還有你們這一族的所有
+Dialogue: Marked=0,0:25:47.10,0:25:49.60,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}我一定會讓你們走向破滅
+Dialogue: Marked=0,0:25:58.36,0:26:00.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\fs26\3c&H800080&\be1}連你的女兒一起

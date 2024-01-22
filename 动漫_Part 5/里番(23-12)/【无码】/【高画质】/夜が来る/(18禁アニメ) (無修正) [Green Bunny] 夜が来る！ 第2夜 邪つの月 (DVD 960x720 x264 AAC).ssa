@@ -1,0 +1,240 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,FZZhunYuan-M02,15,&HFFFFFF,&H00FFFF,&H000000,&H000000,0,0,1,2,1,2,5,5,2,0,1
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:05:05.16,0:05:06.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好热
+Dialogue: Marked=0,0:05:06.36,0:05:08.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不行  社团教室太热了
+Dialogue: Marked=0,0:05:11.56,0:05:14.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}星川  你也来啦？
+Dialogue: Marked=0,0:05:18.24,0:05:19.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉在找你哦
+Dialogue: Marked=0,0:05:20.37,0:05:23.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}校园祭  我们要推出星空咖啡厅
+Dialogue: Marked=0,0:05:23.18,0:05:25.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}准备的人手一直不足  还找不到你的人
+Dialogue: Marked=0,0:05:27.71,0:05:29.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}才华的光辉
+Dialogue: Marked=0,0:05:29.32,0:05:33.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是像水面上的蜻蜓一样  生命短暂的吗
+Dialogue: Marked=0,0:05:36.26,0:05:40.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}前几天  我喜欢的乐园突然解散
+Dialogue: Marked=0,0:05:40.54,0:05:44.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}听说团长的头被折断  无法东山再起...
+Dialogue: Marked=0,0:05:44.81,0:05:46.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}令人厌恶的事件
+Dialogue: Marked=0,0:05:56.55,0:06:00.16,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}他们的音乐已经永远消失了
+Dialogue: Marked=0,0:06:01.22,0:06:04.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}今天我还想穿丧服  悼念那个乐团呢
+Dialogue: Marked=0,0:06:09.77,0:06:12.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}竟敢连续两次激怒我
+Dialogue: Marked=0,0:06:12.70,0:06:13.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}平山
+Dialogue: Marked=0,0:06:14.04,0:06:19.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这次不是受伤而已  我要让你连命都丢了
+Dialogue: Marked=0,0:06:22.72,0:06:24.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}听见了没有
+Dialogue: Marked=0,0:06:26.99,0:06:29.80,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这就是你的心碎掉的声音
+Dialogue: Marked=0,0:06:30.33,0:06:32.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}圣修伯里
+Dialogue: Marked=0,0:06:30.33,0:06:32.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}註：サン・テグジュぺリ (Saint-Exupery) 聖修伯里是童話"小王子"作者
+Dialogue: Marked=0,0:06:47.95,0:06:49.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}界
+Dialogue: Marked=0,0:07:05.58,0:07:06.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}雷穿！
+Dialogue: Marked=0,0:07:13.85,0:07:14.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}消失了
+Dialogue: Marked=0,0:07:15.99,0:07:16.75,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那家伙
+Dialogue: Marked=0,0:07:16.79,0:07:18.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你认得那男人
+Dialogue: Marked=0,0:07:19.32,0:07:22.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}他是“音”乐团的歌手  叫做相岛努
+Dialogue: Marked=0,0:07:22.66,0:07:26.26,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}刚才被攻击的是团长平山
+Dialogue: Marked=0,0:07:32.67,0:07:34.40,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好的  快过来
+Dialogue: Marked=0,0:07:41.89,0:07:45.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}太过份了  手指骨都碎烂了
+Dialogue: Marked=0,0:07:45.49,0:07:48.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}以部长的力量  不知道能不能治好
+Dialogue: Marked=0,0:07:48.56,0:07:50.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我来试试看
+Dialogue: Marked=0,0:07:59.77,0:08:00.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}如何
+Dialogue: Marked=0,0:08:01.24,0:08:02.44,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}勉强还好
+Dialogue: Marked=0,0:08:03.11,0:08:08.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但是他受到的打击太大了  必须消除掉记忆才行
+Dialogue: Marked=0,0:08:11.65,0:08:12.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等一下
+Dialogue: Marked=0,0:08:15.12,0:08:17.66,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不...  我一直在想...
+Dialogue: Marked=0,0:08:17.79,0:08:21.80,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}把记忆消除掉真的好吗
+Dialogue: Marked=0,0:08:23.41,0:08:26.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这样真的对这个人好吗
+Dialogue: Marked=0,0:08:26.61,0:08:27.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是...
+Dialogue: Marked=0,0:08:27.68,0:08:29.28,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你在说什么天真的话
+Dialogue: Marked=0,0:08:29.41,0:08:31.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不消除记忆的话
+Dialogue: Marked=0,0:08:31.15,0:08:35.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这个人可能发疯  或是经常做恶梦
+Dialogue: Marked=0,0:08:35.02,0:08:36.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这样也好吗？
+Dialogue: Marked=0,0:08:36.49,0:08:37.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我知道
+Dialogue: Marked=0,0:08:39.02,0:08:40.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是...
+Dialogue: Marked=0,0:08:40.76,0:08:42.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}知道吗  星川
+Dialogue: Marked=0,0:08:43.03,0:08:44.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}消除掉吧
+Dialogue: Marked=0,0:08:50.37,0:08:53.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我...  可以了解他想说的意思
+Dialogue: Marked=0,0:09:00.92,0:09:03.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那个男人到底去哪了
+Dialogue: Marked=0,0:09:03.86,0:09:05.19,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}明明有打中他的
+Dialogue: Marked=0,0:09:09.20,0:09:10.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}畜牲...
+Dialogue: Marked=0,0:09:11.86,0:09:15.20,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}给我记住  那个臭女人
+Dialogue: Marked=0,0:09:20.67,0:09:22.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你们是谁
+Dialogue: Marked=0,0:09:22.68,0:09:25.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我是可以直接了结你的
+Dialogue: Marked=0,0:09:26.15,0:09:28.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但是你还有可利用价值
+Dialogue: Marked=0,0:09:28.95,0:09:29.88,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}野狗
+Dialogue: Marked=0,0:09:30.28,0:09:33.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我给你新的力量
+Dialogue: Marked=0,0:09:34.29,0:09:36.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}让你报仇
+Dialogue: Marked=0,0:09:37.10,0:09:39.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你就接下这个力量吧
+Dialogue: Marked=0,0:09:45.37,0:09:48.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真是  有够麻烦的
+Dialogue: Marked=0,0:09:48.71,0:09:50.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是这里了
+Dialogue: Marked=0,0:09:54.85,0:09:57.39,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}以上是今天为止的调查进度
+Dialogue: Marked=0,0:09:57.92,0:09:59.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}老实说  这样下去
+Dialogue: Marked=0,0:09:59.92,0:10:03.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们社团的星空咖啡厅  是赶不上学园祭的
+Dialogue: Marked=0,0:10:07.00,0:10:08.20,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真是...
+Dialogue: Marked=0,0:10:08.60,0:10:09.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}三轮阪同学
+Dialogue: Marked=0,0:10:09.93,0:10:12.47,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}咖啡厅制服制作得还顺利吧
+Dialogue: Marked=0,0:10:12.74,0:10:13.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是
+Dialogue: Marked=0,0:10:14.07,0:10:18.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}新开  秋天风景的装饰品呢
+Dialogue: Marked=0,0:10:19.02,0:10:20.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}包在我身上
+Dialogue: Marked=0,0:10:20.49,0:10:23.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不过人手真的不足呀
+Dialogue: Marked=0,0:10:23.82,0:10:27.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那么就抓那个闲闲的  在那儿偷窥的人怎样？
+Dialogue: Marked=0,0:10:30.23,0:10:33.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}等一下  为什么找我
+Dialogue: Marked=0,0:10:33.17,0:10:34.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}百濑
+Dialogue: Marked=0,0:10:34.50,0:10:35.43,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是谁？
+Dialogue: Marked=0,0:10:36.50,0:10:38.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我是三轮阪的同学....
+Dialogue: Marked=0,0:10:39.57,0:10:41.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们也是人数不足
+Dialogue: Marked=0,0:10:44.11,0:10:45.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我来找三轮阪帮忙的
+Dialogue: Marked=0,0:10:46.51,0:10:48.11,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}请问可以借她吗？
+Dialogue: Marked=0,0:10:48.51,0:10:49.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}当然不可以！
+Dialogue: Marked=0,0:11:04.27,0:11:05.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这里啦  这里
+Dialogue: Marked=0,0:11:05.61,0:11:06.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起  让你等了
+Dialogue: Marked=0,0:11:07.08,0:11:08.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也刚刚才到啦
+Dialogue: Marked=0,0:11:09.49,0:11:12.25,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}今天乔姐姐社团的  星空咖啡厅真热闹
+Dialogue: Marked=0,0:11:12.28,0:11:13.75,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也想帮忙
+Dialogue: Marked=0,0:11:28.56,0:11:31.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真琴  今天就别太花哨
+Dialogue: Marked=0,0:11:31.37,0:11:33.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}把这个解下来吧
+Dialogue: Marked=0,0:11:33.37,0:11:35.78,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}抱歉  我睡过头了
+Dialogue: Marked=0,0:11:37.77,0:11:40.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}让你久等了  我换好了
+Dialogue: Marked=0,0:11:55.00,0:11:57.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}真好  太好了
+Dialogue: Marked=0,0:11:58.20,0:12:01.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}百濑  你是何时加入天文部的
+Dialogue: Marked=0,0:12:01.27,0:12:03.68,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不在乎我们社团生死吗
+Dialogue: Marked=0,0:12:29.71,0:12:31.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我送光一回去了
+Dialogue: Marked=0,0:12:31.85,0:12:33.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}今天真是谢谢你
+Dialogue: Marked=0,0:12:34.12,0:12:35.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}路上小心
+Dialogue: Marked=0,0:12:35.18,0:12:35.99,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}走吧
+Dialogue: Marked=0,0:12:43.73,0:12:46.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}陪班上的笨蛋累死了
+Dialogue: Marked=0,0:12:51.20,0:12:52.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}三轮阪！
+Dialogue: Marked=0,0:12:56.97,0:12:58.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}痛痛痛...
+Dialogue: Marked=0,0:13:00.15,0:13:02.15,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}混帐  你在干什么
+Dialogue: Marked=0,0:13:05.09,0:13:06.04,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可恶
+Dialogue: Marked=0,0:13:08.83,0:13:11.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你果然来了  臭女人
+Dialogue: Marked=0,0:13:20.17,0:13:20.97,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}百濑
+Dialogue: Marked=0,0:13:32.05,0:13:33.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这女人在我手上
+Dialogue: Marked=0,0:13:33.52,0:13:36.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}想救人的话  就到车站前的 Live House
+Dialogue: Marked=0,0:13:38.86,0:13:43.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可恶  都是我的错  如果那时候把他打倒
+Dialogue: Marked=0,0:13:43.27,0:13:45.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好痛...  那家伙是谁呀
+Dialogue: Marked=0,0:13:46.34,0:13:47.94,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}百濑  你没事吧
+Dialogue: Marked=0,0:13:48.21,0:13:49.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}三轮阪呢
+Dialogue: Marked=0,0:13:49.68,0:13:52.61,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}被抓走了  我去追他
+Dialogue: Marked=0,0:13:52.75,0:13:55.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你暂时能撑一下吧
+Dialogue: Marked=0,0:13:56.09,0:13:57.29,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}勉强还行
+Dialogue: Marked=0,0:13:57.55,0:14:01.82,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好  等乔他们回来了  你帮我转告他们
+Dialogue: Marked=0,0:14:02.49,0:14:05.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}地点是车站前的 Live House
+Dialogue: Marked=0,0:14:05.69,0:14:06.76,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}知道了
+Dialogue: Marked=0,0:14:07.16,0:14:08.10,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}拜托你了哦
+Dialogue: Marked=0,0:14:14.10,0:14:15.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}干得好
+Dialogue: Marked=0,0:14:15.70,0:14:19.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}要怎样对那女人报仇  就随便你了
+Dialogue: Marked=0,0:14:39.47,0:14:42.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉  真言美她...
+Dialogue: Marked=0,0:14:42.14,0:14:44.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}亮  拜托你
+Dialogue: Marked=0,0:14:44.07,0:14:46.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}跟我走  什么都不要问
+Dialogue: Marked=0,0:14:46.66,0:14:48.08,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}嗯
+Dialogue: Marked=0,0:15:03.24,0:15:04.71,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}三轮阪在哪里？
+Dialogue: Marked=0,0:15:05.11,0:15:07.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不在这里
+Dialogue: Marked=0,0:15:07.91,0:15:10.85,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}她只是引你出来的诱饵
+Dialogue: Marked=0,0:15:15.38,0:15:16.45,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你说什么!?
+Dialogue: Marked=0,0:16:03.04,0:16:04.11,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}哥哥
+Dialogue: Marked=0,0:16:14.65,0:16:15.85,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉
+Dialogue: Marked=0,0:16:16.27,0:16:17.86,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没想到你会在这里
+Dialogue: Marked=0,0:16:18.40,0:16:20.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没办法  死吧！
+Dialogue: Marked=0,0:17:04.59,0:17:06.59,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}很少使用吗
+Dialogue: Marked=0,0:17:07.13,0:17:10.73,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}看你身材这么高大  里面却如此狭小
+Dialogue: Marked=0,0:17:37.69,0:17:40.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这只是刚开始哦
+Dialogue: Marked=0,0:17:45.57,0:17:48.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}最近都运动不足呀
+Dialogue: Marked=0,0:18:15.07,0:18:17.34,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}放开小泉！
+Dialogue: Marked=0,0:18:29.36,0:18:32.56,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}难道你的意志  可以贯穿我们的命运
+Dialogue: Marked=0,0:18:32.70,0:18:34.30,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}哥哥
+Dialogue: Marked=0,0:18:36.57,0:18:41.24,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉  别把外人卷入火者与光狩的纠纷
+Dialogue: Marked=0,0:18:41.37,0:18:43.64,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你不想多流无益的血吧
+Dialogue: Marked=0,0:18:47.65,0:18:50.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}言灵只限于这次使用
+Dialogue: Marked=0,0:18:54.59,0:18:56.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}那个人是小泉你的...
+Dialogue: Marked=0,0:18:57.00,0:18:59.27,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起  我一直没有说
+Dialogue: Marked=0,0:19:02.07,0:19:03.98,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都在担心  回去吧
+Dialogue: Marked=0,0:19:11.41,0:19:13.68,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}第二个也不是
+Dialogue: Marked=0,0:19:14.22,0:19:16.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你们的实力只有这一点吗
+Dialogue: Marked=0,0:19:18.75,0:19:21.69,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没礼貌的人  我们只是太大意而已
+Dialogue: Marked=0,0:19:21.82,0:19:25.03,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}唉  最后的对手是你吗
+Dialogue: Marked=0,0:19:25.29,0:19:26.63,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}太令人失望了
+Dialogue: Marked=0,0:19:27.20,0:19:28.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}次郎！
+Dialogue: Marked=0,0:19:32.63,0:19:33.93,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不会吧!?
+Dialogue: Marked=0,0:19:33.97,0:19:37.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}而且你的记忆被抹失过一次
+Dialogue: Marked=0,0:19:38.11,0:19:41.05,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你不记得自己是为何而战的
+Dialogue: Marked=0,0:19:41.72,0:19:42.92,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对吧？
+Dialogue: Marked=0,0:19:43.19,0:19:44.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}比使魔还不如
+Dialogue: Marked=0,0:19:45.59,0:19:46.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}死吧
+Dialogue: Marked=0,0:19:54.13,0:19:55.33,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}百濑
+Dialogue: Marked=0,0:19:59.47,0:20:00.41,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉
+Dialogue: Marked=0,0:20:00.54,0:20:02.01,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}三轮阪也...
+Dialogue: Marked=0,0:20:02.67,0:20:05.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你是怎么了  浑身是伤
+Dialogue: Marked=0,0:20:05.88,0:20:07.21,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我没事
+Dialogue: Marked=0,0:20:07.48,0:20:10.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但是大姐为了救她
+Dialogue: Marked=0,0:20:10.55,0:20:12.55,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}去车站前的 Live House 还没回来
+Dialogue: Marked=0,0:20:12.55,0:20:13.75,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}很不妙呀
+Dialogue: Marked=0,0:20:34.32,0:20:36.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}你很喜欢嘛
+Dialogue: Marked=0,0:20:37.25,0:20:42.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但我想听的...  不是这样的声音
+Dialogue: Marked=0,0:20:54.74,0:20:57.54,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我会让你轻松的
+Dialogue: Marked=0,0:20:59.82,0:21:02.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没中...
+Dialogue: Marked=0,0:21:02.62,0:21:03.69,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可惜
+Dialogue: Marked=0,0:22:24.72,0:22:28.06,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都没有生命危险的样子
+Dialogue: Marked=0,0:22:37.67,0:22:41.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}没事的  那些人很健壮的
+Dialogue: Marked=0,0:22:48.08,0:22:50.62,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉  我...
+Dialogue: Marked=0,0:22:51.02,0:22:55.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}不想看你一个人独自痛苦
+Dialogue: Marked=0,0:22:55.55,0:22:57.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}就算发生无可抗拒的事
+Dialogue: Marked=0,0:22:57.82,0:23:03.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我也想减轻你的痛苦  与命运的重量
+Dialogue: Marked=0,0:23:43.22,0:23:45.36,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我在医院遇到平山
+Dialogue: Marked=0,0:23:46.29,0:23:48.96,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}他说无论如何  会继续搞音乐下去
+Dialogue: Marked=0,0:23:50.16,0:23:51.50,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}太好了
+Dialogue: Marked=0,0:23:51.90,0:23:53.77,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我知道你要找我谈什么
+Dialogue: Marked=0,0:23:54.03,0:23:56.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}想消除我们的记忆是吧
+Dialogue: Marked=0,0:23:59.10,0:24:01.51,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}就算不愿意  现在的我...
+Dialogue: Marked=0,0:24:02.04,0:24:04.18,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}也无法可走
+Dialogue: Marked=0,0:24:07.65,0:24:09.65,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}好啊  你下手吧
+Dialogue: Marked=0,0:24:27.41,0:24:28.84,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}是啊
+Dialogue: Marked=0,0:24:28.88,0:24:31.81,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}爸爸  妈妈  小泉
+Dialogue: Marked=0,0:24:32.21,0:24:34.35,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}大家都一直假装不知道
+Dialogue: Marked=0,0:24:42.09,0:24:44.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}为什么消除我的记忆
+Dialogue: Marked=0,0:24:45.16,0:24:46.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我到底是谁？
+Dialogue: Marked=0,0:24:47.16,0:24:50.37,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我是为什么与光狩作战的
+Dialogue: Marked=0,0:24:50.77,0:24:51.70,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}还给我
+Dialogue: Marked=0,0:24:52.23,0:24:54.90,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}把我的记忆还给我
+Dialogue: Marked=0,0:25:18.94,0:25:20.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}小泉
+Dialogue: Marked=0,0:25:24.14,0:25:26.14,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起  突然找你出来
+Dialogue: Marked=0,0:25:28.68,0:25:31.35,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}白天...  我去看大家的情况
+Dialogue: Marked=0,0:25:32.15,0:25:33.89,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}每个都失去了记忆
+Dialogue: Marked=0,0:25:34.15,0:25:37.09,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}新开  星川  镜花也是
+Dialogue: Marked=0,0:25:37.76,0:25:40.57,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我们...  是为什么在战斗的
+Dialogue: Marked=0,0:25:41.77,0:25:45.24,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}看到光狩附在后藤身上
+Dialogue: Marked=0,0:25:45.51,0:25:47.38,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我觉得他们不可原谅
+Dialogue: Marked=0,0:25:48.31,0:25:52.58,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}想打倒那样子  利用人类的寂寞的光狩
+Dialogue: Marked=0,0:25:53.51,0:25:57.79,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我以为自己是凭自己的意志  为创造自己的位置而作战的
+Dialogue: Marked=0,0:25:58.05,0:26:00.32,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}可是看来并不是那样
+Dialogue: Marked=0,0:26:00.86,0:26:02.72,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}这次的事情让我察觉到
+Dialogue: Marked=0,0:26:03.39,0:26:07.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我是因为小泉你  才决定一起作战的
+Dialogue: Marked=0,0:26:08.20,0:26:11.53,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}与光狩的战争  可能不会轻易结束吧
+Dialogue: Marked=0,0:26:13.00,0:26:16.07,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}但是小泉背负的痛苦
+Dialogue: Marked=0,0:26:16.35,0:26:18.48,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}若是我能够与你一起担当
+Dialogue: Marked=0,0:26:19.14,0:26:21.02,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我愿意作战
+Dialogue: Marked=0,0:26:21.69,0:26:22.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我...
+Dialogue: Marked=0,0:26:23.42,0:26:26.49,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}因为我喜欢小泉
+Dialogue: Marked=0,0:26:28.49,0:26:29.83,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}亮
+Dialogue: Marked=0,0:26:34.90,0:26:36.23,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}终于说出口了
+Dialogue: Marked=0,0:26:37.17,0:26:39.17,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}我喜欢你  小泉
+Dialogue: Marked=0,0:26:51.58,0:26:54.12,Default,NTP,0000,0000,0000,!Effect,{\fnKaiTi\b1}对不起  亮
+

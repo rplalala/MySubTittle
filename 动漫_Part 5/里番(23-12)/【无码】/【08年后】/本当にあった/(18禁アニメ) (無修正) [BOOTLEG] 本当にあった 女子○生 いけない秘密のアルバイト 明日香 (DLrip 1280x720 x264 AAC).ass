@@ -1,0 +1,99 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: Default Aegisub file
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,18,&H00FFFFFF,&H00000000,&H00800380,&HFF000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,5,1
+Style: Default2,Microsoft YaHei,48,&H00FFFFFF,&H00000000,&HFF800380,&HFF000000,-1,0,0,0,100,100,0,0,1,5,2,2,10,10,5,1
+Style: Default3,Microsoft YaHei,48,&H00000000,&H00000000,&H00FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,1,5,2,2,10,10,5,1
+Style: back5,Microsoft YaHei,18,&H00FFFFFF,&H00000000,&H00800380,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: Default_m,Microsoft YaHei,18,&H00FFFFFF,&HF00000FF,&H00800380,&HF0000000,0,0,0,0,100,100,0,0,1,2,0,2,30,30,10,134
+Style: title,Microsoft YaHei,48,&H00660DAE,&HF0000000,&HFFFFFFFF,&HF0000000,-1,0,0,0,100,100,0,0,1,5,0,8,30,30,10,134
+Style: staff,Microsoft YaHei,48,&H00660DAE,&HF0000000,&H00FFFFFF,&HF0000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,10,134
+Style: Default-720,Microsoft YaHei,48,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0,1,5,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:03.88,0:02:05.36,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}铃木明日香
+Dialogue: 0,0:02:05.65,0:02:08.09,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}将来的梦想是 想成为女演员
+Dialogue: 0,0:02:10.20,0:02:11.30,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}秘密~
+Dialogue: 0,0:02:18.44,0:02:19.08,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}从上开始
+Dialogue: 0,0:02:19.08,0:02:20.27,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}75
+Dialogue: 0,0:02:22.41,0:02:23.46,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}53
+Dialogue: 0,0:02:27.47,0:02:28.76,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}76
+Dialogue: 0,0:02:33.16,0:02:34.59,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}那个不行
+Dialogue: 0,0:02:35.34,0:02:36.48,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}绝对不告诉你
+Dialogue: 0,0:02:40.91,0:02:43.20,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}在包里哦
+Dialogue: 0,0:02:48.71,0:02:49.04,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}嗯
+Dialogue: 0,0:03:28.64,0:03:31.09,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}真的要用嘴做吗
+Dialogue: 0,0:03:36.23,0:03:38.69,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}真是的 只给口哦
+Dialogue: 0,0:03:39.25,0:03:40.89,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}不让艹的
+Dialogue: 0,0:04:40.04,0:04:42.70,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}太大了 嘴都累了
+Dialogue: 0,0:04:58.75,0:04:59.45,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}好厉害
+Dialogue: 0,0:06:05.78,0:06:08.34,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}好浓 味道好重啊
+Dialogue: 0,0:06:11.08,0:06:13.44,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}怎么样 爽吗
+Dialogue: 0,0:06:47.20,0:06:49.09,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}那种事无所谓啦
+Dialogue: 0,0:06:58.20,0:07:00.60,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}因为胸部被摸了啊
+Dialogue: 0,0:07:21.66,0:07:25.10,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}也没有那么舒服啦
+Dialogue: 0,0:07:44.47,0:07:46.59,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}好舒服啊
+Dialogue: 0,0:08:16.75,0:08:18.42,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}那里 不行
+Dialogue: 0,0:08:19.18,0:08:20.59,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}要变得奇怪了
+Dialogue: 0,0:08:22.54,0:08:25.46,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}G点被玩弄着 好爽
+Dialogue: 0,0:08:44.60,0:08:47.09,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}不行了
+Dialogue: 0,0:10:08.08,0:10:11.91,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}啊 很害羞的 不要盯着看
+Dialogue: 0,0:10:49.64,0:10:52.44,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}不是说好了 不能来真的..么..
+Dialogue: 0,0:11:23.44,0:11:26.33,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}但是要好好把套带上哦
+Dialogue: 0,0:11:54.99,0:11:57.04,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}突然 那么
+Dialogue: 0,0:12:27.40,0:12:30.69,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}那种事..就算你这么说..
+Dialogue: 0,0:12:32.47,0:12:33.85,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}这么激烈..
+Dialogue: 0,0:12:35.28,0:12:37.80,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}不行了 会发出声音的
+Dialogue: 0,0:12:48.13,0:12:50.96,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}这么激烈的还是第一次
+Dialogue: 0,0:13:56.68,0:13:58.59,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}诶？！ 还来么
+Dialogue: 0,0:13:58.91,0:14:00.74,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}我已经到极限了
+Dialogue: 0,0:14:01.09,0:14:03.04,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}诶 没带套啊
+Dialogue: 0,0:14:03.55,0:14:05.79,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}等等 真的别闹啊
+Dialogue: 0,0:14:06.31,0:14:08.16,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}不行
+Dialogue: 0,0:14:11.00,0:14:13.50,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}都说了不行的
+Dialogue: 0,0:14:50.07,0:14:57.29,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}就这样 射在里面..是不行的啊
+Dialogue: 0,0:15:42.90,0:15:47.29,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}去了..要去了..
+Dialogue: 0,0:15:52.08,0:15:55.56,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}射的时候一定要把鸡鸡拔出去
+Dialogue: 0,0:15:55.86,0:15:57.61,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}一定要拔出去呀
+Dialogue: 0,0:16:24.64,0:16:28.30,Default-720,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}都说了要把鸡鸡拔出去了。。
+Dialogue: 0,0:01:56.63,0:02:01.26,Default2,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「那么 从自我介绍开始」
+Dialogue: 0,0:02:31.13,0:02:32.97,Default2,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「体重是？」
+Dialogue: 0,0:03:34.15,0:03:35.90,Default2,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「拜托了」
+Dialogue: 0,0:02:08.28,0:02:09.64,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「三围是」
+Dialogue: 0,0:02:11.48,0:02:14.14,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「别闹了 告诉我吧~」
+Dialogue: 0,0:02:36.97,0:02:40.38,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「拜托你的东西带来了吗？」
+Dialogue: 0,0:02:43.47,0:02:47.68,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「OK！那么走吧」
+Dialogue: 0,0:06:37.12,0:06:46.13,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「作为口交的回礼 这次换我来侍奉明日香酱哦」
+Dialogue: 0,0:06:54.06,0:06:57.56,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「有感觉了？」
+Dialogue: 0,0:07:18.08,0:07:21.92,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「舒服吗？」
+Dialogue: 0,0:08:04.50,0:08:08.75,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「明日香酱的小穴好紧 手指被吸住了一样」
+Dialogue: 0,0:08:12.22,0:08:13.93,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「G点发现」
+Dialogue: 0,0:10:41.66,0:10:48.87,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「都湿成这样了 不来一炮么？」
+Dialogue: 0,0:10:55.50,0:11:03.05,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「都已经到这种地步 插不插进去都一个意思吧？」
+Dialogue: 0,0:11:47.76,0:11:50.93,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「果然好紧」
+Dialogue: 0,0:12:22.97,0:12:26.80,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「墙那么薄 没准邻居会听见的哦？」
+Dialogue: 0,0:13:10.14,0:13:15.81,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「明日香酱的小穴太舒服了 要射了哦」
+Dialogue: 0,0:15:47.75,0:15:51.55,Default3,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「好啊 让我看看明日香酱的高潮脸」
+Dialogue: 0,0:01:44.08,0:01:53.20,staff,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}翻译：の 时轴：マキゲ君 校对：Matrix7 后期：RXS
+Dialogue: 0,0:01:44.08,0:01:53.20,title,,0,0,0,,{\bord2\shad2\2c&H00FFFF&\be1}「真的存在」女○中生 不能去做的秘密兼职 明日香
+

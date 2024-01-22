@@ -1,0 +1,218 @@
+﻿[Script Info]
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:1280
+PlayResY:720
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,42,&H00FFFFFF,&HF0000000,&H00800080,&HF0000000,-1,0,0,0,100,100,0,0.00,1,2,0,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.01,0:00:20.12,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:00:20.62,0:00:22.52,Default,NTP,0,0,0,,真的換上了嗎
+Dialogue: 0,0:00:22.99,0:00:26.19,Default,NTP,0,0,0,,恩 在車站的洗手間裡 你看
+Dialogue: 0,0:00:27.49,0:00:32.56,Default,NTP,0,0,0,,那個 是那時候的
+Dialogue: 0,0:00:35.23,0:00:40.30,Default,NTP,0,0,0,,對 這是以前在酒店做的時候的非常H的內衣
+Dialogue: 0,0:00:43.04,0:00:45.77,Default,NTP,0,0,0,,對不起 讓你看到我這個樣子
+Dialogue: 0,0:00:46.71,0:00:51.71,Default,NTP,0,0,0,,這個 這麼害羞的內衣 之前一次都沒穿過
+Dialogue: 0,0:00:55.18,0:01:00.32,Default,NTP,0,0,0,,從那之後一年 我和巧君又回到了曾經來過的地方
+Dialogue: 0,0:01:02.79,0:01:03.63,Default,NTP,0,0,0,,走吧
+Dialogue: 0,0:02:53.90,0:03:00.98,Default,NTP,0,0,0,,直到現在只是想起那時候的事 身體還會變得很熱
+Dialogue: 0,0:03:02.01,0:03:06.95,Default,NTP,0,0,0,,我在巧君的面前做了那麼多下流的事
+Dialogue: 0,0:03:08.02,0:03:10.69,Default,NTP,0,0,0,,用按摩棒插進菊花裡來H
+Dialogue: 0,0:03:15.32,0:03:18.46,Default,NTP,0,0,0,,巧君 看著我 看著我
+Dialogue: 0,0:03:20.33,0:03:22.16,Default,NTP,0,0,0,,前…前輩
+Dialogue: 0,0:03:24.00,0:03:28.20,Default,NTP,0,0,0,,身體裡像被攪翻了一樣
+Dialogue: 0,0:03:34.91,0:03:36.28,Default,NTP,0,0,0,,這邊也要…
+Dialogue: 0,0:03:37.11,0:03:41.22,Default,NTP,0,0,0,,前輩 怎麼這樣 不用勉強也…
+Dialogue: 0,0:03:51.46,0:04:00.07,Default,NTP,0,0,0,,只是聞巧君的肉棒的味道 小穴就濕得一塌糊塗了 我…
+Dialogue: 0,0:04:00.30,0:04:01.20,Default,NTP,0,0,0,,前輩
+Dialogue: 0,0:04:10.55,0:04:13.05,Default,NTP,0,0,0,,巧君 那裡
+Dialogue: 0,0:04:19.39,0:04:24.03,Default,NTP,0,0,0,,舌…舌頭進來了 就…就要不行了
+Dialogue: 0,0:04:24.66,0:04:26.79,Default,NTP,0,0,0,,前輩 我…
+Dialogue: 0,0:04:32.67,0:04:37.34,Default,NTP,0,0,0,,巧君 在我的屁股上硬起來了
+Dialogue: 0,0:04:39.37,0:04:45.18,Default,NTP,0,0,0,,巧君 求你了 別吊我胃口了 給我吧
+Dialogue: 0,0:04:51.49,0:04:54.06,Default,NTP,0,0,0,,還…下行
+Dialogue: 0,0:04:57.63,0:05:00.90,Default,NTP,0,0,0,,想要…想要巧君的啊
+Dialogue: 0,0:05:10.00,0:05:12.91,Default,NTP,0,0,0,,討厭 那裡已經濕了
+Dialogue: 0,0:05:13.54,0:05:14.74,Default,NTP,0,0,0,,前輩 巧君
+Dialogue: 0,0:05:15.38,0:05:20.72,Default,NTP,0,0,0,,怎麼辦 穿成這個樣子 要是被誰發現了的話
+Dialogue: 0,0:05:21.98,0:05:24.85,Default,NTP,0,0,0,,我肯定會被大家侵犯的
+Dialogue: 0,0:05:26.85,0:05:32.56,Default,NTP,0,0,0,,那個時候 更激烈點 啊…我不行了 腦袋裡一片混亂了
+Dialogue: 0,0:05:43.07,0:05:46.74,Default,NTP,0,0,0,,去…去公園吧 早紀姐
+Dialogue: 0,0:06:07.56,0:06:09.40,Default,NTP,0,0,0,,濕…濕掉了
+Dialogue: 0,0:06:11.23,0:06:15.74,Default,NTP,0,0,0,,錄像 巧君已經在拍錄像了嗎
+Dialogue: 0,0:06:16.64,0:06:19.17,Default,NTP,0,0,0,,是…
+Dialogue: 0,0:06:27.75,0:06:28.95,Default,NTP,0,0,0,,好害羞
+Dialogue: 0,0:06:47.03,0:06:50.04,Default,NTP,0,0,0,,勃…勃起得好厲害呢
+Dialogue: 0,0:06:51.17,0:06:54.71,Default,NTP,0,0,0,,我的乳頭勃起了呢
+Dialogue: 0,0:07:09.16,0:07:14.50,Default,NTP,0,0,0,,小…小穴也濕答答的 好下流啊
+Dialogue: 0,0:07:16.86,0:07:18.57,Default,NTP,0,0,0,,已經濕答答了
+Dialogue: 0,0:07:19.63,0:07:25.21,Default,NTP,0,0,0,,不行 明明這麼害羞 被攝像機照著就會變得越來越舒服
+Dialogue: 0,0:07:35.68,0:07:39.89,Default,NTP,0,0,0,,巧君 這個錄像要怎麼處理
+Dialogue: 0,0:07:42.99,0:07:48.40,Default,NTP,0,0,0,,看好多好多遍來自慰
+Dialogue: 0,0:07:49.10,0:07:51.73,Default,NTP,0,0,0,,來做吧
+Dialogue: 0,0:07:55.04,0:07:57.97,Default,NTP,0,0,0,,拍下來 把我的工口的地方
+Dialogue: 0,0:07:58.11,0:07:59.81,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:08:01.84,0:08:07.38,Default,NTP,0,0,0,,巧君看著我下流的樣子自慰呢
+Dialogue: 0,0:08:09.02,0:08:15.22,Default,NTP,0,0,0,,像那樣 摩擦著肉棒一下子射出好多好多
+Dialogue: 0,0:08:19.03,0:08:20.56,Default,NTP,0,0,0,,好舒服啊
+Dialogue: 0,0:08:25.97,0:08:34.11,Default,NTP,0,0,0,,總覺得像被攝像機和巧君侵犯一樣
+Dialogue: 0,0:08:38.95,0:08:41.32,Default,NTP,0,0,0,,早紀姐 要去了啊
+Dialogue: 0,0:08:44.72,0:08:49.56,Default,NTP,0,0,0,,拍下來 把我要去了的地方拍得清清楚楚
+Dialogue: 0,0:09:07.71,0:09:10.28,Default,NTP,0,0,0,,吶 去洗手間吧
+Dialogue: 0,0:09:20.95,0:09:27.23,Default,NTP,0,0,0,,巧君還記得嗎 我們第一次在這做的時候
+Dialogue: 0,0:09:28.63,0:09:34.07,Default,NTP,0,0,0,,是 不會忘記的 這充滿回憶的地方
+Dialogue: 0,0:09:41.51,0:09:45.91,Default,NTP,0,0,0,,那個時候 在自慰的我被巧君看到了
+Dialogue: 0,0:09:47.25,0:09:50.32,Default,NTP,0,0,0,,突然就被你推倒了呢
+Dialogue: 0,0:09:54.45,0:10:01.56,Default,NTP,0,0,0,,雖然一開始嚇了一跳 但其實心怦怦地跳 感覺很興奮的
+Dialogue: 0,0:10:03.26,0:10:05.07,Default,NTP,0,0,0,,對…對不起
+Dialogue: 0,0:10:05.73,0:10:11.41,Default,NTP,0,0,0,,雖然很害羞而且沒有辦法 卻又很舒服停不下來
+Dialogue: 0,0:10:12.21,0:10:13.41,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:10:20.45,0:10:22.52,Default,NTP,0,0,0,,不要玩弄了
+Dialogue: 0,0:10:28.06,0:10:30.26,Default,NTP,0,0,0,,不行 不能看
+Dialogue: 0,0:10:41.23,0:10:44.40,Default,NTP,0,0,0,,巧君 快停下 很髒的
+Dialogue: 0,0:10:50.78,0:10:54.41,Default,NTP,0,0,0,,不行 巧君 不行
+Dialogue: 0,0:10:58.69,0:11:00.29,Default,NTP,0,0,0,,不行啊
+Dialogue: 0,0:11:09.63,0:11:18.04,Default,NTP,0,0,0,,巧君求求你 更多…更多地插我吧
+Dialogue: 0,0:11:22.64,0:11:27.01,Default,NTP,0,0,0,,那麼激烈的話會壞掉的啊
+Dialogue: 0,0:11:30.72,0:11:34.32,Default,NTP,0,0,0,,前輩 前輩 前輩
+Dialogue: 0,0:11:37.62,0:11:39.63,Default,NTP,0,0,0,,不行
+Dialogue: 0,0:11:41.13,0:11:45.83,Default,NTP,0,0,0,,我快忍不住了 前輩 前輩 前輩
+Dialogue: 0,0:12:07.05,0:12:08.19,Default,NTP,0,0,0,,久等了
+Dialogue: 0,0:12:09.96,0:12:13.73,Default,NTP,0,0,0,,這個是今天社團活動穿過的
+Dialogue: 0,0:12:14.03,0:12:18.57,Default,NTP,0,0,0,,今天也出了很多汗 所以味道很濃哦
+Dialogue: 0,0:12:20.70,0:12:22.54,Default,NTP,0,0,0,,早…早紀姐
+Dialogue: 0,0:12:26.24,0:12:27.11,Default,NTP,0,0,0,,早紀姐！
+Dialogue: 0,0:12:38.08,0:12:44.92,Default,NTP,0,0,0,,那個時候只做了一次就結束了 其實我還想做很多次的
+Dialogue: 0,0:12:45.33,0:12:46.49,Default,NTP,0,0,0,,我也是
+Dialogue: 0,0:12:50.40,0:12:53.40,Default,NTP,0,0,0,,早紀姐各種味道都聞到了
+Dialogue: 0,0:12:53.87,0:12:59.14,Default,NTP,0,0,0,,巧君 今天給我更多更多吧
+Dialogue: 0,0:13:13.82,0:13:18.02,Default,NTP,0,0,0,,好舒服 好舒服啊 舔我吧 更多地舔我吧
+Dialogue: 0,0:13:19.56,0:13:23.13,Default,NTP,0,0,0,,早紀姐的這裡非常的下流
+Dialogue: 0,0:13:29.70,0:13:32.17,Default,NTP,0,0,0,,早紀姐 我…
+Dialogue: 0,0:13:32.44,0:13:35.71,Default,NTP,0,0,0,,巧君 我也要…
+Dialogue: 0,0:13:51.06,0:13:52.63,Default,NTP,0,0,0,,早…早紀姐
+Dialogue: 0,0:14:05.61,0:14:07.41,Default,NTP,0,0,0,,好舒服 好舒服啊
+Dialogue: 0,0:14:08.84,0:14:13.65,Default,NTP,0,0,0,,真爽 好爽啊
+Dialogue: 0,0:14:15.98,0:14:17.98,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:14:22.16,0:14:25.76,Default,NTP,0,0,0,,乳頭…乳頭好舒服
+Dialogue: 0,0:14:29.36,0:14:30.70,Default,NTP,0,0,0,,好激烈
+Dialogue: 0,0:14:35.43,0:14:38.57,Default,NTP,0,0,0,,裡面…插到裡面了
+Dialogue: 0,0:14:41.34,0:14:45.08,Default,NTP,0,0,0,,我…被搞的好舒服 被搞的舒服得一塌糊塗啊
+Dialogue: 0,0:14:48.55,0:14:49.55,Default,NTP,0,0,0,,不行了
+Dialogue: 0,0:15:17.88,0:15:19.41,Default,NTP,0,0,0,,就要不行了
+Dialogue: 0,0:15:20.68,0:15:26.62,Default,NTP,0,0,0,,要…要去了 去了啊
+Dialogue: 0,0:15:35.03,0:15:41.53,Default,NTP,0,0,0,,那之後 我們兩人都無法停止一次又一次地H
+Dialogue: 0,0:15:44.74,0:15:47.47,Default,NTP,0,0,0,,總覺得做了好多呢
+Dialogue: 0,0:15:47.71,0:15:49.04,Default,NTP,0,0,0,,因為是紀念日嘛
+Dialogue: 0,0:15:49.34,0:15:50.78,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:15:52.11,0:16:02.35,Default,NTP,0,0,0,,這個給你 一週年的禮物 雖然弄壞了呢
+Dialogue: 0,0:16:06.56,0:16:09.90,Default,NTP,0,0,0,,早紀姐的味道 好濃
+Dialogue: 0,0:16:10.00,0:16:12.23,Default,NTP,0,0,0,,今後也多多關照了呢
+Dialogue: 0,0:16:12.43,0:16:13.50,Default,NTP,0,0,0,,早紀姐
+Dialogue: 0,0:16:15.90,0:16:18.04,Default,NTP,0,0,0,,我 還想…
+Dialogue: 0,0:16:18.77,0:16:20.34,Default,NTP,0,0,0,,恩 做吧
+Dialogue: 0,0:16:26.15,0:16:28.88,Default,NTP,0,0,0,,大．姐．姐
+Dialogue: 0,0:16:31.12,0:16:41.99,Default,NTP,0,0,0,,正和 吶 正和 沐浴乳沒有了
+Dialogue: 0,0:16:43.63,0:16:47.07,Default,NTP,0,0,0,,吶 還沒好吧
+Dialogue: 0,0:16:47.83,0:16:50.10,Default,NTP,0,0,0,,什麼啊 好煩誒
+Dialogue: 0,0:16:53.64,0:16:56.11,Default,NTP,0,0,0,,好啦 快點給我
+Dialogue: 0,0:16:59.68,0:17:00.71,Default,NTP,0,0,0,,幹什麼呢
+Dialogue: 0,0:17:04.42,0:17:06.02,Default,NTP,0,0,0,,THANK YOU
+Dialogue: 0,0:17:11.76,0:17:14.53,Default,NTP,0,0,0,,自己準備好再進去啊
+Dialogue: 0,0:17:22.67,0:17:27.67,Default,NTP,0,0,0,,美人的大姐姐 而且是不是親姐姐的兩人居住的生活
+Dialogue: 0,0:17:27.91,0:17:33.38,Default,NTP,0,0,0,,不論是誰都羨慕得不得了 但是他們都不瞭解啊
+Dialogue: 0,0:17:52.63,0:17:56.84,Default,NTP,0,0,0,,小吃在哪呢 哦 發現竹輪
+Dialogue: 0,0:17:59.47,0:18:03.11,Default,NTP,0,0,0,,想想辦法啊 你那身打扮 真是的
+Dialogue: 0,0:18:07.08,0:18:11.18,Default,NTP,0,0,0,,有什麼關係嘛 在家裡穿成什麼樣子
+Dialogue: 0,0:18:12.82,0:18:17.52,Default,NTP,0,0,0,,快去換一身吧 我好歹也是個男人
+Dialogue: 0,0:18:19.16,0:18:22.16,Default,NTP,0,0,0,,男人呢 明明是個處男
+Dialogue: 0,0:18:24.23,0:18:25.93,Default,NTP,0,0,0,,我才不是處男
+Dialogue: 0,0:18:26.40,0:18:27.23,Default,NTP,0,0,0,,是是
+Dialogue: 0,0:18:38.01,0:18:38.94,Default,NTP,0,0,0,,真受不了
+Dialogue: 0,0:18:41.91,0:18:42.95,Default,NTP,0,0,0,,怎麼了
+Dialogue: 0,0:18:45.12,0:18:52.22,Default,NTP,0,0,0,,把男人的第一次奪走也不壞呢 而且還是義理的弟弟
+Dialogue: 0,0:18:53.43,0:18:57.33,Default,NTP,0,0,0,,總覺得好下流的情況呢
+Dialogue: 0,0:19:02.63,0:19:07.51,Default,NTP,0,0,0,,加油吧 小處男 姐姐會給你加油哦
+Dialogue: 0,0:19:11.74,0:19:13.55,Default,NTP,0,0,0,,我才不是處男！
+Dialogue: 0,0:19:13.75,0:19:14.78,Default,NTP,0,0,0,,是是
+Dialogue: 0,0:19:16.75,0:19:20.12,Default,NTP,0,0,0,,我說啊 就不能想想辦法嗎 這個生活
+Dialogue: 0,0:19:25.46,0:19:25.96,Default,NTP,0,0,0,,很糟糕啊 姐姐這個存在
+Dialogue: 0,0:19:32.60,0:19:35.20,Default,NTP,0,0,0,,啊咧 正和呢
+Dialogue: 0,0:19:36.47,0:19:38.54,Default,NTP,0,0,0,,在哪呢
+Dialogue: 0,0:19:38.77,0:19:40.24,Default,NTP,0,0,0,,等等啊
+Dialogue: 0,0:19:41.21,0:19:43.54,Default,NTP,0,0,0,,我的床哦
+Dialogue: 0,0:19:47.75,0:19:52.42,Default,NTP,0,0,0,,笨蛋 幹什麼呢 你的房間在對面吧
+Dialogue: 0,0:19:56.89,0:19:57.89,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:20:02.76,0:20:06.87,Default,NTP,0,0,0,,有什麼不好嘛 那麼麻煩 就在這裡睡嘛
+Dialogue: 0,0:20:06.87,0:20:08.27,Default,NTP,0,0,0,,笨蛋 快住手 喂 真是喝醉了啊\N有什麼不好嘛 那麼麻煩 就在這裡睡嘛
+Dialogue: 0,0:20:08.27,0:20:10.44,Default,NTP,0,0,0,,笨蛋 快住手 喂 真是喝醉了啊
+Dialogue: 0,0:20:11.30,0:20:15.44,Default,NTP,0,0,0,,是醉了哦 反正是週末嘛
+Dialogue: 0,0:20:16.44,0:20:18.31,Default,NTP,0,0,0,,不會放開正和的哦
+Dialogue: 0,0:20:19.31,0:20:24.18,Default,NTP,0,0,0,,快停啊 放開我你這笨蛋姐姐
+Dialogue: 0,0:20:24.38,0:20:26.75,Default,NTP,0,0,0,,我不要 不放開
+Dialogue: 0,0:20:35.46,0:20:36.63,Default,NTP,0,0,0,,討厭
+Dialogue: 0,0:20:38.43,0:20:43.84,Default,NTP,0,0,0,,喂 不適可而止的話我真要幹了哦
+Dialogue: 0,0:20:45.47,0:20:52.28,Default,NTP,0,0,0,,那就來啊 你做得到的話就做唄 處男君
+Dialogue: 0,0:20:59.52,0:21:01.42,Default,NTP,0,0,0,,等等 你認真了?
+Dialogue: 0,0:21:03.19,0:21:10.83,Default,NTP,0,0,0,,幹什麼呢 快停手啊 不行的啊 正和!
+Dialogue: 0,0:21:27.25,0:21:33.05,Default,NTP,0,0,0,,真是的 想逆推我什麼的還早了10年呢
+Dialogue: 0,0:21:38.59,0:21:47.03,Default,NTP,0,0,0,,這麼想做愛的話 我就從頭開始教你吧 做好覺悟吧
+Dialogue: 0,0:21:47.53,0:21:53.14,Default,NTP,0,0,0,,至今為止從沒見過的姐姐的表情 興奮得有點可怕了
+Dialogue: 0,0:21:56.37,0:22:03.95,Default,NTP,0,0,0,,明明還有皮包著就射了這麼多 真下流
+Dialogue: 0,0:22:05.92,0:22:08.55,Default,NTP,0,0,0,,真不愧是年輕呢
+Dialogue: 0,0:22:11.42,0:22:15.06,Default,NTP,0,0,0,,又變得這麼大了
+Dialogue: 0,0:22:22.87,0:22:24.14,Default,NTP,0,0,0,,姐姐…
+Dialogue: 0,0:22:59.34,0:23:02.11,Default,NTP,0,0,0,,姐姐 我要…
+Dialogue: 0,0:23:09.41,0:23:11.52,Default,NTP,0,0,0,,好濃的精液
+Dialogue: 0,0:23:12.42,0:23:15.12,Default,NTP,0,0,0,,對不起 我已經…
+Dialogue: 0,0:23:15.75,0:23:20.66,Default,NTP,0,0,0,,說什麼呢 還早著呢 才不是這麼做呢 哦
+Dialogue: 0,0:23:20.96,0:23:24.60,Default,NTP,0,0,0,,還想做吧 和我一起
+Dialogue: 0,0:23:24.76,0:23:25.76,Default,NTP,0,0,0,,姐蛆
+Dialogue: 0,0:23:46.05,0:23:47.05,Default,NTP,0,0,0,,快…快一點
+Dialogue: 0,0:23:47.05,0:23:47.19,Default,NTP,0,0,0,,什麼快點啊\N快…快一點
+Dialogue: 0,0:23:47.19,0:23:48.02,Default,NTP,0,0,0,,什麼快點啊
+Dialogue: 0,0:23:48.65,0:23:51.09,Default,NTP,0,0,0,,想快點插進去
+Dialogue: 0,0:23:53.49,0:23:58.50,Default,NTP,0,0,0,,這麼說我可不明白 想幹什麼 清楚地說出來
+Dialogue: 0,0:23:59.46,0:24:05.07,Default,NTP,0,0,0,,肉棒想插進姐姐的小穴
+Dialogue: 0,0:24:06.54,0:24:08.84,Default,NTP,0,0,0,,【求求你】呢
+Dialogue: 0,0:24:09.67,0:24:11.71,Default,NTP,0,0,0,,求你了
+Dialogue: 0,0:24:15.25,0:24:17.95,Default,NTP,0,0,0,,好吧 就讓你進來
+Dialogue: 0,0:24:20.25,0:24:25.66,Default,NTP,0,0,0,,姐姐 別刺激我了 快點…快讓我進去吧
+Dialogue: 0,0:24:27.36,0:24:32.40,Default,NTP,0,0,0,,肉棒就這麼想插進我的裡面吧
+Dialogue: 0,0:24:34.27,0:24:37.23,Default,NTP,0,0,0,,想啊 很想啊
+Dialogue: 0,0:24:37.37,0:24:38.80,Default,NTP,0,0,0,,正和
+Dialogue: 0,0:24:48.18,0:24:55.42,Default,NTP,0,0,0,,那好好看著吧 你的肉棒插進我小穴的地方
+Dialogue: 0,0:25:04.80,0:25:10.67,Default,NTP,0,0,0,,還差一點點 稍微忍一忍 讓你整根都插進去
+Dialogue: 0,0:25:18.11,0:25:21.91,Default,NTP,0,0,0,,看吧 全都插進來了哦
+Dialogue: 0,0:25:27.42,0:25:33.52,Default,NTP,0,0,0,,怎樣啊 第一次插的小穴 別不說話 好好說出來啊
+Dialogue: 0,0:25:35.29,0:25:38.23,Default,NTP,0,0,0,,又熱又濕啊
+Dialogue: 0,0:25:38.83,0:25:40.93,Default,NTP,0,0,0,,肉棒很有感覺對吧
+Dialogue: 0,0:25:42.20,0:25:44.80,Default,NTP,0,0,0,,很有感覺
+Dialogue: 0,0:25:48.54,0:25:51.54,Default,NTP,0,0,0,,那就插得更深點吧
+Dialogue: 0,0:26:04.59,0:26:09.63,Default,NTP,0,0,0,,你的手還閑著呢 想把我的胸部放著不管嗎
+Dialogue: 0,0:26:11.10,0:26:12.60,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:26:25.28,0:26:28.75,Default,NTP,0,0,0,,要射了吧 肉棒一跳一跳的
+Dialogue: 0,0:26:51.44,0:26:54.07,Default,NTP,0,0,0,,姐姐 我不行了
+Dialogue: 0,0:26:55.61,0:27:04.58,Default,NTP,0,0,0,,來吧 你要是男人的話就再幹我一次吧
+Dialogue: 0,0:27:07.18,0:27:08.02,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:27:13.86,0:27:18.90,Default,NTP,0,0,0,,把我搞得亂七八糟吧 激烈地 激烈地幹吧
+Dialogue: 0,0:27:29.87,0:27:34.34,Default,NTP,0,0,0,,對了 正和 激烈點 激烈點
+Dialogue: 0,0:27:47.42,0:27:50.56,Default,NTP,0,0,0,,好熱 肉棒和小穴都好熱
+Dialogue: 0,0:27:54.97,0:27:55.50,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:27:57.70,0:28:00.10,Default,NTP,0,0,0,,可以 來吧
+Dialogue: 0,0:28:03.94,0:28:06.14,Default,NTP,0,0,0,,姐姐
+Dialogue: 0,0:28:30.60,0:28:33.27,Default,NTP,0,0,0,,等等 我真不行了
+Dialogue: 0,0:28:34.57,0:28:38.24,Default,NTP,0,0,0,,說什麼呢 可沒有休息的時間哦
+Dialogue: 0,0:28:38.48,0:28:40.68,Default,NTP,0,0,0,,等…等等
+Dialogue: 0,0:28:42.25,0:28:45.08,Default,NTP,0,0,0,,姐姐!
+Dialogue: 0,0:28:47.82,0:28:51.89,Default,NTP,0,0,0,,那之後連自己都不想回憶起來地被搾了無數次
+Dialogue: 0,0:28:52.16,0:28:54.66,Default,NTP,0,0,0,,姐姐 太厲害了
+Dialogue: 0,0:28:58.30,0:28:59.60,Default,NTP,0,0,0,,那裡…
+Dialogue: 0,0:28:59.83,0:29:03.57,Default,NTP,0,0,0,,那之後的話 我…
+Dialogue: 0,0:29:08.34,0:29:11.58,Default,NTP,0,0,0,,幫我從冰箱裡拿罐啤酒出來

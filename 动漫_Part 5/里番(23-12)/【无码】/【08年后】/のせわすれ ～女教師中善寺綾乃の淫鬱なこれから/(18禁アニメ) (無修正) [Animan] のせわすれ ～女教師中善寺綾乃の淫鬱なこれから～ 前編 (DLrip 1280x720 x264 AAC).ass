@@ -1,0 +1,242 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,Adobe 黑体 Std R,40,&H00FFFFFF,&H00FFFFFF,&H00802612,&H009818F5,0,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: Lyrics_JP,Adobe 黑体 Std R,28,&H00E12EE4,&H00723CCE,&H00F9F5FF,&H009818F5,0,0,0,0,100,100,0,0,1,2,0,7,5,5,5,1
+Style: Default,Adobe 黑体 Std R,40,&H00FFFFFF,&H00FFFFFF,&H00802612,&H009818F5,0,0,0,0,100,100,0,0,1,2,0,2,10,10,5,1
+Style: Lyrics_CN,Adobe 黑体 Std R,28,&H00E12EE4,&H00723CCE,&H00F9F5FF,&H009818F5,0,0,0,0,100,100,0,0,1,1,0,3,5,5,5,1
+Style: staff,Adobe 黑体 Std R,40,&H00FD003C,&H00802612,&H00FFFFFF,&H00321518,0,0,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: EP,Microsoft YaHei,40,&H00000000,&H00FFFFFF,&H00F5A218,&H009818F5,0,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
+Style: title1,Adobe 黑体 Std R,40,&H00FD00F9,&H000000FF,&H00FFFFFF,&H00321518,0,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: title2,Microsoft YaHei,30,&H0017023C,&H000000FF,&H0A562093,&H00778497,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+Style: Top2,@Adobe 黑体 Std R,40,&H00FFFFFF,&H00FFFFFF,&H00802612,&H009818F5,0,0,0,0,100,100,0,270,1,2,0,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:06.85,staff,,0000,0000,0000,,{\fad(900,700)\c&H346C87&}宵夜字幕组制作\N翻译：逆子爵 校对：野猪 时轴：終究是夢 后期：吉翁の亡灵
+Dialogue: 0,0:00:00.50,0:00:06.85,title1,,0000,0000,0000,,{\fad(900,700)\c&H346C87&}大意 THE ANIMATION
+Dialogue: 0,0:00:09.52,0:00:11.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 又是情书呢
+Dialogue: 0,0:00:12.05,0:00:13.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}又是么
+Dialogue: 0,0:00:13.75,0:00:16.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}呵呵 绫乃老师 怎么办好呢
+Dialogue: 0,0:00:17.23,0:00:18.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 这样做不好吧
+Dialogue: 0,0:00:19.97,0:00:24.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}呜~~老师总是这么任性呢
+Dialogue: 0,0:00:24.92,0:00:25.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}没关系啦
+Dialogue: 0,0:00:26.62,0:00:29.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 不要这样啦 绫乃
+Dialogue: 0,0:00:33.82,0:00:42.37,title2,,0000,0000,0000,,{\fad(900,700)\c&H482017&\3c&HFFFFFF&}女教师中善寺绫乃淫乱的今后 {\c&HDA8843&\fs40}前编
+Dialogue: 0,0:00:45.05,0:00:46.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}所谓关系代名词
+Dialogue: 0,0:00:47.01,0:00:51.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就是当句子里出现两个短文时
+Dialogue: 0,0:00:51.66,0:00:54.68,Default,,0000,0000,0000,,{\a6\fs28}用来承上启下的助词
+Dialogue: 0,0:00:48.13,0:00:51.12,Default,,0000,0000,0000,,{\a6\fs28}在圣约尼学院任教三年的时候
+Dialogue: 0,0:00:51.69,0:00:55.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}交到了喜欢上同性爱的第三任女友
+Dialogue: 0,0:00:55.41,0:01:00.53,Default,,0000,0000,0000,,{\a6\fs28}这种用法希望你们好好记住哟 比如说例文里的
+Dialogue: 0,0:00:56.06,0:00:59.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}和比自己小又是自己的学生的对象交往还是第一次
+Dialogue: 0,0:01:00.62,0:01:01.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}而且
+Dialogue: 0,0:01:03.40,0:01:04.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}还是这种
+Dialogue: 0,0:01:15.50,0:01:16.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要啊
+Dialogue: 0,0:01:20.85,0:01:25.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}绫乃 再这样的话 人家又要湿了
+Dialogue: 0,0:01:32.55,0:01:33.89,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要啊
+Dialogue: 0,0:01:34.87,0:01:36.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}丢了 要丢了
+Dialogue: 0,0:02:07.04,0:02:08.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}绫乃
+Dialogue: 0,0:02:13.76,0:02:16.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就这样保持秘密的关系虽然也不错
+Dialogue: 0,0:02:18.09,0:02:21.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}但这记忆卡里的照片却让我不安
+Dialogue: 0,0:02:24.05,0:02:28.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这是一周前 作为非公认社团根据地的第二部室楼
+Dialogue: 0,0:02:28.91,0:02:31.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}因为建筑老化而改修重建
+Dialogue: 0,0:02:31.50,0:02:35.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}而我暂时作为这次所有搬迁的监督
+Dialogue: 0,0:02:38.43,0:02:41.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}在全部都搬出去后进行检查的时候
+Dialogue: 0,0:02:43.23,0:02:47.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}在某个房间的一个信封里发现了一张记忆卡
+Dialogue: 0,0:02:48.41,0:02:50.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}里面储存的是数码相机的数据照片
+Dialogue: 0,0:02:51.47,0:02:55.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那是长着阴茎的女人和其他女孩子性爱的照片
+Dialogue: 0,0:03:03.82,0:03:07.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那时候的话 你还记得么 优依
+Dialogue: 0,0:03:16.39,0:03:17.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}真难得啊
+Dialogue: 0,0:03:18.18,0:03:20.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}你竟然把我叫到这种地方
+Dialogue: 0,0:03:21.25,0:03:23.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}因为有点事想请教一下友香
+Dialogue: 0,0:03:24.03,0:03:24.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这张照片
+Dialogue: 0,0:03:26.09,0:03:30.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这张 长着阴茎的女人 是你吧
+Dialogue: 0,0:03:31.14,0:03:34.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}我和友香交往的时候 你明明没那种东西啊
+Dialogue: 0,0:03:35.04,0:03:37.59,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}告诉我友香 这到底是怎么回事啊
+Dialogue: 0,0:03:39.01,0:03:41.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}听了的话 就无法回头了哦
+Dialogue: 0,0:03:42.59,0:03:44.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}你有这种觉悟么
+Dialogue: 0,0:03:45.94,0:03:47.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}好的 告诉我吧
+Dialogue: 0,0:03:50.23,0:03:54.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}想知道详情的话 就去问那个男人吧
+Dialogue: 0,0:03:55.11,0:03:58.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那个男人就是你们学校的学生
+Dialogue: 0,0:03:58.70,0:03:59.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}名字是
+Dialogue: 0,0:04:02.27,0:04:03.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}守角 康喜
+Dialogue: 0,0:04:04.20,0:04:07.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只有五名部员的非公认社团黑魔术部的部长
+Dialogue: 0,0:04:10.73,0:04:12.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}守角君么
+Dialogue: 0,0:04:12.95,0:04:16.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}的确在这年级里也算是个出了名的怪人
+Dialogue: 0,0:04:17.74,0:04:20.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就是他让友香长了肉棒
+Dialogue: 0,0:04:22.15,0:04:24.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}所以 到底有什么事呢
+Dialogue: 0,0:04:25.03,0:04:26.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}中善寺 绫乃老师
+Dialogue: 0,0:04:27.70,0:04:30.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}好害怕呐 我到底犯了啥事呢
+Dialogue: 0,0:04:31.61,0:04:34.08,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}桌子上的信封 你打开来看看
+Dialogue: 0,0:04:36.24,0:04:37.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 这个啊
+Dialogue: 0,0:04:38.48,0:04:41.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}整理部室的时候 还奇怪到底上哪去了呢
+Dialogue: 0,0:04:42.29,0:04:43.97,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 原来是老师
+Dialogue: 0,0:04:44.68,0:04:45.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这个 怎么了
+Dialogue: 0,0:04:47.44,0:04:50.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}难道老师
+Dialogue: 0,0:04:51.20,0:04:52.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}想要长肉棒么
+Dialogue: 0,0:04:55.95,0:04:56.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}想要啊
+Dialogue: 0,0:05:03.13,0:05:05.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}严格来说虽说是黑魔术部
+Dialogue: 0,0:05:05.89,0:05:08.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}包括我在内谁都不会真的使用魔术
+Dialogue: 0,0:05:10.13,0:05:13.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}我们只是通过某些途径入手一些魔法道具
+Dialogue: 0,0:05:13.28,0:05:15.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}然后进行各种研究而已
+Dialogue: 0,0:05:16.71,0:05:19.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}要给老师使用的道具就是这个 魔根
+Dialogue: 0,0:05:20.39,0:05:23.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}也就是像是阴茎的球根一样的东西啦
+Dialogue: 0,0:05:24.38,0:05:28.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}用这个进行某个仪式和老师的阴蒂进行同化
+Dialogue: 0,0:05:29.01,0:05:32.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}然后这球根就会生长最后变成阴茎
+Dialogue: 0,0:05:33.54,0:05:34.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}成品可是超完美的
+Dialogue: 0,0:05:35.56,0:05:38.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}敏感度也很好 而且平时的时候仍然是阴蒂状态
+Dialogue: 0,0:05:38.94,0:05:43.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只有在要用的时候 才会长成阴茎的理想形式哦
+Dialogue: 0,0:05:44.06,0:05:45.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那么老师 请快做准备吧
+Dialogue: 0,0:05:46.59,0:05:47.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}我知道了
+Dialogue: 0,0:05:53.23,0:05:54.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这样 就可以了吧
+Dialogue: 0,0:05:56.65,0:05:57.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不愧是
+Dialogue: 0,0:05:58.08,0:06:01.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}因为是蕾丝 所以在男人面前脱也完全不介意呢
+Dialogue: 0,0:06:02.45,0:06:06.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}怎么可能不介意呢 在男学生的面前
+Dialogue: 0,0:06:07.77,0:06:10.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那么 让我们开始吧 老师
+Dialogue: 0,0:06:11.45,0:06:14.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}（咒语）
+Dialogue: 0,0:06:28.98,0:06:30.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}结束了哦 老师
+Dialogue: 0,0:06:33.18,0:06:36.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}仪式非常完美 全部都做的很好哦
+Dialogue: 0,0:06:37.61,0:06:39.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}呀 不过呢
+Dialogue: 0,0:06:39.47,0:06:42.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师宁愿把小穴露给学生看都要长出肉棒和她做的对象
+Dialogue: 0,0:06:43.29,0:06:44.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}到底是谁呢
+Dialogue: 0,0:06:45.68,0:06:47.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}被老师这样着想的人
+Dialogue: 0,0:06:47.64,0:06:50.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}她还真是幸福呢
+Dialogue: 0,0:06:51.02,0:06:53.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}是谁都没关系吧
+Dialogue: 0,0:06:54.33,0:06:56.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}然后 那个
+Dialogue: 0,0:06:56.70,0:06:59.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这个什么时候能用作阴茎呢
+Dialogue: 0,0:07:00.16,0:07:00.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}呃
+Dialogue: 0,0:07:01.63,0:07:03.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这个嘛
+Dialogue: 0,0:07:05.61,0:07:08.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}竟然是精液什么的 你故意的吧
+Dialogue: 0,0:07:08.13,0:07:10.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不不 我最初就有说的吧
+Dialogue: 0,0:07:11.08,0:07:13.25,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}像是球根一样的东西
+Dialogue: 0,0:07:13.86,0:07:17.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}如果是球根的话 想要成长就必须要水分的吧
+Dialogue: 0,0:07:17.86,0:07:19.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}因为是养育阴茎啦
+Dialogue: 0,0:07:19.76,0:07:22.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}所以所需的水分自然是精液呐
+Dialogue: 0,0:07:23.70,0:07:25.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}为了使这个魔根成长
+Dialogue: 0,0:07:25.47,0:07:27.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}在能作为阴茎使用为止
+Dialogue: 0,0:07:27.64,0:07:29.89,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}都需要不断浇灌精液呐
+Dialogue: 0,0:07:30.79,0:07:34.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只有绫乃老师摄取了足够的精液
+Dialogue: 0,0:07:34.67,0:07:37.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}魔根才能开花结茎吶
+Dialogue: 0,0:07:37.98,0:07:40.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}守角君 你
+Dialogue: 0,0:07:40.70,0:07:44.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}顺便一提 在仪式中使用的是我的精液
+Dialogue: 0,0:07:44.74,0:07:47.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}除我之外的精液 是无效的哦
+Dialogue: 0,0:07:48.90,0:07:50.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}你真是太差劲了
+Dialogue: 0,0:07:50.55,0:07:53.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}谁会听你的话啊 不要开玩笑了
+Dialogue: 0,0:07:53.98,0:07:58.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}魔根只要三天不摄取养分 就会自然消失
+Dialogue: 0,0:08:00.47,0:08:03.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}所以期限只有三天哟 老师
+Dialogue: 0,0:08:07.71,0:08:10.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}你拨打的对象可能关机
+Dialogue: 0,0:08:11.26,0:08:13.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}或者在无信号的状态
+Dialogue: 0,0:08:13.78,0:08:16.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}友香那家伙到底在干什么啊
+Dialogue: 0,0:08:17.87,0:08:20.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不知道着了什么魔的我
+Dialogue: 0,0:08:20.66,0:08:23.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}信了那种话后 就迷迷糊糊地在学生的面前
+Dialogue: 0,0:08:24.89,0:08:26.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}自从看了友香的阴茎之后
+Dialogue: 0,0:08:26.87,0:08:28.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就迷失了自我
+Dialogue: 0,0:08:30.18,0:08:33.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}提供精液 不就是意味着要和那家伙做爱嘛
+Dialogue: 0,0:08:37.09,0:08:39.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}怎么可能做到啊 这种事
+Dialogue: 0,0:08:47.31,0:08:52.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 真是荣幸呐 被老师这样邀请过来
+Dialogue: 0,0:08:53.08,0:08:55.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那个 守角君
+Dialogue: 0,0:08:55.65,0:08:56.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}什么事 老师
+Dialogue: 0,0:08:57.73,0:09:01.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只要这样的话 我就可以长出阴茎了吧
+Dialogue: 0,0:09:02.36,0:09:03.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}我向你保证哦
+Dialogue: 0,0:09:04.14,0:09:06.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只是今天一次的话可能不够
+Dialogue: 0,0:09:06.63,0:09:10.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}只要摄取一定量的精液后 就一定可以长出来的
+Dialogue: 0,0:09:10.68,0:09:13.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就算让我拿命担保也没关系哦
+Dialogue: 0,0:09:13.91,0:09:16.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那个 虽然到现在才说有点
+Dialogue: 0,0:09:17.29,0:09:20.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}今天事也好 今后事也好 那个
+Dialogue: 0,0:09:21.30,0:09:22.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}都不要对其他人
+Dialogue: 0,0:09:22.32,0:09:23.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}我向你保证啦
+Dialogue: 0,0:09:25.86,0:09:28.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那 可以哦
+Dialogue: 0,0:09:29.15,0:09:30.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}抱歉了 优依
+Dialogue: 0,0:09:31.93,0:09:33.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那 我非常乐意
+Dialogue: 0,0:09:42.50,0:09:44.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不喜欢 接吻么 老师
+Dialogue: 0,0:09:46.32,0:09:49.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}虽然是非情愿的 但这也有相应的奥妙呐
+Dialogue: 0,0:09:54.44,0:09:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}讨厌
+Dialogue: 0,0:09:57.47,0:09:59.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不愧是老师 超大的呐
+Dialogue: 0,0:10:00.27,0:10:02.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}毕竟有学院第一爆乳的传闻呢
+Dialogue: 0,0:10:05.20,0:10:08.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}乳晕的部分更加地柔软呢
+Dialogue: 0,0:10:10.86,0:10:13.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那种地方不要啊
+Dialogue: 0,0:10:14.15,0:10:16.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}没关系 很美味哦 老师
+Dialogue: 0,0:10:20.88,0:10:21.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要
+Dialogue: 0,0:10:29.96,0:10:30.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}讨厌啊
+Dialogue: 0,0:10:31.30,0:10:35.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}最近一直是攻的一方 身体要
+Dialogue: 0,0:10:36.54,0:10:38.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}而且 这孩子到底算什么啊
+Dialogue: 0,0:10:39.44,0:10:42.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}明明是个学生 竟有如此高超的舌技
+Dialogue: 0,0:10:45.08,0:10:48.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这就是所谓的老师的 女教师的味道么
+Dialogue: 0,0:10:50.47,0:10:53.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}手指 不行啊 手指 先等一下
+Dialogue: 0,0:10:53.47,0:10:55.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}等不了呐
+Dialogue: 0,0:10:57.86,0:11:00.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}竟然被这孩子为所欲为
+Dialogue: 0,0:11:07.52,0:11:09.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那么 接下来
+Dialogue: 0,0:11:16.00,0:11:20.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师 久等了
+Dialogue: 0,0:11:21.35,0:11:23.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}骗人的吧 这肉棒算什么啊
+Dialogue: 0,0:11:24.53,0:11:25.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}太大了吧
+Dialogue: 0,0:11:26.42,0:11:28.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}首先玩玩这对爆乳
+Dialogue: 0,0:11:30.55,0:11:33.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不愧是老师的 尺寸刚刚好呢
+Dialogue: 0,0:11:36.87,0:11:40.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}超爽啊 不愧是老师的乳压呢
+Dialogue: 0,0:11:49.37,0:11:51.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}真舒服啊
+Dialogue: 0,0:11:51.49,0:11:54.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}首先就这样射一发呐
+Dialogue: 0,0:11:54.45,0:11:56.28,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 等一下
+Dialogue: 0,0:11:57.02,0:11:59.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}精液要怎么办啊
+Dialogue: 0,0:11:59.79,0:12:01.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}喝下去
+Dialogue: 0,0:12:01.55,0:12:03.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不好好灌入身体的话
+Dialogue: 0,0:12:09.57,0:12:13.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就这样喝下去 一直喝下去
+Dialogue: 0,0:12:17.56,0:12:20.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就这样老师 吸进去 全吸进去
+Dialogue: 0,0:12:24.09,0:12:26.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}嘿嘿 辛苦了
+Dialogue: 0,0:12:30.81,0:12:34.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师 身体真软呐 很不错哟
+Dialogue: 0,0:12:36.30,0:12:36.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}等一下
+Dialogue: 0,0:12:37.45,0:12:40.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}果然 这样不可以
+Dialogue: 0,0:12:41.40,0:12:42.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不能插进来
+Dialogue: 0,0:12:43.53,0:12:44.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要啊
+Dialogue: 0,0:12:45.43,0:12:49.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就让我好好尝尝绫乃老师的小穴吧
+Dialogue: 0,0:12:50.12,0:12:52.94,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师也请好好享受我的肉棒吧
+Dialogue: 0,0:12:53.24,0:12:54.17,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}说了不行啊
+Dialogue: 0,0:13:30.77,0:13:33.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}好棒 好棒啊老师
+Dialogue: 0,0:13:34.20,0:13:39.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}想不到老师的小穴竟然是这等名器 真让我吃惊呐
+Dialogue: 0,0:13:42.08,0:13:42.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要
+Dialogue: 0,0:13:48.55,0:13:52.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}这种名器竟然不插肉棒 真是超浪费的呐
+Dialogue: 0,0:13:54.43,0:13:58.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}那么接下来这段时间里 就让我尽情地享用吧
+Dialogue: 0,0:13:59.76,0:14:00.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不要啊
+Dialogue: 0,0:14:03.83,0:14:07.01,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不知不觉间 老师也能发出不错的浪叫了嘛
+Dialogue: 0,0:14:07.55,0:14:08.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}因为
+Dialogue: 0,0:14:13.91,0:14:16.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}现在想忍耐也没用了哦
+Dialogue: 0,0:14:30.27,0:14:33.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师的小穴 子宫口也兴奋地降下来了
+Dialogue: 0,0:14:34.23,0:14:35.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}开始一点一点的顶到了啊
+Dialogue: 0,0:14:39.20,0:14:43.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}向已经变得这么亲密地小穴 献上精液了哟
+Dialogue: 0,0:14:44.98,0:14:47.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}好好地灌到深处去吧
+Dialogue: 0,0:14:47.69,0:14:48.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不行啊
+Dialogue: 0,0:14:50.22,0:14:51.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}里面不行啊
+Dialogue: 0,0:14:58.57,0:15:01.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}最棒了哟 老师
+Dialogue: 0,0:15:03.83,0:15:07.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}精液在我的里面 好热啊
+Dialogue: 0,0:15:15.77,0:15:18.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}抱歉 优依 我
+Dialogue: 0,0:15:19.42,0:15:21.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}给老师种下的魔根 要完全成熟的话
+Dialogue: 0,0:15:22.10,0:15:24.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}需要100发精液的量
+Dialogue: 0,0:15:25.58,0:15:28.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}总之现在还剩98发了呐
+Dialogue: 0,0:15:28.93,0:15:32.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}要这么多 那就来不及了啊
+Dialogue: 0,0:15:32.90,0:15:35.03,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}嗯 有什么着急的事么
+Dialogue: 0,0:15:37.59,0:15:40.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}嘛 我的蛋蛋是特别的
+Dialogue: 0,0:15:40.71,0:15:44.62,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}一天无论几次都可以尽情射进你嘴里哦
+Dialogue: 0,0:15:46.70,0:15:50.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}不过 这么急着完成 是有什么约定么
+Dialogue: 0,0:15:50.67,0:15:53.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}啊 我知道了
+Dialogue: 0,0:15:53.44,0:15:56.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}老师的恋人 和田优依的生日
+Dialogue: 0,0:15:57.13,0:15:58.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}就是下个月了呐
+Dialogue: 0,0:16:01.52,0:16:03.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs48\shad2\3c&H800080&\4c&H000000&\b1\be1}你为什么会知道
+

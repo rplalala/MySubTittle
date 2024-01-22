@@ -1,0 +1,262 @@
+﻿[Script Info]
+; Processed by 繁化姬 dict-e2c1dd40-r713 @ 2018/08/14 18:18:51 | https://zhconvert.org
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: Hanimeshare@2013
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Simhei,34,&H00000000,&HF0000000,&H01FFFFFF,&H64000000,-1,0,0,0,100,100,0,0,1,2,2,2,0,0,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.64,0:00:16.97,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好久沒有這麼悠閒了
+Dialogue: 0,0:00:18.51,0:00:25.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐她們去了溫泉 今天就我和柯莉兩個人
+Dialogue: 0,0:00:27.53,0:00:30.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}從那以後柯莉就一直是貓的樣子
+Dialogue: 0,0:00:30.37,0:00:35.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我記得和涼子姐三個人一起做的時候詛咒解開了吧
+Dialogue: 0,0:00:36.46,0:00:41.27,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}還是說 會在我看不到的地方變身嗎
+Dialogue: 0,0:00:50.54,0:00:52.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉?
+Dialogue: 0,0:00:54.18,0:00:57.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我什麼都沒做 為什麼…
+Dialogue: 0,0:00:59.18,0:01:04.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}其實啊 柯莉的詛咒還沒有解開喵啊
+Dialogue: 0,0:01:04.58,0:01:06.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}是這樣嗎?
+Dialogue: 0,0:01:06.68,0:01:07.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗯
+Dialogue: 0,0:01:07.72,0:01:11.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}所以 你懂的吧 悠
+Dialogue: 0,0:01:13.22,0:01:20.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}想讓我變回貓的樣子的話 必須拚命H到讓我的汁液全流出來才行
+Dialogue: 0,0:01:23.46,0:01:26.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好棒啊 悠
+Dialogue: 0,0:01:40.21,0:01:42.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}一開始先用手來
+Dialogue: 0,0:01:45.41,0:01:50.11,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉的手軟軟的 就像肉球一樣
+Dialogue: 0,0:01:51.16,0:01:53.38,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}很舒服吧 你看
+Dialogue: 0,0:01:56.86,0:02:00.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這樣下去馬上就要射了
+Dialogue: 0,0:02:00.59,0:02:05.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}可以哦 射吧 光射一次是不夠的吧
+Dialogue: 0,0:02:06.37,0:02:10.06,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那 就看柯莉的技術了
+Dialogue: 0,0:02:10.27,0:02:15.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}是嗎 那 柯莉會加油讓悠射個夠的
+Dialogue: 0,0:02:24.03,0:02:26.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這招怎樣?
+Dialogue: 0,0:02:27.91,0:02:30.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉 這招有點受不了
+Dialogue: 0,0:02:31.63,0:02:37.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}可以哦 不用忍著 讓柯莉看看你精子射個不停的樣子
+Dialogue: 0,0:02:39.76,0:02:42.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉我已經…
+Dialogue: 0,0:02:43.62,0:02:47.05,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}開吧 把熱熱的都噴到柯莉的臉上來
+Dialogue: 0,0:02:52.71,0:02:55.69,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}哇 射了好多
+Dialogue: 0,0:02:57.34,0:02:59.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}喵 又出來了
+Dialogue: 0,0:03:04.56,0:03:08.95,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎樣 柯莉技術不錯吧
+Dialogue: 0,0:03:10.47,0:03:15.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉真是太棒了 這招是從哪裡學會的啊?
+Dialogue: 0,0:03:17.02,0:03:20.63,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}只是模仿了一下恭子和杏子做的樣子
+Dialogue: 0,0:03:21.33,0:03:23.01,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐她們啊
+Dialogue: 0,0:03:23.40,0:03:27.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗯 上次偶然看到了呢
+Dialogue: 0,0:03:44.64,0:03:49.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}啊喵 恭子又在做H的事情了
+Dialogue: 0,0:03:51.11,0:03:57.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐自慰給你看 你也把JJ拿出來讓姐姐看看吧
+Dialogue: 0,0:04:01.01,0:04:05.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}準備好的話 就和姐姐互相欣賞對方自慰吧
+Dialogue: 0,0:04:07.48,0:04:11.23,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}今天是和男人互相觀賞的play嗎?
+Dialogue: 0,0:04:12.93,0:04:19.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我的這裡已經熱成這樣了 看到了嗎
+Dialogue: 0,0:04:19.19,0:04:25.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}H的汁水從那裡溢出來把蜜穴的形狀都勾勒出來了
+Dialogue: 0,0:04:27.90,0:04:31.57,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}乳頭都已經硬成這樣了
+Dialogue: 0,0:04:32.27,0:04:37.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐一邊看著你那勃起的大雞雞一邊想像
+Dialogue: 0,0:04:38.23,0:04:44.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}要是用你那又熱又大的雞雞玩乳交的話會有多舒服啊
+Dialogue: 0,0:04:45.90,0:04:52.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}還有 要是用那個插我的蜜穴的話 一定馬上就會高潮了吧
+Dialogue: 0,0:04:53.92,0:04:58.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}再仔細看看姐姐這下流的地方
+Dialogue: 0,0:05:00.04,0:05:09.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎樣 姐姐的蜜穴已經都濕透了吧 能聽到咕啾咕啾這樣H的聲音吧
+Dialogue: 0,0:05:12.39,0:05:15.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}手指的動作越來越激烈了
+Dialogue: 0,0:05:20.78,0:05:26.21,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}咦 剛才那裡好像有人的樣子
+Dialogue: 0,0:05:28.08,0:05:30.37,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好危險喵
+Dialogue: 0,0:05:32.19,0:05:37.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不看仔細可不行 姐姐這濕透的蜜穴
+Dialogue: 0,0:05:37.81,0:05:42.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}都為你服務到這種程度了 一定要好好自爽下哦
+Dialogue: 0,0:05:47.58,0:05:51.13,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這聲音是恭子姐的…
+Dialogue: 0,0:05:52.52,0:05:58.61,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}身體都麻了 胸和那裡都被你的眼睛侵犯了
+Dialogue: 0,0:06:00.68,0:06:04.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好舒服 你的視線刺過來了
+Dialogue: 0,0:06:07.39,0:06:11.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}已經忍不住了 光用手指就要去了
+Dialogue: 0,0:06:12.46,0:06:15.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}一邊被看著一邊去了
+Dialogue: 0,0:06:20.54,0:06:25.74,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}光是手指有些不夠 用那個吧
+Dialogue: 0,0:06:27.14,0:06:30.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}要自慰的話回自己房間自慰就是了
+Dialogue: 0,0:06:31.88,0:06:39.15,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}呵呵 現在要吧這個當作是你的雞雞來插入 要看清楚哦
+Dialogue: 0,0:06:41.70,0:06:45.92,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}騙人 那麼大的能塞進那裡嗎
+Dialogue: 0,0:06:51.97,0:07:00.68,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}進來了 好厲害 都摩擦到最裡面了
+Dialogue: 0,0:07:02.42,0:07:07.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}看到了吧 姐姐的蜜穴張的這麼開
+Dialogue: 0,0:07:09.51,0:07:13.87,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}居然濕成那副樣子 一定很舒服
+Dialogue: 0,0:07:23.30,0:07:27.10,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不要 比平常更有感覺
+Dialogue: 0,0:07:27.53,0:07:30.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好像真的被你插了一樣
+Dialogue: 0,0:07:32.46,0:07:36.70,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎樣 看到姐姐下流的地方了嗎
+Dialogue: 0,0:07:39.28,0:07:45.48,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好舒服 不停刺著最裡面 手停不下來了
+Dialogue: 0,0:07:48.77,0:07:51.06,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}又要去了 要去了
+Dialogue: 0,0:07:55.13,0:07:57.39,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}出來了 出來了
+Dialogue: 0,0:08:04.51,0:08:08.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}居然噴出那麼多潮 有那麼舒服嗎?
+Dialogue: 0,0:08:20.29,0:08:27.11,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我還沒高潮夠 你也還能繼續的吧
+Dialogue: 0,0:08:29.71,0:08:34.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你看 用你的的雞雞插到最深處了
+Dialogue: 0,0:08:34.94,0:08:37.48,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}再多讓姐姐高潮幾次
+Dialogue: 0,0:08:38.82,0:08:44.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你也再多擼擼你的雞雞 一起高潮吧
+Dialogue: 0,0:09:04.95,0:09:08.88,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好舒服 蜜穴一跳一跳的
+Dialogue: 0,0:09:11.67,0:09:14.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}又要去了 要高潮了
+Dialogue: 0,0:09:14.85,0:09:21.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}在你的眼前 去了 高潮了
+Dialogue: 0,0:09:31.91,0:09:35.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好棒 高潮了這麼多次
+Dialogue: 0,0:09:41.24,0:09:42.06,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}咦
+Dialogue: 0,0:09:43.96,0:09:47.42,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不是那樣的 我只是在…
+Dialogue: 0,0:09:48.27,0:09:52.55,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏子 你在哪裡做什麼呢
+Dialogue: 0,0:09:52.87,0:09:56.86,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}所以說 是從廁所裡聽到姐姐的聲音
+Dialogue: 0,0:09:57.34,0:09:59.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}於是我就想“發生什麼事情了嗎”
+Dialogue: 0,0:10:00.53,0:10:05.78,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}於是就偷看姐姐自慰的樣子 自己也自慰了啊
+Dialogue: 0,0:10:05.99,0:10:08.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那是 那個…
+Dialogue: 0,0:10:10.83,0:10:17.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}正好 這次輪到杏來幫助觀眾自慰了
+Dialogue: 0,0:10:22.88,0:10:29.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏子會被怎麼玩呢 柯莉我也緊張起來了
+Dialogue: 0,0:10:42.14,0:10:45.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐 真的一定要做嗎
+Dialogue: 0,0:10:46.03,0:10:47.27,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}當然了
+Dialogue: 0,0:10:47.81,0:10:54.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我和涼子都做過了 杏子也要給觀眾服務服務啊
+Dialogue: 0,0:10:54.74,0:10:56.75,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}但是…
+Dialogue: 0,0:10:56.97,0:11:03.08,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那要不就向大家公開杏子和小悠的H場面呢
+Dialogue: 0,0:11:03.46,0:11:06.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真是的 我知道了啊
+Dialogue: 0,0:11:09.02,0:11:11.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我做還不行嗎
+Dialogue: 0,0:11:11.50,0:11:14.47,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}對對 這樣就好
+Dialogue: 0,0:11:15.36,0:11:19.04,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}姐姐 別太粗暴哦
+Dialogue: 0,0:11:19.32,0:11:24.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}沒事的 你剛才不是看到我用這個的樣子了嗎
+Dialogue: 0,0:11:24.72,0:11:28.51,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}但是 杏和姐姐是不一樣的
+Dialogue: 0,0:11:28.85,0:11:33.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真是失禮呢 你這話說得好像我那裡是鬆垮垮的一樣
+Dialogue: 0,0:11:36.46,0:11:39.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏子的小屁股真可愛
+Dialogue: 0,0:11:42.88,0:11:48.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}太大了 太大了啊 等等
+Dialogue: 0,0:11:48.42,0:11:52.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}已經用潤滑液塗過了 沒關係的啦
+Dialogue: 0,0:11:56.96,0:11:59.61,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你看 全部都進去了
+Dialogue: 0,0:12:00.28,0:12:05.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不要 不要 果然還是不行 快拔出去啊
+Dialogue: 0,0:12:06.03,0:12:12.97,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}想要我拔出去的話 就用那個幫助觀眾自慰吧
+Dialogue: 0,0:12:13.11,0:12:14.67,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎麼會…
+Dialogue: 0,0:12:14.77,0:12:19.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不快點做的話 我就先讓杏子高潮了哦
+Dialogue: 0,0:12:21.77,0:12:24.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}等等 我做 我做
+Dialogue: 0,0:12:25.43,0:12:31.58,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}現在我會把這個當作是你的雞雞來拚命舔的
+Dialogue: 0,0:12:31.91,0:12:35.44,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}請看著杏的樣子來自慰吧
+Dialogue: 0,0:12:35.84,0:12:39.92,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}必須徹底表現出杏子H的樣子呢
+Dialogue: 0,0:12:46.36,0:12:51.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你看你看 不好好看著觀眾可不行哦
+Dialogue: 0,0:12:52.14,0:12:56.51,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我被看了 我在被看著吧
+Dialogue: 0,0:12:56.87,0:13:00.45,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}有種奇怪的感覺
+Dialogue: 0,0:13:00.98,0:13:06.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}呵呵 再變得H點也可以哦
+Dialogue: 0,0:13:07.91,0:13:10.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}住手 那樣弄我的話
+Dialogue: 0,0:13:12.85,0:13:16.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏現在的表情一定非常下流
+Dialogue: 0,0:13:17.32,0:13:20.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}被按摩棒弄著那裡
+Dialogue: 0,0:13:22.14,0:13:24.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好熱 好熱啊
+Dialogue: 0,0:13:27.75,0:13:32.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}居然自己露出胸部 杏子還真是H呢
+Dialogue: 0,0:13:32.46,0:13:36.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不是的 這只是真的熱起來了
+Dialogue: 0,0:13:37.36,0:13:42.86,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嘴上這麼說 杏子的蜜穴卻已經濕成這個樣子了
+Dialogue: 0,0:13:47.08,0:13:52.11,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不行 不要動 那裡要壞掉了啊
+Dialogue: 0,0:13:53.33,0:13:58.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}很好 杏子有感覺了的樣子很下流哦
+Dialogue: 0,0:13:58.71,0:14:01.39,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}住手 要去了
+Dialogue: 0,0:14:02.28,0:14:06.17,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這下要被弄高潮了 不要
+Dialogue: 0,0:14:06.62,0:14:10.89,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不要
+Dialogue: 0,0:14:14.97,0:14:19.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}啊 高潮了 杏子被弄高潮了啊
+Dialogue: 0,0:14:21.13,0:14:26.69,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}求你了 饒了我吧 把按摩棒停下來
+Dialogue: 0,0:14:26.93,0:14:30.86,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不行 觀眾還沒射吧
+Dialogue: 0,0:14:31.10,0:14:35.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這次要好好含住那根JJ
+Dialogue: 0,0:14:35.82,0:14:40.57,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}含住 JJ 好大…
+Dialogue: 0,0:14:47.92,0:14:53.20,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}哎呀 杏子也打開H的開關了嗎
+Dialogue: 0,0:14:55.03,0:15:01.14,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這個跟真正的雞雞一樣又熱又好吃
+Dialogue: 0,0:15:01.53,0:15:04.05,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏好像都變奇怪了
+Dialogue: 0,0:15:04.67,0:15:08.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏被按摩棒弄高潮了所以變得奇怪了
+Dialogue: 0,0:15:09.41,0:15:11.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}感覺非常想要H
+Dialogue: 0,0:15:12.00,0:15:16.69,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}很好杏子 這次和觀眾一起高潮吧
+Dialogue: 0,0:15:18.19,0:15:22.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}快點 快點射吧 杏子什麼都為你做
+Dialogue: 0,0:15:24.27,0:15:32.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}杏子下流的工口蜜穴 想要你的雞雞想要的都濕透了
+Dialogue: 0,0:15:33.23,0:15:36.46,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}已經不行了 要去了 要去了
+Dialogue: 0,0:15:37.04,0:15:40.04,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}求你了 一起 一起
+Dialogue: 0,0:15:47.21,0:15:52.35,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}唉…姐姐她們真的是H的沒邊了啊
+Dialogue: 0,0:16:00.14,0:16:02.74,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}剛才的完全不夠啊
+Dialogue: 0,0:16:03.20,0:16:06.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這次想讓你在嘴裡射個夠
+Dialogue: 0,0:16:06.63,0:16:09.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}射是可以 但你能全部喝下去嗎
+Dialogue: 0,0:16:10.27,0:16:15.87,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}當然 因為悠的精液很好喝 我會一滴不剩的都喝光的
+Dialogue: 0,0:16:34.17,0:16:38.16,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好厲害 比剛才更硬了
+Dialogue: 0,0:16:52.53,0:16:57.32,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}啊 悠的味道在嘴裡擴散開來
+Dialogue: 0,0:17:02.36,0:17:06.72,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎樣 舒服嗎 柯莉做不錯嗎?
+Dialogue: 0,0:17:06.83,0:17:10.83,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗯 柯莉的舌技最舒服了
+Dialogue: 0,0:17:11.11,0:17:12.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真的嗎?
+Dialogue: 0,0:17:18.11,0:17:19.34,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好激烈
+Dialogue: 0,0:17:24.35,0:17:29.47,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}啊 這根JJ的味道和氣味我都最喜歡了
+Dialogue: 0,0:17:31.68,0:17:35.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}下流的聲音從柯莉的嘴裡發出來了哦
+Dialogue: 0,0:17:38.50,0:17:42.40,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好想再讓悠的雞雞更爽點
+Dialogue: 0,0:17:53.47,0:17:58.92,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠的雞雞在嘴裡一跳一跳的
+Dialogue: 0,0:17:59.96,0:18:03.05,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉 再含深一點看看
+Dialogue: 0,0:18:13.96,0:18:17.28,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好棒 JJ好像快融化了
+Dialogue: 0,0:18:23.26,0:18:31.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠的雞雞 血管都暴起來了硬硬的 一跳一跳的又要射了啊
+Dialogue: 0,0:18:34.59,0:18:37.36,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉 已經要射了
+Dialogue: 0,0:18:37.85,0:18:44.86,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}射吧 快點射吧 用悠的精液把柯莉的嘴填滿吧
+Dialogue: 0,0:18:58.86,0:19:04.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好厲害啊悠 都第二次了還能射的快從嘴裡溢出來了
+Dialogue: 0,0:19:04.65,0:19:07.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那是因為柯莉的技術的太棒了
+Dialogue: 0,0:19:08.27,0:19:11.94,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這次輪到我來讓柯莉爽起來了
+Dialogue: 0,0:19:12.03,0:19:17.82,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那 我又想玩玩上次和涼子三個人一起玩的那個
+Dialogue: 0,0:19:18.43,0:19:22.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗯 那的時候的柯莉高潮的好厲害啊
+Dialogue: 0,0:19:49.09,0:19:52.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不行 別舔了
+Dialogue: 0,0:19:57.43,0:19:58.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}什麼！
+Dialogue: 0,0:20:04.06,0:20:06.91,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你是誰啊
+Dialogue: 0,0:20:08.38,0:20:09.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}是柯莉哦
+Dialogue: 0,0:20:10.02,0:20:12.42,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉醬 騙人
+Dialogue: 0,0:20:13.62,0:20:15.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你等一下
+Dialogue: 0,0:20:17.37,0:20:19.19,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}待在那裡不准動哦
+Dialogue: 0,0:20:23.32,0:20:26.46,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠君 快來我的房間
+Dialogue: 0,0:20:27.24,0:20:30.67,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子姐怎麼了那麼慌張
+Dialogue: 0,0:20:30.81,0:20:33.98,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好啦 快來 柯莉醬出大事了
+Dialogue: 0,0:20:34.07,0:20:37.24,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}等等 怎麼了 柯莉怎麼了
+Dialogue: 0,0:20:37.62,0:20:39.09,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你看 快點過來
+Dialogue: 0,0:20:40.62,0:20:42.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這是柯莉?
+Dialogue: 0,0:20:44.61,0:20:47.93,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠君 你有什麼線索嗎
+Dialogue: 0,0:20:48.59,0:20:55.30,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}說起來 傍晚回房間的時候 看到老爸的藥瓶掉在地上了
+Dialogue: 0,0:20:55.85,0:21:01.54,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真是的 爸爸真是的 別再收集那種奇怪的東西不行嗎
+Dialogue: 0,0:21:02.56,0:21:07.18,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子姐 柯莉怎麼做才能恢復原狀呢
+Dialogue: 0,0:21:08.70,0:21:18.74,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我想想 既然是那個瓶子的原因 那果然還是H並且她不停高潮就能變回去了吧
+Dialogue: 0,0:21:18.99,0:21:20.94,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗯 我想做H的事情
+Dialogue: 0,0:21:21.86,0:21:23.61,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}等等 柯莉醬
+Dialogue: 0,0:21:24.00,0:21:32.15,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉知道的哦 涼子自從裸睡以來自慰的次數越來越多了
+Dialogue: 0,0:21:33.66,0:21:37.53,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不要 不要再悠君面前說些奇怪的事情
+Dialogue: 0,0:21:37.67,0:21:39.57,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}是這樣啊
+Dialogue: 0,0:21:40.55,0:21:42.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}好丟人
+Dialogue: 0,0:21:42.43,0:21:48.05,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子的這個部位最有感覺吧 每次都在弄這裡
+Dialogue: 0,0:21:48.29,0:21:52.75,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真是的 柯莉醬居然會這麼H
+Dialogue: 0,0:21:54.03,0:21:56.07,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那裡 那裡好棒
+Dialogue: 0,0:21:56.17,0:22:01.26,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}因為涼子也好恭子也好杏子也好大家都是H的
+Dialogue: 0,0:22:01.97,0:22:05.64,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉也想要爽爽啊
+Dialogue: 0,0:22:06.11,0:22:06.85,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不行
+Dialogue: 0,0:22:09.05,0:22:11.49,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}別那麼用力
+Dialogue: 0,0:22:16.85,0:22:19.77,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉醬 舔的好熟練
+Dialogue: 0,0:22:20.93,0:22:24.29,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子姐 也讓我一起做吧
+Dialogue: 0,0:22:33.87,0:22:37.99,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉要好好舔舔涼子的那裡
+Dialogue: 0,0:22:44.09,0:22:48.90,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉醬 那裡不行 很髒的
+Dialogue: 0,0:22:50.92,0:22:56.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}一點都不髒哦 涼子H的汁液非常好喝哦
+Dialogue: 0,0:22:59.26,0:23:05.65,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}舔著涼子H的地方 柯莉的蜜穴也濕透了
+Dialogue: 0,0:23:09.42,0:23:11.96,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}不要 別吸
+Dialogue: 0,0:23:15.21,0:23:17.95,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}已經變得奇怪了
+Dialogue: 0,0:23:18.31,0:23:22.60,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子姐 我也快忍不住了
+Dialogue: 0,0:23:23.57,0:23:30.01,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我知道哦 悠那又大又硬的雞雞碰到姐姐的後背了
+Dialogue: 0,0:23:31.81,0:23:38.91,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}我說 求你了 要把JJ插進來的話也要插柯莉的蜜穴
+Dialogue: 0,0:23:40.15,0:23:43.39,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}真是的 拿你們兩個真是沒辦法
+Dialogue: 0,0:23:43.79,0:23:47.51,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那麼最後我們三個人一起爽起來吧
+Dialogue: 0,0:23:50.68,0:23:56.66,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}快點 把悠君的雞雞插進姐姐我們的蜜穴之間
+Dialogue: 0,0:23:56.76,0:24:00.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠 快點 快點插
+Dialogue: 0,0:24:00.82,0:24:01.84,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}上了哦
+Dialogue: 0,0:24:06.56,0:24:11.50,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}悠的雞雞在摩擦著柯莉和涼子的蜜穴啊
+Dialogue: 0,0:24:12.51,0:24:19.06,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}JJ越來越熱了 悠君也很舒服吧
+Dialogue: 0,0:24:19.89,0:24:24.52,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}你們兩個的那裡都好濕 很舒服的
+Dialogue: 0,0:24:26.75,0:24:29.00,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉是第一次有這種感覺
+Dialogue: 0,0:24:29.11,0:24:31.95,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}身體要融化掉了
+Dialogue: 0,0:24:33.96,0:24:37.41,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉醬發出這麼可愛的聲音
+Dialogue: 0,0:24:37.63,0:24:41.73,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}這樣一來就會更舒服的哦
+Dialogue: 0,0:24:41.85,0:24:44.08,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}胸部也一起…
+Dialogue: 0,0:24:46.47,0:24:51.76,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}怎樣 用互相的胸這樣做很舒服吧
+Dialogue: 0,0:24:53.85,0:25:02.61,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}乳房這麼有彈性 乳頭卻硬硬的摩擦著 喵
+Dialogue: 0,0:25:03.24,0:25:07.03,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}涼子姐 我已經要…
+Dialogue: 0,0:25:07.75,0:25:14.56,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}等等 這次讓我們在你上面動
+Dialogue: 0,0:25:14.93,0:25:19.71,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}嗚喵 柯莉的蜜穴溢出了好多H的汁液
+Dialogue: 0,0:25:20.87,0:25:23.62,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}發出這麼下流的聲音
+Dialogue: 0,0:25:26.46,0:25:31.81,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}用兩人的蜜穴把悠君的精液都榨出來
+Dialogue: 0,0:25:31.93,0:25:37.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}柯莉的身體感覺輕飄飄的 要飛起來了啊
+Dialogue: 0,0:25:38.49,0:25:41.15,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}已經要射了
+Dialogue: 0,0:25:41.79,0:25:48.25,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}儘量射吧 把悠的精液噴滿姐姐們的全身
+Dialogue: 0,0:25:48.93,0:25:53.88,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}要去了 要去了 溢出來了
+Dialogue: 0,0:26:22.85,0:26:30.12,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}呵呵 抱歉 又變回來了 再做一次可以吧
+Dialogue: 0,0:26:33.81,0:26:35.73,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}那我就開動了
+Dialogue: 0,0:26:35.93,0:26:38.79,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}住手 別扒我衣服
+Dialogue: 0,0:26:38.94,0:26:40.43,Default,NTP,0000,0000,0000,,{\fnMicrosoft YaHei\fs42\shad1\1c&HFFFFFF&\2c&H80FFFF&\3c&H800080&\be1}呵呵 我咬

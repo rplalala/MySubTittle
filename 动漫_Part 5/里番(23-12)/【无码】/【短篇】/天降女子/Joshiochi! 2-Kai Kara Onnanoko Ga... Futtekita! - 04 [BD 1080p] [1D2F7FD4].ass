@@ -1,0 +1,85 @@
+﻿[Script Info]
+Title: 天降女子！～女孩子从2楼…掉了下来！？～ 04
+Original Script: Sakurato
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,48,&H00FFFFFF,&H000000FF,&H00BB46BD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,20,20,15,1
+Style: title,方正卡通简体,70,&H00FFFFFF,&H000000FF,&H00D14E98,&H00000000,0,0,0,0,100,100,0,0,1,5,0,2,20,20,20,1
+Style: title2,方正中等线_GBK,50,&H004305CF,&H00F1F1F1,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.97,0:00:08.33,Default,,0,0,0,,有人嗎
+Dialogue: 0,0:00:09.41,0:00:12.27,Default,,0,0,0,,咦 真的不在嗎
+Dialogue: 0,0:00:15.55,0:00:17.19,Default,,0,0,0,,為什麼要藏起來啊
+Dialogue: 0,0:00:17.85,0:00:21.41,Default,,0,0,0,,要是那副樣子被看到了 會被誤會的啊
+Dialogue: 0,0:00:21.61,0:00:22.55,Default,,0,0,0,,不會吧
+Dialogue: 0,0:00:22.93,0:00:25.41,Default,,0,0,0,,我們又沒有做什麼色色的事
+Dialogue: 0,0:00:25.53,0:00:27.75,Default,,0,0,0,,總之請你先安靜一點
+Dialogue: 0,0:00:27.99,0:00:30.63,Default,,0,0,0,,我去問一下內褲的事
+Dialogue: 0,0:00:30.69,0:00:31.47,Default,,0,0,0,,等等
+Dialogue: 0,0:00:34.05,0:00:35.13,Default,,0,0,0,,抱歉
+Dialogue: 0,0:00:35.69,0:00:37.67,Default,,0,0,0,,總而言之 現在先安靜
+Dialogue: 0,0:00:41.43,0:00:46.75,Default,,0,0,0,,由紀姐的乳頭頂著我的手臂
+Dialogue: 0,0:00:47.39,0:00:51.65,Default,,0,0,0,,相川君 你這麼激烈地蹭著我
+Dialogue: 0,0:00:51.93,0:00:54.43,Default,,0,0,0,,感覺好奇怪
+Dialogue: 0,0:00:58.55,0:00:59.61,Default,,0,0,0,,不行了
+Dialogue: 0,0:01:00.55,0:01:03.67,Default,,0,0,0,,我又想對由紀姐做色色的事情了
+Dialogue: 0,0:01:08.49,0:01:09.31,Default,,0,0,0,,糟了
+Dialogue: 0,0:01:09.83,0:01:12.61,Default,,0,0,0,,什麼聲音 有誰在嗎？
+Dialogue: 0,0:01:15.41,0:01:17.07,Default,,0,0,0,,請躲到裡面去
+Dialogue: 0,0:01:17.13,0:01:17.99,Default,,0,0,0,,等…
+Dialogue: 0,0:01:21.23,0:01:25.39,Default,,0,0,0,,太擠了 要到極限了
+Dialogue: 0,0:01:28.05,0:01:30.67,Default,,0,0,0,,啊 找到了
+Dialogue: 0,0:01:31.63,0:01:34.79,Default,,0,0,0,,不好 得趕快洗個澡去打工了
+Dialogue: 0,0:01:42.27,0:01:44.35,Default,,0,0,0,,你都做了些什麼啊
+Dialogue: 0,0:01:45.14,0:01:49.38,title,,0,0,0,,{\fad(100,300)\be25\3c&H84599B&}天降女子！～女孩子從2樓…掉了下來！？～
+Dialogue: 0,0:01:48.76,0:01:51.80,title2,,0,0,0,,{\fad(400,0)\pos(652,604)}第四話  如果有洞的話真想進去。
+Dialogue: 0,0:01:47.55,0:01:49.13,Default,,0,0,0,,{\an8}我回來了
+Dialogue: 0,0:01:49.71,0:01:51.19,Default,,0,0,0,,{\an8}歡迎回家
+Dialogue: 0,0:01:56.91,0:01:59.25,Default,,0,0,0,,丹生 你怎麼在這？
+Dialogue: 0,0:01:59.73,0:02:02.09,Default,,0,0,0,,因為今後要一起生活啊
+Dialogue: 0,0:02:02.87,0:02:04.65,Default,,0,0,0,,哈？
+Dialogue: 0,0:02:09.77,0:02:12.05,Default,,0,0,0,,丹生小姐 我是清水
+Dialogue: 0,0:02:13.75,0:02:15.47,Default,,0,0,0,,我就單刀直入地問了
+Dialogue: 0,0:02:15.69,0:02:19.01,Default,,0,0,0,,你被相川君做過色色的事吧？
+Dialogue: 0,0:02:21.03,0:02:22.93,Default,,0,0,0,,其實我也…
+Dialogue: 0,0:02:23.91,0:02:25.17,Default,,0,0,0,,好好想過了
+Dialogue: 0,0:02:25.51,0:02:28.73,Default,,0,0,0,,我們獨自一人有些危險
+Dialogue: 0,0:02:30.19,0:02:31.07,Default,,0,0,0,,所以…
+Dialogue: 0,0:02:32.99,0:02:34.31,Default,,0,0,0,,給我等等啊
+Dialogue: 0,0:02:34.43,0:02:36.31,Default,,0,0,0,,這種小房子住三個人
+Dialogue: 0,0:02:36.69,0:02:38.59,Default,,0,0,0,,不管怎麼想都不可能吧
+Dialogue: 0,0:02:39.25,0:02:40.49,Default,,0,0,0,,沒問題的吧
+Dialogue: 0,0:02:41.09,0:02:44.23,Default,,0,0,0,,大概 我和相川打工時間差不多
+Dialogue: 0,0:02:44.93,0:02:50.51,Default,,0,0,0,,喂喂 我的生活到底變成什麼樣了啊
+Dialogue: 0,0:03:00.31,0:03:01.53,Default,,0,0,0,,啊 抱歉
+Dialogue: 0,0:03:01.89,0:03:05.17,Default,,0,0,0,,我都沒注意到 我剛剛脫衣服準備洗澡
+Dialogue: 0,0:03:06.05,0:03:08.15,Default,,0,0,0,,那麼 要一起洗嗎？
+Dialogue: 0,0:03:08.25,0:03:09.43,Default,,0,0,0,,還是不要了吧
+Dialogue: 0,0:03:10.07,0:03:10.99,Default,,0,0,0,,有什麼關係嘛
+Dialogue: 0,0:03:11.43,0:03:14.05,Default,,0,0,0,,那個 這次我要上舞臺表演
+Dialogue: 0,0:03:14.55,0:03:17.03,Default,,0,0,0,,來陪我練習一下吧 拜託了
+Dialogue: 0,0:03:17.49,0:03:19.47,Default,,0,0,0,,你到底扮演什麼角色啊
+Dialogue: 0,0:03:19.87,0:03:22.89,Default,,0,0,0,,不過 這樣的話也沒辦法啦
+Dialogue: 0,0:03:25.81,0:03:28.59,Default,,0,0,0,,呐 你希望我把毛巾拿開嗎
+Dialogue: 0,0:03:28.77,0:03:30.23,Default,,0,0,0,,這樣就可以了
+Dialogue: 0,0:03:30.53,0:03:32.81,Default,,0,0,0,,可是不拿開的話就擦不到了哦
+Dialogue: 0,0:03:34.21,0:03:35.41,Default,,0,0,0,,我知道啦
+Dialogue: 0,0:03:35.43,0:03:38.57,Default,,0,0,0,,不過我不會看的 絕對不會看啊！
+Dialogue: 0,0:03:38.87,0:03:39.85,Default,,0,0,0,,嗯嗯
+Dialogue: 0,0:03:40.81,0:03:45.61,Default,,0,0,0,,可是你身體的每一寸都烙印在我腦海裡啊
+Dialogue: 0,0:03:45.61,0:03:47.27,Default,,0,0,0,,不可能不看啊
+Dialogue: 0,0:03:50.43,0:03:54.93,Default,,0,0,0,,那個…有什麼東西頂著我的後背
+Dialogue: 0,0:03:55.97,0:03:58.59,Default,,0,0,0,,色色的事情是禁止的哦
+Dialogue: 0,0:04:00.47,0:04:04.95,Default,,0,0,0,,要忍耐 要忍耐住啊我的理性
+Dialogue: 0,0:04:06.43,0:04:08.01,Default,,0,0,0,,好了啦
+Dialogue: 0,0:04:10.41,0:04:12.95,Default,,0,0,0,,不好好看的話 根本洗不到啊
+Dialogue: 0,0:04:13.83,0:04:14.75,Default,,0,0,0,,來吧
+Dialogue: 0,0:04:15.53,0:04:19.13,Default,,0,0,0,,忍耐…話說忍耐是啥來著？
+
