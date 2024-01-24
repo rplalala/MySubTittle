@@ -1,0 +1,68 @@
+﻿[Script Info]
+Title: Shinmai Maou no Testament Burst
+Original Script: SnowDream
+Synch Point: 0
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正粗圆_GBK,45,&H00FFFFFF,&H00EFD014,&H00EFD014,&H00000000,0,0,0,0,100,100,0,0,1,1,0,2,30,30,12,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.81,0:00:10.11,Default,,0,0,0,,万理亚？万理亚？
+Dialogue: 0,0:00:10.32,0:00:13.40,Default,,0,0,0,,别躲了 快出来吧！
+Dialogue: 0,0:00:13.61,0:00:18.83,Default,,0,0,0,,万理亚真是的 竟然擅自吃了我一直期待的补丁
+Dialogue: 0,0:00:19.04,0:00:20.91,Default,,0,0,0,,绝不饶恕她o(≧口≦)o
+Dialogue: 0,0:00:21.12,0:00:23.25,Default,,0,0,0,,万理亚？
+Dialogue: 0,0:00:23.46,0:00:26.71,Default,,0,0,0,,咦？ 她还真不在啊
+Dialogue: 0,0:00:26.92,0:00:29.67,Default,,0,0,0,,她到底去哪儿了啦
+Dialogue: 0,0:00:29.88,0:00:32.13,Default,,0,0,0,,就知道你藏在桌子底…
+Dialogue: 0,0:00:32.34,0:00:35.05,Default,,0,0,0,,看来不是呢
+Dialogue: 0,0:00:38.18,0:00:41.02,Default,,0,0,0,,嗯？这是什么？
+Dialogue: 0,0:00:41.22,0:00:42.73,Default,,0,0,0,,信？
+Dialogue: 0,0:00:42.93,0:00:45.40,Default,,0,0,0,,写了什么呢？
+Dialogue: 0,0:00:45.60,0:00:49.40,Default,,0,0,0,,“致总是捧场的各位观众老爷
+Dialogue: 0,0:00:49.61,0:00:55.15,Default,,0,0,0,,妾乃魔界首席工口巨擘\N萝莉梦魔万理亚酱是也(o°ω°o)
+Dialogue: 0,0:00:55.36,0:01:01.16,Default,,0,0,0,,今日因要外出采集珍贵影像\N故而缺席
+Dialogue: 0,0:01:01.37,0:01:05.33,Default,,0,0,0,,如有要事相商 烦请留言”
+Dialogue: 0,0:01:05.54,0:01:09.25,Default,,0,0,0,,话说 这封信写得就像留言
+Dialogue: 0,0:01:11.84,0:01:16.76,Default,,0,0,0,,“PS：本次的秘密影像已经编辑完成了
+Dialogue: 0,0:01:16.97,0:01:24.31,Default,,0,0,0,,且已经设置为 当澪大人读此信时\N就会自动播放 的机制”
+Dialogue: 0,0:01:24.52,0:01:26.31,Default,,0,0,0,,诶?!
+Dialogue: 0,0:01:26.52,0:01:28.10,Default,,0,0,0,,不行啦！
+Dialogue: 0,0:01:29.19,0:01:32.19,Default,,0,0,0,,我 我慌什么啦
+Dialogue: 0,0:01:32.40,0:01:35.15,Default,,0,0,0,,就只有我自己在这儿诶
+Dialogue: 0,0:01:35.36,0:01:38.45,Default,,0,0,0,,根本没必要害羞呀
+Dialogue: 0,0:01:38.66,0:01:43.41,Default,,0,0,0,,但我怎么觉得有种奇怪的视线…
+Dialogue: 0,0:01:46.04,0:01:49.83,Default,,0,0,0,,没 没别人在吧？
+Dialogue: 0,0:01:53.21,0:01:55.47,Default,,0,0,0,,讨厌啦 刃更他…
+Dialogue: 0,0:01:55.67,0:01:59.43,Default,,0,0,0,,那样子揉弄我的胸…
+Dialogue: 0,0:02:03.01,0:02:04.68,Default,,0,0,0,,刃更…
+Dialogue: 0,0:02:06.73,0:02:09.27,Default,,0,0,0,,失礼了 澪大人
+Dialogue: 0,0:02:09.48,0:02:10.94,Default,,0,0,0,,洁 洁丝特?!
+Dialogue: 0,0:02:11.15,0:02:13.07,Default,,0,0,0,,为 为为为 为什么你?!
+Dialogue: 0,0:02:13.27,0:02:14.57,Default,,0,0,0,,今早 万理亚告诉我
+Dialogue: 0,0:02:14.78,0:02:19.82,Default,,0,0,0,,我在这儿能找到之前\N我侍奉刃更大人的影像资料
+Dialogue: 0,0:02:26.29,0:02:29.17,Default,,0,0,0,,看来 不用找了
+Dialogue: 0,0:02:29.37,0:02:37.22,Default,,0,0,0,,其实 为了成为更优秀的侍女\N雪菈大人建议我
+Dialogue: 0,0:02:37.42,0:02:42.43,Default,,0,0,0,,从客观的角度去审视自己做得怎么样
+Dialogue: 0,0:02:48.43,0:02:55.19,Default,,0,0,0,,不过 像这样回首一遍\N还真是略感害羞呀
+Dialogue: 0,0:03:00.53,0:03:02.45,Default,,0,0,0,,澪大人？您怎么了？
+Dialogue: 0,0:03:02.66,0:03:06.41,Default,,0,0,0,,诶？啊 别 别会错意啊
+Dialogue: 0,0:03:06.62,0:03:12.17,Default,,0,0,0,,尽管看上去怎么都像是我有些兴奋了\N但我可是一丁点儿都没有…
+Dialogue: 0,0:03:12.38,0:03:14.42,Default,,0,0,0,,--澪大人？\N--诶？
+Dialogue: 0,0:03:19.97,0:03:22.34,Default,,0,0,0,,没事没事(=ω=；)
+Dialogue: 0,0:03:22.55,0:03:27.43,Default,,0,0,0,,啊 说起来 我这里有一封万理亚留给您的信
+Dialogue: 0,0:03:27.64,0:03:28.60,Default,,0,0,0,,请您收好
+Dialogue: 0,0:03:28.81,0:03:31.35,Default,,0,0,0,,多 多谢
+Dialogue: 0,0:03:31.56,0:03:35.06,Default,,0,0,0,,emmm 我看看啊…
+Dialogue: 0,0:03:35.27,0:03:40.36,Default,,0,0,0,,“到此为止 各位观众老爷是否尽兴了呢？
+Dialogue: 0,0:03:40.57,0:03:45.70,Default,,0,0,0,,下次我也会尽心尽力地编辑秘密影像的哟(〃'▽'〃)
+Dialogue: 0,0:03:45.91,0:03:48.95,Default,,0,0,0,,敬请期待下回啦
+Dialogue: 0,0:03:49.16,0:03:52.00,Default,,0,0,0,,各位贵安咯~”
+Dialogue: 0,0:03:56.34,0:04:00.34,Default,,0,0,0,,万 · 理 · 亚 ！！！

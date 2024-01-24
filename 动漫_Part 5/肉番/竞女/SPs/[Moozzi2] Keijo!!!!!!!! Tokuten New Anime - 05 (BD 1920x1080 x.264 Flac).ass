@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title:
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,{\an8\fad(300,300)}本片僅供學習交流使用，下載後請24小時內刪除。禁止用於任何商業行為。
+Dialogue: 0,0:00:02.00,0:00:04.00,Default,,0,0,0,,{\an8\fad(300,300)}若因私自散佈造成法律問題，\N夜楓字幕組、EggPain-Raws與PusRaws概不負責。
+Dialogue: 0,0:00:04.00,0:00:06.00,Default,,0,0,0,,{\an8\fad(300,300)}翻譯: 夜冥璃 校對: 夜冥璃 BLanK 時軸: BLanK\N壓制: EggPain-Raws BDRip: PusRaws
+Dialogue: 0,0:00:06.32,0:00:08.26,Default,,0,0,0,,啊痛痛痛!
+Dialogue: 0,0:00:08.29,0:00:09.24,Default,,0,0,0,,什...什麼!?
+Dialogue: 0,0:00:09.24,0:00:10.85,Default,,0,0,0,,怎麼了 望
+Dialogue: 0,0:00:10.85,0:00:15.36,Default,,0,0,0,,好痛 突然作夢夢到屁股裂開了
+Dialogue: 0,0:00:15.36,0:00:17.82,Default,,0,0,0,,屁股裂開了 這麼嚴重
+Dialogue: 0,0:00:17.82,0:00:19.51,Default,,0,0,0,,我不吐槽了
+Dialogue: 0,0:00:20.79,0:00:22.87,Default,,0,0,0,,屁股是真的很痛啊
+Dialogue: 0,0:00:23.30,0:00:24.96,Default,,0,0,0,,稍微讓我看看
+Dialogue: 0,0:00:29.62,0:00:33.69,Default,,0,0,0,,神無同學 訓練後的伸展運動你幾乎沒好好做吧
+Dialogue: 0,0:00:34.32,0:00:38.69,Default,,0,0,0,,這怎麼行呢 本來你的臀部就已經運動過度了
+Dialogue: 0,0:00:38.82,0:00:41.74,Default,,0,0,0,,授課完之後 一定要好好保養才行
+Dialogue: 0,0:00:41.74,0:00:42.64,Default,,0,0,0,,好
+Dialogue: 0,0:00:42.89,0:00:46.23,Default,,0,0,0,,這一定是那個 「生長痛」
+Dialogue: 0,0:00:46.23,0:00:48.77,Default,,0,0,0,,說明望的屁股一定是在發育
+Dialogue: 0,0:00:49.05,0:00:52.10,Default,,0,0,0,,這個應該不叫生長痛吧
+Dialogue: 0,0:00:52.10,0:00:56.10,Default,,0,0,0,,不過 你們難道不覺得我的屁股正在進化嗎?
+Dialogue: 0,0:00:56.29,0:00:59.34,Default,,0,0,0,,嘛 屁股的形狀確實比以前好看多了
+Dialogue: 0,0:00:59.47,0:01:01.40,Default,,0,0,0,,屁股尺寸也比以前大了
+Dialogue: 0,0:01:01.54,0:01:02.70,Default,,0,0,0,,對吧
+Dialogue: 0,0:01:02.70,0:01:06.27,Default,,0,0,0,,的確 神無同學的臀部很光滑呢
+Dialogue: 0,0:01:06.27,0:01:07.33,Default,,0,0,0,,真的嗎
+Dialogue: 0,0:01:07.33,0:01:08.49,Default,,0,0,0,,我摸摸看
+Dialogue: 0,0:01:11.37,0:01:13.93,Default,,0,0,0,,這種感覺言語上真的很難形容呢
+Dialogue: 0,0:01:14.39,0:01:17.03,Default,,0,0,0,,怎麼回事 好像有點變紅了
+Dialogue: 0,0:01:17.81,0:01:21.40,Default,,0,0,0,,光著屁股給別人看果然很害羞啊
+Dialogue: 0,0:01:22.04,0:01:23.26,Default,,0,0,0,,抱歉 一時激動就...
+Dialogue: 0,0:01:23.41,0:01:28.78,Default,,0,0,0,,神無同學 一個競女選手擁有漂亮的臀部會有很多好處喔
+Dialogue: 0,0:01:29.87,0:01:35.66,Default,,0,0,0,,成為S級選手之後 製作內衣和牛仔褲公司廠商會找你代言
+Dialogue: 0,0:01:36.26,0:01:38.78,Default,,0,0,0,,之前不是有很紅的廣告嗎
+Dialogue: 0,0:01:39.97,0:01:43.46,Default,,0,0,0,,屁股遇到麻煩了 屁股遇到麻煩了
+Dialogue: 0,0:01:43.82,0:01:46.90,Default,,0,0,0,,這個時候就 抹 抹 擦 擦
+Dialogue: 0,0:01:47.49,0:01:50.48,Default,,0,0,0,,我臀部的好夥伴 樂痔寧
+Dialogue: 0,0:01:51.95,0:01:54.18,Default,,0,0,0,,喔喔 看過看過
+Dialogue: 0,0:01:54.18,0:01:57.19,Default,,0,0,0,,感覺很懷念呢 抹 抹 擦 擦
+Dialogue: 0,0:01:57.19,0:02:00.54,Default,,0,0,0,,你們沒發現嗎 那人是氏部老師喔
+Dialogue: 0,0:02:01.97,0:02:05.04,Default,,0,0,0,,我記得廣告費好像是3億日元
+Dialogue: 0,0:02:05.31,0:02:07.30,Default,,0,0,0,,3億日元!?
+Dialogue: 0,0:02:08.37,0:02:11.20,Default,,0,0,0,,連我都好想要抹 抹 擦 擦
+Dialogue: 0,0:02:11.20,0:02:14.06,Default,,0,0,0,,可是屁股到底要怎麼樣才算漂亮呢
+Dialogue: 0,0:02:14.85,0:02:17.14,Default,,0,0,0,,臀部可不是越大越好對吧
+Dialogue: 0,0:02:17.32,0:02:18.71,Default,,0,0,0,,是以形狀和平衡度來定論嗎?
+Dialogue: 0,0:02:18.80,0:02:22.74,Default,,0,0,0,,的確 小巧的臀部也很漂亮
+Dialogue: 0,0:02:22.74,0:02:24.10,Default,,0,0,0,,是...是啊
+Dialogue: 0,0:02:24.46,0:02:27.71,Default,,0,0,0,,可是既然是比較臀部 大的反而比較佔優勢吧
+Dialogue: 0,0:02:27.71,0:02:31.02,Default,,0,0,0,,競女選手的先前條件也是臀部的強度比較吧
+Dialogue: 0,0:02:31.02,0:02:34.16,Default,,0,0,0,,就是能不能使出強大臀技
+Dialogue: 0,0:02:34.16,0:02:38.81,Default,,0,0,0,,就算臀部再怎麼好看 沒什麼力量也得不到關注嘛
+Dialogue: 0,0:02:39.28,0:02:42.84,Default,,0,0,0,,那最主要的還是柔軟度吧
+Dialogue: 0,0:02:42.84,0:02:44.56,Default,,0,0,0,,不對
+Dialogue: 0,0:02:44.56,0:02:46.05,Default,,0,0,0,,招式就代表力量了
+Dialogue: 0,0:02:46.05,0:02:48.36,Default,,0,0,0,,只有那一擊必殺威力的才能實現
+Dialogue: 0,0:02:48.36,0:02:49.59,Default,,0,0,0,,是嗎
+Dialogue: 0,0:02:49.59,0:02:54.50,Default,,0,0,0,,招式再怎麼強大 沒有速度也會被對手識破
+Dialogue: 0,0:02:55.53,0:03:00.17,Default,,0,0,0,,不管什麼大招都能反彈回去的屁股才是最強的好嗎
+Dialogue: 0,0:03:00.17,0:03:02.94,Default,,0,0,0,,不對 臀技的精隨就在於速度
+Dialogue: 0,0:03:02.94,0:03:04.16,Default,,0,0,0,,在胡說什麼呢!
+Dialogue: 0,0:03:04.16,0:03:09.32,Default,,0,0,0,,競女真正的精隨就在於使用強大又華麗的臀技擊飛對手就對了
+Dialogue: 0,0:03:09.32,0:03:11.48,Default,,0,0,0,,有些臀技也不一定能擊飛啊
+Dialogue: 0,0:03:12.12,0:03:12.76,Default,,0,0,0,,速度!
+Dialogue: 0,0:03:13.19,0:03:15.36,Default,,0,0,0,,力量!
+Dialogue: 0,0:03:14.37,0:03:15.36,Default,,0,0,0,,柔軟度!
+Dialogue: 0,0:03:15.36,0:03:17.88,Default,,0,0,0,,那就來比較看看誰才是真理吧
+Dialogue: 0,0:03:17.88,0:03:19.04,Default,,0,0,0,,正合我意!
+Dialogue: 0,0:03:27.43,0:03:29.08,Default,,0,0,0,,似乎太激動過度了
+Dialogue: 0,0:03:29.08,0:03:33.16,Default,,0,0,0,,屁股遇到麻煩了 屁股遇到麻煩了
+Dialogue: 0,0:03:33.16,0:03:35.78,Default,,0,0,0,,我找氏部老師借來的喔
+Dialogue: 0,0:03:37.90,0:03:40.88,Default,,0,0,0,,{\an8}我臀部的好夥伴 樂痔寧
+Dialogue: 1,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(830,320)\3c&A24E00&\1c&00F1FF&\shad0\bord10\b1\fs100}下集重點
+Dialogue: 0,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(830,320)\3c&FFFFFF&\1a&HFF&\bord15\shad5\4a&H72&\b1\fs100}下集重點
+Dialogue: 1,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(765,1062)\3c&A24E00&\1c&00F1FF&\shad0\bord10\b1\fs80}關鍵詞
+Dialogue: 0,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(765,1062)\3c&FFFFFF&\1a&HFF&\bord15\shad5\4a&H72&\b1\fs80}關鍵詞
+Dialogue: 2,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(1472.5,1062)\fs80\shad0\bord5\b1\3c&00F1FF&\1a&HFF&}「{\bord0\1a&H00&\1c&A76EE7&}猴吉{\bord5\1a&HFF&}」
+Dialogue: 1,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(1472.5,1062)\fs80\3c&A24E00&\1c&A24E00&\bord10\shad0\b1\fs80}「猴吉」
+Dialogue: 0,0:03:37.70,0:03:41.69,Default,,0,0,0,,{\pos(1472.5,1062)\fs80\3c&FFFFFF&\bord15\shad5\4a&H72&\b1\fs80}「猴吉」
